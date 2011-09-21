@@ -1,0 +1,371 @@
+#!/usr/bin/env python3.1
+# -*- coding: UTF-8 -*-
+
+# Wed Aug 31, 02:46 sunuslee
+# sunuslee (at) gmail(dot)com
+# This is my first python program , with my first cgi page and first apache server
+# You can do anything you want with those files under ONLY ONE condition:
+# Please Do keep those lines above
+import cgitb
+cgitb.enable()
+import sys, codecs
+import cgi
+import sys
+import re
+import urllib.request
+import urllib.parse
+import urllib.error
+import threading
+import queue
+import time
+import random
+import os
+import fcntl
+# Please use your own api key instead. e.g. :
+# APIKEY = "23eeeb4347bdd26bfc6b7ee9a3b755dd"
+
+ROOTDIR = "/home/sunus/apache/"
+HOSTNAME = "http://localhost/"
+LINK_DB_PEOPLE = "http://www.douban.com/people/"
+APIKEY = "053caab0d0224c680fb600127066e538"
+SECRET = ''
+people_list = []
+table = []
+total_bytes_recv = 0
+tbr_lock = threading.Lock()
+LOCK_EX = fcntl.LOCK_EX
+LOCK_UN = fcntl.LOCK_UN
+LOCK_NB = fcntl.LOCK_NB
+flog = open("log", "a+")
+class Worker(threading.Thread):
+
+        def __init__(self, work_queue):
+                super().__init__()
+                self.work_queue = work_queue
+        def run(self):
+                while True:
+                        try:
+                                uid , cat = self.work_queue.get()
+                                self.process(uid, cat)
+                        finally:
+                                self.work_queue.task_done()
+        
+        def process(self, uid, cat):
+                get_user_collection(uid, cat)
+def try_api(api_url):
+        while True:
+                while True:
+                        try:
+                                fh = open("api_limit", "a+")
+                                fcntl.flock(fh.fileno(), LOCK_EX|LOCK_NB)
+                                break
+                        except IOError:
+                                flog.write("FILE's LOCKED,WAIT....\n")
+                                fh.close()
+                                time.sleep(1)
+
+                if(fh.tell() == 0):
+                        fh.write("{0}\t{1},{2},{3}\n".format(api_url[0:-40], time.ctime(), 1, int(time.time())))
+                        break;
+
+                os.lseek(fh.fileno(), -17, os.SEEK_END)
+                lastline = fh.read(16)
+                lasttime, cnt  = lastline.split(',')[-1:-3:-1] # get the last two element, cnt and lasttime 
+                if(int(time.time()) - int(lasttime) >= 65):
+                        cnt = 1
+                        fh.write("{0}\t{1},{2},{3}\n".format(api_url[0:-40], time.ctime(), cnt, int(time.time())))
+                        break
+                elif int(cnt) == 40:
+                        flog.write("No More API at this time {0}".format(time.ctime()))
+                        fcntl.flock(fh.fileno(), LOCK_UN)
+                        fh.close()
+                        time.sleep(60)
+                else:
+                        cnt = int(cnt)
+                        cnt += 1
+                        fh.write("{0}\t{1},{2},{3}\n".format(api_url[0:-40], time.ctime(),cnt, lasttime ))
+                        break
+        
+        fcntl.flock(fh.fileno(), LOCK_UN)
+        return urllib.request.urlopen(api_url)
+
+
+def get_nickname(uid):
+        fh = try_api("http://api.douban.com/people/{0}?alt=atom&apikey={1}".format(uid,APIKEY))
+        Content = fh.read().decode("utf8")
+        fh.close()
+        for line in Content.splitlines():
+                if "</title>" in line:
+                        nikename = line[8:-8]
+                        return nikename
+
+def get_group_name(group_url):
+        group_page = urllib.request.urlopen(group_url)
+        content = group_page.read(2048).decode("utf8")
+        for line in content.splitlines():
+                if '<title>' in line:
+                        group_page.close()
+                        return line.split('>')[1].split('<')[0] #Group name may have WhiteSpace!
+
+
+status_chs = {"wishmovie":"想看",       "watchingmovie":"在看",         "watchedmovie":"看过",
+              "wishmusic":"想听",       "listeningmusic":"在听",        "listenedmusic":"听过",
+              "wishbook":"想读",        "readingbook":"在读",           "readbook":"读过"}
+
+def get_user_collection(uid, cat):
+        global total_bytes_recv
+        vaild_title = False
+        start = 1
+        item_dict = {}  #{"item_name#1":[item_status, item_link, item_aka], "item_name#2":[item_status, item_link, item_aka], .....}
+        #It just START FROM 1
+
+        item_status = "<db:status>"
+        item_title = "<title>"
+        item_link = 'http://{0}.douban.com/subject'.format(cat)
+        item_link_re = re.compile(r'\d+')
+        item_aka = '<db:attribute lang="zh_CN" name="aka">'
+
+        while True:
+                uri = "http://api.douban.com/people/{0}/collection?cat={1}&tag=&status=&start-index={2}&max-results=50&alt=atom&apykey={3}".format(uid, cat, start,APIKEY)
+                fh = try_api(uri)
+                content = fh.read().decode("utf8")
+                tbr_lock.acquire()
+                total_bytes_recv += len(content)
+                tbr_lock.release()
+                step = 1
+                if "entry" in content:
+                        for lines in content.splitlines():
+                                if step == 1 and item_status in lines:
+                                        status = lines[13:-12]
+                                        step = 2
+                                elif step == 2 and item_title in lines:
+                                        title = lines[10:-8]
+                                        step = 3
+                                elif step == 3 and item_link in lines:
+                                        link = item_link_re.search(lines).group()
+                                        step = 4
+                                        aka = None
+                                #in case the item DOESN NOT HAVE A AKA
+                                elif step == 4 and item_aka in lines:
+                                        aka = lines[41: -15]
+                                        step = 1
+                                elif "</entry>" in lines:
+                                        step = 1
+                                        item_dict[title] = [status_chs[status + cat], link, aka]
+                else:
+                        break
+                start += 50
+        table.append([uid, item_dict])
+#        print("<h4>User {0:4} : count = {1} finished</h4>".format(uid, len(item_dict)))
+
+def get_user(group_uri, where):
+        where = urllib.parse.quote(where)
+        global people_list
+        start = 13577293
+        error = 0
+        uri = "{0}/member_search?search_text={1}&start={2}".format(group_uri, where, start)
+        fh = urllib.request.urlopen(uri)
+        data = fh.read().decode("utf8")
+        max = 0
+        for line in data.splitlines():
+                if str(13577294) in line:       # this num will SOMEHOW INCREASE 1
+                        max = re.findall(r'\d+', line)[1]
+        start = 0 if max == 0 else random.randint(0, int(max) - 35)
+        print("<h4>你的幸运数字是 *{0}*</h4>".format(start))
+        uri = "{0}/member_search?search_text={1}&start={2}".format(group_uri, where, start)
+        fh = urllib.request.urlopen(uri)
+        contents = fh.read().decode("utf8")
+        people_pattern = re.compile(r'http://www.douban.com/people/\w+')
+        people_list.extend(people_pattern.findall(contents)[: 5 * 2:2])
+        i = 0
+        for i in range(len(people_list)):
+                people_list[i] = people_list[i].rpartition("/")[2]
+'''        i = 1
+        for people in people_list:
+                print("<h4>People{0:4}\t{1}</h4>".format(i, people))
+                i+=1
+'''
+# This function returns the uid1-uid2's match rate
+# uid1 and uid2 has it's own index in table.
+def get_match_rate(uid1_idx, uid2_idx, cat):
+        if cat == "movie":
+                cat_local = "电影"
+        elif cat == "music":
+                cat_local = "音乐"
+        else:
+                cat_local = "书籍"
+        u1_set = set()
+        u2_set = set()
+        common_set = set()
+        try:
+                for item_name in table[uid1_idx][1].keys():
+                        u1_set.add(item_name)
+                
+                for item_name in table[uid2_idx][1].keys():
+                        u2_set.add(item_name)
+        except IndexError as e:
+                print("Got the problem")
+        common_set = u1_set & u2_set
+        nikename1 = get_nickname(table[uid1_idx][0])
+        nikename2 = get_nickname(table[uid2_idx][0])
+                
+        print('<h4><a href="{0}{1}">{3}</a>\
+              和\
+              <a href="{0}{2}">{4}</a>\
+              都喜欢的{5}有({6}):</h4>'.format(LINK_DB_PEOPLE, table[uid1_idx][0], table[uid2_idx][0], nikename1, nikename2, cat_local, len(common_set)))
+        print('<table border="1" width="600px">')
+        print('<tr>\
+        <th align="left" width="300px"><h4>{0}</h4></th>\
+        <th align="left" width="150px"><h4><a href="{3}{4}">{1}</a></h4></th>\
+        <th align="left" width="150px"><h4><a href="{3}{5}">{2}</a></h4></th></tr>'.format("match", nikename1, nikename2, 
+                                                                                           LINK_DB_PEOPLE, table[uid1_idx][0], table[uid2_idx][0]))
+        link_db_item = "http://{0}.douban.com/subject/".format(cat)
+        for item_name in common_set:
+                name = table[uid1_idx][1][item_name][2] if table[uid1_idx][1][item_name][2] != None else item_name
+                print('<tr>\
+                      <td width="300px"><h4><a href="{3}" target="_blank">{0}</a></h4></td>\
+                      <td width="150px"><h4>{1}</h4></td>\
+                      <td width="150px"><h4>{2}</h4></td></tr>'.\
+                      format(name, table[uid1_idx][1][item_name][0], table[uid2_idx][1][item_name][0], link_db_item + table[uid1_idx][1][item_name][1]))
+        print("</table>")
+        rate = len(common_set)
+        return [uid2_idx, rate]
+
+
+def var_verify(user, group = None, cat = None, location = None):
+        
+        if cat is None or cat.lower() not in ["movie", "music", "book"]:
+                print("<h4>it must be ONE of movie,book or music</h4>")
+                return False
+        if location is None:
+                print("<h4>Location Can not be None!</h4>")
+                return False
+        fh_1 = None
+        fh_2 = None
+        try:
+                fh_1 = try_api("http://api.douban.com/people/{0}?alt=atom&apikey={1}".format(user,APIKEY))
+                if"douban.com/group/" in group:
+                        fh_2 = urllib.request.urlopen(group)
+                else:
+                        print("<h4>This isn't DouBan Group!</h4>")
+        except (urllib.error.URLError, ValueError) as e:
+                if hasattr(e, 'reason'):
+                        print("<h4>Cannot connected to the server</h4>")
+                if hasattr(e, 'code'):
+                        print("<h4>Return code:",e.code,"error</h4>")
+                        print("<h4>This username/group may not exsit</h4>")
+        finally:
+                if fh_1 != None:
+                        fh_1.close()
+                if fh_2 != None:
+                        fh_2.close()
+                if fh_1 == None or fh_2== None:
+                        return False
+        return True
+
+def get_shortenurl(long_url):
+        global f
+        data = '{"longUrl": ' + '"{0}"'.format(long_url) + "}"
+        try:
+                req = urllib.request.Request("https://www.googleapis.com/urlshortener/v1/url", data, {'Content-Type': 'application/json'})
+                rec = urllib.request.urlopen(req).read()
+                for s in rec.decode().split('"'):
+                        if "http://goo.gl" in s:
+                                return s
+        except:
+                print("<h4>Short URL IS UNAVAILABLE NOW!</h4>")
+                pass
+
+def main():
+        global total_bytes_recv
+        global people_list
+        form = cgi.FieldStorage()
+        you = form.getvalue("you", "sunus")
+        group_url = form.getvalue("group_url", "http://www.douban.com/group/python/")
+        if group_url.endswith('/') == False:
+                group_url += '/'
+        location = form.getvalue("location", "天津")
+        cat = form.getvalue("cat", "movie")
+        location = urllib.parse.unquote(location)
+        Old_stdout = sys.stdout
+        while True:
+                try:
+                        sys.stdout = open(ROOTDIR + "htdocs/history/group_{0}_{1}.html".format(you, group_url.rsplit('/', 2)[1]), "w", encoding = "utf8")
+                        break
+                except:
+                        os.remove(ROOTDIR + "htdocs/history/group_{0}_{1}.html".format(you, group_url.rsplit('/', 2)[1]))
+        print("<html>")
+        print("<head>")
+        print('<meta http-equiv="content-type" content="text/html; charset=utf8" />')
+        print("<title>Result</title>")
+        print("</head>")
+        print("<body>")
+        
+        if var_verify(you, group_url, cat, location) == False:
+                return 0
+#        else:
+#                print("<h4>you:{0}</h4>".format(you))
+#                print("<h4>group:{0}</h4>".format(group_url))
+#                print("<h4>location:{0}</h4>".format(location))
+#                print("<h4>common in {0}</h4>".format(cat))
+#        print("<h4>Start at : {0}</h4>".format(time.asctime()))
+
+        get_user(group_url, location)
+        if len(people_list) == 0:
+                print("<h4>该小组好似没有来自 {0} 的豆友噢:(</h4>".format(location))
+                print("</body>")
+                print("</html>")
+                sys.stdout.close()
+                sys.stdout = Old_stdout
+                f = open(ROOTDIR + "htdocs/history/group_{0}_{1}.html".format(you, group_url.rsplit('/', 2)[1]), "r", encoding = "utf8")
+                sys.stdout = codecs.getwriter('utf8')(sys.stdout.buffer) # comment this out if you want to debug
+                print("Content-type:text/html; charset=UTF-8\r\n\r\n")
+                print(f.read())
+                f.close()
+                return
+        # THREAD PART
+        user_queue = queue.Queue()
+        for i in range(5):
+                worker = Worker(user_queue)
+                worker.daemon = True
+                worker.start()
+        # THREAD PART
+        get_user_collection(you, cat)
+        for people in people_list:
+                user_queue.put([people, cat])
+        user_queue.join()
+#        print("<h4>Download finished at : {0}</h4>".format(time.asctime()))
+        rank = []
+        # 0 is uid1, and uid2_idx starts from 1
+        total_people = len(people_list)
+        for i in range(1, total_people + 1):
+                rank.append(get_match_rate(0, i, cat))
+        rank.sort(key = lambda node:node[1], reverse = True) 
+        if table[rank[0][0]][0] == you:
+                ir = 1
+        else:
+                ir = 0
+        r = 1
+        print('<h4>在 <a href="{0}">{1}</a>:</h4>'.format(group_url, get_group_name(group_url)))
+        for i in range(ir, total_people):
+                print('<h4>#{0:<4} <a href="{3}{4}">{1}</a>和你有 {2} 项共同喜好</h4>'.format(r, get_nickname(table[rank[i][0]][0]), rank[i][1], 
+                                                                                                     LINK_DB_PEOPLE, table[rank[i][0]][0]))
+                r += 1
+#        print("<h4>hopefully u will find she/he!</h4>")
+#        print("<h4>received",total_bytes_recv, "bytes</h4>")
+#        print("<h4>end at : {0}</h4>".format(time.asctime()))
+        longurl = HOSTNAME + "history/group_{0}_{1}.html".format(you, group_url.rsplit('/', 2)[1])
+        short_url = get_shortenurl(longurl)
+        print("<h4>转发本页地址:{0}</h4>".format(short_url))
+        print("</body>")
+        print("</html>")
+        sys.stdout.close()
+        sys.stdout = Old_stdout
+        f = open(ROOTDIR + "htdocs/history/group_{0}_{1}.html".format(you, group_url.rsplit('/', 2)[1]), "r", encoding = "utf8")
+        sys.stdout = codecs.getwriter('utf8')(sys.stdout.buffer) # comment this out if you want to debug
+        print("Content-type:text/html; charset=UTF-8\r\n\r\n")
+        print(f.read())
+        f.close()
+        flog.close()
+
+main()
