@@ -290,10 +290,12 @@ def main():
         Old_stdout = sys.stdout
         while True:
                 try:
-                        sys.stdout = open(ROOTDIR + "htdocs/history/group_{0}_{1}.html".format(you, group_url.rsplit('/', 2)[1]), "w", encoding = "utf8")
+                        suffix = str(int(time.time()))[-1:-9:-1]
+                        sys.stdout = open(ROOTDIR + "htdocs/history/group_{0}_{1}_{2}.html".format(you, group_url.rsplit('/', 2)[1], suffix), "w", encoding = "utf8")
                         break
                 except:
-                        os.remove(ROOTDIR + "htdocs/history/group_{0}_{1}.html".format(you, group_url.rsplit('/', 2)[1]))
+                        os.remove(ROOTDIR + "htdocs/history/group_{0}_{1}_{2}.html".format(you, group_url.rsplit('/', 2)[1]), suffix)
+                        # It may not run into here, but just in case
         print("<html>")
         print("<head>")
         print('<meta http-equiv="content-type" content="text/html; charset=utf8" />')
@@ -317,7 +319,7 @@ def main():
                 print("</html>")
                 sys.stdout.close()
                 sys.stdout = Old_stdout
-                f = open(ROOTDIR + "htdocs/history/group_{0}_{1}.html".format(you, group_url.rsplit('/', 2)[1]), "r", encoding = "utf8")
+                f = open(ROOTDIR + "htdocs/history/group_{0}_{1}_{2}.html".format(you, group_url.rsplit('/', 2)[1], suffix), "r", encoding = "utf8")
                 sys.stdout = codecs.getwriter('utf8')(sys.stdout.buffer) # comment this out if you want to debug
                 print("Content-type:text/html; charset=UTF-8\r\n\r\n")
                 print(f.read())
@@ -354,14 +356,14 @@ def main():
 #        print("<h4>hopefully u will find she/he!</h4>")
 #        print("<h4>received",total_bytes_recv, "bytes</h4>")
 #        print("<h4>end at : {0}</h4>".format(time.asctime()))
-        longurl = HOSTNAME + "history/group_{0}_{1}.html".format(you, group_url.rsplit('/', 2)[1])
+        longurl = HOSTNAME + "history/group_{0}_{1}_{2}.html".format(you, group_url.rsplit('/', 2)[1], suffix)
         short_url = get_shortenurl(longurl)
         print("<h4>转发本页地址:{0}</h4>".format(short_url))
         print("</body>")
         print("</html>")
         sys.stdout.close()
         sys.stdout = Old_stdout
-        f = open(ROOTDIR + "htdocs/history/group_{0}_{1}.html".format(you, group_url.rsplit('/', 2)[1]), "r", encoding = "utf8")
+        f = open(ROOTDIR + "htdocs/history/group_{0}_{1}_{2}.html".format(you, group_url.rsplit('/', 2)[1], suffix), "r", encoding = "utf8")
         sys.stdout = codecs.getwriter('utf8')(sys.stdout.buffer) # comment this out if you want to debug
         print("Content-type:text/html; charset=UTF-8\r\n\r\n")
         print(f.read())
