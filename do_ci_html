@@ -79,7 +79,7 @@ def try_api(api_url):
                         flog.write("No More API at this time {0}".format(time.ctime()))
                         fcntl.flock(fh.fileno(), LOCK_UN)
                         fh.close()
-                        time.sleep(60)
+                        time.sleep(int(lasttime) + 65 - int(time.time()))
                 else:
                         cnt = int(cnt)
                         cnt += 1
@@ -348,7 +348,7 @@ def main():
         else:
                 ir = 0
         r = 1
-        print('<h4>在 <a href="{0}">{1}</a>:</h4>'.format(group_url, get_group_name(group_url)))
+        print('<h4>在 <a href="{0}">{1}</a> 为您找到了在 {2} 的豆友:</h4>'.format(group_url, get_group_name(group_url), location))
         for i in range(ir, total_people):
                 print('<h4>#{0:<4} <a href="{3}{4}">{1}</a>和你有 {2} 项共同喜好</h4>'.format(r, get_nickname(table[rank[i][0]][0]), rank[i][1], 
                                                                                                      LINK_DB_PEOPLE, table[rank[i][0]][0]))
