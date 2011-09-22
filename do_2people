@@ -79,7 +79,7 @@ def try_api(api_url):
                         flog.write("No More API at this time {0}".format(time.ctime()))
                         fcntl.flock(fh.fileno(), LOCK_UN)
                         fh.close()
-                        time.sleep(60)
+                        time.sleep(int(lasttime) + 65 - int(time.time()))
                 else:
                         cnt = int(cnt)
                         cnt += 1
@@ -281,7 +281,7 @@ def main():
 #        print("<h4>hopefully u will find she/he!</h4>")
 #        print("<h4>received",total_bytes_recv, "bytes</h4>")
 #        print("<h4>end at : {0}</h4>".format(time.asctime()))
-        longurl = HOSTNAME + "/history/couple_{0}_{1}.html".format(user1, user2)
+        longurl = HOSTNAME + "history/couple_{0}_{1}.html".format(user1, user2)
         short_url = get_shortenurl(longurl)
         print("<h4>转发本页地址:{0}</h4>".format(short_url))
         print("</body>")
