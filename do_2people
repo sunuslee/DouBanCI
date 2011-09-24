@@ -23,7 +23,7 @@ import db_api
 import url
 # Please use your own api key instead. e.g. :
 # APIKEY = "23eeeb4347bdd26bfc6b7ee9a3b755dd"
-IS_LOCAL = True
+IS_LOCAL = False
 ROOTDIR = "/home/sunus/apache/" if IS_LOCAL == True else "/usr/local/apache2/"
 HOSTNAME = "http://localhost/"  if IS_LOCAL == True else "http://184.164.137.154/"
 LINK_DB_PEOPLE = "http://www.douban.com/people/"
@@ -32,7 +32,6 @@ SECRET = ''
 LOCK_EX = fcntl.LOCK_EX
 LOCK_UN = fcntl.LOCK_UN
 LOCK_NB = fcntl.LOCK_NB
-flog = open("log", "a+")
 people_list = []
 table_movie = []
 table_music = []
@@ -55,42 +54,6 @@ class Worker(threading.Thread):
         def process(self, uid, cat):
                 get_user_collection(uid, cat)
 
-def try_ap1(api_url):
-        while True:
-                while True:
-                        try:
-                                fh = open("api_limit", "a+")
-                                fcntl.flock(fh.fileno(), LOCK_EX|LOCK_NB)
-                                break
-                        except IOError:
-                                flog.write("FILE's LOCKED,WAIT....{0}\n".format(time.ctime()))
-                                fh.close()
-                                time.sleep(1)
-
-                if(fh.tell() == 0):
-                        fh.write("{0}\t{1},{2},{3}\n".format(api_url[0:-40], time.ctime(), 1, int(time.time())))
-                        break;
-
-                os.lseek(fh.fileno(), -17, os.SEEK_END)
-                lastline = fh.read(16)
-                lasttime, cnt  = lastline.split(',')[-1:-3:-1] # get the last two element, cnt and lasttime 
-                if(int(time.time()) - int(lasttime) >= 65):
-                        cnt = 1
-                        fh.write("{0}\t{1},{2},{3}\n".format(api_url[0:-40], time.ctime(), cnt, int(time.time())))
-                        break
-                elif int(cnt) == 40:
-                        flog.write("No More API at this time {0}".format(time.ctime()))
-                        fcntl.flock(fh.fileno(), LOCK_UN)
-                        fh.close()
-                        #time.sleep(int(lasttime) + 65 - int(time.time()))
-                        time.sleep(65)
-                else:
-                        cnt = int(cnt)
-                        cnt += 1
-                        fh.write("{0}\t{1},{2},{3}\n".format(api_url[0:-40], time.ctime(),cnt, lasttime ))
-                        break
-        fcntl.flock(fh.fileno(), LOCK_UN)
-        return urllib.request.urlopen(api_url)
 
 def get_nickname(uid):
         fh = db_api.try_api("http://api.douban.com/people/{0}?alt=atom&apikey={1}".format(uid,APIKEY))
@@ -209,6 +172,9 @@ def var_verify_2p(user1, user2):
         global f
         fh_1 = None
         fh_2 = None
+        if user1 == None or user2 == None:
+                print("<h4>Usernames may not exsit</h4>")
+                return False
         try:
                 fh_1 = db_api.try_api("http://api.douban.com/people/{0}?alt=atom&apikey={1}".format(user1,APIKEY))
                 fh_2 = db_api.try_api("http://api.douban.com/people/{0}?alt=atom&apikey={1}".format(user2,APIKEY))
@@ -232,8 +198,8 @@ def main():
         global total_bytes_recv
         global people_list
         form = cgi.FieldStorage()
-        user1 = form.getvalue("user1", "3215295")
-        user2 = form.getvalue("user2", "sunus")
+        user1 = form.getvalue("user1", None)
+        user2 = form.getvalue("user2", None)
         Old_stdout = sys.stdout
         while True:
                 try:
@@ -249,6 +215,15 @@ def main():
         print("</head>")
         print("<body>")
         if var_verify_2p(user1, user2) == False:
+                print("</body>")
+                print("</html>")
+                sys.stdout.close()
+                sys.stdout = Old_stdout
+                f = open(ROOTDIR + "/htdocs/history/couple_{0}_{1}.html".format(user1, user2), "r", encoding = "utf8")
+                sys.stdout = codecs.getwriter('utf8')(sys.stdout.buffer) # comment this out if you want to debug
+                print("Content-type:text/html; charset=UTF-8\r\n\r\n")
+                print(f.read())
+                f.close()
                 return 0
 #                print("<h4>user1:{0}</h4>".format(user1))
 #                print("<h4>user2:{0}</h4>".format(user2))
@@ -285,7 +260,6 @@ def main():
         sys.stdout = codecs.getwriter('utf8')(sys.stdout.buffer) # comment this out if you want to debug
         print("Content-type:text/html; charset=UTF-8\r\n\r\n")
         print(f.read())
-        flog.close()
         f.close()
 
 main()
