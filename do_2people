@@ -19,10 +19,13 @@ import threading
 import queue
 import time
 import fcntl
+import db_api
+import url
 # Please use your own api key instead. e.g. :
 # APIKEY = "23eeeb4347bdd26bfc6b7ee9a3b755dd"
-ROOTDIR = "/home/sunus/apache/"
-HOSTNAME = "http://localhost/"
+IS_LOCAL = True
+ROOTDIR = "/home/sunus/apache/" if IS_LOCAL == True else "/usr/local/apache2/"
+HOSTNAME = "http://localhost/"  if IS_LOCAL == True else "http://184.164.137.154/"
 LINK_DB_PEOPLE = "http://www.douban.com/people/"
 APIKEY = "053caab0d0224c680fb600127066e538"
 SECRET = ''
@@ -52,7 +55,7 @@ class Worker(threading.Thread):
         def process(self, uid, cat):
                 get_user_collection(uid, cat)
 
-def try_api(api_url):
+def try_ap1(api_url):
         while True:
                 while True:
                         try:
@@ -60,7 +63,7 @@ def try_api(api_url):
                                 fcntl.flock(fh.fileno(), LOCK_EX|LOCK_NB)
                                 break
                         except IOError:
-                                flog.write("FILE's LOCKED,WAIT....\n")
+                                flog.write("FILE's LOCKED,WAIT....{0}\n".format(time.ctime()))
                                 fh.close()
                                 time.sleep(1)
 
@@ -79,7 +82,8 @@ def try_api(api_url):
                         flog.write("No More API at this time {0}".format(time.ctime()))
                         fcntl.flock(fh.fileno(), LOCK_UN)
                         fh.close()
-                        time.sleep(int(lasttime) + 65 - int(time.time()))
+                        #time.sleep(int(lasttime) + 65 - int(time.time()))
+                        time.sleep(65)
                 else:
                         cnt = int(cnt)
                         cnt += 1
@@ -89,7 +93,7 @@ def try_api(api_url):
         return urllib.request.urlopen(api_url)
 
 def get_nickname(uid):
-        fh = try_api("http://api.douban.com/people/{0}?alt=atom&apikey={1}".format(uid,APIKEY))
+        fh = db_api.try_api("http://api.douban.com/people/{0}?alt=atom&apikey={1}".format(uid,APIKEY))
         Content = fh.read().decode("utf8")
         fh.close()
         for line in Content.splitlines():
@@ -122,7 +126,7 @@ def get_user_collection(uid, cat):
         item_aka = '<db:attribute lang="zh_CN" name="aka">'
         while True:
                 uri = "http://api.douban.com/people/{0}/collection?cat={1}&tag=&status=&start-index={2}&max-results=50&alt=atom&apykey={3}".format(uid, cat, start,APIKEY)
-                fh = try_api(uri)
+                fh = db_api.try_api(uri)
                 content = fh.read().decode("utf8")
                 tbr_lock.acquire()
                 total_bytes_recv += len(content)
@@ -206,8 +210,8 @@ def var_verify_2p(user1, user2):
         fh_1 = None
         fh_2 = None
         try:
-                fh_1 = try_api("http://api.douban.com/people/{0}?alt=atom&apikey={1}".format(user1,APIKEY))
-                fh_2 = try_api("http://api.douban.com/people/{0}?alt=atom&apikey={1}".format(user2,APIKEY))
+                fh_1 = db_api.try_api("http://api.douban.com/people/{0}?alt=atom&apikey={1}".format(user1,APIKEY))
+                fh_2 = db_api.try_api("http://api.douban.com/people/{0}?alt=atom&apikey={1}".format(user2,APIKEY))
         except (urllib.error.URLError, ValueError) as e:
                 if hasattr(e, 'reason'):
                         print("<h4>Cannot connected to the server</h4>")
@@ -222,18 +226,7 @@ def var_verify_2p(user1, user2):
                 if fh_1 == None or fh_2== None:
                         return False
         return True
-def get_shortenurl(long_url):
-        global f
-        data = '{"longUrl": ' + '"{0}"'.format(long_url) + "}"
-        try:
-                req = urllib.request.Request("https://www.googleapis.com/urlshortener/v1/url", data, {'Content-Type': 'application/json'})
-                rec = urllib.request.urlopen(req).read()
-                for s in rec.decode().split('"'):
-                        if "http://goo.gl" in s:
-                                return s
-        except:
-                print("<h4>Short URL IS UNAVAILABLE NOW!</h4>")
-                pass
+
 def main():
         global f
         global total_bytes_recv
@@ -282,7 +275,7 @@ def main():
 #        print("<h4>received",total_bytes_recv, "bytes</h4>")
 #        print("<h4>end at : {0}</h4>".format(time.asctime()))
         longurl = HOSTNAME + "history/couple_{0}_{1}.html".format(user1, user2)
-        short_url = get_shortenurl(longurl)
+        short_url = url.get_shortenurl(longurl)
         print("<h4>转发本页地址:{0}</h4>".format(short_url))
         print("</body>")
         print("</html>")
