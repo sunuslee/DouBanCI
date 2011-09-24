@@ -39,11 +39,10 @@ def try_api(api_url):
                 elif int(cnt) >= 40:
                         flog.write("No More API at this time {0}\n".format(time.ctime()))
                         flog.write("END at {0}\n".format(time.ctime()))
-                        break
                         fcntl.flock(fh.fileno(), LOCK_UN)
+                        time.sleep(65)
                         fh.close()
                         #time.sleep(int(lasttime) + 65 - int(time.time()))
-                        time.sleep(65)
                 else:
                         cnt = int(cnt)
                         cnt += 1
@@ -51,7 +50,8 @@ def try_api(api_url):
                         flog.write("cnt == {0}\n".format(cnt))
                         data = urllib.request.urlopen(api_url)
                         break
-        
+
         fcntl.flock(fh.fileno(), LOCK_UN)
+        fh.close()
         flog.close()
         return data 
