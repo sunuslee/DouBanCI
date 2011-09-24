@@ -149,7 +149,8 @@ def get_match_rate(uid1_idx, uid2_idx, cat):
                 for item_name in table[uid2_idx][1].keys():
                         u2_set.add(item_name)
         except IndexError as e:
-                print("Got the problem, uid1_idx = {0} uid2_idx = {1}",uid1_idx, uid2_idx)
+                print("<h4>Got the problem, uid1_idx = {0} uid2_idx = {1}</h4>".format(uid1_idx, uid2_idx))
+                return None
         common_set = u1_set & u2_set
         nikename1 = get_names.get_nickname(table[uid1_idx][0])
         nikename2 = get_names.get_nickname(table[uid2_idx][0])
@@ -274,7 +275,9 @@ def main():
         # 0 is uid1, and uid2_idx starts from 1
         total_people = len(people_list)
         for i in range(1, total_people + 1):
-                rank.append(get_match_rate(0, i, cat))
+                rank_item = get_match_rate(0, i, cat)
+                if rank_item != None:
+                        rank.append(rank_item)
         rank.sort(key = lambda node:node[1], reverse = True) 
         if table[rank[0][0]][0] == you:
                 ir = 1

@@ -5,7 +5,7 @@ import time
 LOCK_EX = fcntl.LOCK_EX
 LOCK_UN = fcntl.LOCK_UN
 LOCK_NB = fcntl.LOCK_NB
-
+LIMIT = 38
 def try_api(api_url):
         flog = open("log", "a+")
         while True:
@@ -36,7 +36,7 @@ def try_api(api_url):
                         flog.write("START at {0}\n".format(time.ctime()))
                         flog.write("cnt == 1\n")
                         break
-                elif int(cnt) >= 40:
+                elif int(cnt) >= LIMIT:
                         flog.write("No More API at this time {0}\n".format(time.ctime()))
                         flog.write("END at {0}\n".format(time.ctime()))
                         fcntl.flock(fh.fileno(), LOCK_UN)

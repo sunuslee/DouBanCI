@@ -43,7 +43,7 @@ def transport(transport_code):
         short_url = "http://goo.gl/" + transport_code
         long_url = url.get_longurl(short_url)
         page = long_url.rpartition('/')[2]
-        gate_open(HOSTNAME + "/history/{0}".format(page))
+        gate_open(HOSTNAME + "history/{0}".format(page))
 
 def experiment(experiment_code):
         token = str(int(time.time()))
