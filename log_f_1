@@ -1,0 +1,73 @@
+Generate Time Sun Sep 25 17:00:57 2011
+[LOG] START at Sun Sep 25 16:26:45 2011
+[LOG] cnt == 1
+[LOG] cnt == 2
+[LOG] cnt == 3
+[LOG] cnt == 4
+[LOG] cnt == 5
+[LOG] cnt == 6
+[LOG] START at Sun Sep 25 16:28:17 2011
+[LOG] cnt == 1
+[LOG] cnt == 2
+[LOG] cnt == 3
+[LOG] cnt == 4
+[LOG] cnt == 5
+[LOG] START at Sun Sep 25 16:29:39 2011
+[LOG] cnt == 1
+[LOG] cnt == 2
+[LOG] cnt == 3
+[LOG] cnt == 4
+[LOG] cnt == 5
+[LOG] cnt == 6
+[LOG] START at Sun Sep 25 16:31:15 2011
+[LOG] cnt == 1
+[LOG] cnt == 2
+[LOG] cnt == 3
+[LOG] cnt == 4
+[LOG] cnt == 5
+[LOG] START at Sun Sep 25 16:32:36 2011
+[LOG] cnt == 1
+[LOG] cnt == 2
+[LOG] cnt == 3
+[LOG] cnt == 4
+[LOG] cnt == 5
+[LOG] START at Sun Sep 25 16:33:57 2011
+[LOG] cnt == 1
+[LOG] cnt == 2
+[LOG] cnt == 3
+[LOG] START at Sun Sep 25 16:52:27 2011
+[LOG] cnt ==  1 Sun Sep 25 16:52:27 2011 http://api.douban.com/people/3215295?alt=at
+[LOG] cnt ==  2 Sun Sep 25 16:52:27 2011 http://api.douban.com/people/ahbei?alt=at
+[LOG] cnt ==  3 Sun Sep 25 16:52:42 2011 http://api.douban.com/people/3215295/collection?cat=movie&tag=&status=&start-index=1&max-results=50&alt=at
+[LOG] cnt ==  4 Sun Sep 25 16:52:58 2011 http://api.douban.com/people/3215295/collection?cat=music&tag=&status=&start-index=1&max-results=50&alt=at
+[LOG] cnt ==  5 Sun Sep 25 16:53:14 2011 http://api.douban.com/people/3215295/collection?cat=book&tag=&status=&start-index=1&max-results=50&alt=at
+[LOG] cnt ==  6 Sun Sep 25 16:53:30 2011 http://api.douban.com/people/3215295/collection?cat=music&tag=&status=&start-index=51&max-results=50&alt=at
+[LOG] START at Sun Sep 25 16:54:04 2011
+[LOG] cnt ==  1 Sun Sep 25 16:54:04 2011 http://api.douban.com/people/3215295/collection?cat=music&tag=&status=&start-index=101&max-results=50&alt=at
+[LOG] cnt ==  2 Sun Sep 25 16:54:04 2011 http://api.douban.com/people/ahbei/collection?cat=movie&tag=&status=&start-index=1&max-results=50&alt=at
+[LOG] cnt ==  3 Sun Sep 25 16:54:20 2011 http://api.douban.com/people/3215295/collection?cat=movie&tag=&status=&start-index=51&max-results=50&alt=at
+[LOG] cnt ==  4 Sun Sep 25 16:54:37 2011 http://api.douban.com/people/3215295/collection?cat=movie&tag=&status=&start-index=101&max-results=50&alt=at
+[LOG] cnt ==  5 Sun Sep 25 16:54:53 2011 http://api.douban.com/people/3215295/collection?cat=book&tag=&status=&start-index=51&max-results=50&alt=at
+[LOG] START at Sun Sep 25 16:55:32 2011
+[LOG] cnt ==  1 Sun Sep 25 16:55:32 2011 http://api.douban.com/people/ahbei/collection?cat=movie&tag=&status=&start-index=51&max-results=50&alt=at
+[LOG] cnt ==  2 Sun Sep 25 16:55:32 2011 http://api.douban.com/people/3215295/collection?cat=book&tag=&status=&start-index=101&max-results=50&alt=at
+[LOG] cnt ==  3 Sun Sep 25 16:55:47 2011 http://api.douban.com/people/ahbei/collection?cat=music&tag=&status=&start-index=1&max-results=50&alt=at
+[LOG] cnt ==  4 Sun Sep 25 16:56:03 2011 http://api.douban.com/people/ahbei/collection?cat=movie&tag=&status=&start-index=101&max-results=50&alt=at
+[LOG] cnt ==  5 Sun Sep 25 16:56:19 2011 http://api.douban.com/people/ahbei/collection?cat=music&tag=&status=&start-index=51&max-results=50&alt=at
+[LOG] cnt ==  6 Sun Sep 25 16:56:34 2011 http://api.douban.com/people/ahbei/collection?cat=music&tag=&status=&start-index=101&max-results=50&alt=at
+[LOG] START at Sun Sep 25 16:57:08 2011
+[LOG] cnt ==  1 Sun Sep 25 16:57:08 2011 http://api.douban.com/people/ahbei/collection?cat=book&tag=&status=&start-index=1&max-results=50&alt=at
+[LOG] cnt ==  2 Sun Sep 25 16:57:08 2011 http://api.douban.com/people/3215295/collection?cat=movie&tag=&status=&start-index=151&max-results=50&alt=at
+[LOG] cnt ==  3 Sun Sep 25 16:57:24 2011 http://api.douban.com/people/ahbei/collection?cat=movie&tag=&status=&start-index=151&max-results=50&alt=at
+[LOG] cnt ==  4 Sun Sep 25 16:57:40 2011 http://api.douban.com/people/3215295/collection?cat=movie&tag=&status=&start-index=201&max-results=50&alt=at
+[LOG] cnt ==  5 Sun Sep 25 16:57:56 2011 http://api.douban.com/people/ahbei/collection?cat=book&tag=&status=&start-index=51&max-results=50&alt=at
+[LOG] cnt ==  6 Sun Sep 25 16:58:12 2011 http://api.douban.com/people/ahbei/collection?cat=movie&tag=&status=&start-index=201&max-results=50&alt=at
+[LOG] START at Sun Sep 25 16:58:53 2011
+[LOG] cnt ==  1 Sun Sep 25 16:58:53 2011 http://api.douban.com/people/ahbei/collection?cat=book&tag=&status=&start-index=101&max-results=50&alt=at
+[LOG] cnt ==  2 Sun Sep 25 16:58:53 2011 http://api.douban.com/people/3215295/collection?cat=movie&tag=&status=&start-index=251&max-results=50&alt=at
+[LOG] cnt ==  3 Sun Sep 25 16:59:10 2011 http://api.douban.com/people/ahbei/collection?cat=book&tag=&status=&start-index=151&max-results=50&alt=at
+[LOG] cnt ==  4 Sun Sep 25 16:59:35 2011 http://api.douban.com/people/ahbei/collection?cat=movie&tag=&status=&start-index=251&max-results=50&alt=at
+[LOG] cnt ==  5 Sun Sep 25 16:59:51 2011 http://api.douban.com/people/ahbei/collection?cat=movie&tag=&status=&start-index=301&max-results=50&alt=at
+[LOG] START at Sun Sep 25 17:00:22 2011
+[LOG] cnt ==  1 Sun Sep 25 17:00:22 2011 http://api.douban.com/people/ahbei/collection?cat=book&tag=&status=&start-index=201&max-results=50&alt=at
+[LOG] cnt ==  2 Sun Sep 25 17:00:22 2011 http://api.douban.com/people/3215295/collection?cat=movie&tag=&status=&start-index=301&max-results=50&alt=at
