@@ -453,3 +453,15 @@ Mon Sep 26 13:26:21 2011,1,1317014781
 Mon Sep 26 13:26:22 2011,2,1317014781
 [LOG] cnt ==  3 Mon Sep 26 13:26:22 2011 http://api.douban.com/people/sunus/collection?cat=movie&tag=&status=&start-index=1&max-results=50&alt=atom
 Mon Sep 26 13:26:22 2011,3,1317014781
+[LOG] START at Mon Sep 26 13:33:47 2011
+[LOG] cnt ==  1 Mon Sep 26 13:33:47 2011 http://api.douban.com/people/sunus?alt=atom
+Mon Sep 26 13:33:47 2011,1,1317015227
+[LOG] cnt ==  2 Mon Sep 26 13:33:48 2011 http://api.douban.com/people/sunus?alt=atom
+Mon Sep 26 13:33:48 2011,2,1317015227
+[LOG] cnt ==  3 Mon Sep 26 13:33:48 2011 http://api.douban.com/people/sunus/collection?cat=movie&tag=&status=&start-index=1&max-results=50&alt=atom
+Mon Sep 26 13:33:48 2011,3,1317015227
+[LOG] START at Mon Sep 26 13:41:13 2011
+[LOG] cnt ==  1 Mon Sep 26 13:41:13 2011 http://api.douban.com/people/sunus?alt=atom
+Mon Sep 26 13:41:13 2011,1,1317015673
+[LOG] cnt ==  2 Mon Sep 26 13:42:03 2011 http://api.douban.com/people/sunus?alt=atom
+Mon Sep 26 13:42:03 2011,2,1317015673

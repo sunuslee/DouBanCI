@@ -121,7 +121,7 @@ def get_user(group_uri, where):
 #        <dd><a href="http://www.douban.com/people/__UID__/">__NIKENAME__</a><br/><span class="pl">(local)</span></dd></dl><dl class="obu" ><dt><a href="http://www.douban.com/people/__UID__/" class="nbg"><img src="http://img3.douban.com/icon/sdfs.jpg" class="m_sub_img" alt="__NIKENAME__"/></a></dt>
         for line in contents.splitlines():
                 if '<dd><a href="http://www.douban.com/people/' in line:
-                        if(len(people_list) > people_nr):
+                        if(len(people_list) == people_nr):
                                 break
                         idx = line.strip().find(r'</a>')
                         a = line.strip()[0:idx].rpartition(r'">')
@@ -270,13 +270,14 @@ def main():
                 worker = Worker(user_queue)
                 worker.daemon = True
                 worker.start()
-        # THREAD PART
+
         your_nikename = get_names.get_nickname(you)
         get_user_collection([you, your_nikename], cat)
         for people in people_list:
                 user_queue.put([people, cat])
         user_queue.join()
-#        print("<h4>Download finished at : {0}</h4>".format(time.asctime()))
+        # THREAD PART
+
         rank = []
         # 0 is uid1, and uid2_idx starts from 1
         total_people = len(people_list)
