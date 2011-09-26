@@ -8,7 +8,7 @@ import sys
 import url
 import time
 
-IS_LOCAL = True
+IS_LOCAL = False
 ROOTDIR = "/home/sunus/apache/" if IS_LOCAL == True else "/usr/local/apache2/"
 HOSTNAME = "http://localhost/"  if IS_LOCAL == True else "http://184.164.137.154/"
 def gate_open(page):
@@ -35,15 +35,18 @@ def gate_close():
                         </head>\
                         <body>\
                         您也许输入了错误的传送门／实验门的密码<br>\
-                        P.S 传送门和实验门一次只能打开一个噢，另一扇门请留空（不输入）<br>\
+                        P.S 传送门和实验门一次只能打开一个，另一扇门请留空（不输入）<br>\
                         </body>\
                         </html>')
 
 def transport(transport_code):
         short_url = "http://goo.gl/" + transport_code
         long_url = url.get_longurl(short_url)
-        page = long_url.rpartition('/')[2]
-        gate_open(HOSTNAME + "history/{0}".format(page))
+        if long_url == None or HOSTNAME not in long_url:
+                gate_close()
+        else:
+                page = long_url.rpartition('/')[2]
+                gate_open(HOSTNAME + "history/{0}".format(page))
 
 def experiment(experiment_code):
         token = str(int(time.time()))

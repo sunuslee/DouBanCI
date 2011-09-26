@@ -1,4 +1,5 @@
 import urllib.request
+import time
 def get_shortenurl(long_url):
         data = '{"longUrl": ' + '"{0}"'.format(long_url) + "}"
         try:
@@ -8,8 +9,10 @@ def get_shortenurl(long_url):
                         if "http://goo.gl" in s:
                                 return s
         except:
-                print("<h4>Short URL IS UNAVAILABLE NOW!</h4>")
-                pass
+                f = open("url_log", "a+")
+                f.write("{0}Short URL IS UNAVAILABLE NOW! long_url : {1}\n".format(time.ctime(), long_url))
+                f.close()
+                return None
 
 def get_longurl(Short_url):
         try:
@@ -19,5 +22,7 @@ def get_longurl(Short_url):
                         if "http" in s and "goo.gl" not in s:
                                 return s
         except:
-                print("<h4>Invaid URL CODE</h4>")
-                pass
+                f = open("url_log", "a+")
+                f.write("{0} LONG URL IS UNAVAILABLE NOW! Short_url : {1}\n".format(time.ctime(), Short_url))
+                f.close()
+                return None
