@@ -1,4 +1,4 @@
-Generate Time Sun Sep 25 21:11:43 2011
+Generate Time Mon Sep 26 13:26:54 2011
 [LOG] START at Sun Sep 25 16:26:45 2011
 [LOG] cnt == 1
 [LOG] cnt == 2
@@ -123,3 +123,122 @@ Generate Time Sun Sep 25 21:11:43 2011
 [LOG] cnt ==  3 Sun Sep 25 20:51:55 2011 http://api.douban.com/people/sunus?alt=atom
 [LOG] cnt ==  4 Sun Sep 25 20:52:10 2011 http://api.douban.com/people/sunus?alt=atom
 [LOG] cnt ==  5 Sun Sep 25 20:52:25 2011 http://api.douban.com/people/sunus?alt=atom
+[LOG] START at Mon Sep 26 10:48:25 2011
+[LOG] cnt ==  1 Mon Sep 26 10:48:25 2011 http://api.douban.com/people/sunus?alt=atom
+[LOG] cnt ==  2 Mon Sep 26 10:48:30 2011 http://api.douban.com/people/sunus/collection?cat=movie&tag=&status=&start-index=1&max-results=50&alt=atom
+[LOG] cnt ==  3 Mon Sep 26 10:48:31 2011 http://api.douban.com/people/sunus/collection?cat=movie&tag=&status=&start-index=51&max-results=50&alt=atom
+[LOG] cnt ==  4 Mon Sep 26 10:48:31 2011 http://api.douban.com/people/sunus/collection?cat=movie&tag=&status=&start-index=101&max-results=50&alt=atom
+[LOG] cnt ==  5 Mon Sep 26 10:48:36 2011 http://api.douban.com/people/bb900813/collection?cat=movie&tag=&status=&start-index=1&max-results=50&alt=atom
+[LOG] cnt ==  6 Mon Sep 26 10:48:38 2011 http://api.douban.com/people/bb900813/collection?cat=movie&tag=&status=&start-index=51&max-results=50&alt=atom
+[LOG] cnt ==  7 Mon Sep 26 10:48:39 2011 http://api.douban.com/people/bb900813/collection?cat=movie&tag=&status=&start-index=101&max-results=50&alt=atom
+[LOG] cnt ==  8 Mon Sep 26 10:48:40 2011 http://api.douban.com/people/bb900813/collection?cat=movie&tag=&status=&start-index=151&max-results=50&alt=atom
+[LOG] cnt ==  9 Mon Sep 26 10:48:41 2011 http://api.douban.com/people/bb900813/collection?cat=movie&tag=&status=&start-index=201&max-results=50&alt=atom
+[LOG] cnt == 10 Mon Sep 26 10:48:42 2011 http://api.douban.com/people/bb900813/collection?cat=movie&tag=&status=&start-index=251&max-results=50&alt=atom
+[LOG] cnt == 11 Mon Sep 26 10:48:43 2011 http://api.douban.com/people/bb900813/collection?cat=movie&tag=&status=&start-index=301&max-results=50&alt=atom
+[LOG] cnt == 12 Mon Sep 26 10:48:45 2011 http://api.douban.com/people/bb900813/collection?cat=movie&tag=&status=&start-index=351&max-results=50&alt=atom
+[LOG] cnt == 13 Mon Sep 26 10:48:51 2011 http://api.douban.com/people/bb900813/collection?cat=movie&tag=&status=&start-index=401&max-results=50&alt=atom
+[LOG] cnt == 14 Mon Sep 26 10:48:52 2011 http://api.douban.com/people/bb900813/collection?cat=movie&tag=&status=&start-index=451&max-results=50&alt=atom
+[LOG] cnt == 15 Mon Sep 26 10:48:58 2011 http://api.douban.com/people/bb900813/collection?cat=movie&tag=&status=&start-index=501&max-results=50&alt=atom
+[LOG] cnt == 16 Mon Sep 26 10:48:59 2011 http://api.douban.com/people/bb900813/collection?cat=movie&tag=&status=&start-index=551&max-results=50&alt=atom
+[LOG] cnt == 17 Mon Sep 26 10:49:00 2011 http://api.douban.com/people/bb900813/collection?cat=movie&tag=&status=&start-index=601&max-results=50&alt=atom
+[LOG] cnt == 18 Mon Sep 26 10:49:02 2011 http://api.douban.com/people/bb900813/collection?cat=movie&tag=&status=&start-index=651&max-results=50&alt=atom
+[LOG] cnt == 19 Mon Sep 26 10:49:03 2011 http://api.douban.com/people/bb900813/collection?cat=movie&tag=&status=&start-index=701&max-results=50&alt=atom
+[LOG] cnt == 20 Mon Sep 26 10:49:04 2011 http://api.douban.com/people/bb900813/collection?cat=movie&tag=&status=&start-index=751&max-results=50&alt=atom
+[LOG] cnt == 21 Mon Sep 26 10:49:05 2011 http://api.douban.com/people/bb900813/collection?cat=movie&tag=&status=&start-index=801&max-results=50&alt=atom
+[LOG] cnt == 22 Mon Sep 26 10:49:06 2011 http://api.douban.com/people/bb900813/collection?cat=movie&tag=&status=&start-index=851&max-results=50&alt=atom
+[LOG] cnt == 23 Mon Sep 26 10:49:08 2011 http://api.douban.com/people/2407001/collection?cat=movie&tag=&status=&start-index=1&max-results=50&alt=atom
+[LOG] cnt == 24 Mon Sep 26 10:49:08 2011 http://api.douban.com/people/2407001/collection?cat=movie&tag=&status=&start-index=51&max-results=50&alt=atom
+[LOG] cnt == 25 Mon Sep 26 10:49:09 2011 http://api.douban.com/people/yemaomomo/collection?cat=movie&tag=&status=&start-index=1&max-results=50&alt=atom
+[LOG] cnt == 26 Mon Sep 26 10:49:14 2011 http://api.douban.com/people/yemaomomo/collection?cat=movie&tag=&status=&start-index=51&max-results=50&alt=atom
+[LOG] cnt == 27 Mon Sep 26 10:49:15 2011 http://api.douban.com/people/yemaomomo/collection?cat=movie&tag=&status=&start-index=101&max-results=50&alt=atom
+[LOG] cnt == 28 Mon Sep 26 10:49:21 2011 http://api.douban.com/people/yemaomomo/collection?cat=movie&tag=&status=&start-index=151&max-results=50&alt=atom
+[LOG] cnt == 29 Mon Sep 26 10:49:22 2011 http://api.douban.com/people/yemaomomo/collection?cat=movie&tag=&status=&start-index=201&max-results=50&alt=atom
+[LOG] cnt == 30 Mon Sep 26 10:49:28 2011 http://api.douban.com/people/yemaomomo/collection?cat=movie&tag=&status=&start-index=251&max-results=50&alt=atom
+[LOG] cnt == 31 Mon Sep 26 10:49:29 2011 http://api.douban.com/people/yemaomomo/collection?cat=movie&tag=&status=&start-index=301&max-results=50&alt=atom
+[LOG] START at Mon Sep 26 10:49:30 2011
+[LOG] cnt ==  1 Mon Sep 26 10:49:30 2011 http://api.douban.com/people/EarSmile/collection?cat=movie&tag=&status=&start-index=1&max-results=50&alt=atom
+[LOG] cnt ==  2 Mon Sep 26 10:49:30 2011 http://api.douban.com/people/EarSmile/collection?cat=movie&tag=&status=&start-index=51&max-results=50&alt=atom
+[LOG] cnt ==  3 Mon Sep 26 10:49:36 2011 http://api.douban.com/people/myhang/collection?cat=movie&tag=&status=&start-index=1&max-results=50&alt=atom
+[LOG] cnt ==  4 Mon Sep 26 10:49:37 2011 http://api.douban.com/people/yemaomomo/collection?cat=movie&tag=&status=&start-index=351&max-results=50&alt=atom
+[LOG] cnt ==  5 Mon Sep 26 10:49:37 2011 http://api.douban.com/people/yemaomomo/collection?cat=movie&tag=&status=&start-index=401&max-results=50&alt=atom
+[LOG] cnt ==  6 Mon Sep 26 10:49:38 2011 http://api.douban.com/people/yemaomomo/collection?cat=movie&tag=&status=&start-index=451&max-results=50&alt=atom
+[LOG] cnt ==  7 Mon Sep 26 10:49:39 2011 http://api.douban.com/people/yemaomomo/collection?cat=movie&tag=&status=&start-index=501&max-results=50&alt=atom
+[LOG] cnt ==  8 Mon Sep 26 10:49:41 2011 http://api.douban.com/people/EarSmile/collection?cat=movie&tag=&status=&start-index=101&max-results=50&alt=atom
+[LOG] cnt ==  9 Mon Sep 26 10:49:41 2011 http://api.douban.com/people/yemaomomo/collection?cat=movie&tag=&status=&start-index=551&max-results=50&alt=atom
+[LOG] cnt == 10 Mon Sep 26 10:49:46 2011 http://api.douban.com/people/yemaomomo/collection?cat=movie&tag=&status=&start-index=601&max-results=50&alt=atom
+[LOG] cnt == 11 Mon Sep 26 10:49:52 2011 http://api.douban.com/people/yemaomomo/collection?cat=movie&tag=&status=&start-index=651&max-results=50&alt=atom
+[LOG] cnt == 12 Mon Sep 26 10:49:53 2011 http://api.douban.com/people/yemaomomo/collection?cat=movie&tag=&status=&start-index=701&max-results=50&alt=atom
+[LOG] cnt == 13 Mon Sep 26 10:49:54 2011 http://api.douban.com/people/yemaomomo/collection?cat=movie&tag=&status=&start-index=751&max-results=50&alt=atom
+[LOG] cnt == 14 Mon Sep 26 10:49:55 2011 http://api.douban.com/people/bb900813/collection?cat=movie&tag=&status=&start-index=901&max-results=50&alt=atom
+[LOG] cnt == 15 Mon Sep 26 10:49:56 2011 http://api.douban.com/people/myhang/collection?cat=movie&tag=&status=&start-index=51&max-results=50&alt=atom
+[LOG] cnt == 16 Mon Sep 26 10:49:57 2011 http://api.douban.com/people/bb900813/collection?cat=movie&tag=&status=&start-index=951&max-results=50&alt=atom
+[LOG] cnt == 17 Mon Sep 26 10:49:58 2011 http://api.douban.com/people/bb900813/collection?cat=movie&tag=&status=&start-index=1001&max-results=50&alt=atom
+[LOG] cnt == 18 Mon Sep 26 10:50:00 2011 http://api.douban.com/people/bb900813/collection?cat=movie&tag=&status=&start-index=1051&max-results=50&alt=atom
+[LOG] cnt == 19 Mon Sep 26 10:50:06 2011 http://api.douban.com/people/bb900813/collection?cat=movie&tag=&status=&start-index=1101&max-results=50&alt=atom
+[LOG] cnt == 20 Mon Sep 26 10:50:08 2011 http://api.douban.com/people/bb900813/collection?cat=movie&tag=&status=&start-index=1151&max-results=50&alt=atom
+[LOG] cnt == 21 Mon Sep 26 10:50:15 2011 http://api.douban.com/people/bb900813/collection?cat=movie&tag=&status=&start-index=1201&max-results=50&alt=atom
+[LOG] cnt == 22 Mon Sep 26 10:50:16 2011 http://api.douban.com/people/myhang/collection?cat=movie&tag=&status=&start-index=101&max-results=50&alt=atom
+[LOG] cnt == 23 Mon Sep 26 10:50:21 2011 http://api.douban.com/people/bb900813/collection?cat=movie&tag=&status=&start-index=1251&max-results=50&alt=atom
+[LOG] cnt == 24 Mon Sep 26 10:50:22 2011 http://api.douban.com/people/sunus?alt=atom
+[LOG] cnt == 25 Mon Sep 26 10:50:22 2011 http://api.douban.com/people/2407001?alt=atom
+[LOG] cnt == 26 Mon Sep 26 10:50:27 2011 http://api.douban.com/people/sunus?alt=atom
+[LOG] cnt == 27 Mon Sep 26 10:50:27 2011 http://api.douban.com/people/EarSmile?alt=atom
+[LOG] cnt == 28 Mon Sep 26 10:50:27 2011 http://api.douban.com/people/sunus?alt=atom
+[LOG] cnt == 29 Mon Sep 26 10:50:27 2011 http://api.douban.com/people/yemaomomo?alt=atom
+[LOG] START at Mon Sep 26 10:53:49 2011
+[LOG] cnt ==  1 Mon Sep 26 10:53:49 2011 http://api.douban.com/people/sunus?alt=atom
+[LOG] cnt ==  2 Mon Sep 26 10:53:49 2011 http://api.douban.com/people/sunus/collection?cat=movie&tag=&status=&start-index=1&max-results=50&alt=atom
+[LOG] START at Mon Sep 26 10:56:24 2011
+[LOG] cnt ==  1 Mon Sep 26 10:56:24 2011 http://api.douban.com/people/sunus?alt=atom
+[LOG] cnt ==  2 Mon Sep 26 10:56:54 2011 http://api.douban.com/people/sunus?alt=atom
+[LOG] START at Mon Sep 26 12:34:54 2011
+[LOG] cnt ==  1 Mon Sep 26 12:34:54 2011 http://api.douban.com/people/sunus?alt=atom
+[LOG] START at Mon Sep 26 12:38:05 2011
+[LOG] cnt ==  1 Mon Sep 26 12:38:05 2011 http://api.douban.com/people/sunus?alt=atom
+[LOG] cnt ==  2 Mon Sep 26 12:38:38 2011 http://api.douban.com/people/sunus?alt=atom
+[LOG] START at Mon Sep 26 12:40:01 2011
+[LOG] cnt ==  1 Mon Sep 26 12:40:01 2011 http://api.douban.com/people/sunus?alt=atom
+[LOG] START at Mon Sep 26 12:45:05 2011
+[LOG] cnt ==  1 Mon Sep 26 12:45:05 2011 http://api.douban.com/people/sunus?alt=atom
+[LOG] START at Mon Sep 26 12:47:55 2011
+[LOG] cnt ==  1 Mon Sep 26 12:47:55 2011 http://api.douban.com/people/sunus?alt=atom
+[LOG] START at Mon Sep 26 13:18:56 2011
+[LOG] cnt ==  1 Mon Sep 26 13:18:56 2011 http://api.douban.com/people/sunus?alt=atom
+[LOG] cnt ==  2 Mon Sep 26 13:18:57 2011 http://api.douban.com/people/sunus?alt=atom
+[LOG] cnt ==  3 Mon Sep 26 13:18:57 2011 http://api.douban.com/people/sunus/collection?cat=movie&tag=&status=&start-index=1&max-results=50&alt=atom
+[LOG] cnt ==  4 Mon Sep 26 13:19:01 2011 http://api.douban.com/people/sunus/collection?cat=movie&tag=&status=&start-index=51&max-results=50&alt=atom
+[LOG] cnt ==  5 Mon Sep 26 13:19:06 2011 http://api.douban.com/people/sunus/collection?cat=movie&tag=&status=&start-index=101&max-results=50&alt=atom
+[LOG] cnt ==  6 Mon Sep 26 13:19:06 2011 http://api.douban.com/people/evolastaroth/collection?cat=movie&tag=&status=&start-index=1&max-results=50&alt=atom
+[LOG] cnt ==  7 Mon Sep 26 13:19:07 2011 http://api.douban.com/people/evolastaroth/collection?cat=movie&tag=&status=&start-index=51&max-results=50&alt=atom
+[LOG] cnt ==  8 Mon Sep 26 13:19:08 2011 http://api.douban.com/people/evolastaroth/collection?cat=movie&tag=&status=&start-index=101&max-results=50&alt=atom
+[LOG] cnt ==  9 Mon Sep 26 13:19:19 2011 http://api.douban.com/people/onewayed/collection?cat=movie&tag=&status=&start-index=1&max-results=50&alt=atom
+[LOG] cnt == 10 Mon Sep 26 13:19:20 2011 http://api.douban.com/people/hushuqi/collection?cat=movie&tag=&status=&start-index=1&max-results=50&alt=atom
+[LOG] cnt == 11 Mon Sep 26 13:19:21 2011 http://api.douban.com/people/numbcoder/collection?cat=movie&tag=&status=&start-index=1&max-results=50&alt=atom
+[LOG] cnt == 12 Mon Sep 26 13:19:21 2011 http://api.douban.com/people/numbcoder/collection?cat=movie&tag=&status=&start-index=51&max-results=50&alt=atom
+[LOG] cnt == 13 Mon Sep 26 13:19:21 2011 http://api.douban.com/people/evilili/collection?cat=movie&tag=&status=&start-index=1&max-results=50&alt=atom
+[LOG] cnt == 14 Mon Sep 26 13:19:22 2011 http://api.douban.com/people/evilili/collection?cat=movie&tag=&status=&start-index=51&max-results=50&alt=atom
+[LOG] cnt == 15 Mon Sep 26 13:19:22 2011 http://api.douban.com/people/evolastaroth/collection?cat=movie&tag=&status=&start-index=151&max-results=50&alt=atom
+[LOG] cnt == 16 Mon Sep 26 13:19:25 2011 http://api.douban.com/people/hushuqi/collection?cat=movie&tag=&status=&start-index=51&max-results=50&alt=atom
+[LOG] cnt == 17 Mon Sep 26 13:19:26 2011 http://api.douban.com/people/hushuqi/collection?cat=movie&tag=&status=&start-index=101&max-results=50&alt=atom
+[LOG] cnt == 18 Mon Sep 26 13:19:27 2011 http://api.douban.com/people/hushuqi/collection?cat=movie&tag=&status=&start-index=151&max-results=50&alt=atom
+[LOG] cnt == 19 Mon Sep 26 13:19:28 2011 http://api.douban.com/people/hushuqi/collection?cat=movie&tag=&status=&start-index=201&max-results=50&alt=atom
+[LOG] cnt == 20 Mon Sep 26 13:19:28 2011 http://api.douban.com/people/hushuqi/collection?cat=movie&tag=&status=&start-index=251&max-results=50&alt=atom
+[LOG] cnt == 21 Mon Sep 26 13:19:28 2011 http://api.douban.com/people/45648534/collection?cat=movie&tag=&status=&start-index=1&max-results=50&alt=atom
+[LOG] cnt == 22 Mon Sep 26 13:19:28 2011 http://api.douban.com/people/evolastaroth/collection?cat=movie&tag=&status=&start-index=201&max-results=50&alt=atom
+[LOG] cnt == 23 Mon Sep 26 13:19:29 2011 http://api.douban.com/people/evolastaroth/collection?cat=movie&tag=&status=&start-index=251&max-results=50&alt=atom
+[LOG] cnt == 24 Mon Sep 26 13:19:30 2011 http://api.douban.com/people/onewayed/collection?cat=movie&tag=&status=&start-index=51&max-results=50&alt=atom
+[LOG] cnt == 25 Mon Sep 26 13:19:32 2011 http://api.douban.com/people/onewayed/collection?cat=movie&tag=&status=&start-index=101&max-results=50&alt=atom
+[LOG] cnt == 26 Mon Sep 26 13:19:33 2011 http://api.douban.com/people/evolastaroth/collection?cat=movie&tag=&status=&start-index=301&max-results=50&alt=atom
+[LOG] cnt == 27 Mon Sep 26 13:19:33 2011 http://api.douban.com/people/evolastaroth/collection?cat=movie&tag=&status=&start-index=351&max-results=50&alt=atom
+[LOG] cnt == 28 Mon Sep 26 13:19:34 2011 http://api.douban.com/people/evolastaroth/collection?cat=movie&tag=&status=&start-index=401&max-results=50&alt=atom
+[LOG] cnt == 29 Mon Sep 26 13:19:34 2011 http://api.douban.com/people/evolastaroth/collection?cat=movie&tag=&status=&start-index=451&max-results=50&alt=atom
+[LOG] cnt == 30 Mon Sep 26 13:19:35 2011 http://api.douban.com/people/evolastaroth/collection?cat=movie&tag=&status=&start-index=501&max-results=50&alt=atom
+[LOG] cnt == 31 Mon Sep 26 13:19:36 2011 http://api.douban.com/people/evolastaroth/collection?cat=movie&tag=&status=&start-index=551&max-results=50&alt=atom
+[LOG] cnt == 32 Mon Sep 26 13:19:42 2011 http://api.douban.com/people/onewayed/collection?cat=movie&tag=&status=&start-index=151&max-results=50&alt=atom
+[LOG] cnt == 33 Mon Sep 26 13:19:48 2011 http://api.douban.com/people/onewayed/collection?cat=movie&tag=&status=&start-index=201&max-results=50&alt=atom
+[LOG] cnt == 34 Mon Sep 26 13:19:48 2011 http://api.douban.com/people/onewayed/collection?cat=movie&tag=&status=&start-index=251&max-results=50&alt=atom
+[LOG] cnt == 35 Mon Sep 26 13:19:49 2011 http://api.douban.com/people/evolastaroth/collection?cat=movie&tag=&status=&start-index=601&max-results=50&alt=atom
+[LOG] START at Mon Sep 26 13:26:21 2011
+[LOG] cnt ==  1 Mon Sep 26 13:26:21 2011 http://api.douban.com/people/sunus?alt=atom
+[LOG] cnt ==  2 Mon Sep 26 13:26:22 2011 http://api.douban.com/people/sunus?alt=atom
+[LOG] cnt ==  3 Mon Sep 26 13:26:22 2011 http://api.douban.com/people/sunus/collection?cat=movie&tag=&status=&start-index=1&max-results=50&alt=atom

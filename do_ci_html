@@ -31,9 +31,9 @@ HOSTNAME = "http://localhost/"  if IS_LOCAL == True else "http://184.164.137.154
 LINK_DB_PEOPLE = "http://www.douban.com/people/"
 APIKEY = "053caab0d0224c680fb600127066e538"
 SECRET = ''
+people_nr = 5
 people_list = []
 table = []
-total_bytes_recv = 0
 tbr_lock = threading.Lock()
 class Worker(threading.Thread):
 
@@ -57,13 +57,12 @@ status_chs = {"wishmovie":"想看",       "watchingmovie":"在看",         "wat
               "wishmusic":"想听",       "listeningmusic":"在听",        "listenedmusic":"听过",
               "wishbook":"想读",        "readingbook":"在读",           "readbook":"读过"}
 
-def get_user_collection(uid, cat):
-        global total_bytes_recv
+def get_user_collection(user, cat):
         vaild_title = False
         start = 1
+        uid = user[0]
         item_dict = {}  #{"item_name#1":[item_status, item_link, item_aka], "item_name#2":[item_status, item_link, item_aka], .....}
         #It just START FROM 1
-
         item_status = "<db:status>"
         item_title = "<title>"
         item_link = 'http://{0}.douban.com/subject'.format(cat)
@@ -75,7 +74,6 @@ def get_user_collection(uid, cat):
                 fh = db_api.try_api(uri)
                 content = fh.read().decode("utf8")
                 tbr_lock.acquire()
-                total_bytes_recv += len(content)
                 tbr_lock.release()
                 step = 1
                 if "entry" in content:
@@ -100,8 +98,7 @@ def get_user_collection(uid, cat):
                 else:
                         break
                 start += 50
-        table.append([uid, item_dict])
-#        print("<h4>User {0:4} : count = {1} finished</h4>".format(uid, len(item_dict)))
+        table.append([user, item_dict])
 
 def get_user(group_uri, where):
         where = urllib.parse.quote(where)
@@ -120,11 +117,20 @@ def get_user(group_uri, where):
         uri = "{0}/member_search?search_text={1}&start={2}".format(group_uri, where, start)
         fh = urllib.request.urlopen(uri)
         contents = fh.read().decode("utf8")
-        people_pattern = re.compile(r'http://www.douban.com/people/\w+')
-        people_list.extend(people_pattern.findall(contents)[: 5 * 2:2])
+#       line is like this pattern:
+#        <dd><a href="http://www.douban.com/people/__UID__/">__NIKENAME__</a><br/><span class="pl">(local)</span></dd></dl><dl class="obu" ><dt><a href="http://www.douban.com/people/__UID__/" class="nbg"><img src="http://img3.douban.com/icon/sdfs.jpg" class="m_sub_img" alt="__NIKENAME__"/></a></dt>
+        for line in contents.splitlines():
+                if '<dd><a href="http://www.douban.com/people/' in line:
+                        if(len(people_list) > people_nr):
+                                break
+                        idx = line.strip().find(r'</a>')
+                        a = line.strip()[0:idx].rpartition(r'">')
+                        people_list.append([a[0][13:-1], a[2]])
+#        people_pattern = re.compile(r'http://www.douban.com/people/\w+')
+#        people_list.extend(people_pattern.findall(contents)[: 5 * 2:2])
         i = 0
         for i in range(len(people_list)):
-                people_list[i] = people_list[i].rpartition("/")[2]
+                people_list[i][0] = people_list[i][0].rpartition("/")[2]
 '''        i = 1
         for people in people_list:
                 print("<h4>People{0:4}\t{1}</h4>".format(i, people))
@@ -152,19 +158,19 @@ def get_match_rate(uid1_idx, uid2_idx, cat):
                 print("<h4>Got the problem, uid1_idx = {0} uid2_idx = {1}</h4>".format(uid1_idx, uid2_idx))
                 return None
         common_set = u1_set & u2_set
-        nikename1 = get_names.get_nickname(table[uid1_idx][0])
-        nikename2 = get_names.get_nickname(table[uid2_idx][0])
+        nikename1 = table[uid1_idx][0][1]
+        nikename2 = table[uid2_idx][0][1]
                 
         print('<h4><a href="{0}{1}">{3}</a>\
               和\
               <a href="{0}{2}">{4}</a>\
-              都喜欢的{5}有({6}):</h4>'.format(LINK_DB_PEOPLE, table[uid1_idx][0], table[uid2_idx][0], nikename1, nikename2, cat_local, len(common_set)))
+              都喜欢的{5}有({6}):</h4>'.format(LINK_DB_PEOPLE, table[uid1_idx][0][0], table[uid2_idx][0][0], nikename1, nikename2, cat_local, len(common_set)))
         print('<table border="1" width="600px">')
         print('<tr>\
         <th align="left" width="300px"><h4>{0}</h4></th>\
         <th align="left" width="150px"><h4><a href="{3}{4}">{1}</a></h4></th>\
         <th align="left" width="150px"><h4><a href="{3}{5}">{2}</a></h4></th></tr>'.format("match", nikename1, nikename2, 
-                                                                                           LINK_DB_PEOPLE, table[uid1_idx][0], table[uid2_idx][0]))
+                                                                                           LINK_DB_PEOPLE, table[uid1_idx][0][0], table[uid2_idx][0][0]))
         link_db_item = "http://{0}.douban.com/subject/".format(cat)
         for item_name in common_set:
                 name = table[uid1_idx][1][item_name][2] if table[uid1_idx][1][item_name][2] != None else item_name
@@ -211,7 +217,6 @@ def var_verify(user, group = None, cat = None, location = None):
 
 
 def main():
-        global total_bytes_recv
         global people_list
         form = cgi.FieldStorage()
         you = form.getvalue("you", "sunus")
@@ -266,7 +271,8 @@ def main():
                 worker.daemon = True
                 worker.start()
         # THREAD PART
-        get_user_collection(you, cat)
+        your_nikename = get_names.get_nickname(you)
+        get_user_collection([you, your_nikename], cat)
         for people in people_list:
                 user_queue.put([people, cat])
         user_queue.join()
@@ -286,8 +292,10 @@ def main():
         r = 1
         print('<h4>在 <a href="{0}">{1}</a> 为您找到了在 {2} 的豆友:</h4>'.format(group_url, get_names.get_group_name(group_url), location))
         for i in range(ir, total_people):
-                print('<h4>#{0:<4} <a href="{3}{4}">{1}</a>和你有 {2} 项共同喜好</h4>'.format(r, get_names.get_nickname(table[rank[i][0]][0]), rank[i][1], 
-                                                                                                     LINK_DB_PEOPLE, table[rank[i][0]][0]))
+                #print('<h4>#{0:<4} <a href="{3}{4}">{1}</a>和你有 {2} 项共同喜好</h4>'.format(r, get_names.get_nickname(table[rank[i][0]][0]), rank[i][1], 
+                #                                                                                     LINK_DB_PEOPLE, table[rank[i][0]][0]))
+                print('<h4>#{0:<4} <a href="{3}{4}">{1}</a>和你有 {2} 项共同喜好</h4>'.format(r, table[rank[i][0]][0][1], rank[i][1], 
+                                                                                                     LINK_DB_PEOPLE, table[rank[i][0]][0][0]))
                 r += 1
 #        print("<h4>hopefully u will find she/he!</h4>")
 #        print("<h4>received",total_bytes_recv, "bytes</h4>")
