@@ -6,6 +6,9 @@ LOCK_EX = fcntl.LOCK_EX
 LOCK_UN = fcntl.LOCK_UN
 LOCK_NB = fcntl.LOCK_NB
 LIMIT = 38
+
+'''
+this version of try_api is gone.
 def try_api(api_url):
         while True:
                 while True:
@@ -22,6 +25,7 @@ def try_api(api_url):
                         fh.write("[LOG] START at {0}\n".format(time.ctime()))
                         fh.write("[LOG] cnt == {0:2} {1:<24} {2}\n".format(1, time.ctime(), api_url[:-40]))
                         fh.write("{0},{1},{2}\n".format(time.ctime(), 1, int(time.time())))
+                        data = urllib.request.urlopen(api_url)
                         break;
                 os.lseek(fh.fileno(), -17, os.SEEK_END)
                 lastline = fh.read(16)
@@ -38,7 +42,7 @@ def try_api(api_url):
                         fh.write("[LOG] END at {0},0,{1}\n".format(time.ctime(), int(time.time())))
                         #fcntl.flock(fh.fileno(), LOCK_UN) JUST LET THE FILE KEEP ON BLOCKING WHILE IT'S SLEEPING , 25, 9, 2011
                         #I am not sure whether it will work or not:<
-                        fh.close()
+                        #fh.close()
                         time.sleep(65)
                         #time.sleep(int(lasttime) + 65 - int(time.time()))
                 else:
@@ -51,4 +55,28 @@ def try_api(api_url):
 
         fcntl.flock(fh.fileno(), LOCK_UN)
         fh.close()
-        return data 
+        return data
+'''
+def try_api(api_url):
+        while True:
+                while True:
+                        try:
+                                fh = open("api_limit", "a+")
+                                fcntl.flock(fh, LOCK_EX|LOCK_NB)
+                                break
+                        except IOError:
+                                fh.close()
+                if(fh.tell() == 0):
+                        data = urllib.request.urlopen(api_url)
+                        cnt = 1
+                        fh.write("[LOG] START at {0}\n".format(time.ctime()))
+                else:
+                        os.lseek(fh.fileno(), -11, os.SEEK_END)
+                        cnt = int(fh.read(10).split()[2])
+                        cnt += 1
+                data = urllib.request.urlopen(api_url)
+                fh.write("[LOG] {0:<24} {1} cnt == {2:2}\n".format(time.ctime(), api_url[:-40], cnt))
+                time.sleep(1.80)
+                fcntl.flock(fh, LOCK_UN)
+                fh.close()
+                return data
