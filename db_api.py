@@ -76,7 +76,7 @@ def try_api(api_url):
                         cnt += 1
                 data = urllib.request.urlopen(api_url)
                 fh.write("[LOG] {0:<24} {1} cnt == {2:2}\n".format(time.ctime(), api_url[:-40], cnt))
-                time.sleep(1.80)
+                time.sleep(2)
                 fcntl.flock(fh, LOCK_UN)
                 fh.close()
                 return data

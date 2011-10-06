@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:db="http://www.douban.com/xmlns/" xmlns:gd="http://schemas.google.com/g/2005" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:opensearch="http://a9.com/-/spec/opensearchrss/1.0/">
+	<title>小寒 的收藏</title>
+	<author>
+		<link href="http://api.douban.com/people/21003455" rel="self"/>
+		<link href="http://www.douban.com/people/nethan/" rel="alternate"/>
+		<link href="http://img3.douban.com/icon/u21003455-2.jpg" rel="icon"/>
+		<name>小寒</name>
+		<uri>http://api.douban.com/people/21003455</uri>
+	</author>
+	<opensearch:startIndex>1</opensearch:startIndex>
+	<opensearch:totalResults>6</opensearch:totalResults>
+	<entry>
+		<id>http://api.douban.com/collection/436500826</id>
+		<title>小寒 看过 Source Code</title>
+		<updated>2011-09-15T20:54:12+08:00</updated>
+		<link href="http://api.douban.com/collection/436500826" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3075287" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3075287</id>
+			<title>Source Code</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>邓肯·琼斯 Duncan Jones</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3075287" rel="self"/>
+			<link href="http://movie.douban.com/subject/3075287/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s6776201.jpg" rel="image"/>
+			<db:attribute name="director">邓肯·琼斯</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">源代码</db:attribute>
+			<db:attribute name="website">www.enterthesourcecode.com</db:attribute>
+			<db:attribute name="writer">Ben Ripley</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0945513/</db:attribute>
+			<db:attribute name="country">法国</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="pubdate">2011-08-30(中国大陆)</db:attribute>
+			<db:attribute name="pubdate">2011-04-01(美国)</db:attribute>
+			<db:attribute name="cast">杰克·吉伦哈尔</db:attribute>
+			<db:attribute name="cast">维拉·法米加</db:attribute>
+			<db:attribute name="cast">米歇尔·莫娜汉</db:attribute>
+			<db:attribute name="cast">杰弗里·怀特</db:attribute>
+			<db:attribute name="cast">拉塞尔·皮特斯</db:attribute>
+			<db:attribute name="cast">James A. Woods</db:attribute>
+			<db:attribute name="cast">迈克尔·阿登</db:attribute>
+			<db:attribute name="cast">Joe Cobden</db:attribute>
+			<db:attribute name="cast">Cas Anvar</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/432151300</id>
+		<title>小寒 想看 nude</title>
+		<updated>2011-09-02T10:38:47+08:00</updated>
+		<link href="http://api.douban.com/collection/432151300" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/4856162" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/4856162</id>
+			<title>nude</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>小沼雄一</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/4856162" rel="self"/>
+			<link href="http://movie.douban.com/subject/4856162/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4461727.jpg" rel="image"/>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="writer">Mihiro</db:attribute>
+			<db:attribute name="director">小沼雄一</db:attribute>
+			<db:attribute name="pubdate">2010</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1660399/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">裸</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">渡辺奈緒子</db:attribute>
+			<db:attribute name="cast">佐津川愛美</db:attribute>
+			<db:attribute name="cast">永山たかし</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/425437631</id>
+		<title>小寒 想看 钢的琴</title>
+		<updated>2011-08-14T13:56:24+08:00</updated>
+		<link href="http://api.douban.com/collection/425437631" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/4876722" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/4876722</id>
+			<title>钢的琴</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>张猛 Meng Zhang</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/4876722" rel="self"/>
+			<link href="http://movie.douban.com/subject/4876722/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s6565629.jpg" rel="image"/>
+			<db:attribute name="director">张猛</db:attribute>
+			<db:attribute name="country">中国大陆</db:attribute>
+			<db:attribute name="writer">张猛</db:attribute>
+			<db:attribute name="language">汉语普通话</db:attribute>
+			<db:attribute name="language">俄语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1754691/</db:attribute>
+			<db:attribute name="pubdate">2011-07-15(中国大陆)</db:attribute>
+			<db:attribute name="cast">王千源</db:attribute>
+			<db:attribute name="cast">秦海璐</db:attribute>
+			<db:attribute name="cast">张申英</db:attribute>
+			<db:attribute name="cast">田雨</db:attribute>
+			<db:attribute name="cast">国永振</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/419338595</id>
+		<title>小寒 看过 西游记后传</title>
+		<updated>2011-07-29T08:25:32+08:00</updated>
+		<link href="http://api.douban.com/collection/419338595" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/2245679" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/2245679</id>
+			<title>西游记后传</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>李源</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/2245679" rel="self"/>
+			<link href="http://movie.douban.com/subject/2245679/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2749273.jpg" rel="image"/>
+			<db:attribute name="country">中国</db:attribute>
+			<db:attribute name="writer">钱雁秋</db:attribute>
+			<db:attribute name="director">李源</db:attribute>
+			<db:attribute name="language">汉语</db:attribute>
+			<db:attribute name="pubdate">2000年</db:attribute>
+			<db:attribute name="cast">黄海冰</db:attribute>
+			<db:attribute name="cast">曹荣</db:attribute>
+			<db:attribute name="cast">阎汉彪</db:attribute>
+			<db:attribute name="cast">李京</db:attribute>
+			<db:attribute name="cast">吴健</db:attribute>
+			<db:attribute name="cast">马杰林</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="1"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/414652106</id>
+		<title>小寒 看过 孤岛惊魂</title>
+		<updated>2011-07-16T17:04:51+08:00</updated>
+		<link href="http://api.douban.com/collection/414652106" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/5364987" rel="http://www.douban.com/2007#subject"/>
+		<summary>看之前想到会比较烂,但是没想到会烂成这样!</summary>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/5364987</id>
+			<title>孤岛惊魂</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>钟继昌</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/5364987" rel="self"/>
+			<link href="http://movie.douban.com/subject/5364987/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s6758889.jpg" rel="image"/>
+			<db:attribute name="country">中国大陆</db:attribute>
+			<db:attribute name="writer">蓝炀</db:attribute>
+			<db:attribute name="pubdate">2011-07-08(中国大陆)</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1980198/</db:attribute>
+			<db:attribute name="language">汉语普通话</db:attribute>
+			<db:attribute name="language">粤语</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">陈小春</db:attribute>
+			<db:attribute name="cast">杨幂</db:attribute>
+			<db:attribute name="cast">叶山豪</db:attribute>
+			<db:attribute name="cast">蔡淑臻</db:attribute>
+			<db:attribute name="cast">黄又南</db:attribute>
+			<db:attribute name="cast">徐天佑</db:attribute>
+			<db:attribute name="cast">安雅</db:attribute>
+			<db:attribute name="cast">谭俊彦</db:attribute>
+			<db:attribute name="cast">李曼筠</db:attribute>
+			<db:attribute name="cast">徐自贤</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="1"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/398647981</id>
+		<title>小寒 看过 Red Riding Hood</title>
+		<updated>2011-06-03T22:04:00+08:00</updated>
+		<link href="http://api.douban.com/collection/398647981" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3914500" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3914500</id>
+			<title>Red Riding Hood</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>凯瑟琳·哈德威克 Catherine Hardwicke</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3914500" rel="self"/>
+			<link href="http://movie.douban.com/subject/3914500/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4540396.jpg" rel="image"/>
+			<db:attribute name="website">http://redridinghood.warnerbros.com</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="country">加拿大</db:attribute>
+			<db:attribute name="writer">David Johnson</db:attribute>
+			<db:attribute name="director">凯瑟琳·哈德威克</db:attribute>
+			<db:attribute name="pubdate">2011-03-11(美国)</db:attribute>
+			<db:attribute name="pubdate">2011-04-15(英国)</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1486185/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">小红帽</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">阿曼达·塞弗里德</db:attribute>
+			<db:attribute name="cast">加里·奥德曼</db:attribute>
+			<db:attribute name="cast">卢卡斯·哈斯</db:attribute>
+			<db:attribute name="cast">比利·伯克</db:attribute>
+			<db:attribute name="cast">维吉妮娅·马德森</db:attribute>
+			<db:attribute name="cast">希罗·弗南德兹</db:attribute>
+			<db:attribute name="cast">迈克尔·山克斯</db:attribute>
+			<db:attribute name="cast">朱莉·克里斯蒂</db:attribute>
+			<db:attribute name="cast">马克斯·艾龙斯</db:attribute>
+			<db:attribute name="cast">Michael Hogan</db:attribute>
+		</db:subject>
+		<db:tag name="悬疑"/>
+		<db:tag name="爱情"/>
+		<db:tag name="惊悚"/>
+		<db:tag name="哥特"/>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<opensearch:itemsPerPage>50</opensearch:itemsPerPage>
+</feed>

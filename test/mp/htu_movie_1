@@ -1,0 +1,1833 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:db="http://www.douban.com/xmlns/" xmlns:gd="http://schemas.google.com/g/2005" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:opensearch="http://a9.com/-/spec/opensearchrss/1.0/">
+	<title>TODO 的收藏</title>
+	<author>
+		<link href="http://api.douban.com/people/43345494" rel="self"/>
+		<link href="http://www.douban.com/people/htu/" rel="alternate"/>
+		<link href="http://img3.douban.com/icon/u43345494-9.jpg" rel="icon"/>
+		<name>TODO</name>
+		<uri>http://api.douban.com/people/43345494</uri>
+	</author>
+	<opensearch:startIndex>1</opensearch:startIndex>
+	<opensearch:totalResults>219</opensearch:totalResults>
+	<entry>
+		<id>http://api.douban.com/collection/435023608</id>
+		<title>TODO 看过 Prince of Persia: The Sands of Time</title>
+		<updated>2011-09-29T09:55:17+08:00</updated>
+		<link href="http://api.douban.com/collection/435023608" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1819388" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1819388</id>
+			<title>Prince of Persia: The Sands of Time</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Mike Newell</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1819388" rel="self"/>
+			<link href="http://movie.douban.com/subject/1819388/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4216019.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">Boaz Yakin</db:attribute>
+			<db:attribute name="writer">Doug Miro</db:attribute>
+			<db:attribute name="writer">Carlo Bernard</db:attribute>
+			<db:attribute name="director">迈克·内威尔</db:attribute>
+			<db:attribute name="pubdate">2010-05-28</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0473075/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">波斯王子：时之刃</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">杰克·吉伦哈尔</db:attribute>
+			<db:attribute name="cast">杰玛·阿特登</db:attribute>
+			<db:attribute name="cast">本·金斯利</db:attribute>
+			<db:attribute name="cast">阿尔弗雷德·莫里纳</db:attribute>
+			<db:attribute name="cast">Steve Toussaint</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/438574774</id>
+		<title>TODO 看过 Predators</title>
+		<updated>2011-09-22T11:31:40+08:00</updated>
+		<link href="http://api.douban.com/collection/438574774" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3699737" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3699737</id>
+			<title>Predators</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Nimród Antal</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3699737" rel="self"/>
+			<link href="http://movie.douban.com/subject/3699737/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4368407.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">Alex Litvak</db:attribute>
+			<db:attribute name="writer">Michael Finch</db:attribute>
+			<db:attribute name="director">尼莫洛德·安塔尔</db:attribute>
+			<db:attribute name="pubdate">2010-07-09</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1424381/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">新铁血战士</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">艾德里安·布洛迪</db:attribute>
+			<db:attribute name="cast">托弗·戈瑞斯</db:attribute>
+			<db:attribute name="cast">丹尼·特乔</db:attribute>
+			<db:attribute name="cast">劳伦斯·菲什伯恩</db:attribute>
+			<db:attribute name="cast">Walton Goggins</db:attribute>
+			<db:attribute name="cast">艾莉丝·布拉加</db:attribute>
+			<db:attribute name="cast">德里克·梅耶斯</db:attribute>
+			<db:attribute name="cast">Brian Steele</db:attribute>
+			<db:attribute name="cast">马赫莎拉哈什巴兹·阿里</db:attribute>
+			<db:attribute name="cast">欧勒格·塔克塔罗夫</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="3"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/438574675</id>
+		<title>TODO 想看 Черная Молния</title>
+		<updated>2011-09-22T11:31:19+08:00</updated>
+		<link href="http://api.douban.com/collection/438574675" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/4297254" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/4297254</id>
+			<title>Черная Молния</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Dmitriy Kiselev</name>
+			</author>
+			<author>
+				<name>Aleksandr Voytinskiy</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/4297254" rel="self"/>
+			<link href="http://movie.douban.com/subject/4297254/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4181600.jpg" rel="image"/>
+			<db:attribute name="country">俄罗斯</db:attribute>
+			<db:attribute name="writer">Dmitriy Aleynikov</db:attribute>
+			<db:attribute name="writer">Aleksandr Talal</db:attribute>
+			<db:attribute name="director">Dmitriy Kiselev</db:attribute>
+			<db:attribute name="director">Aleksandr Voytinskiy</db:attribute>
+			<db:attribute name="pubdate">2009-12-31</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1569364/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">黑色闪电</db:attribute>
+			<db:attribute name="language">俄语</db:attribute>
+			<db:attribute name="cast">吉里格力·多布金</db:attribute>
+			<db:attribute name="cast">叶卡捷琳娜·维柯娃</db:attribute>
+			<db:attribute name="cast">Viktor Verzhbitskiy</db:attribute>
+			<db:attribute name="cast">Valeriy Zolotukhin</db:attribute>
+			<db:attribute name="cast">Ekaterina Vasileva</db:attribute>
+			<db:attribute name="cast">Juozas Budraitis</db:attribute>
+			<db:attribute name="cast">Ivan Zhidkov</db:attribute>
+			<db:attribute name="cast">Sergey Garmash</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/438574013</id>
+		<title>TODO 看过 The Day the Earth Stood Still</title>
+		<updated>2011-09-22T11:28:51+08:00</updated>
+		<link href="http://api.douban.com/collection/438574013" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/2225321" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/2225321</id>
+			<title>The Day the Earth Stood Still</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Scott Derrickson</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/2225321" rel="self"/>
+			<link href="http://movie.douban.com/subject/2225321/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3320457.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="country">加拿大</db:attribute>
+			<db:attribute name="writer">David Scarpa</db:attribute>
+			<db:attribute name="writer">Edmund H. North</db:attribute>
+			<db:attribute name="director">Scott Derrickson</db:attribute>
+			<db:attribute name="pubdate">2008-12-12</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0970416/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">地球停转之日</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">基努·李维斯</db:attribute>
+			<db:attribute name="cast">詹妮弗·康纳利</db:attribute>
+			<db:attribute name="cast">贾登·史密斯</db:attribute>
+			<db:attribute name="cast">约翰·克立斯</db:attribute>
+			<db:attribute name="cast">凯西·贝茨</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="2"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/438573850</id>
+		<title>TODO 看过 Race to Witch Mountain</title>
+		<updated>2011-09-22T11:28:12+08:00</updated>
+		<link href="http://api.douban.com/collection/438573850" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/2996642" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/2996642</id>
+			<title>Race to Witch Mountain</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Andy Fickman</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/2996642" rel="self"/>
+			<link href="http://movie.douban.com/subject/2996642/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3591833.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">Matt Lopez</db:attribute>
+			<db:attribute name="writer">马克·鲍姆贝克</db:attribute>
+			<db:attribute name="writer">Alexander Key</db:attribute>
+			<db:attribute name="director">安迪·菲克曼</db:attribute>
+			<db:attribute name="pubdate">2009-03-11</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1075417/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">魔鬼山历险记</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">道恩·强森</db:attribute>
+			<db:attribute name="cast">安娜索菲亚·罗伯</db:attribute>
+			<db:attribute name="cast">亚历山大·路德韦格</db:attribute>
+			<db:attribute name="cast">卡拉·古奇诺</db:attribute>
+			<db:attribute name="cast">塞伦·希德</db:attribute>
+			<db:attribute name="cast">汤姆·艾弗瑞特·斯科特</db:attribute>
+			<db:attribute name="cast">克里斯·马奎特</db:attribute>
+			<db:attribute name="cast">黄圣依</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="3"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/438573723</id>
+		<title>TODO 想看 Cargo</title>
+		<updated>2011-09-22T11:27:39+08:00</updated>
+		<link href="http://api.douban.com/collection/438573723" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3148956" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3148956</id>
+			<title>Cargo</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Ivan Engler</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3148956" rel="self"/>
+			<link href="http://movie.douban.com/subject/3148956/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3939428.jpg" rel="image"/>
+			<db:attribute name="country">瑞士</db:attribute>
+			<db:attribute name="director">Ivan Engler</db:attribute>
+			<db:attribute name="pubdate">2009-10</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0381940/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">太空运输</db:attribute>
+			<db:attribute name="language">德语</db:attribute>
+			<db:attribute name="cast">Martin Rapold</db:attribute>
+			<db:attribute name="cast">Michael Finger</db:attribute>
+			<db:attribute name="cast">Claude-Oliver Rudolph</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/437889630</id>
+		<title>TODO 想看 鋼の錬金術師 シャンバラを征く者</title>
+		<updated>2011-09-19T22:43:10+08:00</updated>
+		<link href="http://api.douban.com/collection/437889630" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1448755" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1448755</id>
+			<title>鋼の錬金術師 シャンバラを征く者</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>水島精二（Seiji Mizushima）</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1448755" rel="self"/>
+			<link href="http://movie.douban.com/subject/1448755/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1462292.jpg" rel="image"/>
+			<db:attribute name="website">http://www.sonymusic.co.jp/Animation/hagaren/hagaren-movie/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="writer">会川升</db:attribute>
+			<db:attribute name="director">水島精二（Seiji Mizushima）</db:attribute>
+			<db:attribute name="pubdate">2005-12-23</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0485323/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">钢之炼金术师 香巴拉的征服者</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">葡萄牙语</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">朴璐美</db:attribute>
+			<db:attribute name="cast">钉宫理惠</db:attribute>
+			<db:attribute name="cast">小栗旬</db:attribute>
+			<db:attribute name="cast">大川透</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/437886340</id>
+		<title>TODO 看过 Up</title>
+		<updated>2011-09-19T22:34:44+08:00</updated>
+		<link href="http://api.douban.com/collection/437886340" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/2129039" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/2129039</id>
+			<title>Up</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>彼特·道格特 Pete Docter</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/2129039" rel="self"/>
+			<link href="http://movie.douban.com/subject/2129039/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3563529.jpg" rel="image"/>
+			<db:attribute name="website">http://adisney.go.com/disneyvideos/animatedfilms/up/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">鲍勃·彼德森</db:attribute>
+			<db:attribute name="director">彼特·道格特</db:attribute>
+			<db:attribute name="pubdate">2009-05-29</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1049413/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">飞屋环游记</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">克里斯托弗·普卢默</db:attribute>
+			<db:attribute name="cast">约翰·拉岑贝格</db:attribute>
+			<db:attribute name="cast">爱德华·阿斯纳</db:attribute>
+			<db:attribute name="cast">Paul Eiding</db:attribute>
+			<db:attribute name="cast">乔丹·长井</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/437886162</id>
+		<title>TODO 看过 Despicable Me</title>
+		<updated>2011-09-19T22:34:22+08:00</updated>
+		<link href="http://api.douban.com/collection/437886162" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3287562" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3287562</id>
+			<title>Despicable Me</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>皮艾尔·柯芬 Pierre Coffin</name>
+			</author>
+			<author>
+				<name>克里斯·雷纳德 Chris Renaud</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3287562" rel="self"/>
+			<link href="http://movie.douban.com/subject/3287562/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4357597.jpg" rel="image"/>
+			<db:attribute name="website">www.despicableme.com/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">肯·达里奥</db:attribute>
+			<db:attribute name="writer">塞尔吉奥·帕布洛</db:attribute>
+			<db:attribute name="writer">辛科·保罗</db:attribute>
+			<db:attribute name="director">皮艾尔·柯芬</db:attribute>
+			<db:attribute name="director">克里斯·雷纳德</db:attribute>
+			<db:attribute name="pubdate">2010-07-08</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1323594/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">卑鄙的我</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">杰森·席格尔</db:attribute>
+			<db:attribute name="cast">史蒂夫·卡瑞尔</db:attribute>
+			<db:attribute name="cast">拉塞尔·布兰德</db:attribute>
+			<db:attribute name="cast">威尔·阿奈特</db:attribute>
+			<db:attribute name="cast">朱丽·安德鲁斯</db:attribute>
+			<db:attribute name="cast">克里斯汀·韦格</db:attribute>
+			<db:attribute name="cast">米兰达·卡斯格拉夫</db:attribute>
+			<db:attribute name="cast">达纳·盖尔</db:attribute>
+			<db:attribute name="cast">艾尔西·费舍尔</db:attribute>
+			<db:attribute name="cast">皮艾尔·柯芬</db:attribute>
+			<db:attribute name="cast">克里斯·雷纳德</db:attribute>
+			<db:attribute name="cast">杰梅奈·克莱门特</db:attribute>
+			<db:attribute name="cast">杰克·麦克布瑞尔</db:attribute>
+			<db:attribute name="cast">丹尼·麦克布耐德</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/437885231</id>
+		<title>TODO 想看 Robotech II: The Sentinels</title>
+		<updated>2011-09-19T22:31:54+08:00</updated>
+		<link href="http://api.douban.com/collection/437885231" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3123647" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3123647</id>
+			<title>Robotech II: The Sentinels</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Carl Macek</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3123647" rel="self"/>
+			<link href="http://movie.douban.com/subject/3123647/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3152905.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">太空堡垒II：哨兵</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0197828/</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/437884154</id>
+		<title>TODO 看过 Robotech</title>
+		<updated>2011-09-19T22:28:53+08:00</updated>
+		<link href="http://api.douban.com/collection/437884154" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1807994" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1807994</id>
+			<title>Robotech</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Robert V. Barron</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1807994" rel="self"/>
+			<link href="http://movie.douban.com/subject/1807994/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3584529.jpg" rel="image"/>
+			<db:attribute name="website">http://www.robotech.com</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="director">Robert V. Barron</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">太空堡垒</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0088595/</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+		</db:subject>
+		<db:tag name="动画片"/>
+		<db:tag name="太空堡垒"/>
+		<db:tag name="美国"/>
+		<db:tag name="童年"/>
+		<db:tag name="科幻"/>
+		<db:tag name="经典"/>
+		<db:tag name="日本"/>
+		<db:tag name="动漫"/>
+		<db:tag name="动画"/>
+		<db:tag name="爱情"/>
+		<db:tag name="机器人"/>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/437835538</id>
+		<title>TODO 想看 Season of the Witch</title>
+		<updated>2011-09-19T20:10:45+08:00</updated>
+		<link href="http://api.douban.com/collection/437835538" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3017651" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3017651</id>
+			<title>Season of the Witch</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>多米尼克·塞纳 Dominic Sena</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3017651" rel="self"/>
+			<link href="http://movie.douban.com/subject/3017651/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4534572.jpg" rel="image"/>
+			<db:attribute name="director">多米尼克·塞纳</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">女巫季节</db:attribute>
+			<db:attribute name="website">www.seasonofthewitchmovie.com</db:attribute>
+			<db:attribute name="writer">Bragi F. Schut</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0479997/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="pubdate">2011-08-19(中国大陆)</db:attribute>
+			<db:attribute name="pubdate">2011-01-07(美国)</db:attribute>
+			<db:attribute name="cast">尼古拉斯·凯奇</db:attribute>
+			<db:attribute name="cast">朗·普尔曼</db:attribute>
+			<db:attribute name="cast">斯蒂芬·坎贝尔·莫尔</db:attribute>
+			<db:attribute name="cast">罗伯特·席安</db:attribute>
+			<db:attribute name="cast">克里斯托弗·李</db:attribute>
+			<db:attribute name="cast">克莱尔·芙伊</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/435864574</id>
+		<title>TODO 想看 Green Lantern</title>
+		<updated>2011-09-13T19:48:12+08:00</updated>
+		<link href="http://api.douban.com/collection/435864574" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/2364054" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/2364054</id>
+			<title>Green Lantern</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Martin Campbell</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/2364054" rel="self"/>
+			<link href="http://movie.douban.com/subject/2364054/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s6489868.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">格里格·伯兰蒂</db:attribute>
+			<db:attribute name="writer">Michael Goldenberg</db:attribute>
+			<db:attribute name="writer">Michael Green</db:attribute>
+			<db:attribute name="writer">马克·古根海姆</db:attribute>
+			<db:attribute name="director">马丁·坎贝尔</db:attribute>
+			<db:attribute name="pubdate">2011-06-17(美国)</db:attribute>
+			<db:attribute name="pubdate">2011-10-20(中国大陆)</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1133985/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">绿灯侠</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">瑞恩·雷诺兹</db:attribute>
+			<db:attribute name="cast">布蕾克·莱弗利</db:attribute>
+			<db:attribute name="cast">彼得·萨斯加德</db:attribute>
+			<db:attribute name="cast">马克·斯特朗</db:attribute>
+			<db:attribute name="cast">特穆拉·莫里森</db:attribute>
+			<db:attribute name="cast">珍娜·克莱格</db:attribute>
+			<db:attribute name="cast">乔恩·坦尼</db:attribute>
+			<db:attribute name="cast">蒂姆·罗宾斯</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/399373752</id>
+		<title>TODO 看过 X-Men: First Class</title>
+		<updated>2011-09-13T19:37:08+08:00</updated>
+		<link href="http://api.douban.com/collection/399373752" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3168089" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3168089</id>
+			<title>X-Men: First Class</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>马修·沃恩 Matthew Vaughn</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3168089" rel="self"/>
+			<link href="http://movie.douban.com/subject/3168089/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s6394817.jpg" rel="image"/>
+			<db:attribute name="director">马修·沃恩</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">X战警：第一战</db:attribute>
+			<db:attribute name="website">www.x-menfirstclassmovie.com/</db:attribute>
+			<db:attribute name="writer">Jamie Moss</db:attribute>
+			<db:attribute name="writer">简·古德曼</db:attribute>
+			<db:attribute name="writer">乔什·施瓦兹</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">德语</db:attribute>
+			<db:attribute name="language">法语</db:attribute>
+			<db:attribute name="language">西班牙语</db:attribute>
+			<db:attribute name="language">俄语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1270798/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="pubdate">2011-06-03(美国)</db:attribute>
+			<db:attribute name="cast">詹姆斯·麦卡沃伊</db:attribute>
+			<db:attribute name="cast">迈克尔·法斯宾德</db:attribute>
+			<db:attribute name="cast">詹纽瑞·琼斯</db:attribute>
+			<db:attribute name="cast">詹妮弗·劳伦斯</db:attribute>
+			<db:attribute name="cast">萝丝·拜恩</db:attribute>
+			<db:attribute name="cast">尼古拉斯·霍尔特</db:attribute>
+			<db:attribute name="cast">凯文·贝肯</db:attribute>
+			<db:attribute name="cast">佐伊·克罗维兹</db:attribute>
+			<db:attribute name="cast">亚历·冈萨雷斯</db:attribute>
+			<db:attribute name="cast">杰森·弗莱明</db:attribute>
+			<db:attribute name="cast">卢卡斯·提尔</db:attribute>
+			<db:attribute name="cast">摩根·莉莉</db:attribute>
+			<db:attribute name="cast">艾迪·盖瑟吉</db:attribute>
+			<db:attribute name="cast">奥利弗·普莱特</db:attribute>
+			<db:attribute name="cast">雷·怀斯</db:attribute>
+			<db:attribute name="cast">比尔·米尔纳</db:attribute>
+			<db:attribute name="cast">卡赖伯·兰德里·琼斯</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/395982465</id>
+		<title>TODO 看过 Thor</title>
+		<updated>2011-09-13T19:36:56+08:00</updated>
+		<link href="http://api.douban.com/collection/395982465" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1866471" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1866471</id>
+			<title>Thor</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>肯尼思·布拉纳 Kenneth Branagh</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1866471" rel="self"/>
+			<link href="http://movie.douban.com/subject/1866471/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4674150.jpg" rel="image"/>
+			<db:attribute name="director">肯尼思·布拉纳</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">雷神</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">Ashley Miller</db:attribute>
+			<db:attribute name="writer">Mark Protosevich</db:attribute>
+			<db:attribute name="writer">Zack Stentz</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0800369/</db:attribute>
+			<db:attribute name="pubdate">2011-05-06(美国)</db:attribute>
+			<db:attribute name="pubdate">2011-05-08(中国大陆)</db:attribute>
+			<db:attribute name="cast">克里斯·海姆斯沃斯</db:attribute>
+			<db:attribute name="cast">汤姆·希德勒斯顿</db:attribute>
+			<db:attribute name="cast">娜塔丽·波曼</db:attribute>
+			<db:attribute name="cast">安东尼·霍普金斯</db:attribute>
+			<db:attribute name="cast">斯特兰·斯卡斯加德</db:attribute>
+			<db:attribute name="cast">凯特·戴琳斯</db:attribute>
+			<db:attribute name="cast">克拉克·格雷格</db:attribute>
+			<db:attribute name="cast">伊德瑞斯·艾尔巴</db:attribute>
+			<db:attribute name="cast">科鲁姆·费奥瑞</db:attribute>
+			<db:attribute name="cast">雷·史蒂文森</db:attribute>
+			<db:attribute name="cast">浅野忠信</db:attribute>
+			<db:attribute name="cast">杰米·亚历山大</db:attribute>
+			<db:attribute name="cast">蕾妮·罗素</db:attribute>
+			<db:attribute name="cast">艾德里安娜·巴拉扎</db:attribute>
+			<db:attribute name="cast">杰瑞米·雷纳</db:attribute>
+			<db:attribute name="cast">乔舒华·达拉斯</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/435025495</id>
+		<title>TODO 看过 The Losers</title>
+		<updated>2011-09-11T09:40:25+08:00</updated>
+		<link href="http://api.douban.com/collection/435025495" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/2027933" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/2027933</id>
+			<title>The Losers</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Sylvain White</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/2027933" rel="self"/>
+			<link href="http://movie.douban.com/subject/2027933/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4247861.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">彼得·博格</db:attribute>
+			<db:attribute name="writer">James Vanderbilt</db:attribute>
+			<db:attribute name="director">Sylvain White</db:attribute>
+			<db:attribute name="pubdate">2010-04-23</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0480255/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">绝命反击</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">杰弗里·迪恩·摩根</db:attribute>
+			<db:attribute name="cast">佐伊·索尔达娜</db:attribute>
+			<db:attribute name="cast">克里斯·埃文斯</db:attribute>
+			<db:attribute name="cast">杰森·帕特里克</db:attribute>
+			<db:attribute name="cast">伊德瑞斯·艾尔巴</db:attribute>
+			<db:attribute name="cast">哥伦布·绍特</db:attribute>
+			<db:attribute name="cast">奥斯卡·贾恩那达</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="3"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/435025470</id>
+		<title>TODO 看过 The A-Team</title>
+		<updated>2011-09-11T09:40:16+08:00</updated>
+		<link href="http://api.douban.com/collection/435025470" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/2174535" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/2174535</id>
+			<title>The A-Team</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Joe Carnahan</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/2174535" rel="self"/>
+			<link href="http://movie.douban.com/subject/2174535/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4225803.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">乔·卡纳汉</db:attribute>
+			<db:attribute name="writer">Brian Bloom</db:attribute>
+			<db:attribute name="writer">Skip Woods</db:attribute>
+			<db:attribute name="director">乔·卡纳汉</db:attribute>
+			<db:attribute name="pubdate">2010-06-11</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0429493/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">天龙特攻队</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">连姆·尼森</db:attribute>
+			<db:attribute name="cast">布莱德利·库珀</db:attribute>
+			<db:attribute name="cast">沙尔托·科普雷</db:attribute>
+			<db:attribute name="cast">Quinton 'Rampage' Jackson</db:attribute>
+			<db:attribute name="cast">杰西卡·贝尔</db:attribute>
+			<db:attribute name="cast">帕特里克·威尔森</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="3"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/392813967</id>
+		<title>TODO 看过 Pirates of the Caribbean: On Stranger Tides</title>
+		<updated>2011-09-11T09:24:20+08:00</updated>
+		<link href="http://api.douban.com/collection/392813967" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3227410" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3227410</id>
+			<title>Pirates of the Caribbean: On Stranger Tides</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>罗伯·马歇尔 Rob Marshall</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3227410" rel="self"/>
+			<link href="http://movie.douban.com/subject/3227410/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4669323.jpg" rel="image"/>
+			<db:attribute name="director">罗伯·马歇尔</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">加勒比海盗4：惊涛怪浪</db:attribute>
+			<db:attribute name="website">http://disney.go.com/pirates/</db:attribute>
+			<db:attribute name="writer">泰德·艾略特</db:attribute>
+			<db:attribute name="writer">特里·鲁西奥</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1298650/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="pubdate">2011-05-20(美国/中国大陆)</db:attribute>
+			<db:attribute name="cast">约翰尼·德普</db:attribute>
+			<db:attribute name="cast">佩妮洛普·克鲁兹</db:attribute>
+			<db:attribute name="cast">杰弗里·拉什</db:attribute>
+			<db:attribute name="cast">伊恩·麦柯肖恩</db:attribute>
+			<db:attribute name="cast">山姆·克拉弗林</db:attribute>
+			<db:attribute name="cast">阿斯特丽德·伯格斯-弗瑞斯贝</db:attribute>
+			<db:attribute name="cast">凯文·麦克纳利</db:attribute>
+			<db:attribute name="cast">斯蒂芬·格拉汉姆</db:attribute>
+			<db:attribute name="cast">凯斯·理查德兹</db:attribute>
+			<db:attribute name="cast">理查德·格雷弗斯</db:attribute>
+			<db:attribute name="cast">嘉玛·沃德</db:attribute>
+			<db:attribute name="cast">朱迪·丹奇</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/434697834</id>
+		<title>TODO 看过 Catwoman</title>
+		<updated>2011-09-10T11:52:13+08:00</updated>
+		<link href="http://api.douban.com/collection/434697834" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1308771" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1308771</id>
+			<title>Catwoman</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Pitof</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1308771" rel="self"/>
+			<link href="http://movie.douban.com/subject/1308771/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2765736.jpg" rel="image"/>
+			<db:attribute name="website">http://catwoman.warnerbros.co.uk/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="country">澳大利亚</db:attribute>
+			<db:attribute name="writer">John D. Brancato</db:attribute>
+			<db:attribute name="writer">迈克尔·费里斯</db:attribute>
+			<db:attribute name="director">皮托夫</db:attribute>
+			<db:attribute name="pubdate">2004-07-19</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0327554/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">猫女</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">西班牙语</db:attribute>
+			<db:attribute name="cast">哈莉·贝瑞</db:attribute>
+			<db:attribute name="cast">本杰明·布拉特</db:attribute>
+			<db:attribute name="cast">莎朗·斯通</db:attribute>
+			<db:attribute name="cast">朗贝尔·维尔森</db:attribute>
+			<db:attribute name="cast">弗兰西丝·康罗伊</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="2"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/434697783</id>
+		<title>TODO 看过 Immortel (ad vitam)</title>
+		<updated>2011-09-10T11:52:04+08:00</updated>
+		<link href="http://api.douban.com/collection/434697783" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1308835" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1308835</id>
+			<title>Immortel (ad vitam)</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Enki Bilal</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1308835" rel="self"/>
+			<link href="http://movie.douban.com/subject/1308835/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s3688624.jpg" rel="image"/>
+			<db:attribute name="website">http://www.immortel-lefilm.com/</db:attribute>
+			<db:attribute name="country">法国</db:attribute>
+			<db:attribute name="country">意大利</db:attribute>
+			<db:attribute name="country">英国</db:attribute>
+			<db:attribute name="writer">恩基·比拉</db:attribute>
+			<db:attribute name="writer">Serge Lehman</db:attribute>
+			<db:attribute name="director">恩基·比拉</db:attribute>
+			<db:attribute name="pubdate">2004-12-03</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0314063/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">诸神混乱之女神陷阱</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">法语</db:attribute>
+			<db:attribute name="cast">托马斯·克莱舒曼</db:attribute>
+			<db:attribute name="cast">夏洛特·兰普林</db:attribute>
+			<db:attribute name="cast">Linda Hardy</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="2"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/434697474</id>
+		<title>TODO 看过 Push</title>
+		<updated>2011-09-10T11:51:00+08:00</updated>
+		<link href="http://api.douban.com/collection/434697474" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1946776" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1946776</id>
+			<title>Push</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Paul McGuigan</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1946776" rel="self"/>
+			<link href="http://movie.douban.com/subject/1946776/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3443740.jpg" rel="image"/>
+			<db:attribute name="director">Paul McGuigan</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">异能</db:attribute>
+			<db:attribute name="country">加拿大</db:attribute>
+			<db:attribute name="country">英国</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">David Bourla</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">粤语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0465580/</db:attribute>
+			<db:attribute name="pubdate">2009-02-06</db:attribute>
+			<db:attribute name="cast">克里斯·埃文斯</db:attribute>
+			<db:attribute name="cast">达寇塔·范宁</db:attribute>
+			<db:attribute name="cast">卡米拉·贝勒</db:attribute>
+			<db:attribute name="cast">李小璐</db:attribute>
+			<db:attribute name="cast">杰曼·翰苏</db:attribute>
+			<db:attribute name="cast">温明娜</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="2"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/434697409</id>
+		<title>TODO 看过 Æon Flux</title>
+		<updated>2011-09-10T11:50:45+08:00</updated>
+		<link href="http://api.douban.com/collection/434697409" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1309065" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1309065</id>
+			<title>Æon Flux</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Karyn Kusama</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1309065" rel="self"/>
+			<link href="http://movie.douban.com/subject/1309065/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1455450.jpg" rel="image"/>
+			<db:attribute name="website">http://www.aeonflux.com/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="country">德国</db:attribute>
+			<db:attribute name="writer">Phil Hay</db:attribute>
+			<db:attribute name="writer">Matt Manfredi</db:attribute>
+			<db:attribute name="director">卡瑞恩·库萨马</db:attribute>
+			<db:attribute name="pubdate">2005-12-02</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0402022/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">魔力女战士</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">查理兹·塞隆</db:attribute>
+			<db:attribute name="cast">马尔顿·索克斯</db:attribute>
+			<db:attribute name="cast">约翰·李·米勒</db:attribute>
+			<db:attribute name="cast">苏菲·奥康内多</db:attribute>
+			<db:attribute name="cast">弗兰西斯·麦克多蒙德</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="2"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/434696970</id>
+		<title>TODO 看过 Starship Troopers 3: Marauder</title>
+		<updated>2011-09-10T11:48:56+08:00</updated>
+		<link href="http://api.douban.com/collection/434696970" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3006123" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3006123</id>
+			<title>Starship Troopers 3: Marauder</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Edward Neumeier</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3006123" rel="self"/>
+			<link href="http://movie.douban.com/subject/3006123/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2968812.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="country">南非</db:attribute>
+			<db:attribute name="country">德国</db:attribute>
+			<db:attribute name="writer">Edward Neumeier</db:attribute>
+			<db:attribute name="director">Edward Neumeier</db:attribute>
+			<db:attribute name="pubdate">2008-08-05</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0844760/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">星河战队3：掠夺者</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">卡斯帕·凡·迪恩</db:attribute>
+			<db:attribute name="cast">乔琳纳·布拉洛克</db:attribute>
+			<db:attribute name="cast">Stephen Hogan</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="3"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/434696417</id>
+		<title>TODO 想看 Jumper 2</title>
+		<updated>2011-09-10T11:46:46+08:00</updated>
+		<link href="http://api.douban.com/collection/434696417" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3011977" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3011977</id>
+			<title>Jumper 2</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Doug Liman</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3011977" rel="self"/>
+			<link href="http://movie.douban.com/subject/3011977/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3720526.jpg" rel="image"/>
+			<db:attribute name="country">USA</db:attribute>
+			<db:attribute name="writer">Simon Kinberg</db:attribute>
+			<db:attribute name="director">Doug Liman</db:attribute>
+			<db:attribute name="pubdate">2013</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1202244/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">心灵传输者2</db:attribute>
+			<db:attribute name="language">English</db:attribute>
+			<db:attribute name="cast">Hayden Christensen</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/412754236</id>
+		<title>TODO 看过 Unthinkable</title>
+		<updated>2011-09-06T21:28:18+08:00</updated>
+		<link href="http://api.douban.com/collection/412754236" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/2275370" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/2275370</id>
+			<title>Unthinkable</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>格雷格·乔丹 Gregor Jordan</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/2275370" rel="self"/>
+			<link href="http://movie.douban.com/subject/2275370/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3916263.jpg" rel="image"/>
+			<db:attribute name="director">格雷格·乔丹</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">战略特勤组</db:attribute>
+			<db:attribute name="writer">Peter Woodward</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0914863/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="pubdate">2010-06-15(美国DVD发行)</db:attribute>
+			<db:attribute name="pubdate">2011-07-10(中国大陆)</db:attribute>
+			<db:attribute name="cast">麦克·辛</db:attribute>
+			<db:attribute name="cast">塞缪尔·杰克逊</db:attribute>
+			<db:attribute name="cast">凯瑞-安·莫斯</db:attribute>
+			<db:attribute name="cast">布兰登·罗斯</db:attribute>
+			<db:attribute name="cast">Necar Zadegan</db:attribute>
+			<db:attribute name="cast">斯蒂芬·鲁特</db:attribute>
+			<db:attribute name="cast">吉尔·贝罗斯</db:attribute>
+			<db:attribute name="cast">马丁·唐文</db:attribute>
+			<db:attribute name="cast">Yara Shahidi</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/417155096</id>
+		<title>TODO 看过 武侠</title>
+		<updated>2011-08-28T20:52:06+08:00</updated>
+		<link href="http://api.douban.com/collection/417155096" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/4942776" rel="http://www.douban.com/2007#subject"/>
+		<summary>雷人</summary>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/4942776</id>
+			<title>武侠</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>陈可辛 Peter Chan</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/4942776" rel="self"/>
+			<link href="http://movie.douban.com/subject/4942776/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s6522255.jpg" rel="image"/>
+			<db:attribute name="director">陈可辛</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">武侠</db:attribute>
+			<db:attribute name="writer">林爱华</db:attribute>
+			<db:attribute name="language">汉语普通话</db:attribute>
+			<db:attribute name="language">粤语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1718199/</db:attribute>
+			<db:attribute name="country">香港</db:attribute>
+			<db:attribute name="country">中国大陆</db:attribute>
+			<db:attribute name="pubdate">2011-07-04(中国大陆)</db:attribute>
+			<db:attribute name="cast">甄子丹</db:attribute>
+			<db:attribute name="cast">金城武</db:attribute>
+			<db:attribute name="cast">汤唯</db:attribute>
+			<db:attribute name="cast">王羽</db:attribute>
+			<db:attribute name="cast">惠英红</db:attribute>
+			<db:attribute name="cast">李小冉</db:attribute>
+			<db:attribute name="cast">姜武</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/412759896</id>
+		<title>TODO 看过 魁拔之十万火急</title>
+		<updated>2011-08-23T15:47:30+08:00</updated>
+		<link href="http://api.douban.com/collection/412759896" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/4812830" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/4812830</id>
+			<title>魁拔之十万火急</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>王川</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/4812830" rel="self"/>
+			<link href="http://movie.douban.com/subject/4812830/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s6523337.jpg" rel="image"/>
+			<db:attribute name="director">王川</db:attribute>
+			<db:attribute name="writer">王川</db:attribute>
+			<db:attribute name="writer">田博</db:attribute>
+			<db:attribute name="writer">马华</db:attribute>
+			<db:attribute name="writer">李嘉</db:attribute>
+			<db:attribute name="writer">王鹏展</db:attribute>
+			<db:attribute name="writer">汤俊</db:attribute>
+			<db:attribute name="writer">朱岳</db:attribute>
+			<db:attribute name="writer">关皓天</db:attribute>
+			<db:attribute name="writer">五柒柒</db:attribute>
+			<db:attribute name="language">汉语普通话</db:attribute>
+			<db:attribute name="country">中国大陆</db:attribute>
+			<db:attribute name="pubdate">2011-07-08(中国大陆)</db:attribute>
+			<db:attribute name="cast">竹内顺子</db:attribute>
+			<db:attribute name="cast">关俊彥</db:attribute>
+			<db:attribute name="cast">樱井孝宏</db:attribute>
+			<db:attribute name="cast">柿原彻也</db:attribute>
+			<db:attribute name="cast">山口理恵</db:attribute>
+			<db:attribute name="cast">姜广涛</db:attribute>
+			<db:attribute name="cast">张杰</db:attribute>
+			<db:attribute name="cast">刘婧荦</db:attribute>
+			<db:attribute name="cast">王凯</db:attribute>
+			<db:attribute name="cast">季冠霖</db:attribute>
+			<db:attribute name="cast">敖磊</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="3"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/425570833</id>
+		<title>TODO 看过 Phone Booth</title>
+		<updated>2011-08-14T19:57:21+08:00</updated>
+		<link href="http://api.douban.com/collection/425570833" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1303246" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1303246</id>
+			<title>Phone Booth</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Joel Schumacher</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1303246" rel="self"/>
+			<link href="http://movie.douban.com/subject/1303246/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s1399644.jpg" rel="image"/>
+			<db:attribute name="website">http://www.phoneboothmovie.com/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">Larry Cohen</db:attribute>
+			<db:attribute name="director">乔·舒马赫</db:attribute>
+			<db:attribute name="pubdate">2002-09-10</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0183649/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">狙击电话亭</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">斯瓦希里语</db:attribute>
+			<db:attribute name="cast">柯林·法瑞尔</db:attribute>
+			<db:attribute name="cast">基弗·萨瑟兰</db:attribute>
+			<db:attribute name="cast">福里斯特·惠特克</db:attribute>
+			<db:attribute name="cast">拉妲·米契尔</db:attribute>
+			<db:attribute name="cast">凯蒂·霍尔姆斯</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/425382741</id>
+		<title>TODO 想看 Rise of the Planet of the Apes</title>
+		<updated>2011-08-14T11:08:56+08:00</updated>
+		<link href="http://api.douban.com/collection/425382741" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3274505" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3274505</id>
+			<title>Rise of the Planet of the Apes</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>鲁伯特·瓦耶特 Rupert Wyatt</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3274505" rel="self"/>
+			<link href="http://movie.douban.com/subject/3274505/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s6828423.jpg" rel="image"/>
+			<db:attribute name="director">鲁伯特·瓦耶特</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">猩球崛起</db:attribute>
+			<db:attribute name="website">www.apeswillrise.com</db:attribute>
+			<db:attribute name="writer">Rick Jaffa</db:attribute>
+			<db:attribute name="writer">Amanda Silver</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1318514/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="pubdate">2011-08-05(美国)</db:attribute>
+			<db:attribute name="pubdate">2011-10-28(中国大陆)</db:attribute>
+			<db:attribute name="cast">詹姆斯·弗兰科</db:attribute>
+			<db:attribute name="cast">汤姆·费尔顿</db:attribute>
+			<db:attribute name="cast">芙蕾达·平托</db:attribute>
+			<db:attribute name="cast">布莱恩·考克斯</db:attribute>
+			<db:attribute name="cast">泰勒·莱伯恩</db:attribute>
+			<db:attribute name="cast">安迪·塞基斯</db:attribute>
+			<db:attribute name="cast">约翰·利特高</db:attribute>
+			<db:attribute name="cast">大卫·休莱特</db:attribute>
+			<db:attribute name="cast">桑娅·本妮特</db:attribute>
+			<db:attribute name="cast">大卫·奥伊罗</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/420671370</id>
+		<title>TODO 想看 The Avengers</title>
+		<updated>2011-08-01T17:37:51+08:00</updated>
+		<link href="http://api.douban.com/collection/420671370" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1866479" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1866479</id>
+			<title>The Avengers</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>乔斯·韦登 Joss Whedon</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1866479" rel="self"/>
+			<link href="http://movie.douban.com/subject/1866479/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s6939794.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">乔斯·韦登</db:attribute>
+			<db:attribute name="director">乔斯·韦登</db:attribute>
+			<db:attribute name="pubdate">2012-05-04</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0848228/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">复仇者</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">小罗伯特·唐尼</db:attribute>
+			<db:attribute name="cast">克里斯·埃文斯</db:attribute>
+			<db:attribute name="cast">斯嘉丽·约翰逊</db:attribute>
+			<db:attribute name="cast">克里斯·海姆斯沃斯</db:attribute>
+			<db:attribute name="cast">杰瑞米·雷纳</db:attribute>
+			<db:attribute name="cast">马克·鲁弗洛</db:attribute>
+			<db:attribute name="cast">塞缪尔·杰克逊</db:attribute>
+			<db:attribute name="cast">寇碧·史莫德斯</db:attribute>
+			<db:attribute name="cast">阿曼达·莱赫提</db:attribute>
+			<db:attribute name="cast">斯特兰·斯卡斯加德</db:attribute>
+			<db:attribute name="cast">汤姆·希德勒斯顿</db:attribute>
+			<db:attribute name="cast">克拉克·格雷格</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/420282720</id>
+		<title>TODO 想看 Captain America: The First Avenger</title>
+		<updated>2011-07-31T17:30:14+08:00</updated>
+		<link href="http://api.douban.com/collection/420282720" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/2138838" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/2138838</id>
+			<title>Captain America: The First Avenger</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>乔·庄斯顿 Joe Johnston</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/2138838" rel="self"/>
+			<link href="http://movie.douban.com/subject/2138838/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s6567499.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">克里斯托弗·马库斯</db:attribute>
+			<db:attribute name="writer">斯蒂芬·麦克菲利</db:attribute>
+			<db:attribute name="writer">Joe Simon</db:attribute>
+			<db:attribute name="writer">Jack Kirby</db:attribute>
+			<db:attribute name="director">乔·庄斯顿</db:attribute>
+			<db:attribute name="pubdate">2011-07-22(美国)</db:attribute>
+			<db:attribute name="pubdate">2011-09-09(中国大陆)</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0458339/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">美国队长</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">克里斯·埃文斯</db:attribute>
+			<db:attribute name="cast">雨果·维文</db:attribute>
+			<db:attribute name="cast">汤米·李·琼斯</db:attribute>
+			<db:attribute name="cast">史坦利·图齐</db:attribute>
+			<db:attribute name="cast">理查德·阿米塔格</db:attribute>
+			<db:attribute name="cast">海莉·阿特维尔</db:attribute>
+			<db:attribute name="cast">塞巴斯蒂安·斯坦</db:attribute>
+			<db:attribute name="cast">多米尼克·库珀</db:attribute>
+			<db:attribute name="cast">娜塔莉·多默尔</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/420281448</id>
+		<title>TODO 看过 Highlander II: The Quickening</title>
+		<updated>2011-07-31T17:27:07+08:00</updated>
+		<link href="http://api.douban.com/collection/420281448" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1294871" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1294871</id>
+			<title>Highlander II: The Quickening</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>拉塞尔 马尔卡希 (Russell Mulcahy)</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1294871" rel="self"/>
+			<link href="http://movie.douban.com/subject/1294871/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s6774880.jpg" rel="image"/>
+			<db:attribute name="website">http://www.highlander-official.com/movies/h2-storymain.htm</db:attribute>
+			<db:attribute name="country">法国</db:attribute>
+			<db:attribute name="country">英国</db:attribute>
+			<db:attribute name="country">阿根廷</db:attribute>
+			<db:attribute name="writer">Brian Clemens</db:attribute>
+			<db:attribute name="writer">格雷戈里 威顿 (Gregory Widen)</db:attribute>
+			<db:attribute name="writer">彼得 贝尔伍德 (Peter Bellwood)</db:attribute>
+			<db:attribute name="director">拉塞尔 马尔卡希 (Russell Mulcahy)</db:attribute>
+			<db:attribute name="pubdate">1991-01-31</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0102034/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">挑战者2：天幕之战</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">肖恩·康纳利 Sean Connery</db:attribute>
+			<db:attribute name="cast">维吉妮娅·马德森 Virginia Madsen</db:attribute>
+			<db:attribute name="cast">克里斯多夫·兰伯特 Christopher Lambert</db:attribute>
+			<db:attribute name="cast">迈克尔·艾恩塞德 Michael Ironside</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/419149432</id>
+		<title>TODO 想看 西岳奇童</title>
+		<updated>2011-07-28T18:09:36+08:00</updated>
+		<link href="http://api.douban.com/collection/419149432" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1790366" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1790366</id>
+			<title>西岳奇童</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>胡兆洪</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1790366" rel="self"/>
+			<link href="http://movie.douban.com/subject/1790366/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1733200.jpg" rel="image"/>
+			<db:attribute name="country">中国大陆</db:attribute>
+			<db:attribute name="director">胡兆洪</db:attribute>
+			<db:attribute name="language">普通话</db:attribute>
+			<db:attribute name="pubdate">2006</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/419148932</id>
+		<title>TODO 想看 Grayskull</title>
+		<updated>2011-07-28T18:07:52+08:00</updated>
+		<link href="http://api.douban.com/collection/419148932" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1951286" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1951286</id>
+			<title>Grayskull</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>吴宇森 John Woo</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1951286" rel="self"/>
+			<link href="http://movie.douban.com/subject/1951286/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s3990394.jpg" rel="image"/>
+			<db:attribute name="director">吴宇森 John Woo</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">希曼</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0427340/</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/413221245</id>
+		<title>TODO 想看 兔侠传奇</title>
+		<updated>2011-07-12T16:56:33+08:00</updated>
+		<link href="http://api.douban.com/collection/413221245" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/5337555" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/5337555</id>
+			<title>兔侠传奇</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>孙立军</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/5337555" rel="self"/>
+			<link href="http://movie.douban.com/subject/5337555/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4648483.jpg" rel="image"/>
+			<db:attribute name="director">孙立军</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">兔侠传奇</db:attribute>
+			<db:attribute name="writer">邹静之</db:attribute>
+			<db:attribute name="language">汉语普通话</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1876517/</db:attribute>
+			<db:attribute name="country">中国大陆</db:attribute>
+			<db:attribute name="pubdate">2011-07-11(中国大陆)</db:attribute>
+			<db:attribute name="cast">范伟</db:attribute>
+			<db:attribute name="cast">闫妮</db:attribute>
+			<db:attribute name="cast">张丰毅</db:attribute>
+			<db:attribute name="cast">濮存昕</db:attribute>
+			<db:attribute name="cast">张一山</db:attribute>
+			<db:attribute name="cast">林永健</db:attribute>
+			<db:attribute name="cast">黄宏</db:attribute>
+			<db:attribute name="cast">冯远征</db:attribute>
+			<db:attribute name="cast">徐峥</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/412754994</id>
+		<title>TODO 想看 Felon</title>
+		<updated>2011-07-11T12:30:29+08:00</updated>
+		<link href="http://api.douban.com/collection/412754994" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3072779" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3072779</id>
+			<title>Felon</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Ric Roman Waugh</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3072779" rel="self"/>
+			<link href="http://movie.douban.com/subject/3072779/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3222596.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">Ric Roman Waugh</db:attribute>
+			<db:attribute name="director">Ric Roman Waugh</db:attribute>
+			<db:attribute name="pubdate">2008-07-18</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1117385/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">监狱生活</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">方·基默</db:attribute>
+			<db:attribute name="cast">斯蒂芬·多尔夫</db:attribute>
+			<db:attribute name="cast">哈罗德·佩里诺</db:attribute>
+			<db:attribute name="cast">山姆·夏普德</db:attribute>
+			<db:attribute name="cast">尼克·齐兰德</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/412112229</id>
+		<title>TODO 看过 I Am Number Four</title>
+		<updated>2011-07-11T11:45:44+08:00</updated>
+		<link href="http://api.douban.com/collection/412112229" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3824339" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3824339</id>
+			<title>I Am Number Four</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>D·J·卡卢索 D.J. Caruso</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3824339" rel="self"/>
+			<link href="http://movie.douban.com/subject/3824339/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4554919.jpg" rel="image"/>
+			<db:attribute name="director">D·J·卡卢索</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">关键第四号</db:attribute>
+			<db:attribute name="website">http://findnumberfour.com/</db:attribute>
+			<db:attribute name="writer">Al Gough</db:attribute>
+			<db:attribute name="writer">Miles Millar</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1464540/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="pubdate">2011-02-18(美国)</db:attribute>
+			<db:attribute name="pubdate">2011-02-26(中国大陆)</db:attribute>
+			<db:attribute name="cast">亚历克斯·帕蒂弗</db:attribute>
+			<db:attribute name="cast">蒂莫西·奥利芬特</db:attribute>
+			<db:attribute name="cast">泰莉莎·帕尔墨</db:attribute>
+			<db:attribute name="cast">迪安娜·阿格隆</db:attribute>
+			<db:attribute name="cast">凯文·杜兰</db:attribute>
+			<db:attribute name="cast">卡兰·麦克奥利菲</db:attribute>
+			<db:attribute name="cast">杰克·阿贝尔</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/384604151</id>
+		<title>TODO 看过 Rango</title>
+		<updated>2011-07-11T09:38:10+08:00</updated>
+		<link href="http://api.douban.com/collection/384604151" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/2998253" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/2998253</id>
+			<title>Rango</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>戈尔·维宾斯基 Gore Verbinski</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/2998253" rel="self"/>
+			<link href="http://movie.douban.com/subject/2998253/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4653185.jpg" rel="image"/>
+			<db:attribute name="website">www.rangomovie.com</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">John Logan</db:attribute>
+			<db:attribute name="writer">戈尔·维宾斯基</db:attribute>
+			<db:attribute name="writer">James Ward Byrkit</db:attribute>
+			<db:attribute name="director">戈尔·维宾斯基</db:attribute>
+			<db:attribute name="pubdate">2011-03-04(美国)</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1192628/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">兰戈</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">约翰尼·德普</db:attribute>
+			<db:attribute name="cast">艾拉·菲舍尔</db:attribute>
+			<db:attribute name="cast">阿比盖尔·布蕾斯琳</db:attribute>
+			<db:attribute name="cast">尼德·巴蒂</db:attribute>
+			<db:attribute name="cast">阿尔弗雷德·莫里纳</db:attribute>
+			<db:attribute name="cast">比尔·奈伊</db:attribute>
+			<db:attribute name="cast">斯蒂芬·鲁特</db:attribute>
+			<db:attribute name="cast">哈利·戴恩·斯坦通</db:attribute>
+			<db:attribute name="cast">蒂莫西·奥利芬特</db:attribute>
+			<db:attribute name="cast">雷·温斯顿</db:attribute>
+			<db:attribute name="cast">伊安·艾伯克龙比</db:attribute>
+			<db:attribute name="cast">吉尔·伯明翰</db:attribute>
+			<db:attribute name="cast">克劳迪娅·布莱克</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/358983124</id>
+		<title>TODO 看过 The Green Hornet</title>
+		<updated>2011-07-08T08:02:59+08:00</updated>
+		<link href="http://api.douban.com/collection/358983124" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/2147836" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/2147836</id>
+			<title>The Green Hornet</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>米歇尔·冈瑞 Michel Gondry</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/2147836" rel="self"/>
+			<link href="http://movie.douban.com/subject/2147836/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4605771.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">埃文·戈德堡</db:attribute>
+			<db:attribute name="writer">塞斯·罗根</db:attribute>
+			<db:attribute name="writer">乔治·W·特伦德尔</db:attribute>
+			<db:attribute name="director">米歇尔·冈瑞</db:attribute>
+			<db:attribute name="pubdate">2011-01-14(美国)</db:attribute>
+			<db:attribute name="pubdate">2011-02-08(中国大陆)</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0990407/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">青蜂侠</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">塞斯·罗根</db:attribute>
+			<db:attribute name="cast">周杰伦</db:attribute>
+			<db:attribute name="cast">卡梅隆·迪亚茨</db:attribute>
+			<db:attribute name="cast">克里斯托弗·沃尔兹</db:attribute>
+			<db:attribute name="cast">汤姆·威尔金森</db:attribute>
+			<db:attribute name="cast">大卫·哈伯</db:attribute>
+			<db:attribute name="cast">爱德华·詹姆斯·奥莫斯</db:attribute>
+			<db:attribute name="cast">杰米·哈里斯</db:attribute>
+			<db:attribute name="cast">乍得·科尔曼</db:attribute>
+			<db:attribute name="cast">爱德华·福隆</db:attribute>
+			<db:attribute name="cast">詹姆斯·弗兰科</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="3"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/411058526</id>
+		<title>TODO 看过 Artificial Intelligence: AI</title>
+		<updated>2011-07-06T17:15:53+08:00</updated>
+		<link href="http://api.douban.com/collection/411058526" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1302827" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1302827</id>
+			<title>Artificial Intelligence: AI</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Steven Spielberg</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1302827" rel="self"/>
+			<link href="http://movie.douban.com/subject/1302827/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1318020.jpg" rel="image"/>
+			<db:attribute name="website">http://aimovie.warnerbros.com/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">Ian Watson</db:attribute>
+			<db:attribute name="writer">史蒂文·斯皮尔伯格</db:attribute>
+			<db:attribute name="director">史蒂文·斯皮尔伯格</db:attribute>
+			<db:attribute name="pubdate">2001-06-26</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0212720/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">人工智能</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">海利·乔·奥斯蒙</db:attribute>
+			<db:attribute name="cast">弗兰西丝·奥康纳</db:attribute>
+			<db:attribute name="cast">Sam Robards</db:attribute>
+			<db:attribute name="cast">杰克·托马斯</db:attribute>
+			<db:attribute name="cast">裘德·洛</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/410754308</id>
+		<title>TODO 想看 Transformers: Dark of the Moon</title>
+		<updated>2011-07-05T19:54:33+08:00</updated>
+		<link href="http://api.douban.com/collection/410754308" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3610047" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3610047</id>
+			<title>Transformers: Dark of the Moon</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>迈克尔·贝 Michael Bay</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3610047" rel="self"/>
+			<link href="http://movie.douban.com/subject/3610047/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s6794944.jpg" rel="image"/>
+			<db:attribute name="director">迈克尔·贝</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">变形金刚3</db:attribute>
+			<db:attribute name="website">www.transformersmovie.com</db:attribute>
+			<db:attribute name="writer">艾仁·克鲁格</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1399103/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="pubdate">2011-06-29(美国)</db:attribute>
+			<db:attribute name="pubdate">2011-07-21(中国大陆)</db:attribute>
+			<db:attribute name="cast">罗茜·汉丁顿-惠特莉</db:attribute>
+			<db:attribute name="cast">希亚·拉博夫</db:attribute>
+			<db:attribute name="cast">乔什·杜哈明</db:attribute>
+			<db:attribute name="cast">泰瑞斯·吉布森</db:attribute>
+			<db:attribute name="cast">约翰·马尔科维奇</db:attribute>
+			<db:attribute name="cast">弗兰西斯·麦克多蒙德</db:attribute>
+			<db:attribute name="cast">郑肯</db:attribute>
+			<db:attribute name="cast">凯文·杜恩</db:attribute>
+			<db:attribute name="cast">朱丽叶·怀特</db:attribute>
+			<db:attribute name="cast">帕特里克·德姆西</db:attribute>
+			<db:attribute name="cast">艾伦·图代克</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/384603631</id>
+		<title>TODO 看过 Source Code</title>
+		<updated>2011-06-29T15:30:24+08:00</updated>
+		<link href="http://api.douban.com/collection/384603631" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3075287" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3075287</id>
+			<title>Source Code</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>邓肯·琼斯 Duncan Jones</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3075287" rel="self"/>
+			<link href="http://movie.douban.com/subject/3075287/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s6776201.jpg" rel="image"/>
+			<db:attribute name="director">邓肯·琼斯</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">源代码</db:attribute>
+			<db:attribute name="website">www.enterthesourcecode.com</db:attribute>
+			<db:attribute name="writer">Ben Ripley</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0945513/</db:attribute>
+			<db:attribute name="country">法国</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="pubdate">2011-08-30(中国大陆)</db:attribute>
+			<db:attribute name="pubdate">2011-04-01(美国)</db:attribute>
+			<db:attribute name="cast">杰克·吉伦哈尔</db:attribute>
+			<db:attribute name="cast">维拉·法米加</db:attribute>
+			<db:attribute name="cast">米歇尔·莫娜汉</db:attribute>
+			<db:attribute name="cast">杰弗里·怀特</db:attribute>
+			<db:attribute name="cast">拉塞尔·皮特斯</db:attribute>
+			<db:attribute name="cast">James A. Woods</db:attribute>
+			<db:attribute name="cast">迈克尔·阿登</db:attribute>
+			<db:attribute name="cast">Joe Cobden</db:attribute>
+			<db:attribute name="cast">Cas Anvar</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/396166397</id>
+		<title>TODO 看过 The Matrix Reloaded</title>
+		<updated>2011-05-28T16:58:46+08:00</updated>
+		<link href="http://api.douban.com/collection/396166397" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1304141" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1304141</id>
+			<title>The Matrix Reloaded</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Andy Wachowski</name>
+			</author>
+			<author>
+				<name>Larry Wachowski</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1304141" rel="self"/>
+			<link href="http://movie.douban.com/subject/1304141/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s1317914.jpg" rel="image"/>
+			<db:attribute name="website">www.whatisthematrix.com</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="country">澳大利亚</db:attribute>
+			<db:attribute name="writer">安迪·沃卓斯基</db:attribute>
+			<db:attribute name="writer">拉里·沃卓斯基</db:attribute>
+			<db:attribute name="director">安迪·沃卓斯基</db:attribute>
+			<db:attribute name="director">拉里·沃卓斯基</db:attribute>
+			<db:attribute name="pubdate">2003-05-15</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0234215/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">黑客帝国2：重装上阵</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">法语</db:attribute>
+			<db:attribute name="cast">基努·李维斯</db:attribute>
+			<db:attribute name="cast">凯瑞-安·莫斯</db:attribute>
+			<db:attribute name="cast">劳伦斯·菲什伯恩</db:attribute>
+			<db:attribute name="cast">雨果·维文</db:attribute>
+			<db:attribute name="cast">莫妮卡·贝鲁奇</db:attribute>
+			<db:attribute name="cast">贾达·萍克·史密斯</db:attribute>
+			<db:attribute name="cast">格洛丽亚·福斯特</db:attribute>
+			<db:attribute name="cast">邹兆龙</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/396166315</id>
+		<title>TODO 看过 The Matrix Revolutions</title>
+		<updated>2011-05-28T16:58:35+08:00</updated>
+		<link href="http://api.douban.com/collection/396166315" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1302467" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1302467</id>
+			<title>The Matrix Revolutions</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Andy Wachowski</name>
+			</author>
+			<author>
+				<name>Larry Wachowski</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1302467" rel="self"/>
+			<link href="http://movie.douban.com/subject/1302467/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s3846794.jpg" rel="image"/>
+			<db:attribute name="website">www.whatisthematrix.com</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="country">澳大利亚</db:attribute>
+			<db:attribute name="writer">安迪·沃卓斯基</db:attribute>
+			<db:attribute name="writer">拉里·沃卓斯基</db:attribute>
+			<db:attribute name="director">安迪·沃卓斯基</db:attribute>
+			<db:attribute name="director">拉里·沃卓斯基</db:attribute>
+			<db:attribute name="pubdate">2003-11-05</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0242653/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">黑客帝国3：矩阵革命</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">法语</db:attribute>
+			<db:attribute name="cast">基努·李维斯</db:attribute>
+			<db:attribute name="cast">劳伦斯·菲什伯恩</db:attribute>
+			<db:attribute name="cast">凯瑞-安·莫斯</db:attribute>
+			<db:attribute name="cast">莫妮卡·贝鲁奇</db:attribute>
+			<db:attribute name="cast">凯特·宾汉</db:attribute>
+			<db:attribute name="cast">雨果·维文</db:attribute>
+			<db:attribute name="cast">贾达·萍克·史密斯</db:attribute>
+			<db:attribute name="cast">邹兆龙</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/280115180</id>
+		<title>TODO 看过 V for Vendetta</title>
+		<updated>2011-05-28T16:55:31+08:00</updated>
+		<link href="http://api.douban.com/collection/280115180" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1309046" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1309046</id>
+			<title>V for Vendetta</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>詹姆斯·麦克特格 James McTeigue</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1309046" rel="self"/>
+			<link href="http://movie.douban.com/subject/1309046/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1884078.jpg" rel="image"/>
+			<db:attribute name="director">詹姆斯·麦克特格</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">V字仇杀队</db:attribute>
+			<db:attribute name="website">http://vforvendetta.warnerbros.com/</db:attribute>
+			<db:attribute name="writer">安迪·沃卓斯基</db:attribute>
+			<db:attribute name="writer">拉里·沃卓斯基</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0434409/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="country">英国</db:attribute>
+			<db:attribute name="country">德国</db:attribute>
+			<db:attribute name="pubdate">2005-11-11</db:attribute>
+			<db:attribute name="cast">娜塔丽·波曼</db:attribute>
+			<db:attribute name="cast">雨果·维文</db:attribute>
+			<db:attribute name="cast">拉珀特·格雷夫斯</db:attribute>
+			<db:attribute name="cast">斯蒂芬·瑞</db:attribute>
+			<db:attribute name="cast">斯蒂芬·弗雷</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/395982327</id>
+		<title>TODO 想看 Kung Fu Panda 2</title>
+		<updated>2011-05-28T08:54:10+08:00</updated>
+		<link href="http://api.douban.com/collection/395982327" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3233635" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3233635</id>
+			<title>Kung Fu Panda 2</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>詹妮弗·余 Jennifer Yuh</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3233635" rel="self"/>
+			<link href="http://movie.douban.com/subject/3233635/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s6388934.jpg" rel="image"/>
+			<db:attribute name="director">詹妮弗·余</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">功夫熊猫2</db:attribute>
+			<db:attribute name="website">www.kungfupanda.com</db:attribute>
+			<db:attribute name="writer">乔纳森·阿贝尔</db:attribute>
+			<db:attribute name="writer">格伦·伯杰</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1302011/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="pubdate">2011-05-26(美国)</db:attribute>
+			<db:attribute name="pubdate">2011-05-28(中国大陆)</db:attribute>
+			<db:attribute name="cast">杰克·布莱克</db:attribute>
+			<db:attribute name="cast">安吉丽娜·朱莉</db:attribute>
+			<db:attribute name="cast">杨紫琼</db:attribute>
+			<db:attribute name="cast">加里·奥德曼</db:attribute>
+			<db:attribute name="cast">成龙</db:attribute>
+			<db:attribute name="cast">塞斯·罗根</db:attribute>
+			<db:attribute name="cast">刘玉玲</db:attribute>
+			<db:attribute name="cast">大卫·克罗斯</db:attribute>
+			<db:attribute name="cast">詹姆斯·洪</db:attribute>
+			<db:attribute name="cast">达斯汀·霍夫曼</db:attribute>
+			<db:attribute name="cast">尚格·云顿</db:attribute>
+			<db:attribute name="cast">丹尼斯·海斯伯特</db:attribute>
+			<db:attribute name="cast">维克多·加博</db:attribute>
+			<db:attribute name="cast">丹尼·麦克布耐德</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/358982415</id>
+		<title>TODO 看过 Battle: Los Angeles</title>
+		<updated>2011-05-26T11:07:16+08:00</updated>
+		<link href="http://api.douban.com/collection/358982415" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3041264" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3041264</id>
+			<title>Battle: Los Angeles</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>乔纳森·理贝斯曼 Jonathan Liebesman</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3041264" rel="self"/>
+			<link href="http://movie.douban.com/subject/3041264/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4639882.jpg" rel="image"/>
+			<db:attribute name="director">乔纳森·里贝斯曼</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">洛杉矶之战</db:attribute>
+			<db:attribute name="website">www.battlela.com</db:attribute>
+			<db:attribute name="writer">Christopher Bertolini</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1217613/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="pubdate">2011-03-11(美国)</db:attribute>
+			<db:attribute name="pubdate">2011-03-18(中国大陆)</db:attribute>
+			<db:attribute name="cast">艾伦·艾克哈特</db:attribute>
+			<db:attribute name="cast">米歇尔·罗德里格兹</db:attribute>
+			<db:attribute name="cast">拉蒙·罗德里格兹</db:attribute>
+			<db:attribute name="cast">布丽姬·穆娜</db:attribute>
+			<db:attribute name="cast">迈克尔·佩纳</db:attribute>
+			<db:attribute name="cast">威尔·罗斯海尔</db:attribute>
+			<db:attribute name="cast">科里·哈德里克</db:attribute>
+			<db:attribute name="cast">Ne-Yo</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="3"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/394591098</id>
+		<title>TODO 看过 The Chronicles of Riddick</title>
+		<updated>2011-05-24T20:21:04+08:00</updated>
+		<link href="http://api.douban.com/collection/394591098" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1308859" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1308859</id>
+			<title>The Chronicles of Riddick</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>David Twohy</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1308859" rel="self"/>
+			<link href="http://movie.douban.com/subject/1308859/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4601829.jpg" rel="image"/>
+			<db:attribute name="website">http://www.thechroniclesofriddick.com/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">大卫·杜西</db:attribute>
+			<db:attribute name="director">大卫·杜西</db:attribute>
+			<db:attribute name="pubdate">2004-06-11</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0296572/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">星际传奇2</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">范·迪塞尔</db:attribute>
+			<db:attribute name="cast">科鲁姆·费奥瑞</db:attribute>
+			<db:attribute name="cast">桑迪·牛顿</db:attribute>
+			<db:attribute name="cast">朱迪·丹奇</db:attribute>
+			<db:attribute name="cast">卡尔·厄本</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/394591058</id>
+		<title>TODO 看过 Pitch Black</title>
+		<updated>2011-05-24T20:20:55+08:00</updated>
+		<link href="http://api.douban.com/collection/394591058" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1296459" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1296459</id>
+			<title>Pitch Black</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>David Twohy</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1296459" rel="self"/>
+			<link href="http://movie.douban.com/subject/1296459/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4136572.jpg" rel="image"/>
+			<db:attribute name="website">http://www.pitchblack.com/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">Jim Wheat</db:attribute>
+			<db:attribute name="writer">Ken Wheat</db:attribute>
+			<db:attribute name="writer">大卫·杜西</db:attribute>
+			<db:attribute name="director">大卫·杜西</db:attribute>
+			<db:attribute name="pubdate">2000-02-18</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0134847/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">星际传奇</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">阿拉伯语</db:attribute>
+			<db:attribute name="cast">范·迪塞尔</db:attribute>
+			<db:attribute name="cast">拉妲·米契尔</db:attribute>
+			<db:attribute name="cast">科尔·豪瑟</db:attribute>
+			<db:attribute name="cast">凯斯·大卫</db:attribute>
+			<db:attribute name="cast">Lewis Fitz-Gerald</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="3"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/394377228</id>
+		<title>TODO 看过 Robocop 2</title>
+		<updated>2011-05-24T10:26:49+08:00</updated>
+		<link href="http://api.douban.com/collection/394377228" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1298574" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1298574</id>
+			<title>Robocop 2</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Irvin Kershner</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1298574" rel="self"/>
+			<link href="http://movie.douban.com/subject/1298574/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2862895.jpg" rel="image"/>
+			<db:attribute name="website">http://www.robocop.com/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">弗兰克·米勒</db:attribute>
+			<db:attribute name="writer">沃伦·格林</db:attribute>
+			<db:attribute name="director">厄文·克什纳</db:attribute>
+			<db:attribute name="pubdate">1990-06-22</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0100502/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">机器战警2</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">彼得·威勒</db:attribute>
+			<db:attribute name="cast">南茜·艾伦</db:attribute>
+			<db:attribute name="cast">Gabriel Damon</db:attribute>
+			<db:attribute name="cast">Leeza Gibbons</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<opensearch:itemsPerPage>50</opensearch:itemsPerPage>
+</feed>

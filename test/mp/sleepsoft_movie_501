@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:db="http://www.douban.com/xmlns/" xmlns:gd="http://schemas.google.com/g/2005" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:opensearch="http://a9.com/-/spec/opensearchrss/1.0/">
+	<title>睡觉比较王道 的收藏</title>
+	<author>
+		<link href="http://api.douban.com/people/4476601" rel="self"/>
+		<link href="http://www.douban.com/people/sleepsoft/" rel="alternate"/>
+		<link href="http://img3.douban.com/icon/u4476601-2.jpg" rel="icon"/>
+		<name>睡觉比较王道</name>
+		<uri>http://api.douban.com/people/4476601</uri>
+	</author>
+	<opensearch:startIndex>501</opensearch:startIndex>
+	<opensearch:totalResults>518</opensearch:totalResults>
+	<entry>
+		<id>http://api.douban.com/collection/133284586</id>
+		<title>睡觉比较王道 看过 新世紀エヴァンゲリオン 劇場版 DEATH &amp; REBIRTH シト新生</title>
+		<updated>2009-06-25T00:37:22+08:00</updated>
+		<link href="http://api.douban.com/collection/133284586" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1455442" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1455442</id>
+			<title>新世紀エヴァンゲリオン 劇場版 DEATH &amp; REBIRTH シト新生</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>庵野秀明 Hideaki Anno</name>
+			</author>
+			<author>
+				<name>摩砂雪</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1455442" rel="self"/>
+			<link href="http://movie.douban.com/subject/1455442/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1685969.jpg" rel="image"/>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="director">庵野秀明</db:attribute>
+			<db:attribute name="director">摩砂雪</db:attribute>
+			<db:attribute name="pubdate">2002-08-14</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">新世纪福音战士剧场版:死与新生</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0169880/</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="3"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/133284515</id>
+		<title>睡觉比较王道 看过 ヱヴァンゲリヲン新劇場版：序</title>
+		<updated>2009-06-25T00:36:58+08:00</updated>
+		<link href="http://api.douban.com/collection/133284515" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1968790" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1968790</id>
+			<title>ヱヴァンゲリヲン新劇場版：序</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>庵野秀明</name>
+			</author>
+			<author>
+				<name>摩砂雪</name>
+			</author>
+			<author>
+				<name>鹤卷和哉</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1968790" rel="self"/>
+			<link href="http://movie.douban.com/subject/1968790/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2652013.jpg" rel="image"/>
+			<db:attribute name="website">http://www.evangelion.co.jp/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="writer">庵野秀明</db:attribute>
+			<db:attribute name="director">庵野秀明</db:attribute>
+			<db:attribute name="director">摩砂雪</db:attribute>
+			<db:attribute name="director">鹤卷和哉</db:attribute>
+			<db:attribute name="pubdate">2007-09-01</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0923811/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">福音战士新剧场版：序</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">绪方惠美</db:attribute>
+			<db:attribute name="cast">林原惠美</db:attribute>
+			<db:attribute name="cast">三石琴乃</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/133284471</id>
+		<title>睡觉比较王道 看过 俗・さよなら絶望先生</title>
+		<updated>2009-06-25T00:36:45+08:00</updated>
+		<link href="http://api.douban.com/collection/133284471" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/2375819" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/2375819</id>
+			<title>俗・さよなら絶望先生</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>新房昭之</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/2375819" rel="self"/>
+			<link href="http://movie.douban.com/subject/2375819/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2862200.jpg" rel="image"/>
+			<db:attribute name="website">http://www.starchild.co.jp/special/zetsubou2/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="director">新房昭之</db:attribute>
+			<db:attribute name="pubdate">2008-01-05</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1161699/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">俗・再见，绝望先生</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">神谷浩史</db:attribute>
+			<db:attribute name="cast">野中藍</db:attribute>
+			<db:attribute name="cast">井上麻里奈</db:attribute>
+			<db:attribute name="cast">沢城みゆき</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="3"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/133284440</id>
+		<title>睡觉比较王道 看过 とらドラ!</title>
+		<updated>2009-06-25T00:36:32+08:00</updated>
+		<link href="http://api.douban.com/collection/133284440" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3184594" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3184594</id>
+			<title>とらドラ!</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>長井龍雪</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3184594" rel="self"/>
+			<link href="http://movie.douban.com/subject/3184594/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3393910.jpg" rel="image"/>
+			<db:attribute name="director">長井龍雪</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">龙与虎</db:attribute>
+			<db:attribute name="website">www.starchild.co.jp/special/toradora</db:attribute>
+			<db:attribute name="writer">冈田麿里</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1279024/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="pubdate">2008-10-01</db:attribute>
+			<db:attribute name="cast">钉宫理惠</db:attribute>
+			<db:attribute name="cast">間島淳司</db:attribute>
+			<db:attribute name="cast">堀江由衣</db:attribute>
+			<db:attribute name="cast">野岛裕史</db:attribute>
+			<db:attribute name="cast">喜多村英梨</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/133284361</id>
+		<title>睡觉比较王道 看过 らき☆すた</title>
+		<updated>2009-06-25T00:36:06+08:00</updated>
+		<link href="http://api.douban.com/collection/133284361" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/2224505" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/2224505</id>
+			<title>らき☆すた</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>山本寛</name>
+			</author>
+			<author>
+				<name>武本康弘</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/2224505" rel="self"/>
+			<link href="http://movie.douban.com/subject/2224505/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2620365.jpg" rel="image"/>
+			<db:attribute name="director">山本寛</db:attribute>
+			<db:attribute name="director">武本康弘</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">幸运星</db:attribute>
+			<db:attribute name="website">http://www.comptiq.com/event/luckystar/</db:attribute>
+			<db:attribute name="writer">待田堂子</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1086236/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="pubdate">2007-04-08</db:attribute>
+			<db:attribute name="cast">平野綾（voice）</db:attribute>
+			<db:attribute name="cast">福原香织（voice）</db:attribute>
+			<db:attribute name="cast">加藤英美里（voice）</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/133284288</id>
+		<title>睡觉比较王道 看过 フルーツバスケット</title>
+		<updated>2009-06-25T00:35:39+08:00</updated>
+		<link href="http://api.douban.com/collection/133284288" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1465390" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1465390</id>
+			<title>フルーツバスケット</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>大地丙太郎</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1465390" rel="self"/>
+			<link href="http://movie.douban.com/subject/1465390/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2599362.jpg" rel="image"/>
+			<db:attribute name="website">http://www.tv-tokyo.co.jp/anime/fruits_basket/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="director">大地丙太郎</db:attribute>
+			<db:attribute name="pubdate">2001-07-05</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0328738/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">水果篮子</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">塔加路语</db:attribute>
+			<db:attribute name="language">西班牙语</db:attribute>
+			<db:attribute name="language">法语</db:attribute>
+			<db:attribute name="cast">堀江由衣</db:attribute>
+			<db:attribute name="cast">久川绫</db:attribute>
+			<db:attribute name="cast">关智一</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/133283975</id>
+		<title>睡觉比较王道 看过 FLCL</title>
+		<updated>2009-06-25T00:33:58+08:00</updated>
+		<link href="http://api.douban.com/collection/133283975" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1412436" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1412436</id>
+			<title>FLCL</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>鹤卷和哉/Kazuya Tsurumaki</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1412436" rel="self"/>
+			<link href="http://movie.douban.com/subject/1412436/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2138897.jpg" rel="image"/>
+			<db:attribute name="website">http://www.gainax.co.jp/flcl/index-e.html</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="director">鹤卷和哉/Kazuya Tsurumaki</db:attribute>
+			<db:attribute name="pubdate">2000-4-26</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0279077/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">特别的她</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">水树洵</db:attribute>
+			<db:attribute name="cast">新谷真弓</db:attribute>
+			<db:attribute name="cast">笠木泉</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/133283930</id>
+		<title>睡觉比较王道 看过 トップをねらえ！</title>
+		<updated>2009-06-25T00:33:39+08:00</updated>
+		<link href="http://api.douban.com/collection/133283930" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1300798" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1300798</id>
+			<title>トップをねらえ！</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>庵野秀明 (Hideaki Anno)</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1300798" rel="self"/>
+			<link href="http://movie.douban.com/subject/1300798/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4066236.jpg" rel="image"/>
+			<db:attribute name="director">庵野秀明</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">飞越巅峰</db:attribute>
+			<db:attribute name="writer">Hiroyuki Yamaga</db:attribute>
+			<db:attribute name="writer">岡田斗司夫</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0098492/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="pubdate">1988-10-07</db:attribute>
+			<db:attribute name="cast">日高のり子</db:attribute>
+			<db:attribute name="cast">佐久間レイ</db:attribute>
+			<db:attribute name="cast">若本规夫</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/133283875</id>
+		<title>睡觉比较王道 看过 トップをねらえ2！</title>
+		<updated>2009-06-25T00:33:17+08:00</updated>
+		<link href="http://api.douban.com/collection/133283875" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1870140" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1870140</id>
+			<title>トップをねらえ2！</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>鹤卷和哉/Kazuya Tsurumaki</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1870140" rel="self"/>
+			<link href="http://movie.douban.com/subject/1870140/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3966037.jpg" rel="image"/>
+			<db:attribute name="website">http://www.top2.jp/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="pubdate">2004-10-03</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">飞跃巅峰2</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0856824/</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/133283827</id>
+		<title>睡觉比较王道 看过 アベノ橋魔法☆商店街</title>
+		<updated>2009-06-25T00:32:56+08:00</updated>
+		<link href="http://api.douban.com/collection/133283827" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1923302" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1923302</id>
+			<title>アベノ橋魔法☆商店街</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>山贺博之/Hiroyuki Yamaga</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1923302" rel="self"/>
+			<link href="http://movie.douban.com/subject/1923302/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2833248.jpg" rel="image"/>
+			<db:attribute name="website">http://www.gainax.co.jp/anime/abesho/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="director">山贺博之/Hiroyuki Yamaga</db:attribute>
+			<db:attribute name="pubdate">2002</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0398412/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">阿倍野桥魔法商店街</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">松冈由贵</db:attribute>
+			<db:attribute name="cast">サエキ トモ</db:attribute>
+			<db:attribute name="cast">青野武</db:attribute>
+			<db:attribute name="cast">藤原启治</db:attribute>
+			<db:attribute name="cast">小西克幸</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/133283771</id>
+		<title>睡觉比较王道 看过 バッカーノ！</title>
+		<updated>2009-06-25T00:32:26+08:00</updated>
+		<link href="http://api.douban.com/collection/133283771" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3326764" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3326764</id>
+			<title>バッカーノ！</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>大森贵弘</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3326764" rel="self"/>
+			<link href="http://movie.douban.com/subject/3326764/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3939539.jpg" rel="image"/>
+			<db:attribute name="director">大森贵弘</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">永生之酒</db:attribute>
+			<db:attribute name="website">http://www.baccano.jp/</db:attribute>
+			<db:attribute name="writer">高木登</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1334722/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="pubdate">2007</db:attribute>
+			<db:attribute name="cast">小野坂昌也</db:attribute>
+			<db:attribute name="cast">あおきさやか</db:attribute>
+			<db:attribute name="cast">吉野裕行</db:attribute>
+			<db:attribute name="cast">小林沙苗</db:attribute>
+			<db:attribute name="cast">阪口大助</db:attribute>
+			<db:attribute name="cast">森田成一</db:attribute>
+			<db:attribute name="cast">子安武人</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/133283734</id>
+		<title>睡觉比较王道 看过 新世紀エヴァンゲリオン</title>
+		<updated>2009-06-25T00:32:09+08:00</updated>
+		<link href="http://api.douban.com/collection/133283734" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1457573" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1457573</id>
+			<title>新世紀エヴァンゲリオン</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>庵野秀明 Hideaki Anno</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1457573" rel="self"/>
+			<link href="http://movie.douban.com/subject/1457573/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2829710.jpg" rel="image"/>
+			<db:attribute name="director">庵野秀明</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">新世纪福音战士</db:attribute>
+			<db:attribute name="website">http://www.evangelion.co.jp/</db:attribute>
+			<db:attribute name="writer">庵野秀明 Hideaki Anno</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0112159/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="pubdate">1995-10-04</db:attribute>
+			<db:attribute name="cast">緒方恵美</db:attribute>
+			<db:attribute name="cast">林原めぐみ</db:attribute>
+			<db:attribute name="cast">宮村優子</db:attribute>
+			<db:attribute name="cast">三石琴乃</db:attribute>
+			<db:attribute name="cast">山寺宏一</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/133283562</id>
+		<title>睡觉比较王道 看过 新世紀エヴァンゲリオン 劇場版 THE END OF EVANGELION Air/まごころを、君に</title>
+		<updated>2009-06-25T00:31:13+08:00</updated>
+		<link href="http://api.douban.com/collection/133283562" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1308892" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1308892</id>
+			<title>新世紀エヴァンゲリオン 劇場版 THE END OF EVANGELION Air/まごころを、君に</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>庵野秀明 Hideaki Anno</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1308892" rel="self"/>
+			<link href="http://movie.douban.com/subject/1308892/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1399546.jpg" rel="image"/>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="director">庵野秀明</db:attribute>
+			<db:attribute name="pubdate">1997-07-19</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">新世纪福音战士剧场版 Air/真心为你</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0169858/</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/133283508</id>
+		<title>睡觉比较王道 看过 おたくのビデオ</title>
+		<updated>2009-06-25T00:30:57+08:00</updated>
+		<link href="http://api.douban.com/collection/133283508" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/2028689" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/2028689</id>
+			<title>おたくのビデオ</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>冈田斗司夫</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/2028689" rel="self"/>
+			<link href="http://movie.douban.com/subject/2028689/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3281816.jpg" rel="image"/>
+			<db:attribute name="website">www.gainax.net</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="director">冈田斗司夫</db:attribute>
+			<db:attribute name="pubdate">1991-09-27</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0089749/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">OTAKU的录像带</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">辻谷耕史</db:attribute>
+			<db:attribute name="cast">樱井敏治</db:attribute>
+			<db:attribute name="cast">小林优子</db:attribute>
+			<db:attribute name="cast">井上喜久子</db:attribute>
+			<db:attribute name="cast">天野由梨</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/133283465</id>
+		<title>睡觉比较王道 看过 かんなぎ</title>
+		<updated>2009-06-25T00:30:42+08:00</updated>
+		<link href="http://api.douban.com/collection/133283465" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3103429" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3103429</id>
+			<title>かんなぎ</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>山本宽 Yutaka Yamamoto</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3103429" rel="self"/>
+			<link href="http://movie.douban.com/subject/3103429/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3166713.jpg" rel="image"/>
+			<db:attribute name="director">山本宽</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">神薙</db:attribute>
+			<db:attribute name="website">http://www.nagisama-fc.com/anime/</db:attribute>
+			<db:attribute name="writer">仓田英之</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1244315/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="pubdate">2008-10-04</db:attribute>
+			<db:attribute name="cast">户松遥</db:attribute>
+			<db:attribute name="cast">下野纮</db:attribute>
+			<db:attribute name="cast">泽城美雪</db:attribute>
+			<db:attribute name="cast">花泽香菜</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/133283225</id>
+		<title>睡觉比较王道 看过 まりあ†ほりっく</title>
+		<updated>2009-06-25T00:29:10+08:00</updated>
+		<link href="http://api.douban.com/collection/133283225" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3402138" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3402138</id>
+			<title>まりあ†ほりっく</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>新房昭之 Akiyuki Shinbo</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3402138" rel="self"/>
+			<link href="http://movie.douban.com/subject/3402138/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3593062.jpg" rel="image"/>
+			<db:attribute name="website">www.mariaholic.com</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="director">新房昭之</db:attribute>
+			<db:attribute name="pubdate">2009-01-04</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1346122/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">玛丽亚†狂热</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">真田麻美</db:attribute>
+			<db:attribute name="cast">小林优</db:attribute>
+			<db:attribute name="cast">井上麻里奈</db:attribute>
+			<db:attribute name="cast">神田朱未</db:attribute>
+			<db:attribute name="cast">后藤沙绪里</db:attribute>
+			<db:attribute name="cast">新谷良子</db:attribute>
+			<db:attribute name="cast">高田初美</db:attribute>
+			<db:attribute name="cast">杉田智和</db:attribute>
+			<db:attribute name="cast">泽城美雪</db:attribute>
+			<db:attribute name="cast">平野绫</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/133283142</id>
+		<title>睡觉比较王道 看过 桜蘭高校ホスト部</title>
+		<updated>2009-06-25T00:28:43+08:00</updated>
+		<link href="http://api.douban.com/collection/133283142" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1817253" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1817253</id>
+			<title>桜蘭高校ホスト部</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>五十岚卓哉 Takuya Igarashi</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1817253" rel="self"/>
+			<link href="http://movie.douban.com/subject/1817253/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1682693.jpg" rel="image"/>
+			<db:attribute name="website">http://www.ntv.co.jp/host/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="writer">榎户洋司</db:attribute>
+			<db:attribute name="director">五十岚卓哉</db:attribute>
+			<db:attribute name="pubdate">2006-04-04</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0816397/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">樱兰高校男公关部</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">坂本真绫</db:attribute>
+			<db:attribute name="cast">宫野真守</db:attribute>
+			<db:attribute name="cast">松风雅也</db:attribute>
+			<db:attribute name="cast">齐藤彩夏</db:attribute>
+			<db:attribute name="cast">铜井大介</db:attribute>
+			<db:attribute name="cast">铃村修一</db:attribute>
+			<db:attribute name="cast">藤田圭宣</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/133283093</id>
+		<title>睡觉比较王道 看过 今、そこにいる僕</title>
+		<updated>2009-06-25T00:28:24+08:00</updated>
+		<link href="http://api.douban.com/collection/133283093" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1786054" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1786054</id>
+			<title>今、そこにいる僕</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>大地丙太郎</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1786054" rel="self"/>
+			<link href="http://movie.douban.com/subject/1786054/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2787411.jpg" rel="image"/>
+			<db:attribute name="website">http://www.aicanime.com/products/nathat/index.html</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="writer">仓田英之</db:attribute>
+			<db:attribute name="director">大地丙太郎</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">此时此刻的我</db:attribute>
+			<db:attribute name="pubdate">1999</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0318898/</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<opensearch:itemsPerPage>50</opensearch:itemsPerPage>
+</feed>

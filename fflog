@@ -1,0 +1,56 @@
+Generate Time Wed Sep 28 01:46:29 2011
+[LOG] START at Wed Sep 28 01:33:43 2011
+[LOG] cnt ==  1 Wed Sep 28 01:33:43 2011 http://api.douban.com/people/sunus?alt=atom
+[LOG] START at Wed Sep 28 01:35:00 2011
+[LOG] cnt ==  1 Wed Sep 28 01:35:00 2011 http://api.douban.com/people/sunus?alt=atom
+[LOG] START at Wed Sep 28 01:37:58 2011
+[LOG] cnt ==  1 Wed Sep 28 01:37:58 2011 http://api.douban.com/people/sunus?alt=atom
+[LOG] START at Wed Sep 28 01:43:48 2011
+[LOG] cnt ==  1 Wed Sep 28 01:43:48 2011 http://api.douban.com/people/sunus?alt=atom
+[LOG] cnt ==  2 Wed Sep 28 01:43:48 2011 http://api.douban.com/people/sunus?alt=atom
+[LOG] cnt ==  3 Wed Sep 28 01:43:51 2011 http://api.douban.com/people/sunus/collection?cat=movie&tag=&status=&start-index=1&max-results=50&alt=atom
+[LOG] cnt ==  4 Wed Sep 28 01:43:52 2011 http://api.douban.com/people/sunus/collection?cat=movie&tag=&status=&start-index=51&max-results=50&alt=atom
+[LOG] cnt ==  5 Wed Sep 28 01:43:53 2011 http://api.douban.com/people/sunus/collection?cat=movie&tag=&status=&start-index=101&max-results=50&alt=atom
+[LOG] cnt ==  6 Wed Sep 28 01:43:53 2011 http://api.douban.com/people/lic86/collection?cat=movie&tag=&status=&start-index=1&max-results=50&alt=atom
+[LOG] cnt ==  7 Wed Sep 28 01:43:53 2011 http://api.douban.com/people/lic86/collection?cat=movie&tag=&status=&start-index=51&max-results=50&alt=atom
+[LOG] cnt ==  8 Wed Sep 28 01:43:54 2011 http://api.douban.com/people/50885832/collection?cat=movie&tag=&status=&start-index=1&max-results=50&alt=atom
+[LOG] cnt ==  9 Wed Sep 28 01:43:55 2011 http://api.douban.com/people/50883852/collection?cat=movie&tag=&status=&start-index=1&max-results=50&alt=atom
+[LOG] cnt == 10 Wed Sep 28 01:44:01 2011 http://api.douban.com/people/50864946/collection?cat=movie&tag=&status=&start-index=1&max-results=50&alt=atom
+[LOG] cnt == 11 Wed Sep 28 01:44:02 2011 http://api.douban.com/people/mm399/collection?cat=movie&tag=&status=&start-index=1&max-results=50&alt=atom
+[LOG] cnt == 12 Wed Sep 28 01:44:03 2011 http://api.douban.com/people/50883852/collection?cat=movie&tag=&status=&start-index=51&max-results=50&alt=atom
+[LOG] cnt == 13 Wed Sep 28 01:44:04 2011 http://api.douban.com/people/50883852/collection?cat=movie&tag=&status=&start-index=101&max-results=50&alt=atom
+[LOG] cnt == 14 Wed Sep 28 01:44:07 2011 http://api.douban.com/people/50885832/collection?cat=movie&tag=&status=&start-index=51&max-results=50&alt=atom
+[LOG] cnt == 15 Wed Sep 28 01:44:13 2011 http://api.douban.com/people/mm399/collection?cat=movie&tag=&status=&start-index=51&max-results=50&alt=atom
+[LOG] cnt == 16 Wed Sep 28 01:44:15 2011 http://api.douban.com/people/mm399/collection?cat=movie&tag=&status=&start-index=101&max-results=50&alt=atom
+[LOG] cnt == 17 Wed Sep 28 01:44:27 2011 http://api.douban.com/people/sunus?alt=atom
+[LOG] cnt == 18 Wed Sep 28 01:44:31 2011 http://api.douban.com/people/sunus?alt=atom
+[LOG] cnt == 19 Wed Sep 28 01:44:31 2011 http://api.douban.com/people/sunus/collection?cat=movie&tag=&status=&start-index=1&max-results=50&alt=atom
+[LOG] cnt == 20 Wed Sep 28 01:44:33 2011 http://api.douban.com/people/sunus/collection?cat=movie&tag=&status=&start-index=51&max-results=50&alt=atom
+[LOG] cnt == 21 Wed Sep 28 01:44:42 2011 http://api.douban.com/people/sunus/collection?cat=movie&tag=&status=&start-index=101&max-results=50&alt=atom
+[LOG] cnt == 22 Wed Sep 28 01:44:42 2011 http://api.douban.com/people/sleepsoft/collection?cat=movie&tag=&status=&start-index=1&max-results=50&alt=atom
+[LOG] cnt == 23 Wed Sep 28 01:44:43 2011 http://api.douban.com/people/rockstorm/collection?cat=movie&tag=&status=&start-index=1&max-results=50&alt=atom
+[LOG] cnt == 24 Wed Sep 28 01:44:43 2011 http://api.douban.com/people/rockstorm/collection?cat=movie&tag=&status=&start-index=51&max-results=50&alt=atom
+[LOG] cnt == 25 Wed Sep 28 01:44:43 2011 http://api.douban.com/people/sleepsoft/collection?cat=movie&tag=&status=&start-index=51&max-results=50&alt=atom
+[LOG] cnt == 26 Wed Sep 28 01:44:50 2011 http://api.douban.com/people/GASHAPON/collection?cat=movie&tag=&status=&start-index=1&max-results=50&alt=atom
+[LOG] cnt == 27 Wed Sep 28 01:44:51 2011 http://api.douban.com/people/tinylamb/collection?cat=movie&tag=&status=&start-index=1&max-results=50&alt=atom
+[LOG] cnt == 28 Wed Sep 28 01:44:52 2011 http://api.douban.com/people/5414802/collection?cat=movie&tag=&status=&start-index=1&max-results=50&alt=atom
+[LOG] cnt == 29 Wed Sep 28 01:44:52 2011 http://api.douban.com/people/tinylamb/collection?cat=movie&tag=&status=&start-index=51&max-results=50&alt=atom
+[LOG] START at Wed Sep 28 01:44:58 2011
+[LOG] cnt ==  1 Wed Sep 28 01:44:58 2011 http://api.douban.com/people/sleepsoft/collection?cat=movie&tag=&status=&start-index=101&max-results=50&alt=atom
+[LOG] cnt ==  2 Wed Sep 28 01:44:58 2011 http://api.douban.com/people/tinylamb/collection?cat=movie&tag=&status=&start-index=101&max-results=50&alt=atom
+[LOG] cnt ==  3 Wed Sep 28 01:44:59 2011 http://api.douban.com/people/sleepsoft/collection?cat=movie&tag=&status=&start-index=151&max-results=50&alt=atom
+[LOG] cnt ==  4 Wed Sep 28 01:45:01 2011 http://api.douban.com/people/5414802/collection?cat=movie&tag=&status=&start-index=51&max-results=50&alt=atom
+[LOG] cnt ==  5 Wed Sep 28 01:45:01 2011 http://api.douban.com/people/tinylamb/collection?cat=movie&tag=&status=&start-index=151&max-results=50&alt=atom
+[LOG] cnt ==  6 Wed Sep 28 01:45:02 2011 http://api.douban.com/people/sleepsoft/collection?cat=movie&tag=&status=&start-index=201&max-results=50&alt=atom
+[LOG] cnt ==  7 Wed Sep 28 01:45:06 2011 http://api.douban.com/people/tinylamb/collection?cat=movie&tag=&status=&start-index=201&max-results=50&alt=atom
+[LOG] cnt ==  8 Wed Sep 28 01:45:07 2011 http://api.douban.com/people/tinylamb/collection?cat=movie&tag=&status=&start-index=251&max-results=50&alt=atom
+[LOG] cnt ==  9 Wed Sep 28 01:45:08 2011 http://api.douban.com/people/sleepsoft/collection?cat=movie&tag=&status=&start-index=251&max-results=50&alt=atom
+[LOG] cnt == 10 Wed Sep 28 01:45:10 2011 http://api.douban.com/people/sleepsoft/collection?cat=movie&tag=&status=&start-index=301&max-results=50&alt=atom
+[LOG] cnt == 11 Wed Sep 28 01:45:11 2011 http://api.douban.com/people/sleepsoft/collection?cat=movie&tag=&status=&start-index=351&max-results=50&alt=atom
+[LOG] cnt == 12 Wed Sep 28 01:45:17 2011 http://api.douban.com/people/sleepsoft/collection?cat=movie&tag=&status=&start-index=401&max-results=50&alt=atom
+[LOG] cnt == 13 Wed Sep 28 01:45:19 2011 http://api.douban.com/people/sleepsoft/collection?cat=movie&tag=&status=&start-index=451&max-results=50&alt=atom
+[LOG] cnt == 14 Wed Sep 28 01:45:20 2011 http://api.douban.com/people/sleepsoft/collection?cat=movie&tag=&status=&start-index=501&max-results=50&alt=atom
+[LOG] cnt == 15 Wed Sep 28 01:45:21 2011 http://api.douban.com/people/sleepsoft/collection?cat=movie&tag=&status=&start-index=551&max-results=50&alt=atom
+[LOG] cnt == 16 Wed Sep 28 01:45:42 2011 http://api.douban.com/people/sunus?alt=atom
+[LOG] cnt == 17 Wed Sep 28 01:45:52 2011 http://api.douban.com/people/sunus?alt=atom
+[LOG] cnt == 18 Wed Sep 28 01:45:52 2011 http://api.douban.com/people/sunus/collection?cat=movie&tag=&status=&start-index=1&max-results=50&alt=atom

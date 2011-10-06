@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:db="http://www.douban.com/xmlns/" xmlns:gd="http://schemas.google.com/g/2005" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:opensearch="http://a9.com/-/spec/opensearchrss/1.0/">
+	<title>迷 的收藏</title>
+	<author>
+		<link href="http://api.douban.com/people/45085450" rel="self"/>
+		<link href="http://www.douban.com/people/45085450/" rel="alternate"/>
+		<link href="http://img3.douban.com/icon/u45085450-4.jpg" rel="icon"/>
+		<name>迷</name>
+		<uri>http://api.douban.com/people/45085450</uri>
+	</author>
+	<opensearch:startIndex>1</opensearch:startIndex>
+	<opensearch:totalResults>1</opensearch:totalResults>
+	<entry>
+		<id>http://api.douban.com/collection/349014744</id>
+		<title>迷 看过 非诚勿扰2</title>
+		<updated>2011-02-03T21:30:18+08:00</updated>
+		<link href="http://api.douban.com/collection/349014744" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/4271894" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/4271894</id>
+			<title>非诚勿扰2</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>冯小刚 Xiaogang Feng</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/4271894" rel="self"/>
+			<link href="http://movie.douban.com/subject/4271894/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4548773.jpg" rel="image"/>
+			<db:attribute name="director">冯小刚</db:attribute>
+			<db:attribute name="writer">王朔</db:attribute>
+			<db:attribute name="writer">冯小刚</db:attribute>
+			<db:attribute name="language">汉语普通话</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1810602/</db:attribute>
+			<db:attribute name="country">中国大陆</db:attribute>
+			<db:attribute name="country">香港</db:attribute>
+			<db:attribute name="pubdate">2010-12-22(中国大陆)</db:attribute>
+			<db:attribute name="cast">葛优</db:attribute>
+			<db:attribute name="cast">舒淇</db:attribute>
+			<db:attribute name="cast">孙红雷</db:attribute>
+			<db:attribute name="cast">姚晨</db:attribute>
+			<db:attribute name="cast">安以轩</db:attribute>
+			<db:attribute name="cast">邵兵</db:attribute>
+			<db:attribute name="cast">廖凡</db:attribute>
+			<db:attribute name="cast">邬逸聪</db:attribute>
+			<db:attribute name="cast">关晓彤</db:attribute>
+			<db:attribute name="cast">窦文涛</db:attribute>
+			<db:attribute name="cast">赵宝刚 </db:attribute>
+			<db:attribute name="cast">乐嘉</db:attribute>
+			<db:attribute name="cast">张馨予</db:attribute>
+			<db:attribute name="cast">张涵予</db:attribute>
+			<db:attribute name="cast">李晨</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="1"/>
+	</entry>
+	<opensearch:itemsPerPage>50</opensearch:itemsPerPage>
+</feed>

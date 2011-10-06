@@ -1,0 +1,1970 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:db="http://www.douban.com/xmlns/" xmlns:gd="http://schemas.google.com/g/2005" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:opensearch="http://a9.com/-/spec/opensearchrss/1.0/">
+	<title>翛然 的收藏</title>
+	<author>
+		<link href="http://api.douban.com/people/31409065" rel="self"/>
+		<link href="http://www.douban.com/people/oliverhuanghi/" rel="alternate"/>
+		<link href="http://img3.douban.com/icon/u31409065-5.jpg" rel="icon"/>
+		<name>翛然</name>
+		<uri>http://api.douban.com/people/31409065</uri>
+	</author>
+	<opensearch:startIndex>1</opensearch:startIndex>
+	<opensearch:totalResults>126</opensearch:totalResults>
+	<entry>
+		<id>http://api.douban.com/collection/439066426</id>
+		<title>翛然 看过 のだめカンタービレ 最終楽章 後編</title>
+		<updated>2011-09-23T22:54:51+08:00</updated>
+		<link href="http://api.douban.com/collection/439066426" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3335464" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3335464</id>
+			<title>のだめカンタービレ 最終楽章 後編</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>武内英樹</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3335464" rel="self"/>
+			<link href="http://movie.douban.com/subject/3335464/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4336767.jpg" rel="image"/>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="writer">衛藤凛</db:attribute>
+			<db:attribute name="director">武内英樹</db:attribute>
+			<db:attribute name="pubdate">2010-04-17</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1337673/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">交响情人梦 最终乐章 后编</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">上野树里</db:attribute>
+			<db:attribute name="cast">玉木宏</db:attribute>
+		</db:subject>
+		<db:tag name="上野树里"/>
+		<db:tag name="玉木宏"/>
+		<db:tag name="交响情人梦"/>
+		<db:tag name="日本电影"/>
+		<db:tag name="爱情"/>
+		<db:tag name="瑛太"/>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/439066263</id>
+		<title>翛然 看过 のだめカンタービレ 最終楽章 前編</title>
+		<updated>2011-09-23T22:54:25+08:00</updated>
+		<link href="http://api.douban.com/collection/439066263" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3335463" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3335463</id>
+			<title>のだめカンタービレ 最終楽章 前編</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>武内英樹</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3335463" rel="self"/>
+			<link href="http://movie.douban.com/subject/3335463/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4138720.jpg" rel="image"/>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="writer">衛藤凛</db:attribute>
+			<db:attribute name="director">武内英樹</db:attribute>
+			<db:attribute name="pubdate">2009-12-19</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1337672/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">交响情人梦 最终乐章 前篇</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">上野樹里</db:attribute>
+			<db:attribute name="cast">玉木宏</db:attribute>
+			<db:attribute name="cast">瑛太</db:attribute>
+			<db:attribute name="cast">水川あさみ</db:attribute>
+		</db:subject>
+		<db:tag name="上野树里"/>
+		<db:tag name="玉木宏"/>
+		<db:tag name="交响情人梦"/>
+		<db:tag name="日本电影"/>
+		<db:tag name="瑛太"/>
+		<db:tag name="漫画改编"/>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/387946975</id>
+		<title>翛然 看过 爱情公寓2</title>
+		<updated>2011-09-01T19:51:27+08:00</updated>
+		<link href="http://api.douban.com/collection/387946975" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/4707205" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/4707205</id>
+			<title>爱情公寓2</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>韦正   Zheng Wei</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/4707205" rel="self"/>
+			<link href="http://movie.douban.com/subject/4707205/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4220762.jpg" rel="image"/>
+			<db:attribute name="director">韦正  </db:attribute>
+			<db:attribute name="writer">汪远</db:attribute>
+			<db:attribute name="language">汉语普通话</db:attribute>
+			<db:attribute name="country">中国大陆</db:attribute>
+			<db:attribute name="pubdate">2011-01-24(中国大陆)</db:attribute>
+			<db:attribute name="cast">娄艺潇</db:attribute>
+			<db:attribute name="cast">王传君</db:attribute>
+			<db:attribute name="cast">赵文琪</db:attribute>
+			<db:attribute name="cast">孙艺洲</db:attribute>
+			<db:attribute name="cast">邓家佳</db:attribute>
+			<db:attribute name="cast">李佳航</db:attribute>
+			<db:attribute name="cast">陈赫</db:attribute>
+		</db:subject>
+		<db:tag name="爱情公寓"/>
+		<db:tag name="喜剧"/>
+		<db:tag name="搞笑"/>
+		<db:tag name="情景喜剧"/>
+		<db:tag name="国产电视剧"/>
+		<db:tag name="青春"/>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/431999050</id>
+		<title>翛然 看过 Knowing</title>
+		<updated>2011-09-01T19:50:56+08:00</updated>
+		<link href="http://api.douban.com/collection/431999050" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/2354729" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/2354729</id>
+			<title>Knowing</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Alex Proyas</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/2354729" rel="self"/>
+			<link href="http://movie.douban.com/subject/2354729/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3653401.jpg" rel="image"/>
+			<db:attribute name="director">亚历克斯·普罗亚斯</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">神秘代码</db:attribute>
+			<db:attribute name="writer">Ryne Douglas Pearson</db:attribute>
+			<db:attribute name="writer">Juliet Snowden</db:attribute>
+			<db:attribute name="writer">Stiles White</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0448011/</db:attribute>
+			<db:attribute name="website">http://www.knowing-themovie.com/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="country">英国</db:attribute>
+			<db:attribute name="pubdate">2009-03-09</db:attribute>
+			<db:attribute name="cast">尼古拉斯·凯奇</db:attribute>
+			<db:attribute name="cast">钱德勒·坎特布瑞</db:attribute>
+			<db:attribute name="cast">萝丝·拜恩</db:attribute>
+			<db:attribute name="cast">Lara Robinson</db:attribute>
+			<db:attribute name="cast">D.G. Maloney</db:attribute>
+		</db:subject>
+		<db:tag name="美国"/>
+		<db:tag name="先知"/>
+		<db:tag name="悬疑"/>
+		<db:tag name="2009"/>
+		<db:tag name="科幻"/>
+		<db:tag name="灾难"/>
+		<gd:rating max="5" min="1" value="3"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/428238051</id>
+		<title>翛然 看过 Final Destination 5</title>
+		<updated>2011-09-01T19:50:20+08:00</updated>
+		<link href="http://api.douban.com/collection/428238051" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/4724373" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/4724373</id>
+			<title>Final Destination 5</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Steven Quale</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/4724373" rel="self"/>
+			<link href="http://movie.douban.com/subject/4724373/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s6588237.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">Eric Heisserer</db:attribute>
+			<db:attribute name="writer">Jeffrey Reddick</db:attribute>
+			<db:attribute name="director">Steven Quale</db:attribute>
+			<db:attribute name="pubdate">2011-08-12</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1622979/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">死神来了5</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">麦尔斯·费舍</db:attribute>
+			<db:attribute name="cast">尼克·达歌斯托</db:attribute>
+			<db:attribute name="cast">大卫·科恩查内</db:attribute>
+			<db:attribute name="cast">艾玛·贝尔</db:attribute>
+			<db:attribute name="cast">Meghan Ory</db:attribute>
+			<db:attribute name="cast">Arlen Escarpeta</db:attribute>
+			<db:attribute name="cast">托尼·托德</db:attribute>
+		</db:subject>
+		<db:tag name="死神来了5"/>
+		<db:tag name="美国"/>
+		<db:tag name="恐怖"/>
+		<db:tag name="惊悚"/>
+		<gd:rating max="5" min="1" value="3"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/428726299</id>
+		<title>翛然 看过 Kung Fu Panda 2</title>
+		<updated>2011-08-23T16:17:08+08:00</updated>
+		<link href="http://api.douban.com/collection/428726299" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3233635" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3233635</id>
+			<title>Kung Fu Panda 2</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>詹妮弗·余 Jennifer Yuh</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3233635" rel="self"/>
+			<link href="http://movie.douban.com/subject/3233635/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s6388934.jpg" rel="image"/>
+			<db:attribute name="director">詹妮弗·余</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">功夫熊猫2</db:attribute>
+			<db:attribute name="website">www.kungfupanda.com</db:attribute>
+			<db:attribute name="writer">乔纳森·阿贝尔</db:attribute>
+			<db:attribute name="writer">格伦·伯杰</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1302011/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="pubdate">2011-05-26(美国)</db:attribute>
+			<db:attribute name="pubdate">2011-05-28(中国大陆)</db:attribute>
+			<db:attribute name="cast">杰克·布莱克</db:attribute>
+			<db:attribute name="cast">安吉丽娜·朱莉</db:attribute>
+			<db:attribute name="cast">杨紫琼</db:attribute>
+			<db:attribute name="cast">加里·奥德曼</db:attribute>
+			<db:attribute name="cast">成龙</db:attribute>
+			<db:attribute name="cast">塞斯·罗根</db:attribute>
+			<db:attribute name="cast">刘玉玲</db:attribute>
+			<db:attribute name="cast">大卫·克罗斯</db:attribute>
+			<db:attribute name="cast">詹姆斯·洪</db:attribute>
+			<db:attribute name="cast">达斯汀·霍夫曼</db:attribute>
+			<db:attribute name="cast">尚格·云顿</db:attribute>
+			<db:attribute name="cast">丹尼斯·海斯伯特</db:attribute>
+			<db:attribute name="cast">维克多·加博</db:attribute>
+			<db:attribute name="cast">丹尼·麦克布耐德</db:attribute>
+		</db:subject>
+		<db:tag name="动画"/>
+		<db:tag name="搞笑"/>
+		<db:tag name="喜剧"/>
+		<db:tag name="动作"/>
+		<db:tag name="美国"/>
+		<db:tag name="梦工厂"/>
+		<db:tag name="3D"/>
+		<gd:rating max="5" min="1" value="3"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/428725938</id>
+		<title>翛然 看过 Kung Fu Panda</title>
+		<updated>2011-08-23T16:16:13+08:00</updated>
+		<link href="http://api.douban.com/collection/428725938" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1783457" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1783457</id>
+			<title>Kung Fu Panda</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Mark Osborne</name>
+			</author>
+			<author>
+				<name>John Stevenson</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1783457" rel="self"/>
+			<link href="http://movie.douban.com/subject/1783457/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2736929.jpg" rel="image"/>
+			<db:attribute name="director">Mark Osborne</db:attribute>
+			<db:attribute name="director">John Stevenson</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">功夫熊猫</db:attribute>
+			<db:attribute name="website">http://www.kungfupanda.com/</db:attribute>
+			<db:attribute name="writer">乔纳森·阿贝尔</db:attribute>
+			<db:attribute name="writer">格伦·伯杰</db:attribute>
+			<db:attribute name="writer">Ethan Reiff</db:attribute>
+			<db:attribute name="writer">Cyrus Voris</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0441773/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="pubdate">2008-06-06(美国)</db:attribute>
+			<db:attribute name="cast">杰克·布莱克</db:attribute>
+			<db:attribute name="cast">达斯汀·霍夫曼</db:attribute>
+			<db:attribute name="cast">安吉丽娜·朱莉</db:attribute>
+			<db:attribute name="cast">大卫·克罗斯</db:attribute>
+			<db:attribute name="cast">塞斯·罗根</db:attribute>
+			<db:attribute name="cast">成龙</db:attribute>
+			<db:attribute name="cast">刘玉玲</db:attribute>
+			<db:attribute name="cast">伊恩·麦柯肖恩</db:attribute>
+			<db:attribute name="cast">兰德尔·杜克·金</db:attribute>
+		</db:subject>
+		<db:tag name="功夫熊猫"/>
+		<db:tag name="梦工厂"/>
+		<db:tag name="美国电影"/>
+		<db:tag name="喜剧"/>
+		<db:tag name="卡通"/>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/428725306</id>
+		<title>翛然 看过 輪廻</title>
+		<updated>2011-08-23T16:14:34+08:00</updated>
+		<link href="http://api.douban.com/collection/428725306" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1788094" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1788094</id>
+			<title>輪廻</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>清水崇 Takashi Shimizu</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1788094" rel="self"/>
+			<link href="http://movie.douban.com/subject/1788094/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1659531.jpg" rel="image"/>
+			<db:attribute name="website">http://www.j-horror.com/rinne/index.html</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="writer">清水崇</db:attribute>
+			<db:attribute name="writer">安达正轨</db:attribute>
+			<db:attribute name="director">清水崇</db:attribute>
+			<db:attribute name="pubdate">2005-10-27</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0456630/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">轮回</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">优香</db:attribute>
+			<db:attribute name="cast">香里奈</db:attribute>
+			<db:attribute name="cast">椎名桔平</db:attribute>
+			<db:attribute name="cast">杉本哲太</db:attribute>
+			<db:attribute name="cast">小栗旬</db:attribute>
+		</db:subject>
+		<db:tag name="恐怖电影"/>
+		<db:tag name="清水崇"/>
+		<db:tag name="小栗旬"/>
+		<db:tag name="惊悚"/>
+		<db:tag name="日本"/>
+		<gd:rating max="5" min="1" value="2"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/428249840</id>
+		<title>翛然 看过 Inside-Out</title>
+		<updated>2011-08-22T09:19:55+08:00</updated>
+		<link href="http://api.douban.com/collection/428249840" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1874935" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1874935</id>
+			<title>Inside-Out</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Charles Guard</name>
+			</author>
+			<author>
+				<name>Tom Guard</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1874935" rel="self"/>
+			<link href="http://movie.douban.com/subject/1874935/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3973105.jpg" rel="image"/>
+			<db:attribute name="country">英国</db:attribute>
+			<db:attribute name="writer">Dylan Ritson</db:attribute>
+			<db:attribute name="director">Charles Guard</db:attribute>
+			<db:attribute name="director">Tom Guard</db:attribute>
+			<db:attribute name="pubdate">1999</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0210766/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">咫尺天涯</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">Lena Headey</db:attribute>
+			<db:attribute name="cast">Simon McBurney</db:attribute>
+		</db:subject>
+		<db:tag name="英国"/>
+		<db:tag name="爱情"/>
+		<db:tag name="1999"/>
+		<db:tag name="电影短片"/>
+		<gd:rating max="5" min="1" value="3"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/428248251</id>
+		<title>翛然 看过 My Favorite Things</title>
+		<updated>2011-08-22T09:12:45+08:00</updated>
+		<link href="http://api.douban.com/collection/428248251" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/4736002" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/4736002</id>
+			<title>My Favorite Things</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Edward Styles</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/4736002" rel="self"/>
+			<link href="http://movie.douban.com/subject/4736002/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4247390.jpg" rel="image"/>
+			<db:attribute name="country">法国</db:attribute>
+			<db:attribute name="director">Edward Styles</db:attribute>
+			<db:attribute name="pubdate">2009</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">我最喜爱的.....</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1748127/</db:attribute>
+			<db:attribute name="language">无对白</db:attribute>
+		</db:subject>
+		<db:tag name="温暖"/>
+		<db:tag name="法国电影"/>
+		<db:tag name="我最喜爱的....."/>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/428245760</id>
+		<title>翛然 看过 Marry Me</title>
+		<updated>2011-08-22T09:00:45+08:00</updated>
+		<link href="http://api.douban.com/collection/428245760" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3430694" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3430694</id>
+			<title>Marry Me</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Michelle Lehman</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3430694" rel="self"/>
+			<link href="http://movie.douban.com/subject/3430694/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4020912.jpg" rel="image"/>
+			<db:attribute name="country">澳大利亚</db:attribute>
+			<db:attribute name="writer">Michelle Lehman</db:attribute>
+			<db:attribute name="director">Michelle Lehman</db:attribute>
+			<db:attribute name="pubdate">2008-02-17</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1219698/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">跟我结婚</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">Jahla Bryant</db:attribute>
+			<db:attribute name="cast">Ryan Fitzpatrick</db:attribute>
+			<db:attribute name="cast">Andrew Cracker</db:attribute>
+			<db:attribute name="cast">Kayden Lawson</db:attribute>
+			<db:attribute name="cast">Max Lawson</db:attribute>
+			<db:attribute name="cast">Michelle Lawson</db:attribute>
+		</db:subject>
+		<db:tag name="爱情"/>
+		<db:tag name="澳大利亚电影"/>
+		<db:tag name="童年"/>
+		<db:tag name="短片"/>
+		<gd:rating max="5" min="1" value="3"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/428244088</id>
+		<title>翛然 看过 the last 3 minutes</title>
+		<updated>2011-08-22T08:51:19+08:00</updated>
+		<link href="http://api.douban.com/collection/428244088" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/4832887" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/4832887</id>
+			<title>the last 3 minutes</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Po Chan</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/4832887" rel="self"/>
+			<link href="http://movie.douban.com/subject/4832887/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s4361264.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">Po Chan</db:attribute>
+			<db:attribute name="director">Po Chan</db:attribute>
+			<db:attribute name="pubdate">2010</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">最后三分钟</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1639445/</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">Harwood Gordon</db:attribute>
+			<db:attribute name="cast">Eli Jane</db:attribute>
+		</db:subject>
+		<db:tag name="短片"/>
+		<db:tag name="人生"/>
+		<db:tag name="最后三分钟"/>
+		<db:tag name="short-film"/>
+		<gd:rating max="5" min="1" value="3"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/428241835</id>
+		<title>翛然 看过 The Black Hole</title>
+		<updated>2011-08-22T08:36:15+08:00</updated>
+		<link href="http://api.douban.com/collection/428241835" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/4016948" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/4016948</id>
+			<title>The Black Hole</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Philip Sansom</name>
+			</author>
+			<author>
+				<name>Olly Williams</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/4016948" rel="self"/>
+			<link href="http://movie.douban.com/subject/4016948/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3979107.jpg" rel="image"/>
+			<db:attribute name="country">英国</db:attribute>
+			<db:attribute name="writer">Philip Sansom</db:attribute>
+			<db:attribute name="writer">Olly Williams</db:attribute>
+			<db:attribute name="director">Philip Sansom</db:attribute>
+			<db:attribute name="director">Olly Williams</db:attribute>
+			<db:attribute name="pubdate">2008</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1430144/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">黑洞</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">Napoleon Ryan</db:attribute>
+		</db:subject>
+		<db:tag name="短片"/>
+		<db:tag name="英国"/>
+		<db:tag name="人性"/>
+		<db:tag name="搞笑"/>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/428240780</id>
+		<title>翛然 看过 Splitscreen: A Love Story</title>
+		<updated>2011-08-22T08:28:12+08:00</updated>
+		<link href="http://api.douban.com/collection/428240780" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/6778368" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/6778368</id>
+			<title>Splitscreen: A Love Story</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>JW Griffiths</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/6778368" rel="self"/>
+			<link href="http://movie.douban.com/subject/6778368/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s6861013.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="director">JW Griffiths</db:attribute>
+			<db:attribute name="pubdate">2011</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">分屏: 一个爱情故事</db:attribute>
+			<db:attribute name="language">无对白</db:attribute>
+			<db:attribute name="cast">Lola McDonnell</db:attribute>
+			<db:attribute name="cast">Scott Ellis</db:attribute>
+		</db:subject>
+		<db:tag name="短片"/>
+		<db:tag name="美国"/>
+		<db:tag name="法国"/>
+		<db:tag name="爱情"/>
+		<db:tag name="2011"/>
+		<db:tag name="纽约"/>
+		<db:tag name="巴黎"/>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/428238018</id>
+		<title>翛然 看过 Kyle XY</title>
+		<updated>2011-08-22T07:58:21+08:00</updated>
+		<link href="http://api.douban.com/collection/428238018" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1812031" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1812031</id>
+			<title>Kyle XY</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Gil Junger / Pat Williams</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1812031" rel="self"/>
+			<link href="http://movie.douban.com/subject/1812031/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1680790.jpg" rel="image"/>
+			<db:attribute name="website">http://abcfamily.go.com/shows/kylexy</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="country">加拿大</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">天赐凯尔</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0756509/</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+		</db:subject>
+		<db:tag name="美剧"/>
+		<db:tag name="科幻"/>
+		<db:tag name="悬疑"/>
+		<db:tag name="电视剧"/>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/428236343</id>
+		<title>翛然 看过 窃听风云</title>
+		<updated>2011-08-22T07:23:15+08:00</updated>
+		<link href="http://api.douban.com/collection/428236343" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3412882" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3412882</id>
+			<title>窃听风云</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>麦兆辉</name>
+			</author>
+			<author>
+				<name>庄文强</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3412882" rel="self"/>
+			<link href="http://movie.douban.com/subject/3412882/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3860318.jpg" rel="image"/>
+			<db:attribute name="director">麦兆辉</db:attribute>
+			<db:attribute name="director">庄文强</db:attribute>
+			<db:attribute name="writer">庄文强</db:attribute>
+			<db:attribute name="writer">麦兆辉</db:attribute>
+			<db:attribute name="language">粤语</db:attribute>
+			<db:attribute name="language">汉语普通话</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1349853/</db:attribute>
+			<db:attribute name="website">http://www.overheardmovie.com/</db:attribute>
+			<db:attribute name="country">香港</db:attribute>
+			<db:attribute name="country">中国</db:attribute>
+			<db:attribute name="pubdate">2009-07-24</db:attribute>
+			<db:attribute name="cast">刘青云</db:attribute>
+			<db:attribute name="cast">古天乐</db:attribute>
+			<db:attribute name="cast">吴彦祖</db:attribute>
+			<db:attribute name="cast">张静初</db:attribute>
+			<db:attribute name="cast">方中信</db:attribute>
+			<db:attribute name="cast">王敏德 </db:attribute>
+			<db:attribute name="cast">李子雄</db:attribute>
+			<db:attribute name="cast">陈伟霆</db:attribute>
+		</db:subject>
+		<db:tag name="香港"/>
+		<db:tag name="警匪"/>
+		<db:tag name="犯罪"/>
+		<db:tag name="剧情"/>
+		<db:tag name="2009"/>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/397202543</id>
+		<title>翛然 想看 An Invisible Sign of My Own</title>
+		<updated>2011-05-30T22:41:39+08:00</updated>
+		<link href="http://api.douban.com/collection/397202543" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3158438" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3158438</id>
+			<title>An Invisible Sign of My Own</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Marilyn Agrelo</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3158438" rel="self"/>
+			<link href="http://movie.douban.com/subject/3158438/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4672687.jpg" rel="image"/>
+			<db:attribute name="director">Marilyn Agrelo</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">我的无形符号</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">Michael Ellis</db:attribute>
+			<db:attribute name="writer">Pamela Falk</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1212454/</db:attribute>
+			<db:attribute name="pubdate">2010-10-07(美国)</db:attribute>
+			<db:attribute name="cast">America Ferrera</db:attribute>
+			<db:attribute name="cast">Cierra Ramirez</db:attribute>
+			<db:attribute name="cast">Sophie Nyweide</db:attribute>
+			<db:attribute name="cast">Mackenzie Milone</db:attribute>
+			<db:attribute name="cast">Ian Colletti</db:attribute>
+		</db:subject>
+		<db:tag name="美国电影"/>
+		<db:tag name="剧情"/>
+		<db:tag name="励志"/>
+		<db:tag name="AmericaFerrera"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/396610636</id>
+		<title>翛然 看过 九降風</title>
+		<updated>2011-05-29T15:26:15+08:00</updated>
+		<link href="http://api.douban.com/collection/396610636" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3212120" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3212120</id>
+			<title>九降風</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>林书宇</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3212120" rel="self"/>
+			<link href="http://movie.douban.com/subject/3212120/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3354893.jpg" rel="image"/>
+			<db:attribute name="country">台湾</db:attribute>
+			<db:attribute name="writer">林书宇</db:attribute>
+			<db:attribute name="writer">蔡宗翰</db:attribute>
+			<db:attribute name="director">林书宇</db:attribute>
+			<db:attribute name="pubdate">2008-06-06</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1286562/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">九降风</db:attribute>
+			<db:attribute name="language">汉语普通话</db:attribute>
+			<db:attribute name="cast">凤小岳</db:attribute>
+			<db:attribute name="cast">张捷</db:attribute>
+			<db:attribute name="cast">初家晴</db:attribute>
+			<db:attribute name="cast">林祺泰</db:attribute>
+			<db:attribute name="cast">沈威年</db:attribute>
+			<db:attribute name="cast">王柏杰</db:attribute>
+			<db:attribute name="cast">邱翊橙</db:attribute>
+			<db:attribute name="cast">纪培慧</db:attribute>
+			<db:attribute name="cast">李岳承</db:attribute>
+			<db:attribute name="cast">曾志伟</db:attribute>
+		</db:subject>
+		<db:tag name="青春"/>
+		<db:tag name="台湾电影"/>
+		<db:tag name="九降风"/>
+		<db:tag name="成长"/>
+		<db:tag name="文艺"/>
+		<gd:rating max="5" min="1" value="2"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/396610394</id>
+		<title>翛然 在看 Prison Break: Proof of Innocence</title>
+		<updated>2011-05-29T15:25:41+08:00</updated>
+		<link href="http://api.douban.com/collection/396610394" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1876781" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watching</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1876781</id>
+			<title>Prison Break: Proof of Innocence</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Brett Ratner</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1876781" rel="self"/>
+			<link href="http://movie.douban.com/subject/1876781/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1878235.jpg" rel="image"/>
+			<db:attribute name="website">http://www.fox.com/prisonbreak/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="director">Brett Ratner</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0825355/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">越狱 第二季</db:attribute>
+			<db:attribute name="cast">Wentworth Miller</db:attribute>
+			<db:attribute name="cast">Dominic Purcell</db:attribute>
+			<db:attribute name="cast">Robin Tunney</db:attribute>
+			<db:attribute name="cast">Amaury Nolasco</db:attribute>
+			<db:attribute name="cast">Peter Stormare</db:attribute>
+		</db:subject>
+		<db:tag name="美剧"/>
+		<db:tag name="越狱"/>
+		<db:tag name="美国"/>
+		<db:tag name="悬疑"/>
+		<db:tag name="Prison"/>
+		<db:tag name="break"/>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/387946671</id>
+		<title>翛然 看过 Prison Break</title>
+		<updated>2011-05-29T15:25:19+08:00</updated>
+		<link href="http://api.douban.com/collection/387946671" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1419297" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1419297</id>
+			<title>Prison Break</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Brett Ratner</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1419297" rel="self"/>
+			<link href="http://movie.douban.com/subject/1419297/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1632667.jpg" rel="image"/>
+			<db:attribute name="director">Brett Ratner</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">越狱</db:attribute>
+			<db:attribute name="website">http://www.fox.com/prisonbreak/</db:attribute>
+			<db:attribute name="writer">Paul Scheuring</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">西班牙语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0455275/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="pubdate">2005-09-01</db:attribute>
+			<db:attribute name="cast">Wentworth Miller</db:attribute>
+			<db:attribute name="cast">Dominic Purcell</db:attribute>
+		</db:subject>
+		<db:tag name="美剧"/>
+		<db:tag name="越狱"/>
+		<db:tag name="美国"/>
+		<db:tag name="悬疑"/>
+		<db:tag name="Prison"/>
+		<db:tag name="Break"/>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/373155048</id>
+		<title>翛然 看过 爱情公寓</title>
+		<updated>2011-05-08T00:45:21+08:00</updated>
+		<link href="http://api.douban.com/collection/373155048" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3926132" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3926132</id>
+			<title>爱情公寓</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>韦正   Zheng Wei</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3926132" rel="self"/>
+			<link href="http://movie.douban.com/subject/3926132/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3940602.jpg" rel="image"/>
+			<db:attribute name="director">韦正  </db:attribute>
+			<db:attribute name="website">tv.ipart.cn</db:attribute>
+			<db:attribute name="writer">汪远</db:attribute>
+			<db:attribute name="language">汉语普通话</db:attribute>
+			<db:attribute name="country">中国大陆</db:attribute>
+			<db:attribute name="pubdate">2009-08-05(中国大陆)</db:attribute>
+			<db:attribute name="cast">赵霁</db:attribute>
+			<db:attribute name="cast">金世佳</db:attribute>
+			<db:attribute name="cast">娄艺潇</db:attribute>
+			<db:attribute name="cast">陈赫</db:attribute>
+			<db:attribute name="cast">孙艺洲</db:attribute>
+			<db:attribute name="cast">王传君</db:attribute>
+			<db:attribute name="cast">李金铭</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/387429391</id>
+		<title>翛然 想看 Annie Hall</title>
+		<updated>2011-05-07T18:01:44+08:00</updated>
+		<link href="http://api.douban.com/collection/387429391" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1296987" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1296987</id>
+			<title>Annie Hall</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Woody Allen</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1296987" rel="self"/>
+			<link href="http://movie.douban.com/subject/1296987/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1887753.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">马歇尔·布瑞克曼</db:attribute>
+			<db:attribute name="writer">伍迪·艾伦</db:attribute>
+			<db:attribute name="director">伍迪·艾伦</db:attribute>
+			<db:attribute name="pubdate">1977-04-20</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0075686/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">安妮·霍尔</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">德语</db:attribute>
+			<db:attribute name="cast">伍迪·艾伦</db:attribute>
+			<db:attribute name="cast">黛安·基顿</db:attribute>
+			<db:attribute name="cast">谢莉·杜瓦尔</db:attribute>
+			<db:attribute name="cast">Paul Simon</db:attribute>
+			<db:attribute name="cast">卡洛·凯恩</db:attribute>
+			<db:attribute name="cast">克里斯托弗·沃肯</db:attribute>
+		</db:subject>
+		<db:tag name="WoodyAllen"/>
+		<db:tag name="伍迪·艾伦"/>
+		<db:tag name="美国电影"/>
+		<db:tag name="1977"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/386162089</id>
+		<title>翛然 看过 I, Robot</title>
+		<updated>2011-05-04T14:12:53+08:00</updated>
+		<link href="http://api.douban.com/collection/386162089" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1308843" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1308843</id>
+			<title>I, Robot</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Alex Proyas</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1308843" rel="self"/>
+			<link href="http://movie.douban.com/subject/1308843/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2807082.jpg" rel="image"/>
+			<db:attribute name="website">www.irobotnow.com</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="country">德国</db:attribute>
+			<db:attribute name="writer">Jeff Vintar</db:attribute>
+			<db:attribute name="writer">阿齐瓦·高斯曼</db:attribute>
+			<db:attribute name="writer">伊萨克·阿西莫夫</db:attribute>
+			<db:attribute name="director">亚历克斯·普罗亚斯</db:attribute>
+			<db:attribute name="pubdate">2004-07-16</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0343818/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">我，机器人</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">威尔·史密斯</db:attribute>
+			<db:attribute name="cast">布丽姬·穆娜</db:attribute>
+			<db:attribute name="cast">艾伦·图代克</db:attribute>
+			<db:attribute name="cast">布鲁斯·格林伍德</db:attribute>
+		</db:subject>
+		<db:tag name="科幻"/>
+		<db:tag name="美国"/>
+		<db:tag name="机器人"/>
+		<db:tag name="动作"/>
+		<db:tag name="威尔·史密斯"/>
+		<db:tag name="美国电影"/>
+		<gd:rating max="5" min="1" value="3"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/380449215</id>
+		<title>翛然 在看 JIN-仁 2</title>
+		<updated>2011-04-20T09:08:51+08:00</updated>
+		<link href="http://api.douban.com/collection/380449215" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/4881202" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watching</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/4881202</id>
+			<title>JIN-仁 2</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>平川雄一朗 Yuichiro Hirakawa</name>
+			</author>
+			<author>
+				<name>山室大輔</name>
+			</author>
+			<author>
+				<name>那須田淳</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/4881202" rel="self"/>
+			<link href="http://movie.douban.com/subject/4881202/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s4684824.jpg" rel="image"/>
+			<db:attribute name="website">http://www.tbs.co.jp/jin-final/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="writer">森下佳子</db:attribute>
+			<db:attribute name="director">平川雄一朗</db:attribute>
+			<db:attribute name="director">山室大輔</db:attribute>
+			<db:attribute name="director">那須田淳</db:attribute>
+			<db:attribute name="pubdate">2011-04-17</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt2990323/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">仁医 2</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">大沢たかお</db:attribute>
+			<db:attribute name="cast">綾瀬はるか</db:attribute>
+			<db:attribute name="cast">中谷美紀</db:attribute>
+			<db:attribute name="cast">内野聖陽</db:attribute>
+			<db:attribute name="cast">小出惠介</db:attribute>
+		</db:subject>
+		<db:tag name="日剧"/>
+		<db:tag name="綾瀬はるか"/>
+		<db:tag name="大泽隆夫"/>
+		<db:tag name="中谷美紀"/>
+		<db:tag name="日本"/>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/368566822</id>
+		<title>翛然 看过 观音山</title>
+		<updated>2011-03-25T19:44:25+08:00</updated>
+		<link href="http://api.douban.com/collection/368566822" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/4059245" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/4059245</id>
+			<title>观音山</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>李玉 Yu Li</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/4059245" rel="self"/>
+			<link href="http://movie.douban.com/subject/4059245/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s4644234.jpg" rel="image"/>
+			<db:attribute name="director">李玉</db:attribute>
+			<db:attribute name="writer">李玉</db:attribute>
+			<db:attribute name="writer">方励</db:attribute>
+			<db:attribute name="language">汉语普通话</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1745713/</db:attribute>
+			<db:attribute name="country">中国大陆</db:attribute>
+			<db:attribute name="pubdate">2011-03-03(中国大陆)</db:attribute>
+			<db:attribute name="cast">张艾嘉</db:attribute>
+			<db:attribute name="cast">范冰冰</db:attribute>
+			<db:attribute name="cast">陈柏霖</db:attribute>
+			<db:attribute name="cast">肥龙</db:attribute>
+			<db:attribute name="cast">方励</db:attribute>
+		</db:subject>
+		<db:tag name="范冰冰"/>
+		<db:tag name="张艾嘉"/>
+		<db:tag name="陈柏霖"/>
+		<db:tag name="观音山"/>
+		<db:tag name="李玉"/>
+		<db:tag name="中国电影"/>
+		<db:tag name="2010"/>
+		<gd:rating max="5" min="1" value="2"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/368731484</id>
+		<title>翛然 看过 The Last Airbender</title>
+		<updated>2011-03-22T12:35:42+08:00</updated>
+		<link href="http://api.douban.com/collection/368731484" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/2363919" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/2363919</id>
+			<title>The Last Airbender</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>M. Night Shyamalan</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/2363919" rel="self"/>
+			<link href="http://movie.douban.com/subject/2363919/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4356705.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">M·奈特·沙马兰</db:attribute>
+			<db:attribute name="director">M·奈特·沙马兰</db:attribute>
+			<db:attribute name="pubdate">2010-08-23 (中国大陆)</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0938283/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">最后的风之子</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">Noah Ringer</db:attribute>
+			<db:attribute name="cast">Dev Patel</db:attribute>
+			<db:attribute name="cast">Jackson Rathbone</db:attribute>
+			<db:attribute name="cast">Nicola Peltz</db:attribute>
+			<db:attribute name="cast">Cliff Curtis</db:attribute>
+			<db:attribute name="cast">Jessica Andres</db:attribute>
+			<db:attribute name="cast">Seychelle Gabriel</db:attribute>
+			<db:attribute name="cast">Shaun Toub</db:attribute>
+			<db:attribute name="cast">Aasif Mandvi</db:attribute>
+			<db:attribute name="cast">Randall Duk Kim</db:attribute>
+		</db:subject>
+		<db:tag name="魔幻"/>
+		<db:tag name="美国"/>
+		<db:tag name="奇幻"/>
+		<db:tag name="动画改编"/>
+		<db:tag name="动作"/>
+		<db:tag name="科幻"/>
+		<db:tag name="2010"/>
+		<gd:rating max="5" min="1" value="3"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/368567273</id>
+		<title>翛然 想看 Gift 禮物</title>
+		<updated>2011-03-21T22:18:45+08:00</updated>
+		<link href="http://api.douban.com/collection/368567273" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3804409" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3804409</id>
+			<title>Gift 禮物</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>曾夢</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3804409" rel="self"/>
+			<link href="http://movie.douban.com/subject/3804409/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s3844144.jpg" rel="image"/>
+			<db:attribute name="country">中國</db:attribute>
+			<db:attribute name="country">北京電影學院</db:attribute>
+			<db:attribute name="writer">曾夢</db:attribute>
+			<db:attribute name="director">曾夢</db:attribute>
+			<db:attribute name="pubdate">2009-06-25</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">礼物</db:attribute>
+			<db:attribute name="language">普通话/国语</db:attribute>
+			<db:attribute name="cast">谭卓</db:attribute>
+			<db:attribute name="cast">劉通達</db:attribute>
+			<db:attribute name="cast">張亦然</db:attribute>
+		</db:subject>
+		<db:tag name="青春"/>
+		<db:tag name="文艺"/>
+		<db:tag name="中国电影"/>
+		<db:tag name="禮物"/>
+		<db:tag name="短片"/>
+		<db:tag name="大陆"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/364616396</id>
+		<title>翛然 想看 重力ピエロ</title>
+		<updated>2011-03-12T16:39:13+08:00</updated>
+		<link href="http://api.douban.com/collection/364616396" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3727653" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3727653</id>
+			<title>重力ピエロ</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>森淳一</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3727653" rel="self"/>
+			<link href="http://movie.douban.com/subject/3727653/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4162966.jpg" rel="image"/>
+			<db:attribute name="director">森淳一</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">重力小丑</db:attribute>
+			<db:attribute name="website">http://jyuryoku-p.com/</db:attribute>
+			<db:attribute name="writer">相泽友子</db:attribute>
+			<db:attribute name="writer">伊坂幸太郎</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1427241/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="pubdate">2009-05-23</db:attribute>
+			<db:attribute name="cast">加濑亮</db:attribute>
+			<db:attribute name="cast">冈田将生</db:attribute>
+			<db:attribute name="cast">小日向文世</db:attribute>
+			<db:attribute name="cast">吉高由里子</db:attribute>
+			<db:attribute name="cast">渡部笃郎</db:attribute>
+			<db:attribute name="cast">冈田义德</db:attribute>
+			<db:attribute name="cast">铃木京香</db:attribute>
+		</db:subject>
+		<db:tag name="日本电影"/>
+		<db:tag name="岡田将生"/>
+		<db:tag name="加瀬亮"/>
+		<db:tag name="吉高由里子"/>
+		<db:tag name="伊坂幸太郎"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/362397769</id>
+		<title>翛然 看过 Music and Lyrics</title>
+		<updated>2011-03-06T19:38:56+08:00</updated>
+		<link href="http://api.douban.com/collection/362397769" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1937401" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1937401</id>
+			<title>Music and Lyrics</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Marc Lawrence</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1937401" rel="self"/>
+			<link href="http://movie.douban.com/subject/1937401/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1994232.jpg" rel="image"/>
+			<db:attribute name="website">http://musicandlyrics.warnerbros.com/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">Marc Lawrence</db:attribute>
+			<db:attribute name="director">Marc Lawrence</db:attribute>
+			<db:attribute name="pubdate">2007-02-14</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0758766/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">K歌情人</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">休·格兰特</db:attribute>
+			<db:attribute name="cast">德鲁·巴里摩尔</db:attribute>
+			<db:attribute name="cast">斯科特·波特</db:attribute>
+			<db:attribute name="cast">布拉德·加内特</db:attribute>
+			<db:attribute name="cast">海莉·贝内特</db:attribute>
+		</db:subject>
+		<db:tag name="爱情"/>
+		<db:tag name="美国"/>
+		<db:tag name="音乐"/>
+		<db:tag name="德鲁·巴里摩尔"/>
+		<db:tag name="HughGrant"/>
+		<gd:rating max="5" min="1" value="3"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/360678518</id>
+		<title>翛然 想看 Trainspotting</title>
+		<updated>2011-03-02T19:09:04+08:00</updated>
+		<link href="http://api.douban.com/collection/360678518" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1292528" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1292528</id>
+			<title>Trainspotting</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Danny Boyle</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1292528" rel="self"/>
+			<link href="http://movie.douban.com/subject/1292528/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s1642564.jpg" rel="image"/>
+			<db:attribute name="country">英国</db:attribute>
+			<db:attribute name="writer">埃文·威尔什</db:attribute>
+			<db:attribute name="writer">John Hodge</db:attribute>
+			<db:attribute name="director">丹尼·鲍尔</db:attribute>
+			<db:attribute name="pubdate">1996-02-23</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0117951/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">猜火车</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">伊万·麦克格雷格</db:attribute>
+			<db:attribute name="cast">艾文·布莱纳</db:attribute>
+			<db:attribute name="cast">约翰·李·米勒</db:attribute>
+			<db:attribute name="cast">凯文·麦克基德</db:attribute>
+			<db:attribute name="cast">罗伯特·卡莱尔</db:attribute>
+			<db:attribute name="cast">凯莉·麦克唐纳</db:attribute>
+		</db:subject>
+		<db:tag name="猜火车"/>
+		<db:tag name="英国"/>
+		<db:tag name="青春"/>
+		<db:tag name="经典"/>
+		<db:tag name="剧情"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/360676670</id>
+		<title>翛然 看过 麦兜响当当</title>
+		<updated>2011-03-02T19:03:17+08:00</updated>
+		<link href="http://api.douban.com/collection/360676670" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/2277018" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/2277018</id>
+			<title>麦兜响当当</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>谢立文</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/2277018" rel="self"/>
+			<link href="http://movie.douban.com/subject/2277018/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3870307.jpg" rel="image"/>
+			<db:attribute name="website">http://www.mcdull.hk/movie/cht/index.html</db:attribute>
+			<db:attribute name="country">中国</db:attribute>
+			<db:attribute name="country">香港</db:attribute>
+			<db:attribute name="director">谢立文</db:attribute>
+			<db:attribute name="pubdate">2009-07-24</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">麦兜响当当</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1430622/</db:attribute>
+			<db:attribute name="language">汉语普通话</db:attribute>
+			<db:attribute name="language">粤语</db:attribute>
+		</db:subject>
+		<db:tag name="香港"/>
+		<db:tag name="童话"/>
+		<db:tag name="励志"/>
+		<db:tag name="搞笑"/>
+		<db:tag name="亲情"/>
+		<gd:rating max="5" min="1" value="3"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/360457934</id>
+		<title>翛然 看过 百万円と苦虫女</title>
+		<updated>2011-03-02T02:24:35+08:00</updated>
+		<link href="http://api.douban.com/collection/360457934" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/2157504" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/2157504</id>
+			<title>百万円と苦虫女</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>棚田由纪</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/2157504" rel="self"/>
+			<link href="http://movie.douban.com/subject/2157504/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3204679.jpg" rel="image"/>
+			<db:attribute name="website">http://nigamushi.com/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="writer">棚田由纪</db:attribute>
+			<db:attribute name="director">棚田由纪</db:attribute>
+			<db:attribute name="pubdate">2008-07-19</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1077094/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">百万元与苦虫女</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">苍井优</db:attribute>
+			<db:attribute name="cast">森山未来</db:attribute>
+			<db:attribute name="cast">皮埃尔泷</db:attribute>
+			<db:attribute name="cast">竹财辉之助</db:attribute>
+			<db:attribute name="cast">斋藤隆成</db:attribute>
+			<db:attribute name="cast">笹野高史</db:attribute>
+			<db:attribute name="cast">佐佐木澄江</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/359881538</id>
+		<title>翛然 看过 志明與春嬌</title>
+		<updated>2011-02-28T18:09:07+08:00</updated>
+		<link href="http://api.douban.com/collection/359881538" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/4305436" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/4305436</id>
+			<title>志明與春嬌</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>彭浩翔</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/4305436" rel="self"/>
+			<link href="http://movie.douban.com/subject/4305436/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4197122.jpg" rel="image"/>
+			<db:attribute name="director">彭浩翔</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">志明与春娇</db:attribute>
+			<db:attribute name="website">www.mediaasia.com/loveinapuff</db:attribute>
+			<db:attribute name="writer">麦曦茵</db:attribute>
+			<db:attribute name="writer">彭浩翔</db:attribute>
+			<db:attribute name="language">粤语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1602479/</db:attribute>
+			<db:attribute name="country">香港</db:attribute>
+			<db:attribute name="pubdate">2010-03-25(香港) / 2010-06-18(中国大陆)</db:attribute>
+			<db:attribute name="cast">杨千嬅</db:attribute>
+			<db:attribute name="cast">余文乐</db:attribute>
+			<db:attribute name="cast">司徒慧焯</db:attribute>
+			<db:attribute name="cast">方皓玟</db:attribute>
+			<db:attribute name="cast">谷祖琳</db:attribute>
+			<db:attribute name="cast">缪非临</db:attribute>
+			<db:attribute name="cast">黄德斌</db:attribute>
+			<db:attribute name="cast">张达明</db:attribute>
+			<db:attribute name="cast">徐天佑</db:attribute>
+			<db:attribute name="cast">邹凯光</db:attribute>
+			<db:attribute name="cast">谷德昭</db:attribute>
+		</db:subject>
+		<db:tag name="爱情"/>
+		<db:tag name="文艺"/>
+		<db:tag name="都市"/>
+		<db:tag name="黑色幽默"/>
+		<db:tag name="香港"/>
+		<gd:rating max="5" min="1" value="3"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/342350932</id>
+		<title>翛然 看过 戀人絮語</title>
+		<updated>2011-02-14T13:44:35+08:00</updated>
+		<link href="http://api.douban.com/collection/342350932" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/4043763" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/4043763</id>
+			<title>戀人絮語</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>曾国祥 Derek Tsang</name>
+			</author>
+			<author>
+				<name>尹志文 Jimmy Wan</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/4043763" rel="self"/>
+			<link href="http://movie.douban.com/subject/4043763/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4583270.jpg" rel="image"/>
+			<db:attribute name="director">曾国祥</db:attribute>
+			<db:attribute name="director">尹志文</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">恋人絮语</db:attribute>
+			<db:attribute name="language">粤语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1772958/</db:attribute>
+			<db:attribute name="country">香港</db:attribute>
+			<db:attribute name="pubdate">2010-12-31</db:attribute>
+			<db:attribute name="cast">陈奕迅</db:attribute>
+			<db:attribute name="cast">范晓萱</db:attribute>
+			<db:attribute name="cast">林嘉欣</db:attribute>
+			<db:attribute name="cast">谢安琪</db:attribute>
+			<db:attribute name="cast">彭于晏</db:attribute>
+			<db:attribute name="cast">陈伟霆</db:attribute>
+			<db:attribute name="cast">陈洁仪</db:attribute>
+			<db:attribute name="cast">向佐</db:attribute>
+			<db:attribute name="cast">陈家乐</db:attribute>
+			<db:attribute name="cast">曾志伟</db:attribute>
+		</db:subject>
+		<db:tag name="陈奕迅"/>
+		<db:tag name="彭于晏"/>
+		<db:tag name="范晓萱"/>
+		<db:tag name="林嘉欣"/>
+		<db:tag name="曾国祥"/>
+		<db:tag name="香港电影"/>
+		<db:tag name="爱情"/>
+		<gd:rating max="5" min="1" value="3"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/353657104</id>
+		<title>翛然 想看 岁月神偷</title>
+		<updated>2011-02-14T12:31:32+08:00</updated>
+		<link href="http://api.douban.com/collection/353657104" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3792799" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3792799</id>
+			<title>岁月神偷</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>罗启锐</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3792799" rel="self"/>
+			<link href="http://movie.douban.com/subject/3792799/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4226652.jpg" rel="image"/>
+			<db:attribute name="director">罗启锐</db:attribute>
+			<db:attribute name="writer">罗启锐</db:attribute>
+			<db:attribute name="language">粤语</db:attribute>
+			<db:attribute name="language">汉语普通话</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1602572/</db:attribute>
+			<db:attribute name="country">香港</db:attribute>
+			<db:attribute name="country">中国大陆</db:attribute>
+			<db:attribute name="pubdate">2010-03-11</db:attribute>
+			<db:attribute name="cast">吴君如</db:attribute>
+			<db:attribute name="cast">任达华</db:attribute>
+			<db:attribute name="cast">钟绍图</db:attribute>
+			<db:attribute name="cast">李治廷</db:attribute>
+			<db:attribute name="cast">蔡颖恩</db:attribute>
+			<db:attribute name="cast">秦沛</db:attribute>
+			<db:attribute name="cast">夏萍</db:attribute>
+			<db:attribute name="cast">谷德昭</db:attribute>
+			<db:attribute name="cast">许鞍华</db:attribute>
+			<db:attribute name="cast">张同祖</db:attribute>
+		</db:subject>
+		<db:tag name="人生"/>
+		<db:tag name="亲情"/>
+		<db:tag name="家庭"/>
+		<db:tag name="剧情"/>
+		<db:tag name="温情"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/353647651</id>
+		<title>翛然 看过 ウォーターボーイズ</title>
+		<updated>2011-02-14T12:04:19+08:00</updated>
+		<link href="http://api.douban.com/collection/353647651" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1301359" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1301359</id>
+			<title>ウォーターボーイズ</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>矢口史靖</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1301359" rel="self"/>
+			<link href="http://movie.douban.com/subject/1301359/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1388026.jpg" rel="image"/>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="writer">矢口史靖</db:attribute>
+			<db:attribute name="director">矢口史靖</db:attribute>
+			<db:attribute name="pubdate">2001-09-15</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0299213/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">五个扑水的少年</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">妻夫木聪</db:attribute>
+			<db:attribute name="cast">玉木宏</db:attribute>
+			<db:attribute name="cast">三浦哲郁</db:attribute>
+			<db:attribute name="cast">近藤公园</db:attribute>
+			<db:attribute name="cast">金子贵俊</db:attribute>
+			<db:attribute name="cast">平山绫</db:attribute>
+		</db:subject>
+		<db:tag name="妻夫木聪"/>
+		<db:tag name="日本电影"/>
+		<db:tag name="玉木宏"/>
+		<db:tag name="矢口史靖"/>
+		<db:tag name="青春"/>
+		<gd:rating max="5" min="1" value="3"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/353647538</id>
+		<title>翛然 看过 stand up</title>
+		<updated>2011-02-14T12:03:56+08:00</updated>
+		<link href="http://api.douban.com/collection/353647538" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1460833" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1460833</id>
+			<title>stand up</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>堤幸彥、加藤新</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1460833" rel="self"/>
+			<link href="http://movie.douban.com/subject/1460833/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1891919.jpg" rel="image"/>
+			<db:attribute name="website">http://www.tbs.co.jp/standup/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="pubdate">2003-07-04</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">日本派</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0425717/</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+		</db:subject>
+		<db:tag name="日劇"/>
+		<db:tag name="青春"/>
+		<db:tag name="成宫宽贵"/>
+		<db:tag name="小栗旬"/>
+		<db:tag name="二宫和也"/>
+		<db:tag name="山下智久"/>
+		<db:tag name="堤幸彦"/>
+		<gd:rating max="5" min="1" value="2"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/353516067</id>
+		<title>翛然 想看 スワロウテイル</title>
+		<updated>2011-02-13T23:31:33+08:00</updated>
+		<link href="http://api.douban.com/collection/353516067" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1307793" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1307793</id>
+			<title>スワロウテイル</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>岩井俊二</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1307793" rel="self"/>
+			<link href="http://movie.douban.com/subject/1307793/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1481426.jpg" rel="image"/>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="writer">岩井俊二</db:attribute>
+			<db:attribute name="director">岩井俊二</db:attribute>
+			<db:attribute name="pubdate">1996-09-14</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0117797/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">燕尾蝶</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="language">粤语</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">汉语普通话</db:attribute>
+			<db:attribute name="cast">三上博史</db:attribute>
+			<db:attribute name="cast">恰拉</db:attribute>
+			<db:attribute name="cast">伊藤步</db:attribute>
+			<db:attribute name="cast">江口洋介</db:attribute>
+			<db:attribute name="cast">许志安</db:attribute>
+			<db:attribute name="cast">渡部笃郎</db:attribute>
+			<db:attribute name="cast">山口智子</db:attribute>
+			<db:attribute name="cast">大塚宁宁</db:attribute>
+			<db:attribute name="cast">桃井薰</db:attribute>
+			<db:attribute name="cast">浅野忠信</db:attribute>
+		</db:subject>
+		<db:tag name="岩井俊二"/>
+		<db:tag name="燕尾蝶"/>
+		<db:tag name="日本电影"/>
+		<db:tag name="青春"/>
+		<db:tag name="文艺"/>
+		<db:tag name="1996"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/353515696</id>
+		<title>翛然 想看 告白</title>
+		<updated>2011-02-13T23:30:42+08:00</updated>
+		<link href="http://api.douban.com/collection/353515696" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/4268598" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/4268598</id>
+			<title>告白</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>中岛哲也 Tetsuya Nakashima</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/4268598" rel="self"/>
+			<link href="http://movie.douban.com/subject/4268598/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4414282.jpg" rel="image"/>
+			<db:attribute name="website">http://kokuhaku-shimasu.jp</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="writer">中岛哲也</db:attribute>
+			<db:attribute name="writer">凑佳苗</db:attribute>
+			<db:attribute name="director">中岛哲也</db:attribute>
+			<db:attribute name="pubdate">2010-06-05(日本)</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1590089/</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">松隆子</db:attribute>
+			<db:attribute name="cast">冈田将生</db:attribute>
+			<db:attribute name="cast">木村佳乃</db:attribute>
+			<db:attribute name="cast">西井幸人</db:attribute>
+			<db:attribute name="cast">桥本爱</db:attribute>
+			<db:attribute name="cast">芦田爱菜</db:attribute>
+			<db:attribute name="cast">三吉彩花</db:attribute>
+			<db:attribute name="cast">藤原薰</db:attribute>
+			<db:attribute name="cast">井之肋海</db:attribute>
+			<db:attribute name="cast">野本萤</db:attribute>
+			<db:attribute name="cast">清水尚弥</db:attribute>
+			<db:attribute name="cast">高桥努</db:attribute>
+			<db:attribute name="cast">桥本爱</db:attribute>
+		</db:subject>
+		<db:tag name="日本电影"/>
+		<db:tag name="松隆子"/>
+		<db:tag name="中岛哲也"/>
+		<db:tag name="2010"/>
+		<db:tag name="岡田将生"/>
+		<db:tag name="木村佳乃"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/353515426</id>
+		<title>翛然 想看 The Tourist</title>
+		<updated>2011-02-13T23:30:05+08:00</updated>
+		<link href="http://api.douban.com/collection/353515426" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/4190211" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/4190211</id>
+			<title>The Tourist</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>弗洛里安·亨克尔·冯·多纳斯马 Florian Henckel von Donnersmarck</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/4190211" rel="self"/>
+			<link href="http://movie.douban.com/subject/4190211/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4520766.jpg" rel="image"/>
+			<db:attribute name="director">弗洛里安·亨克尔·冯·多纳斯马</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">致命伴旅</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="country">法国</db:attribute>
+			<db:attribute name="writer">朱利安·费罗斯</db:attribute>
+			<db:attribute name="writer">克里斯托弗·麦奎里</db:attribute>
+			<db:attribute name="writer">弗洛里安·亨克尔·冯·多纳斯马</db:attribute>
+			<db:attribute name="writer">杰罗姆·沙利</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1243957/</db:attribute>
+			<db:attribute name="pubdate">2010-12-10(美国)</db:attribute>
+			<db:attribute name="pubdate">2011-02-13(中国大陆)</db:attribute>
+			<db:attribute name="cast">约翰尼·德普</db:attribute>
+			<db:attribute name="cast">安吉丽娜·朱莉</db:attribute>
+			<db:attribute name="cast">卢夫斯·塞维尔</db:attribute>
+			<db:attribute name="cast">保罗·贝坦尼</db:attribute>
+			<db:attribute name="cast">提摩西·道尔顿</db:attribute>
+			<db:attribute name="cast">史蒂文·伯克夫</db:attribute>
+			<db:attribute name="cast">克里斯蒂安·德·西卡</db:attribute>
+			<db:attribute name="cast">阿莱西奥·博尼</db:attribute>
+			<db:attribute name="cast">丹尼尔·佩奇</db:attribute>
+			<db:attribute name="cast">乔万尼·圭代利</db:attribute>
+		</db:subject>
+		<db:tag name="美国"/>
+		<db:tag name="剧情"/>
+		<db:tag name="安吉丽娜·茱莉"/>
+		<db:tag name="约翰尼·德普"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/353509009</id>
+		<title>翛然 看过 Edward Scissorhands</title>
+		<updated>2011-02-13T23:17:20+08:00</updated>
+		<link href="http://api.douban.com/collection/353509009" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1292370" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1292370</id>
+			<title>Edward Scissorhands</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Tim Burton</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1292370" rel="self"/>
+			<link href="http://movie.douban.com/subject/1292370/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1987571.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">卡罗琳·汤普森</db:attribute>
+			<db:attribute name="writer">蒂姆·波顿</db:attribute>
+			<db:attribute name="director">蒂姆·波顿</db:attribute>
+			<db:attribute name="pubdate">1990-12-06</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0099487/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">剪刀手爱德华</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">约翰尼·德普</db:attribute>
+			<db:attribute name="cast">薇诺娜·瑞德</db:attribute>
+			<db:attribute name="cast">安东尼·迈克尔·豪尔</db:attribute>
+			<db:attribute name="cast">黛安·韦斯特</db:attribute>
+			<db:attribute name="cast">Kathy Baker</db:attribute>
+		</db:subject>
+		<db:tag name="JohnnyDepp"/>
+		<db:tag name="剪刀手爱德华"/>
+		<db:tag name="美国"/>
+		<db:tag name="经典"/>
+		<gd:rating max="5" min="1" value="3"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/353508653</id>
+		<title>翛然 看过 The Truman Show</title>
+		<updated>2011-02-13T23:16:40+08:00</updated>
+		<link href="http://api.douban.com/collection/353508653" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1292064" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1292064</id>
+			<title>The Truman Show</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Peter Weir</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1292064" rel="self"/>
+			<link href="http://movie.douban.com/subject/1292064/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s4016584.jpg" rel="image"/>
+			<db:attribute name="director">彼得·威尔</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">楚门的世界</db:attribute>
+			<db:attribute name="website">www.transparencynow.com/truman</db:attribute>
+			<db:attribute name="writer">安德鲁·尼科尔</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0120382/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="pubdate">1998-06-01</db:attribute>
+			<db:attribute name="cast">金·凯瑞</db:attribute>
+			<db:attribute name="cast">劳拉·琳妮</db:attribute>
+			<db:attribute name="cast">艾德·哈里斯</db:attribute>
+			<db:attribute name="cast">诺亚·艾默里奇</db:attribute>
+			<db:attribute name="cast">娜塔莎· 麦克艾霍恩</db:attribute>
+		</db:subject>
+		<db:tag name="美国"/>
+		<db:tag name="人性"/>
+		<db:tag name="楚门的世界"/>
+		<db:tag name="经典"/>
+		<db:tag name="剧情"/>
+		<db:tag name="JimCarrey"/>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/353506997</id>
+		<title>翛然 看过 Inception</title>
+		<updated>2011-02-13T23:13:17+08:00</updated>
+		<link href="http://api.douban.com/collection/353506997" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3541415" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3541415</id>
+			<title>Inception</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>克里斯托弗·诺兰 Christopher Nolan</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3541415" rel="self"/>
+			<link href="http://movie.douban.com/subject/3541415/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4356687.jpg" rel="image"/>
+			<db:attribute name="director">克里斯托弗·诺兰</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">盗梦空间</db:attribute>
+			<db:attribute name="website">www.inceptionmovie.com</db:attribute>
+			<db:attribute name="writer">克里斯托弗·诺兰</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="language">法语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1375666/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="country">英国</db:attribute>
+			<db:attribute name="pubdate">2010-09-01</db:attribute>
+			<db:attribute name="cast">莱昂纳多·迪卡普里奥</db:attribute>
+			<db:attribute name="cast">约瑟夫·高登-莱维特</db:attribute>
+			<db:attribute name="cast">艾伦·佩吉</db:attribute>
+			<db:attribute name="cast">渡边谦</db:attribute>
+			<db:attribute name="cast">汤姆·哈迪</db:attribute>
+			<db:attribute name="cast">迪利普·劳</db:attribute>
+			<db:attribute name="cast">玛丽昂·歌迪亚</db:attribute>
+			<db:attribute name="cast">希里安·墨菲</db:attribute>
+			<db:attribute name="cast">汤姆·贝伦杰</db:attribute>
+			<db:attribute name="cast">迈克尔·凯恩</db:attribute>
+			<db:attribute name="cast">卢卡斯·哈斯</db:attribute>
+			<db:attribute name="cast">皮特·波斯尔思韦特</db:attribute>
+		</db:subject>
+		<db:tag name="美国"/>
+		<db:tag name="科幻"/>
+		<db:tag name="悬疑"/>
+		<db:tag name="哲学"/>
+		<db:tag name="动作"/>
+		<db:tag name="心理"/>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/219363885</id>
+		<title>翛然 看过 きみの友だち</title>
+		<updated>2011-02-09T14:47:39+08:00</updated>
+		<link href="http://api.douban.com/collection/219363885" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3166635" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3166635</id>
+			<title>きみの友だち</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>广木隆一</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3166635" rel="self"/>
+			<link href="http://movie.douban.com/subject/3166635/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3193555.jpg" rel="image"/>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="writer">齐藤浩史</db:attribute>
+			<db:attribute name="director">广木隆一</db:attribute>
+			<db:attribute name="pubdate">2008-07-26</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1268880/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">你的朋友</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">吉高由里子</db:attribute>
+			<db:attribute name="cast">福士诚治</db:attribute>
+			<db:attribute name="cast">北浦爱</db:attribute>
+			<db:attribute name="cast">石桥杏奈</db:attribute>
+			<db:attribute name="cast">森田直幸</db:attribute>
+		</db:subject>
+		<db:tag name="日本电影"/>
+		<db:tag name="吉高由里子"/>
+		<db:tag name="广木隆一"/>
+		<db:tag name="石桥杏奈"/>
+		<db:tag name="你的朋友"/>
+		<gd:rating max="5" min="1" value="2"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/351436294</id>
+		<title>翛然 看过 濟公</title>
+		<updated>2011-02-09T14:46:30+08:00</updated>
+		<link href="http://api.douban.com/collection/351436294" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1400665" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1400665</id>
+			<title>濟公</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>杜琪峰</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1400665" rel="self"/>
+			<link href="http://movie.douban.com/subject/1400665/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3589421.jpg" rel="image"/>
+			<db:attribute name="country">香港</db:attribute>
+			<db:attribute name="writer">邵丽琼</db:attribute>
+			<db:attribute name="director">杜琪峰</db:attribute>
+			<db:attribute name="pubdate">1993-07-29</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0106538/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">济公</db:attribute>
+			<db:attribute name="language">粤语</db:attribute>
+			<db:attribute name="cast">周星驰</db:attribute>
+			<db:attribute name="cast">张曼玉</db:attribute>
+			<db:attribute name="cast">吴孟达</db:attribute>
+			<db:attribute name="cast">黄秋生</db:attribute>
+			<db:attribute name="cast">梅艳芳</db:attribute>
+			<db:attribute name="cast">苑琼丹</db:attribute>
+			<db:attribute name="cast">卢海鹏</db:attribute>
+			<db:attribute name="cast">黄一飞</db:attribute>
+		</db:subject>
+		<db:tag name="周星驰"/>
+		<db:tag name="香港电影"/>
+		<db:tag name="杜琪峰"/>
+		<db:tag name="张曼玉"/>
+		<db:tag name="程小东"/>
+		<gd:rating max="5" min="1" value="2"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/351435907</id>
+		<title>翛然 看过 Independence Day</title>
+		<updated>2011-02-09T14:45:41+08:00</updated>
+		<link href="http://api.douban.com/collection/351435907" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1293013" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1293013</id>
+			<title>Independence Day</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Roland Emmerich</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1293013" rel="self"/>
+			<link href="http://movie.douban.com/subject/1293013/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2984965.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">罗兰·艾默里奇</db:attribute>
+			<db:attribute name="writer">迪安·德夫林</db:attribute>
+			<db:attribute name="director">罗兰·艾默里奇</db:attribute>
+			<db:attribute name="pubdate">1996-07-03</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0116629/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">独立日</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">威尔·史密斯</db:attribute>
+			<db:attribute name="cast">比尔·普尔曼</db:attribute>
+			<db:attribute name="cast">杰夫·高布伦</db:attribute>
+			<db:attribute name="cast">玛丽·麦克唐纳</db:attribute>
+			<db:attribute name="cast">贾德·赫希</db:attribute>
+			<db:attribute name="cast">薇薇卡·福克斯</db:attribute>
+		</db:subject>
+		<db:tag name="科幻"/>
+		<db:tag name="美国"/>
+		<db:tag name="灾难"/>
+		<db:tag name="外星人"/>
+		<db:tag name="动作"/>
+		<gd:rating max="5" min="1" value="3"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/346231476</id>
+		<title>翛然 想看 得閒炒飯</title>
+		<updated>2011-01-28T09:05:25+08:00</updated>
+		<link href="http://api.douban.com/collection/346231476" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/4145476" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/4145476</id>
+			<title>得閒炒飯</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>许鞍华 Ann Hui</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/4145476" rel="self"/>
+			<link href="http://movie.douban.com/subject/4145476/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s4436224.jpg" rel="image"/>
+			<db:attribute name="country">香港</db:attribute>
+			<db:attribute name="writer">杨漪珊</db:attribute>
+			<db:attribute name="director">许鞍华</db:attribute>
+			<db:attribute name="pubdate">2010-08-26</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1694518/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">得闲炒饭</db:attribute>
+			<db:attribute name="language">粤语</db:attribute>
+			<db:attribute name="cast">周慧敏</db:attribute>
+			<db:attribute name="cast">吴君如</db:attribute>
+			<db:attribute name="cast">陈伟霆</db:attribute>
+			<db:attribute name="cast">万绮雯</db:attribute>
+			<db:attribute name="cast">张兆辉</db:attribute>
+			<db:attribute name="cast">谷祖琳</db:attribute>
+		</db:subject>
+		<db:tag name="香港电影"/>
+		<db:tag name="许鞍华"/>
+		<db:tag name="周慧敏"/>
+		<db:tag name="吴君如"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/338361956</id>
+		<title>翛然 看过 李献计历险记</title>
+		<updated>2011-01-10T11:15:29+08:00</updated>
+		<link href="http://api.douban.com/collection/338361956" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/4226741" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/4226741</id>
+			<title>李献计历险记</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>年轻优秀的飞行员</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/4226741" rel="self"/>
+			<link href="http://movie.douban.com/subject/4226741/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4125657.jpg" rel="image"/>
+			<db:attribute name="country">中国</db:attribute>
+			<db:attribute name="writer">李阳</db:attribute>
+			<db:attribute name="director">年轻优秀的飞行员</db:attribute>
+			<db:attribute name="pubdate">2009-12-05</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">李献计历险记</db:attribute>
+			<db:attribute name="language">汉语普通话</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+		</db:subject>
+		<db:tag name="动画短片"/>
+		<db:tag name="黑色幽默"/>
+		<db:tag name="独立"/>
+		<db:tag name="青春"/>
+		<db:tag name="原创"/>
+		<db:tag name="人生"/>
+		<gd:rating max="5" min="1" value="3"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/338359209</id>
+		<title>翛然 看过 红领巾侠</title>
+		<updated>2011-01-10T11:07:07+08:00</updated>
+		<link href="http://api.douban.com/collection/338359209" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/5313367" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/5313367</id>
+			<title>红领巾侠</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>李夏</name>
+			</author>
+			<author>
+				<name>程腾</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/5313367" rel="self"/>
+			<link href="http://movie.douban.com/subject/5313367/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4496017.jpg" rel="image"/>
+			<db:attribute name="country">中国大陆</db:attribute>
+			<db:attribute name="writer">李夏</db:attribute>
+			<db:attribute name="writer">李云飞</db:attribute>
+			<db:attribute name="writer">程腾</db:attribute>
+			<db:attribute name="director">李夏</db:attribute>
+			<db:attribute name="director">程腾</db:attribute>
+			<db:attribute name="pubdate">2010-09-30</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">红领巾侠</db:attribute>
+			<db:attribute name="language">普通话/国语</db:attribute>
+		</db:subject>
+		<db:tag name="国产动画"/>
+		<db:tag name="动画短片"/>
+		<gd:rating max="5" min="1" value="2"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/338358856</id>
+		<title>翛然 看过 Cube</title>
+		<updated>2011-01-10T11:05:49+08:00</updated>
+		<link href="http://api.douban.com/collection/338358856" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1305903" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1305903</id>
+			<title>Cube</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Vincenzo Natali</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1305903" rel="self"/>
+			<link href="http://movie.douban.com/subject/1305903/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1399756.jpg" rel="image"/>
+			<db:attribute name="country">加拿大</db:attribute>
+			<db:attribute name="writer">André Bijelic</db:attribute>
+			<db:attribute name="writer">文森佐·纳塔利</db:attribute>
+			<db:attribute name="writer">Graeme Manson</db:attribute>
+			<db:attribute name="director">文森佐·纳塔利</db:attribute>
+			<db:attribute name="pubdate">1997-09-09</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0123755/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">心慌方</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">德语</db:attribute>
+			<db:attribute name="cast">妮可·德波儿</db:attribute>
+			<db:attribute name="cast">Nicky Guadagni</db:attribute>
+			<db:attribute name="cast">大卫·休莱特</db:attribute>
+			<db:attribute name="cast">Andrew Miller</db:attribute>
+			<db:attribute name="cast">Maurice Dean Wint</db:attribute>
+			<db:attribute name="cast">Wayne Robson</db:attribute>
+		</db:subject>
+		<db:tag name="人性"/>
+		<db:tag name="惊悚"/>
+		<db:tag name="悬疑"/>
+		<db:tag name="1997"/>
+		<db:tag name="Cult"/>
+		<db:tag name="加拿大"/>
+		<gd:rating max="5" min="1" value="2"/>
+	</entry>
+	<opensearch:itemsPerPage>50</opensearch:itemsPerPage>
+</feed>

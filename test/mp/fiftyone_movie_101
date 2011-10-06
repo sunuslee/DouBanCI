@@ -1,0 +1,2007 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:db="http://www.douban.com/xmlns/" xmlns:gd="http://schemas.google.com/g/2005" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:opensearch="http://a9.com/-/spec/opensearchrss/1.0/">
+	<title>Fifty 的收藏</title>
+	<author>
+		<link href="http://api.douban.com/people/41628684" rel="self"/>
+		<link href="http://www.douban.com/people/fiftyone/" rel="alternate"/>
+		<link href="http://img3.douban.com/icon/u41628684-7.jpg" rel="icon"/>
+		<name>Fifty</name>
+		<uri>http://api.douban.com/people/41628684</uri>
+	</author>
+	<opensearch:startIndex>101</opensearch:startIndex>
+	<opensearch:totalResults>164</opensearch:totalResults>
+	<entry>
+		<id>http://api.douban.com/collection/319239992</id>
+		<title>Fifty 看过 V for Vendetta</title>
+		<updated>2010-12-04T19:25:34+08:00</updated>
+		<link href="http://api.douban.com/collection/319239992" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1309046" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1309046</id>
+			<title>V for Vendetta</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>詹姆斯·麦克特格 James McTeigue</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1309046" rel="self"/>
+			<link href="http://movie.douban.com/subject/1309046/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1884078.jpg" rel="image"/>
+			<db:attribute name="director">詹姆斯·麦克特格</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">V字仇杀队</db:attribute>
+			<db:attribute name="website">http://vforvendetta.warnerbros.com/</db:attribute>
+			<db:attribute name="writer">安迪·沃卓斯基</db:attribute>
+			<db:attribute name="writer">拉里·沃卓斯基</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0434409/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="country">英国</db:attribute>
+			<db:attribute name="country">德国</db:attribute>
+			<db:attribute name="pubdate">2005-11-11</db:attribute>
+			<db:attribute name="cast">娜塔丽·波曼</db:attribute>
+			<db:attribute name="cast">雨果·维文</db:attribute>
+			<db:attribute name="cast">拉珀特·格雷夫斯</db:attribute>
+			<db:attribute name="cast">斯蒂芬·瑞</db:attribute>
+			<db:attribute name="cast">斯蒂芬·弗雷</db:attribute>
+		</db:subject>
+		<db:tag name="政治"/>
+		<db:tag name="美国"/>
+		<db:tag name="科幻"/>
+		<db:tag name="美国电影"/>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/319239239</id>
+		<title>Fifty 看过 Hotel Rwanda</title>
+		<updated>2010-12-01T22:41:15+08:00</updated>
+		<link href="http://api.douban.com/collection/319239239" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1291822" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1291822</id>
+			<title>Hotel Rwanda</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Terry George</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1291822" rel="self"/>
+			<link href="http://movie.douban.com/subject/1291822/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1656706.jpg" rel="image"/>
+			<db:attribute name="website">http://www.mgm.com/ua/hotelrwanda/intro.html</db:attribute>
+			<db:attribute name="country">英国</db:attribute>
+			<db:attribute name="country">南非</db:attribute>
+			<db:attribute name="country">意大利</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">Keir Pearson</db:attribute>
+			<db:attribute name="writer">特瑞·乔治</db:attribute>
+			<db:attribute name="director">特瑞·乔治</db:attribute>
+			<db:attribute name="pubdate">2004-09-11</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0395169/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">卢旺达饭店</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">法语</db:attribute>
+			<db:attribute name="cast">唐·钱德尔</db:attribute>
+			<db:attribute name="cast">Desmond Dube</db:attribute>
+			<db:attribute name="cast">Hakeem Kae-Kazim</db:attribute>
+			<db:attribute name="cast">尼克·诺特</db:attribute>
+			<db:attribute name="cast">苏菲·奥康内多</db:attribute>
+		</db:subject>
+		<db:tag name="种族"/>
+		<db:tag name="战争"/>
+		<db:tag name="人性"/>
+		<db:tag name="非洲"/>
+		<db:tag name="卢旺达饭店"/>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/319239628</id>
+		<title>Fifty 看过 The Bourne Identity</title>
+		<updated>2010-12-01T22:40:48+08:00</updated>
+		<link href="http://api.douban.com/collection/319239628" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1304102" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1304102</id>
+			<title>The Bourne Identity</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Doug Liman</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1304102" rel="self"/>
+			<link href="http://movie.douban.com/subject/1304102/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3212490.jpg" rel="image"/>
+			<db:attribute name="website">www.thebourneidentity.com</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="country">德国</db:attribute>
+			<db:attribute name="country">捷克</db:attribute>
+			<db:attribute name="writer">托尼·吉尔罗伊</db:attribute>
+			<db:attribute name="writer">W. Blake Herron</db:attribute>
+			<db:attribute name="writer">罗伯特·鲁德鲁姆</db:attribute>
+			<db:attribute name="director">道格·里曼</db:attribute>
+			<db:attribute name="pubdate">2002-06-14</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0258463/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">谍影重重</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">法语</db:attribute>
+			<db:attribute name="language">德语</db:attribute>
+			<db:attribute name="language">荷兰语</db:attribute>
+			<db:attribute name="language">意大利语</db:attribute>
+			<db:attribute name="cast">马特·达蒙</db:attribute>
+			<db:attribute name="cast">弗兰卡·波坦特</db:attribute>
+			<db:attribute name="cast">克里斯·库珀</db:attribute>
+			<db:attribute name="cast">克里夫·欧文</db:attribute>
+			<db:attribute name="cast">朱丽娅·斯蒂尔斯</db:attribute>
+		</db:subject>
+		<db:tag name="动作"/>
+		<db:tag name="MattDamon"/>
+		<db:tag name="间谍"/>
+		<db:tag name="美国电影"/>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/319238796</id>
+		<title>Fifty 看过 Saving Private Ryan</title>
+		<updated>2010-11-27T22:54:40+08:00</updated>
+		<link href="http://api.douban.com/collection/319238796" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1292849" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1292849</id>
+			<title>Saving Private Ryan</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Steven Spielberg</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1292849" rel="self"/>
+			<link href="http://movie.douban.com/subject/1292849/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2383216.jpg" rel="image"/>
+			<db:attribute name="website">http://www.rzm.com/pvt.ryan/index.html</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">Robert Rodat</db:attribute>
+			<db:attribute name="director">史蒂文·斯皮尔伯格</db:attribute>
+			<db:attribute name="pubdate">1998-07-24</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0120815/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">拯救大兵瑞恩</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">法语</db:attribute>
+			<db:attribute name="language">德语</db:attribute>
+			<db:attribute name="language">捷克语</db:attribute>
+			<db:attribute name="cast">汤姆·汉克斯</db:attribute>
+			<db:attribute name="cast">爱德华·伯恩斯</db:attribute>
+			<db:attribute name="cast">马特·达蒙</db:attribute>
+			<db:attribute name="cast">范·迪塞尔</db:attribute>
+			<db:attribute name="cast">亚当·戈德堡</db:attribute>
+			<db:attribute name="cast">吉奥瓦尼·瑞比西</db:attribute>
+			<db:attribute name="cast">保罗·吉亚玛提</db:attribute>
+		</db:subject>
+		<db:tag name="斯皮尔伯格"/>
+		<db:tag name="战争"/>
+		<db:tag name="二战"/>
+		<db:tag name="美国"/>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/320021404</id>
+		<title>Fifty 想看 Bridget Jones: The Edge of Reason</title>
+		<updated>2010-11-27T22:53:47+08:00</updated>
+		<link href="http://api.douban.com/collection/320021404" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1308819" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1308819</id>
+			<title>Bridget Jones: The Edge of Reason</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Beeban Kidron</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1308819" rel="self"/>
+			<link href="http://movie.douban.com/subject/1308819/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3130863.jpg" rel="image"/>
+			<db:attribute name="website">http://www.bridgetjonesthemovie.com/</db:attribute>
+			<db:attribute name="country">英国</db:attribute>
+			<db:attribute name="country">法国</db:attribute>
+			<db:attribute name="country">德国</db:attribute>
+			<db:attribute name="country">爱尔兰</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">亚当·布鲁克斯</db:attribute>
+			<db:attribute name="writer">安德鲁·戴维斯</db:attribute>
+			<db:attribute name="writer">海伦·费尔丁</db:attribute>
+			<db:attribute name="writer">理查德·柯蒂斯</db:attribute>
+			<db:attribute name="writer">海伦·费尔丁</db:attribute>
+			<db:attribute name="director">Beeban Kidron</db:attribute>
+			<db:attribute name="pubdate">2004-11-12</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0317198/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">BJ单身日记2：理性边缘</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">德语</db:attribute>
+			<db:attribute name="cast">蕾妮·泽尔维格</db:attribute>
+			<db:attribute name="cast">柯林·菲尔斯</db:attribute>
+			<db:attribute name="cast">休·格兰特</db:attribute>
+			<db:attribute name="cast">吉姆·布劳德本特</db:attribute>
+			<db:attribute name="cast">杰茜达·芭瑞特</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/320016227</id>
+		<title>Fifty 看过 색즉시공</title>
+		<updated>2010-11-27T22:44:35+08:00</updated>
+		<link href="http://api.douban.com/collection/320016227" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1305279" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1305279</id>
+			<title>색즉시공</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>尹齐均</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1305279" rel="self"/>
+			<link href="http://movie.douban.com/subject/1305279/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1792841.jpg" rel="image"/>
+			<db:attribute name="website">http://www.sexiszero.com/</db:attribute>
+			<db:attribute name="country">韩国</db:attribute>
+			<db:attribute name="writer">尹齐均</db:attribute>
+			<db:attribute name="director">尹齐均</db:attribute>
+			<db:attribute name="pubdate">2002-12-13</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0341555/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">色即是空</db:attribute>
+			<db:attribute name="language">韩语</db:attribute>
+			<db:attribute name="cast">任昌丁</db:attribute>
+			<db:attribute name="cast">河智苑</db:attribute>
+			<db:attribute name="cast">郑敏</db:attribute>
+			<db:attribute name="cast">陈彩英</db:attribute>
+			<db:attribute name="cast">李泰和</db:attribute>
+			<db:attribute name="cast">刘彩英</db:attribute>
+		</db:subject>
+		<db:tag name="韩国"/>
+		<db:tag name="喜剧"/>
+		<db:tag name="韩国电影"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/319452049</id>
+		<title>Fifty 想看 &quot;Saturday Night Live&quot; Tina Fey/Carrie Underwood</title>
+		<updated>2010-11-26T15:45:12+08:00</updated>
+		<link href="http://api.douban.com/collection/319452049" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/2997487" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/2997487</id>
+			<title>&quot;Saturday Night Live&quot; Tina Fey/Carrie Underwood</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Don Roy King</name>
+			</author>
+			<author>
+				<name>Akiva Schaffer</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/2997487" rel="self"/>
+			<link href="http://movie.douban.com/subject/2997487/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2966740.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">Charlie Grandy</db:attribute>
+			<db:attribute name="writer">Steve Higgins</db:attribute>
+			<db:attribute name="director">Don Roy King</db:attribute>
+			<db:attribute name="director">Akiva Schaffer</db:attribute>
+			<db:attribute name="pubdate">2008-02-23</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1188963/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">周六夜现场</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">Tina Fey</db:attribute>
+			<db:attribute name="cast">Fred Armisen</db:attribute>
+			<db:attribute name="cast">Will Forte</db:attribute>
+			<db:attribute name="cast">Darrell Hammond</db:attribute>
+			<db:attribute name="cast">Seth Meyers</db:attribute>
+			<db:attribute name="cast">Jason Sudeikis</db:attribute>
+			<db:attribute name="cast">Kenan Thompson</db:attribute>
+		</db:subject>
+		<db:tag name="SNL"/>
+		<db:tag name="TinaFey"/>
+		<db:tag name="美国"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/319450826</id>
+		<title>Fifty 想看 Harry Potter and the Deathly Hallows: Part 1</title>
+		<updated>2010-11-26T15:41:22+08:00</updated>
+		<link href="http://api.douban.com/collection/319450826" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/2051007" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/2051007</id>
+			<title>Harry Potter and the Deathly Hallows: Part 1</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>大卫·叶茨 David Yates</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/2051007" rel="self"/>
+			<link href="http://movie.douban.com/subject/2051007/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4494638.jpg" rel="image"/>
+			<db:attribute name="country">英国</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">斯蒂芬·科洛弗</db:attribute>
+			<db:attribute name="director">大卫·叶茨</db:attribute>
+			<db:attribute name="pubdate">2010-11-19</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0926084/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">哈利·波特与死亡圣器(上)</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">丹尼尔·雷德克里夫</db:attribute>
+			<db:attribute name="cast">艾玛·沃森</db:attribute>
+			<db:attribute name="cast">鲁伯特·格林特</db:attribute>
+			<db:attribute name="cast">海伦娜·邦汉·卡特</db:attribute>
+			<db:attribute name="cast">拉尔夫·费因斯</db:attribute>
+			<db:attribute name="cast">比尔·奈伊</db:attribute>
+			<db:attribute name="cast">约翰·赫特</db:attribute>
+			<db:attribute name="cast">艾伦·瑞克曼</db:attribute>
+			<db:attribute name="cast">伊梅尔达·斯汤顿</db:attribute>
+			<db:attribute name="cast">费奥纳·肖</db:attribute>
+			<db:attribute name="cast">邦妮·怀特</db:attribute>
+			<db:attribute name="cast">朱丽·沃特斯</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/319328206</id>
+		<title>Fifty 看过 色，戒</title>
+		<updated>2010-11-26T06:14:04+08:00</updated>
+		<link href="http://api.douban.com/collection/319328206" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1828115" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1828115</id>
+			<title>色，戒</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>李安</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1828115" rel="self"/>
+			<link href="http://movie.douban.com/subject/1828115/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2660643.jpg" rel="image"/>
+			<db:attribute name="website">http://www.bvi.com.tw/movies/lust_caution/</db:attribute>
+			<db:attribute name="country">中国</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="country">台湾</db:attribute>
+			<db:attribute name="country">香港</db:attribute>
+			<db:attribute name="director">李安</db:attribute>
+			<db:attribute name="writer">王蕙玲</db:attribute>
+			<db:attribute name="writer">詹姆士·沙姆斯</db:attribute>
+			<db:attribute name="writer">张爱玲</db:attribute>
+			<db:attribute name="pubdate">2007-09-24</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0808357/</db:attribute>
+			<db:attribute name="language">汉语普通话</db:attribute>
+			<db:attribute name="language">上海话</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">粤语</db:attribute>
+			<db:attribute name="cast">梁朝伟</db:attribute>
+			<db:attribute name="cast">汤唯</db:attribute>
+			<db:attribute name="cast">陈冲</db:attribute>
+			<db:attribute name="cast">王力宏</db:attribute>
+			<db:attribute name="cast">庹宗华</db:attribute>
+			<db:attribute name="cast">朱芷莹</db:attribute>
+			<db:attribute name="cast">柯宇纶</db:attribute>
+			<db:attribute name="cast">阮德锵</db:attribute>
+			<db:attribute name="cast">高英轩</db:attribute>
+			<db:attribute name="cast">钱嘉乐</db:attribute>
+			<db:attribute name="cast">何赛飞</db:attribute>
+			<db:attribute name="cast">宋茹惠</db:attribute>
+			<db:attribute name="cast">苏岩</db:attribute>
+			<db:attribute name="cast">卢燕</db:attribute>
+		</db:subject>
+		<db:tag name="李安"/>
+		<db:tag name="色，戒"/>
+		<db:tag name="中国电影"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/319239927</id>
+		<title>Fifty 想看 Out of Africa</title>
+		<updated>2010-11-25T22:06:00+08:00</updated>
+		<link href="http://api.douban.com/collection/319239927" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1291840" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1291840</id>
+			<title>Out of Africa</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Sydney Pollack</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1291840" rel="self"/>
+			<link href="http://movie.douban.com/subject/1291840/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3812881.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">科特·路德特克</db:attribute>
+			<db:attribute name="director">西德尼·波拉克</db:attribute>
+			<db:attribute name="pubdate">1985-12-10</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0089755/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">走出非洲</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">斯瓦希里语</db:attribute>
+			<db:attribute name="cast">梅丽尔·斯特里普</db:attribute>
+			<db:attribute name="cast">罗伯特·雷德福</db:attribute>
+			<db:attribute name="cast">克劳斯·马利亚·布朗道尔</db:attribute>
+			<db:attribute name="cast">Michael Kitchen</db:attribute>
+			<db:attribute name="cast">Malick Bowens</db:attribute>
+		</db:subject>
+		<db:tag name="爱情"/>
+		<db:tag name="走出非洲"/>
+		<db:tag name="美国"/>
+		<db:tag name="经典"/>
+		<db:tag name="美国电影"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/319239486</id>
+		<title>Fifty 想看 Gloomy Sunday - Ein Lied von Liebe und Tod</title>
+		<updated>2010-11-25T22:05:04+08:00</updated>
+		<link href="http://api.douban.com/collection/319239486" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1301106" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1301106</id>
+			<title>Gloomy Sunday - Ein Lied von Liebe und Tod</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Rolf Schübel</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1301106" rel="self"/>
+			<link href="http://movie.douban.com/subject/1301106/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1326063.jpg" rel="image"/>
+			<db:attribute name="website">http://www.viipillars.com/gloomysunday/index.htm</db:attribute>
+			<db:attribute name="country">德国</db:attribute>
+			<db:attribute name="country">匈牙利</db:attribute>
+			<db:attribute name="writer">Nick Barkow</db:attribute>
+			<db:attribute name="writer">诺夫·舒贝尔</db:attribute>
+			<db:attribute name="writer">Ruth Toma</db:attribute>
+			<db:attribute name="director">诺夫·舒贝尔</db:attribute>
+			<db:attribute name="pubdate">1999-10-21</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0155722/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">布达佩斯之恋</db:attribute>
+			<db:attribute name="language">德语</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">匈牙利语</db:attribute>
+			<db:attribute name="cast">艾丽卡·莫露珊</db:attribute>
+			<db:attribute name="cast">约阿希姆·科尔</db:attribute>
+			<db:attribute name="cast">斯特法诺·迪奥尼斯</db:attribute>
+			<db:attribute name="cast">本·贝克</db:attribute>
+			<db:attribute name="cast">András Bálint</db:attribute>
+		</db:subject>
+		<db:tag name="爱情"/>
+		<db:tag name="德国"/>
+		<db:tag name="二战"/>
+		<db:tag name="匈牙利"/>
+		<db:tag name="德国电影"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/319239019</id>
+		<title>Fifty 想看 Pink Floyd The Wall</title>
+		<updated>2010-11-25T22:04:11+08:00</updated>
+		<link href="http://api.douban.com/collection/319239019" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1296157" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1296157</id>
+			<title>Pink Floyd The Wall</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Alan Parker</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1296157" rel="self"/>
+			<link href="http://movie.douban.com/subject/1296157/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2538492.jpg" rel="image"/>
+			<db:attribute name="country">英国</db:attribute>
+			<db:attribute name="writer">罗杰·沃特斯</db:attribute>
+			<db:attribute name="director">艾伦·帕克</db:attribute>
+			<db:attribute name="pubdate">1982-05-23</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0084503/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">迷墙</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">鲍勃·吉尔道夫</db:attribute>
+			<db:attribute name="cast">Christine Hargreaves</db:attribute>
+			<db:attribute name="cast">Kevin McKeon</db:attribute>
+			<db:attribute name="cast">鲍勃·霍斯金斯</db:attribute>
+			<db:attribute name="cast">David Bingham</db:attribute>
+		</db:subject>
+		<db:tag name="PinkFloyd"/>
+		<db:tag name="摇滚"/>
+		<db:tag name="迷墙"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/319238696</id>
+		<title>Fifty 想看 Waterloo Bridge</title>
+		<updated>2010-11-25T22:03:28+08:00</updated>
+		<link href="http://api.douban.com/collection/319238696" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1293964" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1293964</id>
+			<title>Waterloo Bridge</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Mervyn LeRoy</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1293964" rel="self"/>
+			<link href="http://movie.douban.com/subject/1293964/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4214415.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">George Froeschel</db:attribute>
+			<db:attribute name="writer">Hans Rameau</db:attribute>
+			<db:attribute name="writer">Robert E. Sherwood</db:attribute>
+			<db:attribute name="writer">塞缪尔·N·贝尔曼</db:attribute>
+			<db:attribute name="director">茂文·勒鲁瓦</db:attribute>
+			<db:attribute name="pubdate">1940-05-17</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0033238/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">魂断蓝桥</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">费雯·丽</db:attribute>
+			<db:attribute name="cast">罗伯特·泰勒</db:attribute>
+			<db:attribute name="cast">露塞尔·沃特森</db:attribute>
+			<db:attribute name="cast">弗吉尼亚·菲尔德</db:attribute>
+			<db:attribute name="cast">Maria Ouspenskaya</db:attribute>
+		</db:subject>
+		<db:tag name="爱情"/>
+		<db:tag name="经典"/>
+		<db:tag name="费雯丽"/>
+		<db:tag name="魂断蓝桥"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/319238598</id>
+		<title>Fifty 看过 The Dark Knight</title>
+		<updated>2010-11-25T22:03:17+08:00</updated>
+		<link href="http://api.douban.com/collection/319238598" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1851857" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1851857</id>
+			<title>The Dark Knight</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>克里斯托弗·诺兰 Christopher Nolan</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1851857" rel="self"/>
+			<link href="http://movie.douban.com/subject/1851857/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3046065.jpg" rel="image"/>
+			<db:attribute name="website">http://thedarkknight.warnerbros.com/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="country">英国</db:attribute>
+			<db:attribute name="writer">乔纳森·诺兰</db:attribute>
+			<db:attribute name="writer">克里斯托弗·诺兰</db:attribute>
+			<db:attribute name="director">克里斯托弗·诺兰</db:attribute>
+			<db:attribute name="pubdate">2008-07-18</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0468569/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">蝙蝠侠前传2：黑暗骑士</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">克里斯蒂安·贝尔</db:attribute>
+			<db:attribute name="cast">希斯·莱杰</db:attribute>
+			<db:attribute name="cast">艾伦·艾克哈特</db:attribute>
+			<db:attribute name="cast">迈克尔·凯恩</db:attribute>
+			<db:attribute name="cast">玛吉·吉伦哈尔</db:attribute>
+			<db:attribute name="cast">加里·奥德曼</db:attribute>
+			<db:attribute name="cast">摩根·弗里曼</db:attribute>
+			<db:attribute name="cast">希里安·墨菲</db:attribute>
+			<db:attribute name="cast">黄经汉</db:attribute>
+			<db:attribute name="cast">陈冠希</db:attribute>
+			<db:attribute name="cast">内斯特·卡博内尔</db:attribute>
+		</db:subject>
+		<db:tag name="科幻"/>
+		<db:tag name="美国"/>
+		<db:tag name="动作"/>
+		<db:tag name="犯罪"/>
+		<db:tag name="人性"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/319238059</id>
+		<title>Fifty 想看 Roman Holiday</title>
+		<updated>2010-11-25T22:02:06+08:00</updated>
+		<link href="http://api.douban.com/collection/319238059" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1293839" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1293839</id>
+			<title>Roman Holiday</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>William Wyler</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1293839" rel="self"/>
+			<link href="http://movie.douban.com/subject/1293839/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2387653.jpg" rel="image"/>
+			<db:attribute name="director">威廉·惠勒</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">罗马假日</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">Ian McLellan Hunter</db:attribute>
+			<db:attribute name="writer">John Dighton</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">意大利语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0046250/</db:attribute>
+			<db:attribute name="pubdate">1953-08-27</db:attribute>
+			<db:attribute name="cast">奥黛丽·赫本</db:attribute>
+			<db:attribute name="cast">格利高里·派克</db:attribute>
+			<db:attribute name="cast">埃迪·艾伯特</db:attribute>
+			<db:attribute name="cast">Hartley Power</db:attribute>
+			<db:attribute name="cast">Harcourt Williams</db:attribute>
+		</db:subject>
+		<db:tag name="奥黛丽·赫本"/>
+		<db:tag name="经典"/>
+		<db:tag name="爱情"/>
+		<db:tag name="罗马假日"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/319237780</id>
+		<title>Fifty 想看 La leggenda del pianista sull'oceano</title>
+		<updated>2010-11-25T22:01:31+08:00</updated>
+		<link href="http://api.douban.com/collection/319237780" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1292001" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1292001</id>
+			<title>La leggenda del pianista sull'oceano</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Giuseppe Tornatore</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1292001" rel="self"/>
+			<link href="http://movie.douban.com/subject/1292001/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2827768.jpg" rel="image"/>
+			<db:attribute name="country">意大利</db:attribute>
+			<db:attribute name="writer">亚利桑德罗·巴里克</db:attribute>
+			<db:attribute name="writer">朱塞佩·托纳多雷</db:attribute>
+			<db:attribute name="director">朱塞佩·托纳多雷</db:attribute>
+			<db:attribute name="pubdate">1998-10-28</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0120731/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">海上钢琴师</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">法语</db:attribute>
+			<db:attribute name="cast">蒂姆·罗斯</db:attribute>
+			<db:attribute name="cast">普路特·泰勒·文斯</db:attribute>
+			<db:attribute name="cast">比尔·努恩</db:attribute>
+			<db:attribute name="cast">梅兰尼·蒂埃里</db:attribute>
+			<db:attribute name="cast">Alberto Vazquez</db:attribute>
+		</db:subject>
+		<db:tag name="海上钢琴师"/>
+		<db:tag name="经典"/>
+		<db:tag name="意大利"/>
+		<db:tag name="音乐"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/319230261</id>
+		<title>Fifty 看过 Alien: Resurrection</title>
+		<updated>2010-11-25T21:43:43+08:00</updated>
+		<link href="http://api.douban.com/collection/319230261" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1299153" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1299153</id>
+			<title>Alien: Resurrection</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Jean-Pierre Jeunet</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1299153" rel="self"/>
+			<link href="http://movie.douban.com/subject/1299153/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s4053684.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">乔斯·韦登</db:attribute>
+			<db:attribute name="director">让-皮埃尔·热内</db:attribute>
+			<db:attribute name="pubdate">1997-11-26</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0118583/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">异形4</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">西格妮·韦弗</db:attribute>
+			<db:attribute name="cast">薇诺娜·瑞德</db:attribute>
+			<db:attribute name="cast">多米尼克·皮诺</db:attribute>
+			<db:attribute name="cast">朗·普尔曼</db:attribute>
+			<db:attribute name="cast">加里·杜尔丹</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/319230193</id>
+		<title>Fifty 看过 Alien</title>
+		<updated>2010-11-25T21:43:34+08:00</updated>
+		<link href="http://api.douban.com/collection/319230193" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1300868" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1300868</id>
+			<title>Alien</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Ridley Scott</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1300868" rel="self"/>
+			<link href="http://movie.douban.com/subject/1300868/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s6809728.jpg" rel="image"/>
+			<db:attribute name="country">英国</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">丹·欧班农</db:attribute>
+			<db:attribute name="director">雷德利·斯科特</db:attribute>
+			<db:attribute name="pubdate">1979-05-25</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0078748/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">异形</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">西班牙语</db:attribute>
+			<db:attribute name="cast">汤姆·斯凯里特</db:attribute>
+			<db:attribute name="cast">西格妮·韦弗</db:attribute>
+			<db:attribute name="cast">维罗尼卡·卡维特</db:attribute>
+			<db:attribute name="cast">哈利·戴恩·斯坦通</db:attribute>
+			<db:attribute name="cast">约翰·赫特</db:attribute>
+			<db:attribute name="cast">伊安·霍姆</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/319230138</id>
+		<title>Fifty 看过 Aliens</title>
+		<updated>2010-11-25T21:43:25+08:00</updated>
+		<link href="http://api.douban.com/collection/319230138" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1293792" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1293792</id>
+			<title>Aliens</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>James Cameron</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1293792" rel="self"/>
+			<link href="http://movie.douban.com/subject/1293792/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4053659.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="country">英国</db:attribute>
+			<db:attribute name="writer">詹姆斯·卡梅隆</db:attribute>
+			<db:attribute name="director">詹姆斯·卡梅隆</db:attribute>
+			<db:attribute name="pubdate">1986-07-18</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0090605/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">异形2</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">西格妮·韦弗</db:attribute>
+			<db:attribute name="cast">Carrie Henn</db:attribute>
+			<db:attribute name="cast">迈克尔·比恩</db:attribute>
+			<db:attribute name="cast">兰斯·亨利克森</db:attribute>
+			<db:attribute name="cast">保罗·雷瑟</db:attribute>
+			<db:attribute name="cast">比尔·帕克斯顿</db:attribute>
+			<db:attribute name="cast">William Hope</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/319230026</id>
+		<title>Fifty 看过 Alien³</title>
+		<updated>2010-11-25T21:43:12+08:00</updated>
+		<link href="http://api.douban.com/collection/319230026" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1297929" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1297929</id>
+			<title>Alien³</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>David Fincher</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1297929" rel="self"/>
+			<link href="http://movie.douban.com/subject/1297929/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4053672.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">David Giler</db:attribute>
+			<db:attribute name="writer">沃尔特·希尔</db:attribute>
+			<db:attribute name="writer">Larry Ferguson</db:attribute>
+			<db:attribute name="director">大卫·芬奇</db:attribute>
+			<db:attribute name="pubdate">1992-05-22</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0103644/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">异形3</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">西格妮·韦弗</db:attribute>
+			<db:attribute name="cast">Charles S. Dutton</db:attribute>
+			<db:attribute name="cast">查里斯·丹斯</db:attribute>
+			<db:attribute name="cast">保尔·麦克盖恩</db:attribute>
+			<db:attribute name="cast">Brian Glover</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/318787894</id>
+		<title>Fifty 看过 11度青春之《老男孩》</title>
+		<updated>2010-11-24T17:37:50+08:00</updated>
+		<link href="http://api.douban.com/collection/318787894" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/5344178" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/5344178</id>
+			<title>11度青春之《老男孩》</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>肖央 Yang Xiao</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/5344178" rel="self"/>
+			<link href="http://movie.douban.com/subject/5344178/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4525371.jpg" rel="image"/>
+			<db:attribute name="country">中国大陆</db:attribute>
+			<db:attribute name="writer">肖央</db:attribute>
+			<db:attribute name="director">肖央</db:attribute>
+			<db:attribute name="pubdate">2010-10-28</db:attribute>
+			<db:attribute name="language">汉语普通话</db:attribute>
+			<db:attribute name="cast">肖央</db:attribute>
+			<db:attribute name="cast">王太利</db:attribute>
+			<db:attribute name="cast">韩秋池</db:attribute>
+			<db:attribute name="cast">于蓓蓓</db:attribute>
+			<db:attribute name="cast">张末</db:attribute>
+			<db:attribute name="cast">颜隆</db:attribute>
+			<db:attribute name="cast">宋金岳</db:attribute>
+			<db:attribute name="cast">贺敬东</db:attribute>
+			<db:attribute name="cast">李卫东</db:attribute>
+			<db:attribute name="cast">刘若瑶</db:attribute>
+			<db:attribute name="cast">张菁</db:attribute>
+			<db:attribute name="cast">王昂</db:attribute>
+			<db:attribute name="cast">薛萌</db:attribute>
+			<db:attribute name="cast">杜鹏</db:attribute>
+			<db:attribute name="cast">佟友琴</db:attribute>
+			<db:attribute name="cast">郭广启</db:attribute>
+			<db:attribute name="cast">郭一非</db:attribute>
+			<db:attribute name="cast">踏西男孩</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/318430580</id>
+		<title>Fifty 看过 囡囡</title>
+		<updated>2010-11-23T17:27:20+08:00</updated>
+		<link href="http://api.douban.com/collection/318430580" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/4925924" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/4925924</id>
+			<title>囡囡</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>毕国智</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/4925924" rel="self"/>
+			<link href="http://movie.douban.com/subject/4925924/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4436227.jpg" rel="image"/>
+			<db:attribute name="country">香港</db:attribute>
+			<db:attribute name="writer">谭广源</db:attribute>
+			<db:attribute name="writer">王思敏</db:attribute>
+			<db:attribute name="writer">凌浩然</db:attribute>
+			<db:attribute name="writer">张红叶</db:attribute>
+			<db:attribute name="director">毕国智</db:attribute>
+			<db:attribute name="pubdate">2010-04-05</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1611944/</db:attribute>
+			<db:attribute name="language">粤语</db:attribute>
+			<db:attribute name="cast">冼色麗</db:attribute>
+			<db:attribute name="cast">曾国祥</db:attribute>
+			<db:attribute name="cast">詩雅</db:attribute>
+			<db:attribute name="cast">王敏奕</db:attribute>
+			<db:attribute name="cast">林鈺軒</db:attribute>
+			<db:attribute name="cast">吳浩康</db:attribute>
+			<db:attribute name="cast">謝凱榮</db:attribute>
+		</db:subject>
+		<db:tag name="香港电影"/>
+		<db:tag name="香港"/>
+		<db:tag name="援交"/>
+		<db:tag name="情色"/>
+		<gd:rating max="5" min="1" value="3"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/318397846</id>
+		<title>Fifty 看过 The Dreamers</title>
+		<updated>2010-11-23T15:46:00+08:00</updated>
+		<link href="http://api.douban.com/collection/318397846" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1291856" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1291856</id>
+			<title>The Dreamers</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Bernardo Bertolucci</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1291856" rel="self"/>
+			<link href="http://movie.douban.com/subject/1291856/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1447368.jpg" rel="image"/>
+			<db:attribute name="website">www2.foxsearchlight.com/thedreamers</db:attribute>
+			<db:attribute name="country">法国</db:attribute>
+			<db:attribute name="country">英国</db:attribute>
+			<db:attribute name="country">意大利</db:attribute>
+			<db:attribute name="writer">Gilbert Adair</db:attribute>
+			<db:attribute name="director">贝纳尔多·贝托鲁奇</db:attribute>
+			<db:attribute name="pubdate">2003-10-10</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0309987/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">戏梦巴黎</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">法语</db:attribute>
+			<db:attribute name="cast">迈克尔·皮特</db:attribute>
+			<db:attribute name="cast">伊娃·格林</db:attribute>
+			<db:attribute name="cast">路易斯·加瑞尔</db:attribute>
+			<db:attribute name="cast">安娜·钱斯勒</db:attribute>
+			<db:attribute name="cast">罗宾·瑞努奇</db:attribute>
+			<db:attribute name="cast">琼-皮尔里·卡尔弗恩</db:attribute>
+			<db:attribute name="cast">让-皮埃尔·利奥德</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/318275133</id>
+		<title>Fifty 看过 Black Hawk Down</title>
+		<updated>2010-11-23T08:44:35+08:00</updated>
+		<link href="http://api.douban.com/collection/318275133" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1291824" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1291824</id>
+			<title>Black Hawk Down</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>雷德利·斯科特 Ridley Scott</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1291824" rel="self"/>
+			<link href="http://movie.douban.com/subject/1291824/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2347163.jpg" rel="image"/>
+			<db:attribute name="website">http://www.sonypictures.com/homevideo/blackhawkdown/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">Ken Nolan</db:attribute>
+			<db:attribute name="writer">Mark Bowden</db:attribute>
+			<db:attribute name="director">雷德利·斯科特</db:attribute>
+			<db:attribute name="pubdate">2002-01-18</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0265086/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">黑鹰坠落</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">索马里语</db:attribute>
+			<db:attribute name="cast">乔什·哈奈特</db:attribute>
+			<db:attribute name="cast">伊万·麦克格雷格</db:attribute>
+			<db:attribute name="cast">汤姆·塞兹摩尔</db:attribute>
+			<db:attribute name="cast">金·寇兹</db:attribute>
+			<db:attribute name="cast">艾文·布莱纳</db:attribute>
+			<db:attribute name="cast">艾瑞克·巴纳</db:attribute>
+			<db:attribute name="cast">休·丹西</db:attribute>
+			<db:attribute name="cast">威廉·菲德内尔</db:attribute>
+			<db:attribute name="cast">奥兰多·布鲁姆</db:attribute>
+		</db:subject>
+		<db:tag name="战争"/>
+		<db:tag name="美国"/>
+		<db:tag name="索马里"/>
+		<db:tag name="美国电影"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/318272692</id>
+		<title>Fifty 看过 District 9</title>
+		<updated>2010-11-23T08:20:27+08:00</updated>
+		<link href="http://api.douban.com/collection/318272692" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3006772" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3006772</id>
+			<title>District 9</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Neill Blomkamp</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3006772" rel="self"/>
+			<link href="http://movie.douban.com/subject/3006772/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3866706.jpg" rel="image"/>
+			<db:attribute name="website">http://www.district9movie.com/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="country">新西兰</db:attribute>
+			<db:attribute name="writer">尼尔·布洛姆坎普</db:attribute>
+			<db:attribute name="writer">Terri Tatchell</db:attribute>
+			<db:attribute name="director">尼尔·布洛姆坎普</db:attribute>
+			<db:attribute name="pubdate">2009-08-14</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1136608/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">第九区</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">尼安哈语</db:attribute>
+			<db:attribute name="language">南非荷兰语</db:attribute>
+			<db:attribute name="cast">沙尔托·科普雷</db:attribute>
+			<db:attribute name="cast">Jason Cope</db:attribute>
+			<db:attribute name="cast">Nathalie Boltt</db:attribute>
+			<db:attribute name="cast">Sylvaine Strike</db:attribute>
+			<db:attribute name="cast">William Allen Young</db:attribute>
+		</db:subject>
+		<db:tag name="科幻"/>
+		<db:tag name="第九区"/>
+		<db:tag name="美国"/>
+		<db:tag name="人性"/>
+		<db:tag name="种族"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/318272662</id>
+		<title>Fifty 看过 Lord of War</title>
+		<updated>2010-11-23T08:20:02+08:00</updated>
+		<link href="http://api.douban.com/collection/318272662" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1419936" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1419936</id>
+			<title>Lord of War</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Andrew Niccol</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1419936" rel="self"/>
+			<link href="http://movie.douban.com/subject/1419936/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1435916.jpg" rel="image"/>
+			<db:attribute name="director">安德鲁·尼科尔</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">战争之王</db:attribute>
+			<db:attribute name="writer">安德鲁·尼科尔</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">法语</db:attribute>
+			<db:attribute name="language">德语</db:attribute>
+			<db:attribute name="language">俄语</db:attribute>
+			<db:attribute name="language">西班牙语</db:attribute>
+			<db:attribute name="language">乌克兰语</db:attribute>
+			<db:attribute name="language">阿拉伯语</db:attribute>
+			<db:attribute name="language">土耳其语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0399295/</db:attribute>
+			<db:attribute name="website">http://lordofwarthemovie.com</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="country">法国</db:attribute>
+			<db:attribute name="pubdate">2005-09-16</db:attribute>
+			<db:attribute name="cast">尼古拉斯·凯奇</db:attribute>
+			<db:attribute name="cast">伊桑·霍克</db:attribute>
+			<db:attribute name="cast">杰瑞德·莱托</db:attribute>
+			<db:attribute name="cast">Shake Tukhmanyan</db:attribute>
+			<db:attribute name="cast">布丽姬·穆娜</db:attribute>
+		</db:subject>
+		<db:tag name="尼古拉斯·凯奇"/>
+		<db:tag name="美国"/>
+		<db:tag name="战争"/>
+		<db:tag name="美国电影"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/318272566</id>
+		<title>Fifty 看过 東邪西毒</title>
+		<updated>2010-11-23T08:18:49+08:00</updated>
+		<link href="http://api.douban.com/collection/318272566" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1292328" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1292328</id>
+			<title>東邪西毒</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>王家卫 Kar Wai Wong</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1292328" rel="self"/>
+			<link href="http://movie.douban.com/subject/1292328/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1413178.jpg" rel="image"/>
+			<db:attribute name="country">香港</db:attribute>
+			<db:attribute name="country">中国</db:attribute>
+			<db:attribute name="country">台湾</db:attribute>
+			<db:attribute name="writer">王家卫</db:attribute>
+			<db:attribute name="writer">金庸</db:attribute>
+			<db:attribute name="director">王家卫</db:attribute>
+			<db:attribute name="pubdate">1994-09-17</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0109688/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">东邪西毒</db:attribute>
+			<db:attribute name="language">粤语</db:attribute>
+			<db:attribute name="language">汉语普通话</db:attribute>
+			<db:attribute name="cast">张国荣</db:attribute>
+			<db:attribute name="cast">张曼玉</db:attribute>
+			<db:attribute name="cast">梁朝伟</db:attribute>
+			<db:attribute name="cast">林青霞</db:attribute>
+			<db:attribute name="cast">张学友</db:attribute>
+			<db:attribute name="cast">梁家辉</db:attribute>
+			<db:attribute name="cast">杨采妮</db:attribute>
+			<db:attribute name="cast">刘嘉玲</db:attribute>
+			<db:attribute name="cast">邹兆龙</db:attribute>
+			<db:attribute name="cast">王祖贤</db:attribute>
+		</db:subject>
+		<db:tag name="王家卫"/>
+		<db:tag name="东邪西毒"/>
+		<db:tag name="香港"/>
+		<db:tag name="武侠"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/318272545</id>
+		<title>Fifty 看过 Slumdog Millionaire</title>
+		<updated>2010-11-23T08:18:32+08:00</updated>
+		<link href="http://api.douban.com/collection/318272545" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/2209573" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/2209573</id>
+			<title>Slumdog Millionaire</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>丹尼·鲍尔 Danny Boyle</name>
+			</author>
+			<author>
+				<name>洛芙琳·坦丹 Loveleen Tandan</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/2209573" rel="self"/>
+			<link href="http://movie.douban.com/subject/2209573/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3321179.jpg" rel="image"/>
+			<db:attribute name="website">http://www.foxsearchlight.com/slumdogmillionaire/</db:attribute>
+			<db:attribute name="country">英国</db:attribute>
+			<db:attribute name="writer">西蒙·博福伊</db:attribute>
+			<db:attribute name="writer">维卡斯·史瓦卢普</db:attribute>
+			<db:attribute name="director">丹尼·鲍尔</db:attribute>
+			<db:attribute name="director">Loveleen Tandan</db:attribute>
+			<db:attribute name="pubdate">2008-08-30</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1010048/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">贫民窟的百万富翁</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">北印度语</db:attribute>
+			<db:attribute name="cast">戴夫·帕特尔</db:attribute>
+			<db:attribute name="cast">芙蕾达·平托</db:attribute>
+			<db:attribute name="cast">亚尼·卡普</db:attribute>
+			<db:attribute name="cast">沙鲁巴·舒克拉</db:attribute>
+		</db:subject>
+		<db:tag name="印度"/>
+		<db:tag name="贫民窟的百万富翁"/>
+		<db:tag name="英国电影"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/318272458</id>
+		<title>Fifty 看过 无间道</title>
+		<updated>2010-11-23T08:17:33+08:00</updated>
+		<link href="http://api.douban.com/collection/318272458" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1307914" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1307914</id>
+			<title>无间道</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>刘伟强</name>
+			</author>
+			<author>
+				<name>麦兆辉</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1307914" rel="self"/>
+			<link href="http://movie.douban.com/subject/1307914/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1951819.jpg" rel="image"/>
+			<db:attribute name="director">刘伟强</db:attribute>
+			<db:attribute name="director">麦兆辉</db:attribute>
+			<db:attribute name="website">www.infernalaffairs.com</db:attribute>
+			<db:attribute name="writer">麦兆辉</db:attribute>
+			<db:attribute name="writer">庄文强</db:attribute>
+			<db:attribute name="language">粤语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0338564/</db:attribute>
+			<db:attribute name="country">香港</db:attribute>
+			<db:attribute name="pubdate">2002-12-12</db:attribute>
+			<db:attribute name="cast">刘德华</db:attribute>
+			<db:attribute name="cast">梁朝伟</db:attribute>
+			<db:attribute name="cast">黄秋生</db:attribute>
+			<db:attribute name="cast">曾志伟</db:attribute>
+			<db:attribute name="cast">郑秀文</db:attribute>
+			<db:attribute name="cast">陈慧琳</db:attribute>
+			<db:attribute name="cast">陈冠希</db:attribute>
+			<db:attribute name="cast">余文乐</db:attribute>
+			<db:attribute name="cast">杜汶泽</db:attribute>
+			<db:attribute name="cast">林家栋</db:attribute>
+			<db:attribute name="cast">萧亚轩</db:attribute>
+		</db:subject>
+		<db:tag name="香港"/>
+		<db:tag name="无间道"/>
+		<db:tag name="梁朝伟"/>
+		<db:tag name="刘德华"/>
+		<db:tag name="黑帮"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/318272406</id>
+		<title>Fifty 看过 Titanic</title>
+		<updated>2010-11-23T08:16:47+08:00</updated>
+		<link href="http://api.douban.com/collection/318272406" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1292722" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1292722</id>
+			<title>Titanic</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>James Cameron</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1292722" rel="self"/>
+			<link href="http://movie.douban.com/subject/1292722/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3939938.jpg" rel="image"/>
+			<db:attribute name="director">詹姆斯·卡梅隆</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">泰坦尼克号</db:attribute>
+			<db:attribute name="website">http://www.titanicmovie.com/</db:attribute>
+			<db:attribute name="writer">詹姆斯·卡梅隆</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">法语</db:attribute>
+			<db:attribute name="language">德语</db:attribute>
+			<db:attribute name="language">瑞典语</db:attribute>
+			<db:attribute name="language">意大利语</db:attribute>
+			<db:attribute name="language">俄语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0120338/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="pubdate">1997-12-19</db:attribute>
+			<db:attribute name="cast">莱昂纳多·迪卡普里奥</db:attribute>
+			<db:attribute name="cast">凯特·温丝莱特</db:attribute>
+			<db:attribute name="cast">比利·赞恩</db:attribute>
+			<db:attribute name="cast">凯西·贝茨</db:attribute>
+			<db:attribute name="cast">弗兰西丝·费舍</db:attribute>
+			<db:attribute name="cast">格劳瑞亚·斯图尔特</db:attribute>
+			<db:attribute name="cast">苏茜·爱米斯</db:attribute>
+			<db:attribute name="cast">比尔·帕克斯顿</db:attribute>
+			<db:attribute name="cast">伯纳德·希尔</db:attribute>
+			<db:attribute name="cast">维克多·加博</db:attribute>
+			<db:attribute name="cast">伊万·斯图尔特</db:attribute>
+			<db:attribute name="cast">詹姆斯·卡梅隆</db:attribute>
+		</db:subject>
+		<db:tag name="爱情"/>
+		<db:tag name="经典"/>
+		<db:tag name="美国"/>
+		<db:tag name="灾难"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/318272372</id>
+		<title>Fifty 看过 Avatar</title>
+		<updated>2010-11-23T08:16:24+08:00</updated>
+		<link href="http://api.douban.com/collection/318272372" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1652587" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1652587</id>
+			<title>Avatar</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>James Cameron</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1652587" rel="self"/>
+			<link href="http://movie.douban.com/subject/1652587/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4065701.jpg" rel="image"/>
+			<db:attribute name="website">http://www.avatarmovie.com/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="country">英国</db:attribute>
+			<db:attribute name="writer">詹姆斯·卡梅隆</db:attribute>
+			<db:attribute name="director">詹姆斯·卡梅隆</db:attribute>
+			<db:attribute name="pubdate">2009-12-16</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0499549/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">阿凡达</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">萨姆·沃辛顿</db:attribute>
+			<db:attribute name="cast">佐伊·索尔达娜</db:attribute>
+			<db:attribute name="cast">西格妮·韦弗</db:attribute>
+			<db:attribute name="cast">史蒂芬·朗</db:attribute>
+			<db:attribute name="cast">米歇尔·罗德里格兹</db:attribute>
+			<db:attribute name="cast">乔·摩尔</db:attribute>
+			<db:attribute name="cast">吉奥瓦尼·瑞比西</db:attribute>
+		</db:subject>
+		<db:tag name="科幻"/>
+		<db:tag name="3D"/>
+		<db:tag name="美国"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/317142185</id>
+		<title>Fifty 看过 Sex and the City 2</title>
+		<updated>2010-11-20T08:58:16+08:00</updated>
+		<link href="http://api.douban.com/collection/317142185" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3147941" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3147941</id>
+			<title>Sex and the City 2</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Michael Patrick King</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3147941" rel="self"/>
+			<link href="http://movie.douban.com/subject/3147941/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4350128.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">迈克尔·帕特里克·金</db:attribute>
+			<db:attribute name="director">Michael Patrick King</db:attribute>
+			<db:attribute name="pubdate">2010-05-28</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1261945/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">欲望都市2</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">Sarah Jessica Parker</db:attribute>
+			<db:attribute name="cast">Kim Cattrall</db:attribute>
+			<db:attribute name="cast">Kristin Davis</db:attribute>
+			<db:attribute name="cast">Cynthia Nixon</db:attribute>
+			<db:attribute name="cast">Chris Noth</db:attribute>
+		</db:subject>
+		<db:tag name="美国"/>
+		<db:tag name="时尚"/>
+		<db:tag name="女性"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/317142081</id>
+		<title>Fifty 看过 唐山大地震</title>
+		<updated>2010-11-20T08:57:28+08:00</updated>
+		<link href="http://api.douban.com/collection/317142081" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3596502" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3596502</id>
+			<title>唐山大地震</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>冯小刚</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3596502" rel="self"/>
+			<link href="http://movie.douban.com/subject/3596502/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4287549.jpg" rel="image"/>
+			<db:attribute name="director">冯小刚</db:attribute>
+			<db:attribute name="writer">苏小卫</db:attribute>
+			<db:attribute name="language">汉语普通话</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1393746/</db:attribute>
+			<db:attribute name="website">http://aftershock.hbpictures.com/</db:attribute>
+			<db:attribute name="country">中国大陆</db:attribute>
+			<db:attribute name="country">香港</db:attribute>
+			<db:attribute name="pubdate">2010-07-22</db:attribute>
+			<db:attribute name="cast">徐帆</db:attribute>
+			<db:attribute name="cast">张静初</db:attribute>
+			<db:attribute name="cast">李晨</db:attribute>
+			<db:attribute name="cast">陈道明</db:attribute>
+			<db:attribute name="cast">张子枫</db:attribute>
+			<db:attribute name="cast">张家骏</db:attribute>
+			<db:attribute name="cast">王子文</db:attribute>
+			<db:attribute name="cast">陈瑾</db:attribute>
+			<db:attribute name="cast">陆毅</db:attribute>
+			<db:attribute name="cast">张国强</db:attribute>
+			<db:attribute name="cast">杨立新</db:attribute>
+			<db:attribute name="cast">吕中</db:attribute>
+			<db:attribute name="cast">咏梅</db:attribute>
+			<db:attribute name="cast">刘莉莉</db:attribute>
+			<db:attribute name="cast">马秋子</db:attribute>
+		</db:subject>
+		<db:tag name="灾难"/>
+		<db:tag name="亲情"/>
+		<db:tag name="感人"/>
+		<db:tag name="2010"/>
+		<gd:rating max="5" min="1" value="3"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/317142028</id>
+		<title>Fifty 想看 The Bridges of Madison County</title>
+		<updated>2010-11-20T08:56:59+08:00</updated>
+		<link href="http://api.douban.com/collection/317142028" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1293929" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1293929</id>
+			<title>The Bridges of Madison County</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Clint Eastwood</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1293929" rel="self"/>
+			<link href="http://movie.douban.com/subject/1293929/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1789892.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">理查德·拉·格拉文斯</db:attribute>
+			<db:attribute name="writer">Robert James Waller</db:attribute>
+			<db:attribute name="director">克林特·伊斯特伍德</db:attribute>
+			<db:attribute name="pubdate">1995-06-02</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0112579/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">廊桥遗梦</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">克林特·伊斯特伍德</db:attribute>
+			<db:attribute name="cast">梅丽尔·斯特里普</db:attribute>
+			<db:attribute name="cast">Annie Corley</db:attribute>
+			<db:attribute name="cast">维克多·斯勒扎克</db:attribute>
+			<db:attribute name="cast">Jim Haynie</db:attribute>
+		</db:subject>
+		<db:tag name="爱情"/>
+		<db:tag name="廊桥遗梦"/>
+		<db:tag name="经典"/>
+		<db:tag name="美国"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/317141965</id>
+		<title>Fifty 想看 Encounters at the End of the World</title>
+		<updated>2010-11-20T08:56:24+08:00</updated>
+		<link href="http://api.douban.com/collection/317141965" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/2237378" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/2237378</id>
+			<title>Encounters at the End of the World</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Werner Herzog</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/2237378" rel="self"/>
+			<link href="http://movie.douban.com/subject/2237378/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3953027.jpg" rel="image"/>
+			<db:attribute name="website">http://encountersfilm.com/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">沃纳·赫尔佐格</db:attribute>
+			<db:attribute name="director">沃纳·赫尔佐格</db:attribute>
+			<db:attribute name="pubdate">2007-09-01</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1093824/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">在世界尽头相遇</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">沃纳·赫尔佐格</db:attribute>
+			<db:attribute name="cast">Samuel S. Bowser</db:attribute>
+			<db:attribute name="cast">Regina Eisert</db:attribute>
+			<db:attribute name="cast">David Ainley</db:attribute>
+		</db:subject>
+		<db:tag name="纪录片"/>
+		<db:tag name="德国"/>
+		<db:tag name="赫尔佐格"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/317141869</id>
+		<title>Fifty 想看 Downton Abbey</title>
+		<updated>2010-11-20T08:55:24+08:00</updated>
+		<link href="http://api.douban.com/collection/317141869" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/4769314" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/4769314</id>
+			<title>Downton Abbey</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Brian Percival</name>
+			</author>
+			<author>
+				<name>Ben Bolt</name>
+			</author>
+			<author>
+				<name>Brian Kelly</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/4769314" rel="self"/>
+			<link href="http://movie.douban.com/subject/4769314/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4562608.jpg" rel="image"/>
+			<db:attribute name="director">Brian Percival</db:attribute>
+			<db:attribute name="director">Ben Bolt</db:attribute>
+			<db:attribute name="director">Brian Kelly</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">唐顿庄园</db:attribute>
+			<db:attribute name="website">www.itv.com/dramapremieres/downtonabbey/</db:attribute>
+			<db:attribute name="writer">朱利安·费罗斯</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1606375/</db:attribute>
+			<db:attribute name="country">英国</db:attribute>
+			<db:attribute name="pubdate">2010-09-26</db:attribute>
+			<db:attribute name="cast">玛吉·史密斯</db:attribute>
+			<db:attribute name="cast">休·博内威利</db:attribute>
+			<db:attribute name="cast">丹·史蒂文斯</db:attribute>
+			<db:attribute name="cast">杰西卡·布朗-芬德利</db:attribute>
+			<db:attribute name="cast">劳拉·卡尔迈克尔</db:attribute>
+			<db:attribute name="cast">布兰登·柯伊尔</db:attribute>
+			<db:attribute name="cast">米歇尔·道克瑞</db:attribute>
+			<db:attribute name="cast">罗伯·詹姆斯-克里尔</db:attribute>
+		</db:subject>
+		<db:tag name="英剧"/>
+		<db:tag name="古典英伦"/>
+		<db:tag name="英国"/>
+		<db:tag name="ITV"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/317141841</id>
+		<title>Fifty 想看 Once Upon a Time in America</title>
+		<updated>2010-11-20T08:55:10+08:00</updated>
+		<link href="http://api.douban.com/collection/317141841" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1292262" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1292262</id>
+			<title>Once Upon a Time in America</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Sergio Leone</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1292262" rel="self"/>
+			<link href="http://movie.douban.com/subject/1292262/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s2383154.jpg" rel="image"/>
+			<db:attribute name="country">意大利</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">Piero De Bernardi</db:attribute>
+			<db:attribute name="writer">Leonardo Benvenuti</db:attribute>
+			<db:attribute name="writer">Franco Arcalli</db:attribute>
+			<db:attribute name="writer">Enrico Medioli</db:attribute>
+			<db:attribute name="writer">Franco Ferrini</db:attribute>
+			<db:attribute name="writer">赛尔乔·莱翁</db:attribute>
+			<db:attribute name="director">赛尔乔·莱翁</db:attribute>
+			<db:attribute name="pubdate">1984-02-17</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0087843/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">美国往事</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">法语</db:attribute>
+			<db:attribute name="language">意大利语</db:attribute>
+			<db:attribute name="cast">罗伯特·德尼罗</db:attribute>
+			<db:attribute name="cast">詹姆斯·伍兹</db:attribute>
+			<db:attribute name="cast">詹妮弗·康纳利</db:attribute>
+			<db:attribute name="cast">伊丽莎白·麦戈文</db:attribute>
+			<db:attribute name="cast">塔斯黛·韦尔德</db:attribute>
+		</db:subject>
+		<db:tag name="美国"/>
+		<db:tag name="黑帮"/>
+		<db:tag name="罗伯特·德尼罗"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/317141552</id>
+		<title>Fifty 看过 歌舞青春</title>
+		<updated>2010-11-20T08:52:26+08:00</updated>
+		<link href="http://api.douban.com/collection/317141552" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/4173292" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/4173292</id>
+			<title>歌舞青春</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>陈士铮</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/4173292" rel="self"/>
+			<link href="http://movie.douban.com/subject/4173292/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4423218.jpg" rel="image"/>
+			<db:attribute name="country">中国大陆</db:attribute>
+			<db:attribute name="writer">Li Lin</db:attribute>
+			<db:attribute name="director">陈士铮</db:attribute>
+			<db:attribute name="pubdate">2010-08-10</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1556143/</db:attribute>
+			<db:attribute name="language">汉语普通话</db:attribute>
+			<db:attribute name="cast">张峻宁</db:attribute>
+			<db:attribute name="cast">马梓涵</db:attribute>
+			<db:attribute name="cast">袁成杰</db:attribute>
+			<db:attribute name="cast">顾璇</db:attribute>
+			<db:attribute name="cast">刘晏辰</db:attribute>
+			<db:attribute name="cast">林琪</db:attribute>
+			<db:attribute name="cast">孙楠</db:attribute>
+			<db:attribute name="cast">郭德纲</db:attribute>
+		</db:subject>
+		<db:tag name="山寨"/>
+		<db:tag name="中国电影"/>
+		<db:tag name="青春"/>
+		<gd:rating max="5" min="1" value="3"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/317141509</id>
+		<title>Fifty 看过 The Man Who Came Back</title>
+		<updated>2010-11-20T08:51:59+08:00</updated>
+		<link href="http://api.douban.com/collection/317141509" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3072167" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3072167</id>
+			<title>The Man Who Came Back</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Glen Pitre</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3072167" rel="self"/>
+			<link href="http://movie.douban.com/subject/3072167/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3086481.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="director">Glen Pitre</db:attribute>
+			<db:attribute name="pubdate">2008-12-09</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1013651/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">英雄归来</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">肖恩·杨</db:attribute>
+			<db:attribute name="cast">比利·赞恩</db:attribute>
+			<db:attribute name="cast">卡罗尔·艾特</db:attribute>
+			<db:attribute name="cast">阿曼德·阿山特</db:attribute>
+			<db:attribute name="cast">乔治·肯尼迪</db:attribute>
+			<db:attribute name="cast">詹姆斯·帕特里克·斯图阿特</db:attribute>
+			<db:attribute name="cast">艾瑞克·布里登</db:attribute>
+			<db:attribute name="cast">Peter Jason</db:attribute>
+			<db:attribute name="cast">詹妮佛·欧戴尔</db:attribute>
+		</db:subject>
+		<db:tag name="暴力"/>
+		<db:tag name="美国"/>
+		<db:tag name="2008"/>
+		<db:tag name="动作"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/317141453</id>
+		<title>Fifty 看过 血色浪漫</title>
+		<updated>2010-11-20T08:51:29+08:00</updated>
+		<link href="http://api.douban.com/collection/317141453" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1931974" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1931974</id>
+			<title>血色浪漫</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>滕文骥 Wenji Teng</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1931974" rel="self"/>
+			<link href="http://movie.douban.com/subject/1931974/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1937989.jpg" rel="image"/>
+			<db:attribute name="country">中国大陆</db:attribute>
+			<db:attribute name="director">滕文骥</db:attribute>
+			<db:attribute name="language">普通话</db:attribute>
+			<db:attribute name="cast">刘烨</db:attribute>
+			<db:attribute name="cast">孙俪</db:attribute>
+			<db:attribute name="cast">连奕名</db:attribute>
+			<db:attribute name="cast">孙小平</db:attribute>
+			<db:attribute name="cast">王春</db:attribute>
+			<db:attribute name="cast">王力可</db:attribute>
+			<db:attribute name="cast">林好</db:attribute>
+			<db:attribute name="cast">潘丽</db:attribute>
+		</db:subject>
+		<db:tag name="血色浪漫"/>
+		<db:tag name="电视剧"/>
+		<db:tag name="刘烨"/>
+		<db:tag name="青春"/>
+		<db:tag name="孙俪"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/317141403</id>
+		<title>Fifty 看过 西游记第一百零一回之月光宝盒</title>
+		<updated>2010-11-20T08:51:06+08:00</updated>
+		<link href="http://api.douban.com/collection/317141403" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1299398" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1299398</id>
+			<title>西游记第一百零一回之月光宝盒</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>刘镇伟</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1299398" rel="self"/>
+			<link href="http://movie.douban.com/subject/1299398/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1317983.jpg" rel="image"/>
+			<db:attribute name="country">香港</db:attribute>
+			<db:attribute name="country">中国</db:attribute>
+			<db:attribute name="writer">刘镇伟</db:attribute>
+			<db:attribute name="director">刘镇伟</db:attribute>
+			<db:attribute name="pubdate">1995-01-21</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0112778/</db:attribute>
+			<db:attribute name="language">粤语</db:attribute>
+			<db:attribute name="language">普通话</db:attribute>
+			<db:attribute name="cast">周星驰</db:attribute>
+			<db:attribute name="cast">吴孟达</db:attribute>
+			<db:attribute name="cast">朱茵</db:attribute>
+			<db:attribute name="cast">罗家英</db:attribute>
+			<db:attribute name="cast">蓝洁瑛</db:attribute>
+			<db:attribute name="cast">莫文蔚</db:attribute>
+			<db:attribute name="cast">刘镇伟</db:attribute>
+			<db:attribute name="cast">蔡少芬</db:attribute>
+			<db:attribute name="cast">江约诚</db:attribute>
+		</db:subject>
+		<db:tag name="周星驰"/>
+		<db:tag name="喜剧"/>
+		<db:tag name="香港"/>
+		<db:tag name="经典"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/317141371</id>
+		<title>Fifty 看过 西游记大结局之仙履奇缘</title>
+		<updated>2010-11-20T08:50:50+08:00</updated>
+		<link href="http://api.douban.com/collection/317141371" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1292213" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1292213</id>
+			<title>西游记大结局之仙履奇缘</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>刘镇伟</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1292213" rel="self"/>
+			<link href="http://movie.douban.com/subject/1292213/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1311495.jpg" rel="image"/>
+			<db:attribute name="director">刘镇伟</db:attribute>
+			<db:attribute name="country">香港</db:attribute>
+			<db:attribute name="country">中国</db:attribute>
+			<db:attribute name="writer">刘镇伟</db:attribute>
+			<db:attribute name="language">粤语</db:attribute>
+			<db:attribute name="language">普通话</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0114996/</db:attribute>
+			<db:attribute name="pubdate">1995-02-04</db:attribute>
+			<db:attribute name="cast">周星驰</db:attribute>
+			<db:attribute name="cast">朱茵</db:attribute>
+			<db:attribute name="cast">莫文蔚</db:attribute>
+			<db:attribute name="cast">吴孟达</db:attribute>
+			<db:attribute name="cast">罗家英</db:attribute>
+			<db:attribute name="cast">蔡少芬</db:attribute>
+			<db:attribute name="cast">蓝洁瑛</db:attribute>
+			<db:attribute name="cast">刘镇伟</db:attribute>
+		</db:subject>
+		<db:tag name="周星驰"/>
+		<db:tag name="喜剧"/>
+		<db:tag name="经典"/>
+		<db:tag name="香港"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/317141302</id>
+		<title>Fifty 看过 大事件</title>
+		<updated>2010-11-20T08:50:15+08:00</updated>
+		<link href="http://api.douban.com/collection/317141302" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1308855" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1308855</id>
+			<title>大事件</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>杜琪峰</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1308855" rel="self"/>
+			<link href="http://movie.douban.com/subject/1308855/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s2792514.jpg" rel="image"/>
+			<db:attribute name="director">杜琪峰</db:attribute>
+			<db:attribute name="writer">陈庆嘉</db:attribute>
+			<db:attribute name="writer">叶天成</db:attribute>
+			<db:attribute name="writer">银河创作组</db:attribute>
+			<db:attribute name="language">粤语</db:attribute>
+			<db:attribute name="language">普通话</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0414931/</db:attribute>
+			<db:attribute name="website">Breakingnewsmovie.com</db:attribute>
+			<db:attribute name="country">香港</db:attribute>
+			<db:attribute name="country">中国</db:attribute>
+			<db:attribute name="pubdate">2004-06-10</db:attribute>
+			<db:attribute name="cast">陈慧琳</db:attribute>
+			<db:attribute name="cast">张家辉</db:attribute>
+			<db:attribute name="cast">任贤齐</db:attribute>
+			<db:attribute name="cast">林雪</db:attribute>
+			<db:attribute name="cast">任达华</db:attribute>
+			<db:attribute name="cast">许绍雄</db:attribute>
+			<db:attribute name="cast">邵美琪</db:attribute>
+			<db:attribute name="cast">张兆辉</db:attribute>
+			<db:attribute name="cast">尤勇</db:attribute>
+			<db:attribute name="cast">丁海峰</db:attribute>
+		</db:subject>
+		<db:tag name="杜琪峰"/>
+		<db:tag name="香港"/>
+		<db:tag name="香港电影"/>
+		<db:tag name="警匪"/>
+		<gd:rating max="5" min="1" value="3"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/317141242</id>
+		<title>Fifty 看过 2012</title>
+		<updated>2010-11-20T08:49:41+08:00</updated>
+		<link href="http://api.douban.com/collection/317141242" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3005875" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3005875</id>
+			<title>2012</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Roland Emmerich</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3005875" rel="self"/>
+			<link href="http://movie.douban.com/subject/3005875/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3964805.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="country">加拿大</db:attribute>
+			<db:attribute name="writer">罗兰·艾默里奇</db:attribute>
+			<db:attribute name="writer">哈洛德·克卢瑟</db:attribute>
+			<db:attribute name="director">罗兰·艾默里奇</db:attribute>
+			<db:attribute name="pubdate">2009-11-11</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1190080/</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">藏语</db:attribute>
+			<db:attribute name="language">法语</db:attribute>
+			<db:attribute name="language">汉语普通话</db:attribute>
+			<db:attribute name="language">北印度语</db:attribute>
+			<db:attribute name="language">俄语</db:attribute>
+			<db:attribute name="cast">约翰·库萨克</db:attribute>
+			<db:attribute name="cast">切瓦特·埃加福特</db:attribute>
+			<db:attribute name="cast">阿曼达·皮特</db:attribute>
+			<db:attribute name="cast">桑迪·牛顿</db:attribute>
+			<db:attribute name="cast">丹尼·格洛弗</db:attribute>
+			<db:attribute name="cast">伍迪·哈里森</db:attribute>
+			<db:attribute name="cast">奥利弗·普莱特</db:attribute>
+			<db:attribute name="cast">连姆·詹姆斯</db:attribute>
+			<db:attribute name="cast">摩根·莉莉</db:attribute>
+			<db:attribute name="cast">毕崔斯·罗森</db:attribute>
+			<db:attribute name="cast">黄经汉</db:attribute>
+			<db:attribute name="cast">卢燕</db:attribute>
+		</db:subject>
+		<db:tag name="灾难"/>
+		<db:tag name="2012"/>
+		<db:tag name="美国"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/317141203</id>
+		<title>Fifty 看过 Resident Evil: Apocalypse</title>
+		<updated>2010-11-20T08:49:16+08:00</updated>
+		<link href="http://api.douban.com/collection/317141203" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1308752" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1308752</id>
+			<title>Resident Evil: Apocalypse</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Alexander Witt</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1308752" rel="self"/>
+			<link href="http://movie.douban.com/subject/1308752/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s2677314.jpg" rel="image"/>
+			<db:attribute name="website">http://www.sonypictures.com/movies/residentevilapocalypse/</db:attribute>
+			<db:attribute name="country">德国</db:attribute>
+			<db:attribute name="country">法国</db:attribute>
+			<db:attribute name="country">英国</db:attribute>
+			<db:attribute name="country">加拿大</db:attribute>
+			<db:attribute name="writer">保罗·安德森</db:attribute>
+			<db:attribute name="director">Alexander Witt</db:attribute>
+			<db:attribute name="pubdate">2004-10-07</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0318627/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">生化危机2:启示录</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">Milla Jovovich</db:attribute>
+			<db:attribute name="cast">Sienna Guillory</db:attribute>
+			<db:attribute name="cast">Oded Fehr</db:attribute>
+		</db:subject>
+		<db:tag name="科幻"/>
+		<db:tag name="生化危机"/>
+		<db:tag name="美国"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/317141185</id>
+		<title>Fifty 看过 Biohazard: Degeneration</title>
+		<updated>2010-11-20T08:49:06+08:00</updated>
+		<link href="http://api.douban.com/collection/317141185" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/2970087" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/2970087</id>
+			<title>Biohazard: Degeneration</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>神谷诚</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/2970087" rel="self"/>
+			<link href="http://movie.douban.com/subject/2970087/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3349687.jpg" rel="image"/>
+			<db:attribute name="website">http://www.biohazardcg.com/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="writer">菅正太郎</db:attribute>
+			<db:attribute name="director">神谷诚</db:attribute>
+			<db:attribute name="pubdate">2008-10-18</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1174954/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">生化危机：恶化</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">Alyson Court</db:attribute>
+			<db:attribute name="cast">Paul Mercier</db:attribute>
+			<db:attribute name="cast">Laura Bailey</db:attribute>
+			<db:attribute name="cast">Roger Craig Smith</db:attribute>
+			<db:attribute name="cast">Crispin Freeman</db:attribute>
+		</db:subject>
+		<db:tag name="动画"/>
+		<db:tag name="生化危机"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/317141177</id>
+		<title>Fifty 看过 Resident Evil</title>
+		<updated>2010-11-20T08:48:58+08:00</updated>
+		<link href="http://api.douban.com/collection/317141177" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1306809" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1306809</id>
+			<title>Resident Evil</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Paul W.S. Anderson</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1306809" rel="self"/>
+			<link href="http://movie.douban.com/subject/1306809/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2677317.jpg" rel="image"/>
+			<db:attribute name="website">www.residentevilthemovie.co.uk/</db:attribute>
+			<db:attribute name="country">法国</db:attribute>
+			<db:attribute name="country">德国</db:attribute>
+			<db:attribute name="country">英国</db:attribute>
+			<db:attribute name="writer">保罗·安德森</db:attribute>
+			<db:attribute name="director">保罗·安德森</db:attribute>
+			<db:attribute name="pubdate">2002-03-12</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0120804/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">生化危机</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">米拉·乔沃维奇</db:attribute>
+			<db:attribute name="cast">米歇尔·罗德里格兹</db:attribute>
+			<db:attribute name="cast">埃里克·马比斯</db:attribute>
+		</db:subject>
+		<db:tag name="科幻"/>
+		<db:tag name="生化危机"/>
+		<db:tag name="美国"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/317141166</id>
+		<title>Fifty 看过 Resident Evil: Extinction</title>
+		<updated>2010-11-20T08:48:49+08:00</updated>
+		<link href="http://api.douban.com/collection/317141166" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1482911" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1482911</id>
+			<title>Resident Evil: Extinction</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Russell Mulcahy</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1482911" rel="self"/>
+			<link href="http://movie.douban.com/subject/1482911/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2399245.jpg" rel="image"/>
+			<db:attribute name="website">http://www.sonypictures.com/movies/residentevilextinction/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="country">法国</db:attribute>
+			<db:attribute name="country">澳大利亚</db:attribute>
+			<db:attribute name="country">德国</db:attribute>
+			<db:attribute name="country">英国</db:attribute>
+			<db:attribute name="writer">保罗·安德森</db:attribute>
+			<db:attribute name="director">拉塞尔·穆卡希</db:attribute>
+			<db:attribute name="pubdate">2007-009-21</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0432021/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">生化危机3：灭绝</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">米拉·乔沃维奇</db:attribute>
+			<db:attribute name="cast">奥德·菲尔</db:attribute>
+			<db:attribute name="cast">伊恩·格雷</db:attribute>
+			<db:attribute name="cast">艾丽·拉特</db:attribute>
+			<db:attribute name="cast">亚香缇</db:attribute>
+		</db:subject>
+		<db:tag name="科幻"/>
+		<db:tag name="生化危机"/>
+		<db:tag name="美国"/>
+		<db:tag name="动作"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/317141107</id>
+		<title>Fifty 看过 AVP: Alien vs. Predator</title>
+		<updated>2010-11-20T08:48:18+08:00</updated>
+		<link href="http://api.douban.com/collection/317141107" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1308769" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1308769</id>
+			<title>AVP: Alien vs. Predator</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Paul W.S. Anderson</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1308769" rel="self"/>
+			<link href="http://movie.douban.com/subject/1308769/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2677376.jpg" rel="image"/>
+			<db:attribute name="website">http://www.avp-movie.com/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="country">德国</db:attribute>
+			<db:attribute name="country">捷克</db:attribute>
+			<db:attribute name="country">英国</db:attribute>
+			<db:attribute name="writer">保罗·安德森</db:attribute>
+			<db:attribute name="writer">丹·欧班农</db:attribute>
+			<db:attribute name="writer">Ronald Shusett</db:attribute>
+			<db:attribute name="director">保罗·安德森</db:attribute>
+			<db:attribute name="pubdate">2004-08-13</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0370263/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">异形大战铁血战士</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">意大利语</db:attribute>
+			<db:attribute name="cast">桑娜·莱瑟</db:attribute>
+			<db:attribute name="cast">雷欧·波瓦</db:attribute>
+			<db:attribute name="cast">兰斯·亨利克森</db:attribute>
+			<db:attribute name="cast">艾文·布莱纳</db:attribute>
+			<db:attribute name="cast">Colin Salmon</db:attribute>
+		</db:subject>
+		<db:tag name="科幻"/>
+		<db:tag name="美国"/>
+		<db:tag name="异形"/>
+		<db:tag name="美国电影"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/317141047</id>
+		<title>Fifty 看过 Knight and Day</title>
+		<updated>2010-11-20T08:47:45+08:00</updated>
+		<link href="http://api.douban.com/collection/317141047" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3402101" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3402101</id>
+			<title>Knight and Day</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>James Mangold</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3402101" rel="self"/>
+			<link href="http://movie.douban.com/subject/3402101/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4393436.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">Patrick O'Neill</db:attribute>
+			<db:attribute name="director">詹姆斯·曼高德</db:attribute>
+			<db:attribute name="pubdate">2010-07-06 (中国大陆)</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1013743/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">危情谍战</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">汤姆·克鲁斯</db:attribute>
+			<db:attribute name="cast">卡梅隆·迪亚茨</db:attribute>
+			<db:attribute name="cast">彼得·萨斯加德</db:attribute>
+			<db:attribute name="cast">玛姬·格蕾斯</db:attribute>
+			<db:attribute name="cast">保罗·达诺</db:attribute>
+		</db:subject>
+		<db:tag name="动作"/>
+		<db:tag name="汤姆·克鲁斯"/>
+		<db:tag name="美国"/>
+	</entry>
+	<opensearch:itemsPerPage>50</opensearch:itemsPerPage>
+</feed>

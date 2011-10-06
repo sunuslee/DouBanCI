@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:db="http://www.douban.com/xmlns/" xmlns:gd="http://schemas.google.com/g/2005" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:opensearch="http://a9.com/-/spec/opensearchrss/1.0/">
+	<title>残羽碎玉 的收藏</title>
+	<author>
+		<link href="http://api.douban.com/people/17010829" rel="self"/>
+		<link href="http://www.douban.com/people/tobeornotto/" rel="alternate"/>
+		<link href="http://img3.douban.com/icon/u17010829-167.jpg" rel="icon"/>
+		<name>残羽碎玉</name>
+		<uri>http://api.douban.com/people/17010829</uri>
+	</author>
+	<opensearch:startIndex>1</opensearch:startIndex>
+	<opensearch:totalResults>17</opensearch:totalResults>
+	<entry>
+		<id>http://api.douban.com/collection/440886088</id>
+		<title>残羽碎玉 看过 幸福59厘米之《小马》</title>
+		<updated>2011-09-29T13:18:17+08:00</updated>
+		<link href="http://api.douban.com/collection/440886088" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/6858722" rel="http://www.douban.com/2007#subject"/>
+		<summary>想写点什么还是罢了。</summary>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/6858722</id>
+			<title>幸福59厘米之《小马》</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>罗永浩</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/6858722" rel="self"/>
+			<link href="http://movie.douban.com/subject/6858722/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s6947833.jpg" rel="image"/>
+			<db:attribute name="website">http://dv.youku.com/xingfu59</db:attribute>
+			<db:attribute name="country">中国大陆</db:attribute>
+			<db:attribute name="writer">罗永浩</db:attribute>
+			<db:attribute name="director">罗永浩</db:attribute>
+			<db:attribute name="language">汉语普通话</db:attribute>
+			<db:attribute name="pubdate">2011-09-22</db:attribute>
+			<db:attribute name="cast">袁成杰</db:attribute>
+			<db:attribute name="cast">李呈媛</db:attribute>
+			<db:attribute name="cast">罗永浩</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="3"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/432256381</id>
+		<title>残羽碎玉 看过 Up</title>
+		<updated>2011-09-02T16:47:16+08:00</updated>
+		<link href="http://api.douban.com/collection/432256381" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/2129039" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/2129039</id>
+			<title>Up</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>彼特·道格特 Pete Docter</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/2129039" rel="self"/>
+			<link href="http://movie.douban.com/subject/2129039/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3563529.jpg" rel="image"/>
+			<db:attribute name="website">http://adisney.go.com/disneyvideos/animatedfilms/up/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">鲍勃·彼德森</db:attribute>
+			<db:attribute name="director">彼特·道格特</db:attribute>
+			<db:attribute name="pubdate">2009-05-29</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1049413/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">飞屋环游记</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">克里斯托弗·普卢默</db:attribute>
+			<db:attribute name="cast">约翰·拉岑贝格</db:attribute>
+			<db:attribute name="cast">爱德华·阿斯纳</db:attribute>
+			<db:attribute name="cast">Paul Eiding</db:attribute>
+			<db:attribute name="cast">乔丹·长井</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/379240635</id>
+		<title>残羽碎玉 看过 战国</title>
+		<updated>2011-04-17T01:19:05+08:00</updated>
+		<link href="http://api.douban.com/collection/379240635" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/4707585" rel="http://www.douban.com/2007#subject"/>
+		<summary>太残暴了！</summary>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/4707585</id>
+			<title>战国</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>金琛 Chen Jin</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/4707585" rel="self"/>
+			<link href="http://movie.douban.com/subject/4707585/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4619815.jpg" rel="image"/>
+			<db:attribute name="director">金琛</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">战国</db:attribute>
+			<db:attribute name="writer">申捷</db:attribute>
+			<db:attribute name="language">汉语普通话</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1885448/</db:attribute>
+			<db:attribute name="country">中国大陆</db:attribute>
+			<db:attribute name="pubdate">2011-04-12(中国大陆)</db:attribute>
+			<db:attribute name="cast">孙红雷</db:attribute>
+			<db:attribute name="cast">景甜</db:attribute>
+			<db:attribute name="cast">金喜善</db:attribute>
+			<db:attribute name="cast">吴镇宇</db:attribute>
+			<db:attribute name="cast">中井贵一</db:attribute>
+			<db:attribute name="cast">姜武</db:attribute>
+			<db:attribute name="cast">冯恩鹤</db:attribute>
+			<db:attribute name="cast">黄海冰</db:attribute>
+			<db:attribute name="cast">廖京生</db:attribute>
+			<db:attribute name="cast">雪村</db:attribute>
+			<db:attribute name="cast">郭德纲</db:attribute>
+			<db:attribute name="cast">徐娇</db:attribute>
+			<db:attribute name="cast">何云伟</db:attribute>
+			<db:attribute name="cast">方子哥</db:attribute>
+			<db:attribute name="cast">李子雄</db:attribute>
+			<db:attribute name="cast">熊欣欣</db:attribute>
+			<db:attribute name="cast">马精武</db:attribute>
+			<db:attribute name="cast">雷恪生</db:attribute>
+			<db:attribute name="cast">吴军</db:attribute>
+		</db:subject>
+		<db:tag name="跟老婆一起看"/>
+		<db:tag name="电影院"/>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/373434852</id>
+		<title>残羽碎玉 看过 Rain Man</title>
+		<updated>2011-04-03T02:22:52+08:00</updated>
+		<link href="http://api.douban.com/collection/373434852" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1291870" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1291870</id>
+			<title>Rain Man</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Barry Levinson</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1291870" rel="self"/>
+			<link href="http://movie.douban.com/subject/1291870/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2172026.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">罗纳德·巴斯</db:attribute>
+			<db:attribute name="writer">Barry Morrow</db:attribute>
+			<db:attribute name="director">巴瑞·莱文森</db:attribute>
+			<db:attribute name="pubdate">1988-12-16</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0095953/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">雨人</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">意大利语</db:attribute>
+			<db:attribute name="cast">达斯汀·霍夫曼</db:attribute>
+			<db:attribute name="cast">汤姆·克鲁斯</db:attribute>
+			<db:attribute name="cast">瓦莱莉·高利诺</db:attribute>
+			<db:attribute name="cast">邦尼·亨特</db:attribute>
+		</db:subject>
+		<db:tag name="治愈"/>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/373086486</id>
+		<title>残羽碎玉 看过 让子弹飞</title>
+		<updated>2011-04-02T12:56:09+08:00</updated>
+		<link href="http://api.douban.com/collection/373086486" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3742360" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3742360</id>
+			<title>让子弹飞</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>姜文 Wen Jiang</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3742360" rel="self"/>
+			<link href="http://movie.douban.com/subject/3742360/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4562687.jpg" rel="image"/>
+			<db:attribute name="director">姜文</db:attribute>
+			<db:attribute name="writer">朱苏进</db:attribute>
+			<db:attribute name="writer">述平</db:attribute>
+			<db:attribute name="writer">姜文</db:attribute>
+			<db:attribute name="writer">郭俊立</db:attribute>
+			<db:attribute name="writer">危笑</db:attribute>
+			<db:attribute name="writer">李不空</db:attribute>
+			<db:attribute name="writer">马识途</db:attribute>
+			<db:attribute name="language">汉语普通话</db:attribute>
+			<db:attribute name="language">四川话</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1533117/</db:attribute>
+			<db:attribute name="country">中国大陆</db:attribute>
+			<db:attribute name="pubdate">2010-12-16(中国大陆)</db:attribute>
+			<db:attribute name="cast">姜文</db:attribute>
+			<db:attribute name="cast">葛优</db:attribute>
+			<db:attribute name="cast">周润发</db:attribute>
+			<db:attribute name="cast">刘嘉玲</db:attribute>
+			<db:attribute name="cast">陈坤</db:attribute>
+			<db:attribute name="cast">张默</db:attribute>
+			<db:attribute name="cast">姜武</db:attribute>
+			<db:attribute name="cast">周韵</db:attribute>
+			<db:attribute name="cast">廖凡</db:attribute>
+			<db:attribute name="cast">姚橹</db:attribute>
+			<db:attribute name="cast">邵兵</db:attribute>
+			<db:attribute name="cast">苗圃</db:attribute>
+			<db:attribute name="cast">冯小刚</db:attribute>
+			<db:attribute name="cast">胡军</db:attribute>
+			<db:attribute name="cast">马珂</db:attribute>
+			<db:attribute name="cast">白冰</db:attribute>
+			<db:attribute name="cast">杜奕衡</db:attribute>
+			<db:attribute name="cast">李静</db:attribute>
+			<db:attribute name="cast">胡明</db:attribute>
+			<db:attribute name="cast">危笑</db:attribute>
+			<db:attribute name="cast">杨奇雨 </db:attribute>
+			<db:attribute name="cast">赵铭</db:attribute>
+		</db:subject>
+		<db:tag name="大赞"/>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/372971452</id>
+		<title>残羽碎玉 看过 The Pursuit of Happyness</title>
+		<updated>2011-04-02T00:51:21+08:00</updated>
+		<link href="http://api.douban.com/collection/372971452" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1849031" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1849031</id>
+			<title>The Pursuit of Happyness</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Gabriele Muccino</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1849031" rel="self"/>
+			<link href="http://movie.douban.com/subject/1849031/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1739818.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">Steve Conrad</db:attribute>
+			<db:attribute name="director">加布里尔·穆奇诺</db:attribute>
+			<db:attribute name="pubdate">2006-12-15</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0454921/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">当幸福来敲门</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">威尔·史密斯</db:attribute>
+			<db:attribute name="cast">贾登·史密斯</db:attribute>
+			<db:attribute name="cast">桑迪·牛顿</db:attribute>
+			<db:attribute name="cast">Brian Howe</db:attribute>
+			<db:attribute name="cast">詹姆斯·凯伦</db:attribute>
+		</db:subject>
+		<db:tag name="略励志"/>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/355265177</id>
+		<title>残羽碎玉 想看 夏目友人帳 参</title>
+		<updated>2011-02-17T19:18:40+08:00</updated>
+		<link href="http://api.douban.com/collection/355265177" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/5967223" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/5967223</id>
+			<title>夏目友人帳 参</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>大森贵弘 Takahiro Omori</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/5967223" rel="self"/>
+			<link href="http://movie.douban.com/subject/5967223/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4709115.jpg" rel="image"/>
+			<db:attribute name="website">www.nasinc.co.jp/jp/natsume-anime</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="writer">村井贞之</db:attribute>
+			<db:attribute name="director">大森贵弘</db:attribute>
+			<db:attribute name="pubdate">2011-07-04</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">夏目友人帐 第三季</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">神谷浩史</db:attribute>
+			<db:attribute name="cast">井上和彦</db:attribute>
+			<db:attribute name="cast">小林沙苗</db:attribute>
+			<db:attribute name="cast">石田彰</db:attribute>
+			<db:attribute name="cast">堀江一眞</db:attribute>
+			<db:attribute name="cast">木村良平</db:attribute>
+			<db:attribute name="cast">菅沼久義</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/343733640</id>
+		<title>残羽碎玉 看过 宙のまにまに</title>
+		<updated>2011-01-25T23:56:11+08:00</updated>
+		<link href="http://api.douban.com/collection/343733640" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3865088" rel="http://www.douban.com/2007#subject"/>
+		<summary>非常喜欢这作的画风，人物形象和吐槽都蛮不错，可惜主题有点薄弱——或者是因为我本身对观星缺少爱？综合一下的话，其实该是3星半吧。如果还会有续作的话，说不定会更好。
+
+顺便，小夜学姐围上围巾超靓的！还有12话里不记得名字的某眼睛娘摘掉眼睛萌翻了！好吧截几张图留念。</summary>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3865088</id>
+			<title>宙のまにまに</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>高松信司</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3865088" rel="self"/>
+			<link href="http://movie.douban.com/subject/3865088/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3869693.jpg" rel="image"/>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="director">高松信司</db:attribute>
+			<db:attribute name="pubdate">2009-07</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1463151/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">浪漫追星社</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">前野智昭</db:attribute>
+			<db:attribute name="cast">伊藤加奈惠</db:attribute>
+			<db:attribute name="cast">户松遥</db:attribute>
+			<db:attribute name="cast">小清水亚美</db:attribute>
+			<db:attribute name="cast">早见沙织</db:attribute>
+			<db:attribute name="cast">高木礼子</db:attribute>
+			<db:attribute name="cast">间岛淳司</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/343731302</id>
+		<title>残羽碎玉 在看 Starry☆Sky</title>
+		<updated>2011-01-22T20:48:34+08:00</updated>
+		<link href="http://api.douban.com/collection/343731302" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/4189698" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watching</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/4189698</id>
+			<title>Starry☆Sky</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>佐山聖子</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/4189698" rel="self"/>
+			<link href="http://movie.douban.com/subject/4189698/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4604503.jpg" rel="image"/>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="writer">Honeybee</db:attribute>
+			<db:attribute name="director">佐山聖子</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">星座彼氏</db:attribute>
+			<db:attribute name="pubdate">2010-12-23</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">绿川光</db:attribute>
+			<db:attribute name="cast">杉田智和</db:attribute>
+			<db:attribute name="cast">小野大辅</db:attribute>
+			<db:attribute name="cast">神谷浩史</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="3"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/342848243</id>
+		<title>残羽碎玉 看过 トイレの神様</title>
+		<updated>2011-01-20T20:23:20+08:00</updated>
+		<link href="http://api.douban.com/collection/342848243" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/5387025" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/5387025</id>
+			<title>トイレの神様</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>竹園元</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/5387025" rel="self"/>
+			<link href="http://movie.douban.com/subject/5387025/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s4579974.jpg" rel="image"/>
+			<db:attribute name="website">http://www.mbs.jp/toire/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="writer">旺季志ずか</db:attribute>
+			<db:attribute name="director">竹園元</db:attribute>
+			<db:attribute name="pubdate">2011-01-05</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1789089/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">厕所女神</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">北乃绮</db:attribute>
+			<db:attribute name="cast">岩下志麻</db:attribute>
+			<db:attribute name="cast">夏川结衣</db:attribute>
+			<db:attribute name="cast">芦田爱菜</db:attribute>
+			<db:attribute name="cast">小林稔侍</db:attribute>
+		</db:subject>
+		<db:tag name="略治愈"/>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/341982468</id>
+		<title>残羽碎玉 看过 One Flew Over the Cuckoo's Nest</title>
+		<updated>2011-01-18T20:47:11+08:00</updated>
+		<link href="http://api.douban.com/collection/341982468" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1292224" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1292224</id>
+			<title>One Flew Over the Cuckoo's Nest</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>米洛斯·福尔曼 Milos Forman</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1292224" rel="self"/>
+			<link href="http://movie.douban.com/subject/1292224/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1441891.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">Lawrence Hauben</db:attribute>
+			<db:attribute name="writer">博·古德曼</db:attribute>
+			<db:attribute name="director">米洛斯·福尔曼</db:attribute>
+			<db:attribute name="pubdate">1975-11-19</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0073486/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">飞越疯人院</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">杰克·尼科尔森</db:attribute>
+			<db:attribute name="cast">丹尼·德维托</db:attribute>
+			<db:attribute name="cast">克里斯托弗·洛伊德</db:attribute>
+			<db:attribute name="cast">路易丝·弗莱彻</db:attribute>
+			<db:attribute name="cast">Ted Markland</db:attribute>
+			<db:attribute name="cast">布拉德·道里夫</db:attribute>
+		</db:subject>
+		<db:tag name="自由"/>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/329492786</id>
+		<title>残羽碎玉 看过 11度青春之《老男孩》</title>
+		<updated>2010-12-21T15:45:26+08:00</updated>
+		<link href="http://api.douban.com/collection/329492786" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/5344178" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/5344178</id>
+			<title>11度青春之《老男孩》</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>肖央 Yang Xiao</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/5344178" rel="self"/>
+			<link href="http://movie.douban.com/subject/5344178/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4525371.jpg" rel="image"/>
+			<db:attribute name="country">中国大陆</db:attribute>
+			<db:attribute name="writer">肖央</db:attribute>
+			<db:attribute name="director">肖央</db:attribute>
+			<db:attribute name="pubdate">2010-10-28</db:attribute>
+			<db:attribute name="language">汉语普通话</db:attribute>
+			<db:attribute name="cast">肖央</db:attribute>
+			<db:attribute name="cast">王太利</db:attribute>
+			<db:attribute name="cast">韩秋池</db:attribute>
+			<db:attribute name="cast">于蓓蓓</db:attribute>
+			<db:attribute name="cast">张末</db:attribute>
+			<db:attribute name="cast">颜隆</db:attribute>
+			<db:attribute name="cast">宋金岳</db:attribute>
+			<db:attribute name="cast">贺敬东</db:attribute>
+			<db:attribute name="cast">李卫东</db:attribute>
+			<db:attribute name="cast">刘若瑶</db:attribute>
+			<db:attribute name="cast">张菁</db:attribute>
+			<db:attribute name="cast">王昂</db:attribute>
+			<db:attribute name="cast">薛萌</db:attribute>
+			<db:attribute name="cast">杜鹏</db:attribute>
+			<db:attribute name="cast">佟友琴</db:attribute>
+			<db:attribute name="cast">郭广启</db:attribute>
+			<db:attribute name="cast">郭一非</db:attribute>
+			<db:attribute name="cast">踏西男孩</db:attribute>
+		</db:subject>
+		<db:tag name="治愈"/>
+		<db:tag name="梦想"/>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/329292138</id>
+		<title>残羽碎玉 看过 ハチミツとクローバー</title>
+		<updated>2010-12-20T23:18:47+08:00</updated>
+		<link href="http://api.douban.com/collection/329292138" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1770547" rel="http://www.douban.com/2007#subject"/>
+		<summary>森田和山田、代入感</summary>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1770547</id>
+			<title>ハチミツとクローバー</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>カサヰケンイチ</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1770547" rel="self"/>
+			<link href="http://movie.douban.com/subject/1770547/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1641755.jpg" rel="image"/>
+			<db:attribute name="website">http://www.hachikuro.net/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="writer">黑田洋介</db:attribute>
+			<db:attribute name="director">カサヰケンイチ</db:attribute>
+			<db:attribute name="pubdate">2005-04-14</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0478838/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">蜂蜜与四叶草</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">神谷浩史</db:attribute>
+			<db:attribute name="cast">工藤晴香</db:attribute>
+			<db:attribute name="cast">うえだゆうじ</db:attribute>
+			<db:attribute name="cast">高桥美佳子</db:attribute>
+			<db:attribute name="cast">杉田智和</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/329291346</id>
+		<title>残羽碎玉 看过 俺の妹がこんなに可爱いわけがない</title>
+		<updated>2010-12-20T23:17:31+08:00</updated>
+		<link href="http://api.douban.com/collection/329291346" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/4826776" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/4826776</id>
+			<title>俺の妹がこんなに可爱いわけがない</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>神戸洋行</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/4826776" rel="self"/>
+			<link href="http://movie.douban.com/subject/4826776/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4501649.jpg" rel="image"/>
+			<db:attribute name="director">神戸洋行</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">我的妹妹哪有这么可爱</db:attribute>
+			<db:attribute name="website">www.oreimo-anime.com</db:attribute>
+			<db:attribute name="writer">仓田英之</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1751305/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="pubdate">2010-10-03</db:attribute>
+			<db:attribute name="cast">中村悠一</db:attribute>
+			<db:attribute name="cast">竹达彩奈</db:attribute>
+			<db:attribute name="cast">佐藤聪美</db:attribute>
+			<db:attribute name="cast">大津田裕美</db:attribute>
+			<db:attribute name="cast">生天目仁美</db:attribute>
+			<db:attribute name="cast">花泽香菜</db:attribute>
+			<db:attribute name="cast">早见沙织</db:attribute>
+			<db:attribute name="cast">田村由加莉</db:attribute>
+			<db:attribute name="cast">伊藤静</db:attribute>
+		</db:subject>
+		<db:tag name="傲娇"/>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/329290843</id>
+		<title>残羽碎玉 看过 Angel Beats!</title>
+		<updated>2010-12-20T23:16:49+08:00</updated>
+		<link href="http://api.douban.com/collection/329290843" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/4202090" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/4202090</id>
+			<title>Angel Beats!</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>麻枝准</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/4202090" rel="self"/>
+			<link href="http://movie.douban.com/subject/4202090/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4472960.jpg" rel="image"/>
+			<db:attribute name="director">麻枝准</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">天使的心跳</db:attribute>
+			<db:attribute name="writer">麻枝准</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1639109/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="pubdate">2010-04-03</db:attribute>
+			<db:attribute name="cast">神谷浩史</db:attribute>
+			<db:attribute name="cast">樱井浩美</db:attribute>
+			<db:attribute name="cast">花泽香菜</db:attribute>
+			<db:attribute name="cast">喜多村英梨</db:attribute>
+		</db:subject>
+		<db:tag name="慢热"/>
+		<db:tag name="略治愈"/>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/329290284</id>
+		<title>残羽碎玉 看过 続 夏目友人帳</title>
+		<updated>2010-12-20T23:15:42+08:00</updated>
+		<link href="http://api.douban.com/collection/329290284" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3284269" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3284269</id>
+			<title>続 夏目友人帳</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>大森貴弘</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3284269" rel="self"/>
+			<link href="http://movie.douban.com/subject/3284269/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3704159.jpg" rel="image"/>
+			<db:attribute name="director">大森貴弘</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">续 夏目友人帐</db:attribute>
+			<db:attribute name="website">http://www.natsume-anime.jp/</db:attribute>
+			<db:attribute name="writer">原作：緑川ゆき（白泉社「月刊 LaLa」「LaLa DX」连载）</db:attribute>
+			<db:attribute name="writer">制作：NAS</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1352421/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="pubdate">2009-01-05</db:attribute>
+			<db:attribute name="cast">夏目贵志：神谷浩史</db:attribute>
+			<db:attribute name="cast">ニャンコ先生：井上和彦</db:attribute>
+			<db:attribute name="cast">名取周一：石田彰</db:attribute>
+			<db:attribute name="cast">小林沙苗</db:attribute>
+			<db:attribute name="cast">伊藤美纪</db:attribute>
+			<db:attribute name="cast">泽城美雪</db:attribute>
+			<db:attribute name="cast">西村悟：木村良平</db:attribute>
+			<db:attribute name="cast">北本篤史：菅沼久义</db:attribute>
+			<db:attribute name="cast">夏目（少年时代）：藤村歩</db:attribute>
+			<db:attribute name="cast">田沼要：堀江一眞</db:attribute>
+		</db:subject>
+		<db:tag name="治愈"/>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/329290126</id>
+		<title>残羽碎玉 看过 夏目友人帳</title>
+		<updated>2010-12-20T23:15:22+08:00</updated>
+		<link href="http://api.douban.com/collection/329290126" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3060542" rel="http://www.douban.com/2007#subject"/>
+		<summary>斑，你萌死了！</summary>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3060542</id>
+			<title>夏目友人帳</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>大森貴弘</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3060542" rel="self"/>
+			<link href="http://movie.douban.com/subject/3060542/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3166471.jpg" rel="image"/>
+			<db:attribute name="website">http://www.natsume-anime.jp/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="writer">緑川幸</db:attribute>
+			<db:attribute name="director">大森貴弘</db:attribute>
+			<db:attribute name="pubdate">2008-07-07</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">夏目友人帐</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1414422/</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+		</db:subject>
+		<db:tag name="治愈"/>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<opensearch:itemsPerPage>50</opensearch:itemsPerPage>
+</feed>

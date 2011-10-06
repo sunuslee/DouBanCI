@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:db="http://www.douban.com/xmlns/" xmlns:gd="http://schemas.google.com/g/2005" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:opensearch="http://a9.com/-/spec/opensearchrss/1.0/">
+	<title>一阵风 的收藏</title>
+	<author>
+		<link href="http://api.douban.com/people/26695862" rel="self"/>
+		<link href="http://www.douban.com/people/isongfei/" rel="alternate"/>
+		<link href="http://img3.douban.com/icon/u26695862-23.jpg" rel="icon"/>
+		<name>一阵风</name>
+		<uri>http://api.douban.com/people/26695862</uri>
+	</author>
+	<opensearch:startIndex>251</opensearch:startIndex>
+	<opensearch:totalResults>250</opensearch:totalResults>
+	<opensearch:itemsPerPage>50</opensearch:itemsPerPage>
+</feed>

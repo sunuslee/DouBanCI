@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:db="http://www.douban.com/xmlns/" xmlns:gd="http://schemas.google.com/g/2005" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:opensearch="http://a9.com/-/spec/opensearchrss/1.0/">
+	<title>风中回音 的收藏</title>
+	<author>
+		<link href="http://api.douban.com/people/25204714" rel="self"/>
+		<link href="http://www.douban.com/people/itsokay/" rel="alternate"/>
+		<link href="http://img3.douban.com/icon/u25204714-2.jpg" rel="icon"/>
+		<name>风中回音</name>
+		<uri>http://api.douban.com/people/25204714</uri>
+	</author>
+	<opensearch:startIndex>1</opensearch:startIndex>
+	<opensearch:totalResults>19</opensearch:totalResults>
+	<entry>
+		<id>http://api.douban.com/collection/440951626</id>
+		<title>风中回音 看过 追夢3DNA</title>
+		<updated>2011-09-29T16:33:24+08:00</updated>
+		<link href="http://api.douban.com/collection/440951626" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/5985961" rel="http://www.douban.com/2007#subject"/>
+		<summary>lan</summary>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/5985961</id>
+			<title>追夢3DNA</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>孔玟燕</name>
+			</author>
+			<author>
+				<name>张荣吉</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/5985961" rel="self"/>
+			<link href="http://movie.douban.com/subject/5985961/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s6776096.jpg" rel="image"/>
+			<db:attribute name="country">中国大陆</db:attribute>
+			<db:attribute name="country">台湾</db:attribute>
+			<db:attribute name="director">孔玟燕</db:attribute>
+			<db:attribute name="director">张荣吉</db:attribute>
+			<db:attribute name="pubdate">2011-09-15(台湾/香港)</db:attribute>
+			<db:attribute name="pubdate">2011-09-23(中国大陆)</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1864411/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">五月天追梦</db:attribute>
+			<db:attribute name="language">汉语普通话</db:attribute>
+			<db:attribute name="cast">陈信宏</db:attribute>
+			<db:attribute name="cast">刘冠佑</db:attribute>
+			<db:attribute name="cast">温尚翊</db:attribute>
+			<db:attribute name="cast">蔡升晏</db:attribute>
+			<db:attribute name="cast">石锦航</db:attribute>
+			<db:attribute name="cast">刘若英</db:attribute>
+			<db:attribute name="cast">任贤齐</db:attribute>
+			<db:attribute name="cast">林雪</db:attribute>
+			<db:attribute name="cast">周咏轩</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="1"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/440951060</id>
+		<title>风中回音 看过 白蛇传说</title>
+		<updated>2011-09-29T16:31:47+08:00</updated>
+		<link href="http://api.douban.com/collection/440951060" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/4942778" rel="http://www.douban.com/2007#subject"/>
+		<summary>看此片没打瞌睡</summary>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/4942778</id>
+			<title>白蛇传说</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>程小东 Siu-Tung Ching</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/4942778" rel="self"/>
+			<link href="http://movie.douban.com/subject/4942778/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s6906919.jpg" rel="image"/>
+			<db:attribute name="director">程小东</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">白蛇传说</db:attribute>
+			<db:attribute name="website">www.baishechuanshuo.com/</db:attribute>
+			<db:attribute name="writer">张炭</db:attribute>
+			<db:attribute name="writer">曾谨昌</db:attribute>
+			<db:attribute name="language">汉语普通话</db:attribute>
+			<db:attribute name="language">粤语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1857913/</db:attribute>
+			<db:attribute name="country">中国大陆</db:attribute>
+			<db:attribute name="pubdate">2011-09-28(中国大陆)</db:attribute>
+			<db:attribute name="cast">李连杰</db:attribute>
+			<db:attribute name="cast">黄圣依</db:attribute>
+			<db:attribute name="cast">林峰</db:attribute>
+			<db:attribute name="cast">蔡卓妍</db:attribute>
+			<db:attribute name="cast">文章</db:attribute>
+			<db:attribute name="cast">徐若瑄</db:attribute>
+			<db:attribute name="cast">姜武</db:attribute>
+			<db:attribute name="cast">杨千嬅</db:attribute>
+			<db:attribute name="cast">杜汶泽</db:attribute>
+			<db:attribute name="cast">罗家英</db:attribute>
+			<db:attribute name="cast">郭羡妮</db:attribute>
+			<db:attribute name="cast">林雪</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/392394888</id>
+		<title>风中回音 看过 Rio</title>
+		<updated>2011-05-19T20:36:29+08:00</updated>
+		<link href="http://api.douban.com/collection/392394888" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3731581" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3731581</id>
+			<title>Rio</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>卡洛斯·沙尔丹哈 Carlos Saldanha</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3731581" rel="self"/>
+			<link href="http://movie.douban.com/subject/3731581/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4564572.jpg" rel="image"/>
+			<db:attribute name="director">卡洛斯·沙尔丹哈</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">里约大冒险</db:attribute>
+			<db:attribute name="website">www.rio-themovie.com/</db:attribute>
+			<db:attribute name="writer">Don Rhymer</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1436562/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="pubdate">2011-04-08(中国大陆)</db:attribute>
+			<db:attribute name="pubdate">2011-04-15(美国)</db:attribute>
+			<db:attribute name="cast">杰西·艾森伯格</db:attribute>
+			<db:attribute name="cast">安妮·海瑟薇</db:attribute>
+			<db:attribute name="cast">乔治·洛佩兹</db:attribute>
+			<db:attribute name="cast">罗德里格·桑托罗</db:attribute>
+			<db:attribute name="cast">凯特·德尔·卡斯蒂洛</db:attribute>
+			<db:attribute name="cast">卡洛斯·庞丝</db:attribute>
+			<db:attribute name="cast">Bernardo de Paula</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/390834956</id>
+		<title>风中回音 看过 Fast Five</title>
+		<updated>2011-05-15T20:57:31+08:00</updated>
+		<link href="http://api.douban.com/collection/390834956" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/4286017" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/4286017</id>
+			<title>Fast Five</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>林诣彬 Justin Lin</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/4286017" rel="self"/>
+			<link href="http://movie.douban.com/subject/4286017/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4672723.jpg" rel="image"/>
+			<db:attribute name="director">林诣彬</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">速度与激情5</db:attribute>
+			<db:attribute name="website">www.fastfivemovie.com</db:attribute>
+			<db:attribute name="writer">克里斯·摩根</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">葡萄牙语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1596343/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="pubdate">2011-04-29(美国)</db:attribute>
+			<db:attribute name="pubdate">2011-05-12(中国大陆)</db:attribute>
+			<db:attribute name="cast">范·迪塞尔</db:attribute>
+			<db:attribute name="cast">保罗·沃克</db:attribute>
+			<db:attribute name="cast">道恩·强森</db:attribute>
+			<db:attribute name="cast">乔丹娜·布鲁斯特</db:attribute>
+			<db:attribute name="cast">泰瑞斯·吉布森</db:attribute>
+			<db:attribute name="cast">卢达·克里斯</db:attribute>
+			<db:attribute name="cast">马特·斯查尔兹</db:attribute>
+			<db:attribute name="cast">成康</db:attribute>
+			<db:attribute name="cast">盖尔·加朵</db:attribute>
+			<db:attribute name="cast">埃尔莎·帕塔奇</db:attribute>
+			<db:attribute name="cast">乔昆姆·德·阿尔梅达</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/386380163</id>
+		<title>风中回音 看过 單身男女</title>
+		<updated>2011-05-04T23:08:19+08:00</updated>
+		<link href="http://api.douban.com/collection/386380163" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/4724739" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/4724739</id>
+			<title>單身男女</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>杜琪峰 Johnnie To</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/4724739" rel="self"/>
+			<link href="http://movie.douban.com/subject/4724739/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4687623.jpg" rel="image"/>
+			<db:attribute name="director">杜琪峰</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">单身男女</db:attribute>
+			<db:attribute name="writer">韦家辉</db:attribute>
+			<db:attribute name="writer">游乃海</db:attribute>
+			<db:attribute name="writer">欧文杰</db:attribute>
+			<db:attribute name="writer">陈伟斌</db:attribute>
+			<db:attribute name="language">汉语普通话</db:attribute>
+			<db:attribute name="language">粤语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1776143/</db:attribute>
+			<db:attribute name="country">中国大陆</db:attribute>
+			<db:attribute name="country">香港</db:attribute>
+			<db:attribute name="pubdate">2011-03-31(中国大陆)</db:attribute>
+			<db:attribute name="cast">古天乐</db:attribute>
+			<db:attribute name="cast">吴彦祖</db:attribute>
+			<db:attribute name="cast">高圆圆</db:attribute>
+			<db:attribute name="cast">林雪</db:attribute>
+			<db:attribute name="cast">尹子维</db:attribute>
+			<db:attribute name="cast">李诗韵</db:attribute>
+			<db:attribute name="cast">贾晓晨</db:attribute>
+			<db:attribute name="cast">绿角蛙</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/386380043</id>
+		<title>风中回音 看过 倩女幽魂</title>
+		<updated>2011-05-04T23:08:02+08:00</updated>
+		<link href="http://api.douban.com/collection/386380043" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3711760" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3711760</id>
+			<title>倩女幽魂</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>叶伟信 Wilson Yip</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3711760" rel="self"/>
+			<link href="http://movie.douban.com/subject/3711760/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4699449.jpg" rel="image"/>
+			<db:attribute name="director">叶伟信</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">倩女幽魂</db:attribute>
+			<db:attribute name="writer">张炭</db:attribute>
+			<db:attribute name="language">汉语普通话</db:attribute>
+			<db:attribute name="language">粤语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1861421/</db:attribute>
+			<db:attribute name="country">中国大陆</db:attribute>
+			<db:attribute name="country">香港</db:attribute>
+			<db:attribute name="pubdate">2011-04-19(中国大陆)</db:attribute>
+			<db:attribute name="cast">刘亦菲</db:attribute>
+			<db:attribute name="cast">古天乐</db:attribute>
+			<db:attribute name="cast">余少群</db:attribute>
+			<db:attribute name="cast">惠英红</db:attribute>
+			<db:attribute name="cast">樊少皇</db:attribute>
+			<db:attribute name="cast">林鹏</db:attribute>
+			<db:attribute name="cast">巩新亮</db:attribute>
+			<db:attribute name="cast">王丹怡栗</db:attribute>
+			<db:attribute name="cast">徐锦江</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/386379847</id>
+		<title>风中回音 看过 关云长</title>
+		<updated>2011-05-04T23:07:33+08:00</updated>
+		<link href="http://api.douban.com/collection/386379847" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/4821046" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/4821046</id>
+			<title>关云长</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>麦兆辉 Alan Mak</name>
+			</author>
+			<author>
+				<name>庄文强 Felix Chong</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/4821046" rel="self"/>
+			<link href="http://movie.douban.com/subject/4821046/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4719401.jpg" rel="image"/>
+			<db:attribute name="director">麦兆辉</db:attribute>
+			<db:attribute name="director">庄文强</db:attribute>
+			<db:attribute name="writer">麦兆辉</db:attribute>
+			<db:attribute name="writer">庄文强</db:attribute>
+			<db:attribute name="language">汉语普通话</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1648093/</db:attribute>
+			<db:attribute name="country">中国大陆</db:attribute>
+			<db:attribute name="country">香港</db:attribute>
+			<db:attribute name="pubdate">2011-04-26(中国大陆)</db:attribute>
+			<db:attribute name="cast">甄子丹</db:attribute>
+			<db:attribute name="cast">姜文</db:attribute>
+			<db:attribute name="cast">孙俪</db:attribute>
+			<db:attribute name="cast">方中信</db:attribute>
+			<db:attribute name="cast">李宗翰</db:attribute>
+			<db:attribute name="cast">赵柯</db:attribute>
+			<db:attribute name="cast">王学兵</db:attribute>
+			<db:attribute name="cast">钱小豪</db:attribute>
+			<db:attribute name="cast">邵兵</db:attribute>
+			<db:attribute name="cast">董勇</db:attribute>
+			<db:attribute name="cast">王柏杰</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/374534626</id>
+		<title>风中回音 看过 Battle: Los Angeles</title>
+		<updated>2011-04-05T15:02:56+08:00</updated>
+		<link href="http://api.douban.com/collection/374534626" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3041264" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3041264</id>
+			<title>Battle: Los Angeles</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>乔纳森·理贝斯曼 Jonathan Liebesman</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3041264" rel="self"/>
+			<link href="http://movie.douban.com/subject/3041264/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4639882.jpg" rel="image"/>
+			<db:attribute name="director">乔纳森·里贝斯曼</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">洛杉矶之战</db:attribute>
+			<db:attribute name="website">www.battlela.com</db:attribute>
+			<db:attribute name="writer">Christopher Bertolini</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1217613/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="pubdate">2011-03-11(美国)</db:attribute>
+			<db:attribute name="pubdate">2011-03-18(中国大陆)</db:attribute>
+			<db:attribute name="cast">艾伦·艾克哈特</db:attribute>
+			<db:attribute name="cast">米歇尔·罗德里格兹</db:attribute>
+			<db:attribute name="cast">拉蒙·罗德里格兹</db:attribute>
+			<db:attribute name="cast">布丽姬·穆娜</db:attribute>
+			<db:attribute name="cast">迈克尔·佩纳</db:attribute>
+			<db:attribute name="cast">威尔·罗斯海尔</db:attribute>
+			<db:attribute name="cast">科里·哈德里克</db:attribute>
+			<db:attribute name="cast">Ne-Yo</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/374532474</id>
+		<title>风中回音 看过 新少林寺</title>
+		<updated>2011-04-05T14:58:05+08:00</updated>
+		<link href="http://api.douban.com/collection/374532474" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/4097023" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/4097023</id>
+			<title>新少林寺</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>陈木胜 Benny Chan</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/4097023" rel="self"/>
+			<link href="http://movie.douban.com/subject/4097023/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4603209.jpg" rel="image"/>
+			<db:attribute name="director">陈木胜</db:attribute>
+			<db:attribute name="writer">袁锦麟</db:attribute>
+			<db:attribute name="writer">张志光</db:attribute>
+			<db:attribute name="writer">王秋雨</db:attribute>
+			<db:attribute name="writer">陈锦昌</db:attribute>
+			<db:attribute name="writer">张炭</db:attribute>
+			<db:attribute name="language">汉语普通话</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1533749/</db:attribute>
+			<db:attribute name="country">中国大陆</db:attribute>
+			<db:attribute name="country">香港</db:attribute>
+			<db:attribute name="pubdate">2011-01-19(中国大陆)</db:attribute>
+			<db:attribute name="cast">刘德华</db:attribute>
+			<db:attribute name="cast">谢霆锋</db:attribute>
+			<db:attribute name="cast">范冰冰</db:attribute>
+			<db:attribute name="cast">成龙</db:attribute>
+			<db:attribute name="cast">吴京</db:attribute>
+			<db:attribute name="cast">余少群</db:attribute>
+			<db:attribute name="cast">熊欣欣</db:attribute>
+			<db:attribute name="cast">于海</db:attribute>
+			<db:attribute name="cast">释行宇</db:attribute>
+			<db:attribute name="cast">白冰</db:attribute>
+			<db:attribute name="cast">梁镜珂</db:attribute>
+			<db:attribute name="cast">岛田瑠那</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/350298594</id>
+		<title>风中回音 看过 最强囍事</title>
+		<updated>2011-02-06T22:17:37+08:00</updated>
+		<link href="http://api.douban.com/collection/350298594" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/5250583" rel="http://www.douban.com/2007#subject"/>
+		<summary>感觉就是一个apple的广告片</summary>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/5250583</id>
+			<title>最强囍事</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>陈庆嘉 Hing-Ka Chan</name>
+			</author>
+			<author>
+				<name>秦小珍  Janet Chun</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/5250583" rel="self"/>
+			<link href="http://movie.douban.com/subject/5250583/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4604059.jpg" rel="image"/>
+			<db:attribute name="director">陈庆嘉</db:attribute>
+			<db:attribute name="director">秦小珍 </db:attribute>
+			<db:attribute lang="zh_CN" name="aka">最强囍事</db:attribute>
+			<db:attribute name="writer">黄百鸣</db:attribute>
+			<db:attribute name="language">粤语</db:attribute>
+			<db:attribute name="language">汉语普通话</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1815769/</db:attribute>
+			<db:attribute name="country">中国大陆</db:attribute>
+			<db:attribute name="country">香港</db:attribute>
+			<db:attribute name="pubdate">2011-01-31(中国大陆)</db:attribute>
+			<db:attribute name="cast">张柏芝</db:attribute>
+			<db:attribute name="cast">古天乐</db:attribute>
+			<db:attribute name="cast">甄子丹</db:attribute>
+			<db:attribute name="cast">刘嘉玲</db:attribute>
+			<db:attribute name="cast">黄百鸣</db:attribute>
+			<db:attribute name="cast">闫妮</db:attribute>
+			<db:attribute name="cast">熊黛林</db:attribute>
+			<db:attribute name="cast">杜汶泽</db:attribute>
+			<db:attribute name="cast">杨颖</db:attribute>
+			<db:attribute name="cast">汪圆圆</db:attribute>
+			<db:attribute name="cast">郑中基</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="1"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/335862647</id>
+		<title>风中回音 看过 让子弹飞</title>
+		<updated>2011-01-04T18:49:47+08:00</updated>
+		<link href="http://api.douban.com/collection/335862647" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3742360" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3742360</id>
+			<title>让子弹飞</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>姜文 Wen Jiang</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3742360" rel="self"/>
+			<link href="http://movie.douban.com/subject/3742360/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4562687.jpg" rel="image"/>
+			<db:attribute name="director">姜文</db:attribute>
+			<db:attribute name="writer">朱苏进</db:attribute>
+			<db:attribute name="writer">述平</db:attribute>
+			<db:attribute name="writer">姜文</db:attribute>
+			<db:attribute name="writer">郭俊立</db:attribute>
+			<db:attribute name="writer">危笑</db:attribute>
+			<db:attribute name="writer">李不空</db:attribute>
+			<db:attribute name="writer">马识途</db:attribute>
+			<db:attribute name="language">汉语普通话</db:attribute>
+			<db:attribute name="language">四川话</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1533117/</db:attribute>
+			<db:attribute name="country">中国大陆</db:attribute>
+			<db:attribute name="pubdate">2010-12-16(中国大陆)</db:attribute>
+			<db:attribute name="cast">姜文</db:attribute>
+			<db:attribute name="cast">葛优</db:attribute>
+			<db:attribute name="cast">周润发</db:attribute>
+			<db:attribute name="cast">刘嘉玲</db:attribute>
+			<db:attribute name="cast">陈坤</db:attribute>
+			<db:attribute name="cast">张默</db:attribute>
+			<db:attribute name="cast">姜武</db:attribute>
+			<db:attribute name="cast">周韵</db:attribute>
+			<db:attribute name="cast">廖凡</db:attribute>
+			<db:attribute name="cast">姚橹</db:attribute>
+			<db:attribute name="cast">邵兵</db:attribute>
+			<db:attribute name="cast">苗圃</db:attribute>
+			<db:attribute name="cast">冯小刚</db:attribute>
+			<db:attribute name="cast">胡军</db:attribute>
+			<db:attribute name="cast">马珂</db:attribute>
+			<db:attribute name="cast">白冰</db:attribute>
+			<db:attribute name="cast">杜奕衡</db:attribute>
+			<db:attribute name="cast">李静</db:attribute>
+			<db:attribute name="cast">胡明</db:attribute>
+			<db:attribute name="cast">危笑</db:attribute>
+			<db:attribute name="cast">杨奇雨 </db:attribute>
+			<db:attribute name="cast">赵铭</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="1"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/335862516</id>
+		<title>风中回音 看过 非诚勿扰2</title>
+		<updated>2011-01-04T18:49:24+08:00</updated>
+		<link href="http://api.douban.com/collection/335862516" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/4271894" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/4271894</id>
+			<title>非诚勿扰2</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>冯小刚 Xiaogang Feng</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/4271894" rel="self"/>
+			<link href="http://movie.douban.com/subject/4271894/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4548773.jpg" rel="image"/>
+			<db:attribute name="director">冯小刚</db:attribute>
+			<db:attribute name="writer">王朔</db:attribute>
+			<db:attribute name="writer">冯小刚</db:attribute>
+			<db:attribute name="language">汉语普通话</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1810602/</db:attribute>
+			<db:attribute name="country">中国大陆</db:attribute>
+			<db:attribute name="country">香港</db:attribute>
+			<db:attribute name="pubdate">2010-12-22(中国大陆)</db:attribute>
+			<db:attribute name="cast">葛优</db:attribute>
+			<db:attribute name="cast">舒淇</db:attribute>
+			<db:attribute name="cast">孙红雷</db:attribute>
+			<db:attribute name="cast">姚晨</db:attribute>
+			<db:attribute name="cast">安以轩</db:attribute>
+			<db:attribute name="cast">邵兵</db:attribute>
+			<db:attribute name="cast">廖凡</db:attribute>
+			<db:attribute name="cast">邬逸聪</db:attribute>
+			<db:attribute name="cast">关晓彤</db:attribute>
+			<db:attribute name="cast">窦文涛</db:attribute>
+			<db:attribute name="cast">赵宝刚 </db:attribute>
+			<db:attribute name="cast">乐嘉</db:attribute>
+			<db:attribute name="cast">张馨予</db:attribute>
+			<db:attribute name="cast">张涵予</db:attribute>
+			<db:attribute name="cast">李晨</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="1"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/328641374</id>
+		<title>风中回音 看过 大笑江湖</title>
+		<updated>2010-12-19T15:12:07+08:00</updated>
+		<link href="http://api.douban.com/collection/328641374" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/4323732" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/4323732</id>
+			<title>大笑江湖</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>朱延平 Yen-ping Chu</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/4323732" rel="self"/>
+			<link href="http://movie.douban.com/subject/4323732/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4491368.jpg" rel="image"/>
+			<db:attribute name="director">朱延平</db:attribute>
+			<db:attribute name="writer">宁财神</db:attribute>
+			<db:attribute name="language">汉语普通话</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1825731/</db:attribute>
+			<db:attribute name="country">中国大陆</db:attribute>
+			<db:attribute name="country">台湾</db:attribute>
+			<db:attribute name="pubdate">2010-12-03</db:attribute>
+			<db:attribute name="cast">小沈阳</db:attribute>
+			<db:attribute name="cast">林熙蕾</db:attribute>
+			<db:attribute name="cast">赵本山</db:attribute>
+			<db:attribute name="cast">程野</db:attribute>
+			<db:attribute name="cast">陈志朋</db:attribute>
+			<db:attribute name="cast">徐少强</db:attribute>
+			<db:attribute name="cast">吴宗宪</db:attribute>
+			<db:attribute name="cast">曾志伟</db:attribute>
+			<db:attribute name="cast">梁家仁</db:attribute>
+			<db:attribute name="cast">恬妞</db:attribute>
+			<db:attribute name="cast">毕畅</db:attribute>
+			<db:attribute name="cast">翟星月</db:attribute>
+			<db:attribute name="cast">小小彬</db:attribute>
+			<db:attribute name="cast">黄一飞</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="1"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/328641258</id>
+		<title>风中回音 看过 赵氏孤儿</title>
+		<updated>2010-12-19T15:11:51+08:00</updated>
+		<link href="http://api.douban.com/collection/328641258" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3546019" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3546019</id>
+			<title>赵氏孤儿</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>陈凯歌 Kaige Chen</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3546019" rel="self"/>
+			<link href="http://movie.douban.com/subject/3546019/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4549695.jpg" rel="image"/>
+			<db:attribute name="director">陈凯歌</db:attribute>
+			<db:attribute name="writer">陈凯歌</db:attribute>
+			<db:attribute name="writer">高璇</db:attribute>
+			<db:attribute name="writer">任宝茹</db:attribute>
+			<db:attribute name="writer">赵宁宇</db:attribute>
+			<db:attribute name="language">汉语普通话</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1726738/</db:attribute>
+			<db:attribute name="country">中国大陆</db:attribute>
+			<db:attribute name="pubdate">2010-12-04</db:attribute>
+			<db:attribute name="cast">葛优</db:attribute>
+			<db:attribute name="cast">王学圻</db:attribute>
+			<db:attribute name="cast">黄晓明</db:attribute>
+			<db:attribute name="cast">范冰冰</db:attribute>
+			<db:attribute name="cast">海清</db:attribute>
+			<db:attribute name="cast">赵文浩</db:attribute>
+			<db:attribute name="cast">王翰</db:attribute>
+			<db:attribute name="cast">赵文卓</db:attribute>
+			<db:attribute name="cast">鲍国安</db:attribute>
+			<db:attribute name="cast">张丰毅</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="1"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/323617336</id>
+		<title>风中回音 看过 Death Race</title>
+		<updated>2010-12-07T10:41:24+08:00</updated>
+		<link href="http://api.douban.com/collection/323617336" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/2132412" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/2132412</id>
+			<title>Death Race</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Paul W.S. Anderson</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/2132412" rel="self"/>
+			<link href="http://movie.douban.com/subject/2132412/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3203508.jpg" rel="image"/>
+			<db:attribute name="website">http://www.deathracemovie.net/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">保罗·安德森</db:attribute>
+			<db:attribute name="director">保罗·安德森</db:attribute>
+			<db:attribute name="pubdate">2008-08-21</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0452608/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">死亡飞车</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">杰森·斯坦森</db:attribute>
+			<db:attribute name="cast">琼·艾伦</db:attribute>
+			<db:attribute name="cast">伊恩·麦柯肖恩</db:attribute>
+			<db:attribute name="cast">泰瑞斯·吉布森</db:attribute>
+			<db:attribute name="cast">娜塔丽·马丁内兹</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/178956368</id>
+		<title>风中回音 看过 Fast &amp; Furious</title>
+		<updated>2009-11-15T20:07:19+08:00</updated>
+		<link href="http://api.douban.com/collection/178956368" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/2132930" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/2132930</id>
+			<title>Fast &amp; Furious</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>林诣彬</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/2132930" rel="self"/>
+			<link href="http://movie.douban.com/subject/2132930/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3602392.jpg" rel="image"/>
+			<db:attribute name="website">http://www.fastandfuriousmovie.net/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">Chris Morgan</db:attribute>
+			<db:attribute name="writer">Gary Scott Thompson</db:attribute>
+			<db:attribute name="director">林诣彬</db:attribute>
+			<db:attribute name="pubdate">2009-03-12</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1013752/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">速度与激情4</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">范·迪塞尔</db:attribute>
+			<db:attribute name="cast">保罗·沃克</db:attribute>
+			<db:attribute name="cast">米歇尔·罗德里格兹</db:attribute>
+			<db:attribute name="cast">乔丹娜·布鲁斯特</db:attribute>
+		</db:subject>
+		<db:tag name="赛车"/>
+		<db:tag name="动作"/>
+		<db:tag name="美国"/>
+		<db:tag name="速度与激情4"/>
+		<db:tag name="2009"/>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/178956083</id>
+		<title>风中回音 看过 2 Fast 2 Furious</title>
+		<updated>2009-11-15T20:06:44+08:00</updated>
+		<link href="http://api.douban.com/collection/178956083" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1307442" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1307442</id>
+			<title>2 Fast 2 Furious</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>John Singleton</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1307442" rel="self"/>
+			<link href="http://movie.douban.com/subject/1307442/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1452121.jpg" rel="image"/>
+			<db:attribute name="website">http://www.thefastandthefurious.com</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="country">德国</db:attribute>
+			<db:attribute name="writer">德里克·哈斯</db:attribute>
+			<db:attribute name="writer">Gary Scott Thompson</db:attribute>
+			<db:attribute name="writer">迈克尔·布拉德特</db:attribute>
+			<db:attribute name="director">约翰·辛格顿</db:attribute>
+			<db:attribute name="pubdate">2003-06-05</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0322259/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">速度与激情2</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">保罗·沃克</db:attribute>
+			<db:attribute name="cast">泰瑞斯·吉布森</db:attribute>
+			<db:attribute name="cast">伊娃·门德斯</db:attribute>
+			<db:attribute name="cast">戴文青木</db:attribute>
+		</db:subject>
+		<db:tag name="电影"/>
+		<db:tag name="动作"/>
+		<db:tag name="速度与激情"/>
+		<db:tag name="美国"/>
+		<db:tag name="赛车"/>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/178955828</id>
+		<title>风中回音 看过 The Fast and the Furious</title>
+		<updated>2009-11-15T20:06:09+08:00</updated>
+		<link href="http://api.douban.com/collection/178955828" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1304899" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1304899</id>
+			<title>The Fast and the Furious</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Rob Cohen</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1304899" rel="self"/>
+			<link href="http://movie.douban.com/subject/1304899/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1804557.jpg" rel="image"/>
+			<db:attribute name="website">http://www.thefastandthefurious.com/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="country">德国</db:attribute>
+			<db:attribute name="writer">David Ayer</db:attribute>
+			<db:attribute name="writer">Erik Bergquist</db:attribute>
+			<db:attribute name="writer">Gary Scott Thompson</db:attribute>
+			<db:attribute name="director">罗伯·科恩</db:attribute>
+			<db:attribute name="pubdate">2001-10-04</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0232500/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">速度与激情</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">范·迪塞尔</db:attribute>
+			<db:attribute name="cast">保罗·沃克</db:attribute>
+			<db:attribute name="cast">乔丹娜·布鲁斯特</db:attribute>
+			<db:attribute name="cast">米歇尔·罗德里格兹</db:attribute>
+			<db:attribute name="cast">尹成植</db:attribute>
+		</db:subject>
+		<db:tag name="drift"/>
+		<db:tag name="赛车"/>
+		<db:tag name="美国"/>
+		<db:tag name="动作"/>
+		<db:tag name="速度与激情"/>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/178955538</id>
+		<title>风中回音 看过 The Fast and the Furious: Tokyo Drift</title>
+		<updated>2009-11-15T20:05:35+08:00</updated>
+		<link href="http://api.douban.com/collection/178955538" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1652618" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1652618</id>
+			<title>The Fast and the Furious: Tokyo Drift</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>林诣彬 Justin Lin</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1652618" rel="self"/>
+			<link href="http://movie.douban.com/subject/1652618/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s1660724.jpg" rel="image"/>
+			<db:attribute name="website">http://www.thefastandthefurious3.com/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="country">德国</db:attribute>
+			<db:attribute name="writer">克里斯·摩根</db:attribute>
+			<db:attribute name="director">林诣彬</db:attribute>
+			<db:attribute name="pubdate">2006-06-16</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0463985/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">速度与激情3：东京漂移</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">卢卡斯·布莱克</db:attribute>
+			<db:attribute name="cast">宝娃</db:attribute>
+			<db:attribute name="cast">Zachery Ty Bryan</db:attribute>
+			<db:attribute name="cast">Nathalie Kelly</db:attribute>
+			<db:attribute name="cast">Brian Goodman</db:attribute>
+			<db:attribute name="cast">成康</db:attribute>
+			<db:attribute name="cast">布莱恩·泰</db:attribute>
+			<db:attribute name="cast">妻夫木聪</db:attribute>
+		</db:subject>
+		<db:tag name="赛车"/>
+		<db:tag name="速度与激情"/>
+		<db:tag name="美国"/>
+		<db:tag name="动作"/>
+		<db:tag name="漂移"/>
+		<db:tag name="日本"/>
+		<db:tag name="2006"/>
+		<db:tag name="drift"/>
+		<db:tag name="电影"/>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<opensearch:itemsPerPage>50</opensearch:itemsPerPage>
+</feed>

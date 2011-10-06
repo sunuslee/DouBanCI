@@ -1,0 +1,1832 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:db="http://www.douban.com/xmlns/" xmlns:gd="http://schemas.google.com/g/2005" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:opensearch="http://a9.com/-/spec/opensearchrss/1.0/">
+	<title>一阵风 的收藏</title>
+	<author>
+		<link href="http://api.douban.com/people/26695862" rel="self"/>
+		<link href="http://www.douban.com/people/isongfei/" rel="alternate"/>
+		<link href="http://img3.douban.com/icon/u26695862-23.jpg" rel="icon"/>
+		<name>一阵风</name>
+		<uri>http://api.douban.com/people/26695862</uri>
+	</author>
+	<opensearch:startIndex>101</opensearch:startIndex>
+	<opensearch:totalResults>250</opensearch:totalResults>
+	<entry>
+		<id>http://api.douban.com/collection/414953098</id>
+		<title>一阵风 看过 Flipped</title>
+		<updated>2011-07-17T14:17:13+08:00</updated>
+		<link href="http://api.douban.com/collection/414953098" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3319755" rel="http://www.douban.com/2007#subject"/>
+		<summary>very impressive #flipped#</summary>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3319755</id>
+			<title>Flipped</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>罗伯·莱纳 Rob Reiner</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3319755" rel="self"/>
+			<link href="http://movie.douban.com/subject/3319755/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4387266.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">罗伯·莱纳</db:attribute>
+			<db:attribute name="writer">安德鲁·沙因曼</db:attribute>
+			<db:attribute name="writer">文德琳·范·德拉安南</db:attribute>
+			<db:attribute name="director">罗伯·莱纳</db:attribute>
+			<db:attribute name="pubdate">2010-08-06(美国)</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0817177/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">怦然心动</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">玛德琳·卡罗尔</db:attribute>
+			<db:attribute name="cast">卡兰·麦克奥利菲</db:attribute>
+			<db:attribute name="cast">瑞贝卡·德·莫妮</db:attribute>
+			<db:attribute name="cast">安东尼·爱德华兹</db:attribute>
+			<db:attribute name="cast">约翰·马奥尼</db:attribute>
+			<db:attribute name="cast">佩内洛普·安·米勒</db:attribute>
+			<db:attribute name="cast">艾丹·奎因</db:attribute>
+			<db:attribute name="cast">凯文·韦斯曼</db:attribute>
+			<db:attribute name="cast">摩根·莉莉</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/414830543</id>
+		<title>一阵风 看过 The Matrix</title>
+		<updated>2011-07-17T01:41:49+08:00</updated>
+		<link href="http://api.douban.com/collection/414830543" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1291843" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1291843</id>
+			<title>The Matrix</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Andy Wachowski</name>
+			</author>
+			<author>
+				<name>Larry Wachowski</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1291843" rel="self"/>
+			<link href="http://movie.douban.com/subject/1291843/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s3052684.jpg" rel="image"/>
+			<db:attribute name="website">http://whatisthematrix.warnerbros.com/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="country">澳大利亚</db:attribute>
+			<db:attribute name="writer">安迪·沃卓斯基</db:attribute>
+			<db:attribute name="writer">拉里·沃卓斯基</db:attribute>
+			<db:attribute name="director">安迪·沃卓斯基</db:attribute>
+			<db:attribute name="director">拉里·沃卓斯基</db:attribute>
+			<db:attribute name="pubdate">1999-03-31</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0133093/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">黑客帝国</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">基努·李维斯</db:attribute>
+			<db:attribute name="cast">凯瑞-安·莫斯</db:attribute>
+			<db:attribute name="cast">劳伦斯·菲什伯恩</db:attribute>
+			<db:attribute name="cast">雨果·维文</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/414830354</id>
+		<title>一阵风 看过 无间道</title>
+		<updated>2011-07-17T01:40:46+08:00</updated>
+		<link href="http://api.douban.com/collection/414830354" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1307914" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1307914</id>
+			<title>无间道</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>刘伟强</name>
+			</author>
+			<author>
+				<name>麦兆辉</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1307914" rel="self"/>
+			<link href="http://movie.douban.com/subject/1307914/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1951819.jpg" rel="image"/>
+			<db:attribute name="director">刘伟强</db:attribute>
+			<db:attribute name="director">麦兆辉</db:attribute>
+			<db:attribute name="website">www.infernalaffairs.com</db:attribute>
+			<db:attribute name="writer">麦兆辉</db:attribute>
+			<db:attribute name="writer">庄文强</db:attribute>
+			<db:attribute name="language">粤语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0338564/</db:attribute>
+			<db:attribute name="country">香港</db:attribute>
+			<db:attribute name="pubdate">2002-12-12</db:attribute>
+			<db:attribute name="cast">刘德华</db:attribute>
+			<db:attribute name="cast">梁朝伟</db:attribute>
+			<db:attribute name="cast">黄秋生</db:attribute>
+			<db:attribute name="cast">曾志伟</db:attribute>
+			<db:attribute name="cast">郑秀文</db:attribute>
+			<db:attribute name="cast">陈慧琳</db:attribute>
+			<db:attribute name="cast">陈冠希</db:attribute>
+			<db:attribute name="cast">余文乐</db:attribute>
+			<db:attribute name="cast">杜汶泽</db:attribute>
+			<db:attribute name="cast">林家栋</db:attribute>
+			<db:attribute name="cast">萧亚轩</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/414830198</id>
+		<title>一阵风 看过 A Beautiful Mind</title>
+		<updated>2011-07-17T01:39:56+08:00</updated>
+		<link href="http://api.douban.com/collection/414830198" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1306029" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1306029</id>
+			<title>A Beautiful Mind</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>朗·霍华德 Ron Howard</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1306029" rel="self"/>
+			<link href="http://movie.douban.com/subject/1306029/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s1914444.jpg" rel="image"/>
+			<db:attribute name="website">http://www.abeautifulmind.com</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">阿齐瓦·高斯曼</db:attribute>
+			<db:attribute name="writer">西尔维娅·纳萨尔</db:attribute>
+			<db:attribute name="director">朗·霍华德</db:attribute>
+			<db:attribute name="pubdate">2001-12-21</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0268978/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">美丽心灵</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">罗素·克劳</db:attribute>
+			<db:attribute name="cast">詹妮弗·康纳利</db:attribute>
+			<db:attribute name="cast">艾德·哈里斯</db:attribute>
+			<db:attribute name="cast">克里斯托弗·普卢默</db:attribute>
+			<db:attribute name="cast">保罗·贝坦尼</db:attribute>
+			<db:attribute name="cast">亚当·戈德堡</db:attribute>
+			<db:attribute name="cast">乔什·卢卡斯</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/414830184</id>
+		<title>一阵风 看过 西游记第一百零一回之月光宝盒</title>
+		<updated>2011-07-17T01:39:52+08:00</updated>
+		<link href="http://api.douban.com/collection/414830184" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1299398" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1299398</id>
+			<title>西游记第一百零一回之月光宝盒</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>刘镇伟</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1299398" rel="self"/>
+			<link href="http://movie.douban.com/subject/1299398/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1317983.jpg" rel="image"/>
+			<db:attribute name="country">香港</db:attribute>
+			<db:attribute name="country">中国</db:attribute>
+			<db:attribute name="writer">刘镇伟</db:attribute>
+			<db:attribute name="director">刘镇伟</db:attribute>
+			<db:attribute name="pubdate">1995-01-21</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0112778/</db:attribute>
+			<db:attribute name="language">粤语</db:attribute>
+			<db:attribute name="language">普通话</db:attribute>
+			<db:attribute name="cast">周星驰</db:attribute>
+			<db:attribute name="cast">吴孟达</db:attribute>
+			<db:attribute name="cast">朱茵</db:attribute>
+			<db:attribute name="cast">罗家英</db:attribute>
+			<db:attribute name="cast">蓝洁瑛</db:attribute>
+			<db:attribute name="cast">莫文蔚</db:attribute>
+			<db:attribute name="cast">刘镇伟</db:attribute>
+			<db:attribute name="cast">蔡少芬</db:attribute>
+			<db:attribute name="cast">江约诚</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/414830164</id>
+		<title>一阵风 看过 The Truman Show</title>
+		<updated>2011-07-17T01:39:45+08:00</updated>
+		<link href="http://api.douban.com/collection/414830164" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1292064" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1292064</id>
+			<title>The Truman Show</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Peter Weir</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1292064" rel="self"/>
+			<link href="http://movie.douban.com/subject/1292064/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s4016584.jpg" rel="image"/>
+			<db:attribute name="director">彼得·威尔</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">楚门的世界</db:attribute>
+			<db:attribute name="website">www.transparencynow.com/truman</db:attribute>
+			<db:attribute name="writer">安德鲁·尼科尔</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0120382/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="pubdate">1998-06-01</db:attribute>
+			<db:attribute name="cast">金·凯瑞</db:attribute>
+			<db:attribute name="cast">劳拉·琳妮</db:attribute>
+			<db:attribute name="cast">艾德·哈里斯</db:attribute>
+			<db:attribute name="cast">诺亚·艾默里奇</db:attribute>
+			<db:attribute name="cast">娜塔莎· 麦克艾霍恩</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="3"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/414830004</id>
+		<title>一阵风 看过 Titanic</title>
+		<updated>2011-07-17T01:38:47+08:00</updated>
+		<link href="http://api.douban.com/collection/414830004" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1292722" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1292722</id>
+			<title>Titanic</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>James Cameron</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1292722" rel="self"/>
+			<link href="http://movie.douban.com/subject/1292722/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3939938.jpg" rel="image"/>
+			<db:attribute name="director">詹姆斯·卡梅隆</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">泰坦尼克号</db:attribute>
+			<db:attribute name="website">http://www.titanicmovie.com/</db:attribute>
+			<db:attribute name="writer">詹姆斯·卡梅隆</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">法语</db:attribute>
+			<db:attribute name="language">德语</db:attribute>
+			<db:attribute name="language">瑞典语</db:attribute>
+			<db:attribute name="language">意大利语</db:attribute>
+			<db:attribute name="language">俄语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0120338/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="pubdate">1997-12-19</db:attribute>
+			<db:attribute name="cast">莱昂纳多·迪卡普里奥</db:attribute>
+			<db:attribute name="cast">凯特·温丝莱特</db:attribute>
+			<db:attribute name="cast">比利·赞恩</db:attribute>
+			<db:attribute name="cast">凯西·贝茨</db:attribute>
+			<db:attribute name="cast">弗兰西丝·费舍</db:attribute>
+			<db:attribute name="cast">格劳瑞亚·斯图尔特</db:attribute>
+			<db:attribute name="cast">苏茜·爱米斯</db:attribute>
+			<db:attribute name="cast">比尔·帕克斯顿</db:attribute>
+			<db:attribute name="cast">伯纳德·希尔</db:attribute>
+			<db:attribute name="cast">维克多·加博</db:attribute>
+			<db:attribute name="cast">伊万·斯图尔特</db:attribute>
+			<db:attribute name="cast">詹姆斯·卡梅隆</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/414829910</id>
+		<title>一阵风 看过 The Godfather: Part Ⅱ</title>
+		<updated>2011-07-17T01:38:17+08:00</updated>
+		<link href="http://api.douban.com/collection/414829910" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1299131" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1299131</id>
+			<title>The Godfather: Part Ⅱ</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Francis Ford Coppola</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1299131" rel="self"/>
+			<link href="http://movie.douban.com/subject/1299131/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3314652.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">马里奥·普佐</db:attribute>
+			<db:attribute name="writer">弗朗西斯·福特·科波拉</db:attribute>
+			<db:attribute name="director">弗朗西斯·福特·科波拉</db:attribute>
+			<db:attribute name="pubdate">1974-12-12</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0071562/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">教父2</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">意大利语</db:attribute>
+			<db:attribute name="language">西班牙语</db:attribute>
+			<db:attribute name="language">拉丁语</db:attribute>
+			<db:attribute name="cast">阿尔·帕西诺</db:attribute>
+			<db:attribute name="cast">罗伯特·杜瓦尔</db:attribute>
+			<db:attribute name="cast">罗伯特·德尼罗</db:attribute>
+			<db:attribute name="cast">黛安·基顿</db:attribute>
+			<db:attribute name="cast">约翰·凯泽尔</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/414829817</id>
+		<title>一阵风 看过 Les choristes</title>
+		<updated>2011-07-17T01:37:46+08:00</updated>
+		<link href="http://api.douban.com/collection/414829817" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1291549" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1291549</id>
+			<title>Les choristes</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Christophe Barratier</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1291549" rel="self"/>
+			<link href="http://movie.douban.com/subject/1291549/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2751787.jpg" rel="image"/>
+			<db:attribute name="director">Christophe Barratier</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">放牛班的春天</db:attribute>
+			<db:attribute name="writer">Christophe Barratier</db:attribute>
+			<db:attribute name="writer">Philippe Lopes-Curval</db:attribute>
+			<db:attribute name="language">法语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0372824/</db:attribute>
+			<db:attribute name="website">http://www.leschoristes-lefilm.com/</db:attribute>
+			<db:attribute name="country">法国</db:attribute>
+			<db:attribute name="country">德国</db:attribute>
+			<db:attribute name="country">瑞士</db:attribute>
+			<db:attribute name="pubdate">2004-03-17</db:attribute>
+			<db:attribute name="cast">杰拉尔·朱诺</db:attribute>
+			<db:attribute name="cast">弗朗西斯·贝尔兰德</db:attribute>
+			<db:attribute name="cast">尚-巴堤·莫里耶</db:attribute>
+			<db:attribute name="cast">玛丽·布奈尔</db:attribute>
+			<db:attribute name="cast">凯德·麦拉德</db:attribute>
+			<db:attribute name="cast">雅克·贝汉</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/414829785</id>
+		<title>一阵风 看过 The Godfather</title>
+		<updated>2011-07-17T01:37:39+08:00</updated>
+		<link href="http://api.douban.com/collection/414829785" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1291841" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1291841</id>
+			<title>The Godfather</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Francis Ford Coppola</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1291841" rel="self"/>
+			<link href="http://movie.douban.com/subject/1291841/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s4038344.jpg" rel="image"/>
+			<db:attribute name="director">弗朗西斯·福特·科波拉</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">教父</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">马里奥·普佐</db:attribute>
+			<db:attribute name="writer">弗朗西斯·福特·科波拉</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">意大利语</db:attribute>
+			<db:attribute name="language">拉丁语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0068646/</db:attribute>
+			<db:attribute name="pubdate">1972-03-24</db:attribute>
+			<db:attribute name="cast">马龙·白兰度</db:attribute>
+			<db:attribute name="cast">阿尔·帕西诺</db:attribute>
+			<db:attribute name="cast">詹姆斯·凯恩</db:attribute>
+			<db:attribute name="cast">罗伯特·杜瓦尔</db:attribute>
+			<db:attribute name="cast">黛安·基顿</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/414829668</id>
+		<title>一阵风 看过 The Shawshank Redemption</title>
+		<updated>2011-07-17T01:37:08+08:00</updated>
+		<link href="http://api.douban.com/collection/414829668" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1292052" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1292052</id>
+			<title>The Shawshank Redemption</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Frank Darabont</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1292052" rel="self"/>
+			<link href="http://movie.douban.com/subject/1292052/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1311361.jpg" rel="image"/>
+			<db:attribute name="director">弗兰克·德拉邦特</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">肖申克的救赎</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">弗兰克·德拉邦特</db:attribute>
+			<db:attribute name="writer">斯蒂芬·金</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0111161/</db:attribute>
+			<db:attribute name="pubdate">1994-09-23</db:attribute>
+			<db:attribute name="cast">蒂姆·罗宾斯</db:attribute>
+			<db:attribute name="cast">摩根·弗里曼</db:attribute>
+			<db:attribute name="cast">鲍勃·冈顿</db:attribute>
+			<db:attribute name="cast">威廉姆·赛德勒</db:attribute>
+			<db:attribute name="cast">克兰西·布朗</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/414829340</id>
+		<title>一阵风 看过 The Godfather Trilogy: 1901-1980</title>
+		<updated>2011-07-17T01:35:27+08:00</updated>
+		<link href="http://api.douban.com/collection/414829340" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1301175" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1301175</id>
+			<title>The Godfather Trilogy: 1901-1980</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>弗朗西斯·福特·科波拉 Francis Ford Coppola</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1301175" rel="self"/>
+			<link href="http://movie.douban.com/subject/1301175/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1691920.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">弗朗西斯·福特·科波拉</db:attribute>
+			<db:attribute name="writer">马里奥·普佐</db:attribute>
+			<db:attribute name="director">弗朗西斯·福特·科波拉</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0150742/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">教父三部曲:1901-1980</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">意大利语</db:attribute>
+			<db:attribute name="cast">Al Pacino</db:attribute>
+			<db:attribute name="cast">Robert Duvall</db:attribute>
+			<db:attribute name="cast">Diane Keaton</db:attribute>
+			<db:attribute name="cast">Talia Shire</db:attribute>
+			<db:attribute name="cast">Marlon Brando</db:attribute>
+			<db:attribute name="cast">James Caan</db:attribute>
+			<db:attribute name="cast">John Cazale</db:attribute>
+			<db:attribute name="cast">Robert De Niro</db:attribute>
+			<db:attribute name="cast">Andy Garcia</db:attribute>
+			<db:attribute name="cast">Richard S. Castellano</db:attribute>
+			<db:attribute name="cast">Lee Strasberg</db:attribute>
+			<db:attribute name="cast">Michael V. Gazzo</db:attribute>
+			<db:attribute name="cast">Sofia Coppola</db:attribute>
+			<db:attribute name="cast">Richard Bright</db:attribute>
+			<db:attribute name="cast">Eli Wallach</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/413786428</id>
+		<title>一阵风 看过 Schindler's List</title>
+		<updated>2011-07-17T00:57:27+08:00</updated>
+		<link href="http://api.douban.com/collection/413786428" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1295124" rel="http://www.douban.com/2007#subject"/>
+		<summary>又是一部感动到让人落泪的电影 “当你拯救了一个人的生命，就是挽救了全世界”  </summary>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1295124</id>
+			<title>Schindler's List</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Steven Spielberg</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1295124" rel="self"/>
+			<link href="http://movie.douban.com/subject/1295124/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s1458414.jpg" rel="image"/>
+			<db:attribute name="director">史蒂文·斯皮尔伯格</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">辛德勒的名单</db:attribute>
+			<db:attribute name="website">http://www.schindlerslist.com</db:attribute>
+			<db:attribute name="writer">斯蒂文·泽里安</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">希伯来语</db:attribute>
+			<db:attribute name="language">德语</db:attribute>
+			<db:attribute name="language">波兰语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0108052/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="pubdate">1993-11-30</db:attribute>
+			<db:attribute name="cast">连姆·尼森</db:attribute>
+			<db:attribute name="cast">本·金斯利</db:attribute>
+			<db:attribute name="cast">拉尔夫·费因斯</db:attribute>
+			<db:attribute name="cast">卡罗琳·古道</db:attribute>
+			<db:attribute name="cast">Jonathan Sagall</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/412447864</id>
+		<title>一阵风 看过 Before Sunset</title>
+		<updated>2011-07-16T15:32:19+08:00</updated>
+		<link href="http://api.douban.com/collection/412447864" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1291990" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1291990</id>
+			<title>Before Sunset</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Richard Linklater</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1291990" rel="self"/>
+			<link href="http://movie.douban.com/subject/1291990/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1435592.jpg" rel="image"/>
+			<db:attribute name="director">理查德·林克莱特</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">爱在日落黄昏时</db:attribute>
+			<db:attribute name="website">http://www.warnerbros.fr/movies/beforesunset/</db:attribute>
+			<db:attribute name="writer">理查德·林克莱特</db:attribute>
+			<db:attribute name="writer">朱莉·德尔佩</db:attribute>
+			<db:attribute name="writer">伊桑·霍克</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">法语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0381681/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="pubdate">2004-07-02</db:attribute>
+			<db:attribute name="cast">伊桑·霍克</db:attribute>
+			<db:attribute name="cast">朱莉·德尔佩</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/414107807</id>
+		<title>一阵风 想看 The Great Gatsby</title>
+		<updated>2011-07-15T00:36:52+08:00</updated>
+		<link href="http://api.douban.com/collection/414107807" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3364223" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3364223</id>
+			<title>The Great Gatsby</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>巴兹·鲁赫曼 Baz Luhrmann</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3364223" rel="self"/>
+			<link href="http://movie.douban.com/subject/3364223/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4539777.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">菲茨杰拉德</db:attribute>
+			<db:attribute name="writer">巴兹·鲁赫曼</db:attribute>
+			<db:attribute name="director">巴兹·鲁赫曼</db:attribute>
+			<db:attribute name="pubdate">2012</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1343092/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">了不起的盖茨比</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">莱昂纳多·迪卡普里奥</db:attribute>
+			<db:attribute name="cast">凯瑞·穆里根</db:attribute>
+			<db:attribute name="cast">托比·马奎尔</db:attribute>
+			<db:attribute name="cast">艾拉·菲舍尔</db:attribute>
+			<db:attribute name="cast">乔尔·埃哲顿</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/412964625</id>
+		<title>一阵风 看过 Before Sunrise</title>
+		<updated>2011-07-13T20:33:02+08:00</updated>
+		<link href="http://api.douban.com/collection/412964625" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1296339" rel="http://www.douban.com/2007#subject"/>
+		<summary>one day lovers</summary>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1296339</id>
+			<title>Before Sunrise</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Richard Linklater</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1296339" rel="self"/>
+			<link href="http://movie.douban.com/subject/1296339/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1401102.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="country">奥地利</db:attribute>
+			<db:attribute name="country">瑞士</db:attribute>
+			<db:attribute name="writer">理查德·林克莱特</db:attribute>
+			<db:attribute name="writer">Kim Krizan</db:attribute>
+			<db:attribute name="director">理查德·林克莱特</db:attribute>
+			<db:attribute name="pubdate">1995-01-27</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0112471/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">爱在黎明破晓前</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">伊桑·霍克</db:attribute>
+			<db:attribute name="cast">朱莉·德尔佩</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/407315965</id>
+		<title>一阵风 看过 Hotel Rwanda</title>
+		<updated>2011-07-12T01:22:11+08:00</updated>
+		<link href="http://api.douban.com/collection/407315965" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1291822" rel="http://www.douban.com/2007#subject"/>
+		<summary>love and peace</summary>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1291822</id>
+			<title>Hotel Rwanda</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Terry George</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1291822" rel="self"/>
+			<link href="http://movie.douban.com/subject/1291822/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1656706.jpg" rel="image"/>
+			<db:attribute name="website">http://www.mgm.com/ua/hotelrwanda/intro.html</db:attribute>
+			<db:attribute name="country">英国</db:attribute>
+			<db:attribute name="country">南非</db:attribute>
+			<db:attribute name="country">意大利</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">Keir Pearson</db:attribute>
+			<db:attribute name="writer">特瑞·乔治</db:attribute>
+			<db:attribute name="director">特瑞·乔治</db:attribute>
+			<db:attribute name="pubdate">2004-09-11</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0395169/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">卢旺达饭店</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">法语</db:attribute>
+			<db:attribute name="cast">唐·钱德尔</db:attribute>
+			<db:attribute name="cast">Desmond Dube</db:attribute>
+			<db:attribute name="cast">Hakeem Kae-Kazim</db:attribute>
+			<db:attribute name="cast">尼克·诺特</db:attribute>
+			<db:attribute name="cast">苏菲·奥康内多</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/408844046</id>
+		<title>一阵风 看过 Source Code</title>
+		<updated>2011-07-10T19:58:38+08:00</updated>
+		<link href="http://api.douban.com/collection/408844046" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3075287" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3075287</id>
+			<title>Source Code</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>邓肯·琼斯 Duncan Jones</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3075287" rel="self"/>
+			<link href="http://movie.douban.com/subject/3075287/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s6776201.jpg" rel="image"/>
+			<db:attribute name="director">邓肯·琼斯</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">源代码</db:attribute>
+			<db:attribute name="website">www.enterthesourcecode.com</db:attribute>
+			<db:attribute name="writer">Ben Ripley</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0945513/</db:attribute>
+			<db:attribute name="country">法国</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="pubdate">2011-08-30(中国大陆)</db:attribute>
+			<db:attribute name="pubdate">2011-04-01(美国)</db:attribute>
+			<db:attribute name="cast">杰克·吉伦哈尔</db:attribute>
+			<db:attribute name="cast">维拉·法米加</db:attribute>
+			<db:attribute name="cast">米歇尔·莫娜汉</db:attribute>
+			<db:attribute name="cast">杰弗里·怀特</db:attribute>
+			<db:attribute name="cast">拉塞尔·皮特斯</db:attribute>
+			<db:attribute name="cast">James A. Woods</db:attribute>
+			<db:attribute name="cast">迈克尔·阿登</db:attribute>
+			<db:attribute name="cast">Joe Cobden</db:attribute>
+			<db:attribute name="cast">Cas Anvar</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/410238364</id>
+		<title>一阵风 看过 Legends of the Fall</title>
+		<updated>2011-07-10T15:35:31+08:00</updated>
+		<link href="http://api.douban.com/collection/410238364" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1295865" rel="http://www.douban.com/2007#subject"/>
+		<summary>最后感动的内牛满面。。</summary>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1295865</id>
+			<title>Legends of the Fall</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Edward Zwick</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1295865" rel="self"/>
+			<link href="http://movie.douban.com/subject/1295865/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1658011.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">William D. Wittliff</db:attribute>
+			<db:attribute name="writer">Susan Shilliday</db:attribute>
+			<db:attribute name="director">爱德华·兹威克</db:attribute>
+			<db:attribute name="pubdate">1994-12-16</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0110322/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">燃情岁月</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">安东尼·霍普金斯</db:attribute>
+			<db:attribute name="cast">布拉德·皮特</db:attribute>
+			<db:attribute name="cast">朱莉娅·奥蒙德</db:attribute>
+			<db:attribute name="cast">艾丹·奎因</db:attribute>
+			<db:attribute name="cast">卡琳娜·隆巴德</db:attribute>
+		</db:subject>
+		<db:tag name="美国"/>
+		<db:tag name="西部"/>
+		<db:tag name="爱情"/>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/412274730</id>
+		<title>一阵风 看过 Black Swan</title>
+		<updated>2011-07-10T00:32:41+08:00</updated>
+		<link href="http://api.douban.com/collection/412274730" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1978709" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1978709</id>
+			<title>Black Swan</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>达伦·阿罗诺夫斯基 Darren Aronofsky</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1978709" rel="self"/>
+			<link href="http://movie.douban.com/subject/1978709/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s4540404.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">安德雷斯·海因斯</db:attribute>
+			<db:attribute name="writer">马克·海曼</db:attribute>
+			<db:attribute name="writer">约翰·J·麦克劳克林</db:attribute>
+			<db:attribute name="director">达伦·阿伦诺夫斯基</db:attribute>
+			<db:attribute name="pubdate">2010-12-17(美国)</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0947798/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">黑天鹅</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">娜塔丽·波曼</db:attribute>
+			<db:attribute name="cast">米拉·库妮丝</db:attribute>
+			<db:attribute name="cast">薇诺娜·瑞德</db:attribute>
+			<db:attribute name="cast">文森特·卡索</db:attribute>
+			<db:attribute name="cast">芭芭拉·赫希</db:attribute>
+			<db:attribute name="cast">本杰明·米派德</db:attribute>
+			<db:attribute name="cast">克塞尼亚·索罗</db:attribute>
+			<db:attribute name="cast">克里斯汀娜·安娜波</db:attribute>
+			<db:attribute name="cast">詹尼特·蒙特戈里</db:attribute>
+			<db:attribute name="cast">塞巴斯蒂安·斯坦</db:attribute>
+			<db:attribute name="cast">托比·海明威</db:attribute>
+			<db:attribute name="cast">塞尔吉奥·托拉多</db:attribute>
+			<db:attribute name="cast">马克·马戈利斯</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/314041957</id>
+		<title>一阵风 看过 The Cove</title>
+		<updated>2011-07-08T19:49:41+08:00</updated>
+		<link href="http://api.douban.com/collection/314041957" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3442220" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3442220</id>
+			<title>The Cove</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Louie Psihoyos</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3442220" rel="self"/>
+			<link href="http://movie.douban.com/subject/3442220/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4101713.jpg" rel="image"/>
+			<db:attribute name="director">Louie Psihoyos</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">海豚湾</db:attribute>
+			<db:attribute name="website">www.thecovemovie.com</db:attribute>
+			<db:attribute name="writer">Mark Monroe</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1313104/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="pubdate">2009-04-25</db:attribute>
+			<db:attribute name="cast">Joe Chisholm</db:attribute>
+			<db:attribute name="cast">Mandy-Rae Cruikshank</db:attribute>
+			<db:attribute name="cast">Charles Hambleton</db:attribute>
+			<db:attribute name="cast">Simon Hutchins</db:attribute>
+			<db:attribute name="cast">Kirk Krack</db:attribute>
+			<db:attribute name="cast">伊莎贝尔·卢卡斯</db:attribute>
+			<db:attribute name="cast">Richard O'Barry</db:attribute>
+			<db:attribute name="cast">海顿·潘妮蒂尔</db:attribute>
+			<db:attribute name="cast">Louie Psihoyos</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/407315560</id>
+		<title>一阵风 看过 The Prestige</title>
+		<updated>2011-07-08T15:47:51+08:00</updated>
+		<link href="http://api.douban.com/collection/407315560" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1780330" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1780330</id>
+			<title>The Prestige</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>克里斯托弗·诺兰 Christopher Nolan</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1780330" rel="self"/>
+			<link href="http://movie.douban.com/subject/1780330/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1872245.jpg" rel="image"/>
+			<db:attribute name="director">克里斯托弗·诺兰</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">致命魔术</db:attribute>
+			<db:attribute name="website">http://theprestige.movies.go.com/</db:attribute>
+			<db:attribute name="writer">乔纳森·诺兰</db:attribute>
+			<db:attribute name="writer">克里斯托弗·诺兰</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0482571/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="country">英国</db:attribute>
+			<db:attribute name="pubdate">2006-10-20</db:attribute>
+			<db:attribute name="cast">克里斯蒂安·贝尔</db:attribute>
+			<db:attribute name="cast">休·杰克曼</db:attribute>
+			<db:attribute name="cast">迈克尔·凯恩</db:attribute>
+			<db:attribute name="cast">斯嘉丽·约翰逊</db:attribute>
+			<db:attribute name="cast">丽贝卡·豪尔</db:attribute>
+			<db:attribute name="cast">大卫·鲍伊</db:attribute>
+			<db:attribute name="cast">安迪·塞基斯</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/409728211</id>
+		<title>一阵风 看过 四月物語</title>
+		<updated>2011-07-08T13:50:46+08:00</updated>
+		<link href="http://api.douban.com/collection/409728211" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1292371" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1292371</id>
+			<title>四月物語</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>岩井俊二</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1292371" rel="self"/>
+			<link href="http://movie.douban.com/subject/1292371/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1312691.jpg" rel="image"/>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="writer">岩井俊二</db:attribute>
+			<db:attribute name="director">岩井俊二</db:attribute>
+			<db:attribute name="pubdate">1998-03-14</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0146271/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">四月物语</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">松隆子</db:attribute>
+			<db:attribute name="cast">田边诚一</db:attribute>
+			<db:attribute name="cast">江口洋介</db:attribute>
+			<db:attribute name="cast">津田宽治</db:attribute>
+			<db:attribute name="cast">市川染五郎</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/411543651</id>
+		<title>一阵风 看过 The Silence of the Lambs</title>
+		<updated>2011-07-07T23:36:44+08:00</updated>
+		<link href="http://api.douban.com/collection/411543651" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1293544" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1293544</id>
+			<title>The Silence of the Lambs</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Jonathan Demme</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1293544" rel="self"/>
+			<link href="http://movie.douban.com/subject/1293544/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1317930.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">Thomas Harris</db:attribute>
+			<db:attribute name="writer">Ted Tally</db:attribute>
+			<db:attribute name="director">乔纳森·戴米</db:attribute>
+			<db:attribute name="pubdate">1991-02-14</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0102926/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">沉默的羔羊</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">朱迪·福斯特</db:attribute>
+			<db:attribute name="cast">安东尼·霍普金斯</db:attribute>
+			<db:attribute name="cast">斯科特·格林</db:attribute>
+			<db:attribute name="cast">安东尼·希尔德</db:attribute>
+			<db:attribute name="cast">布鲁克·史密斯</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/411538125</id>
+		<title>一阵风 想看 Diarios de motocicleta</title>
+		<updated>2011-07-07T23:23:06+08:00</updated>
+		<link href="http://api.douban.com/collection/411538125" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1309015" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1309015</id>
+			<title>Diarios de motocicleta</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Walter Salles</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1309015" rel="self"/>
+			<link href="http://movie.douban.com/subject/1309015/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1806669.jpg" rel="image"/>
+			<db:attribute name="website">http://www.motorcyclediariesmovie.com/</db:attribute>
+			<db:attribute name="country">阿根廷</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="country">智利</db:attribute>
+			<db:attribute name="country">秘鲁</db:attribute>
+			<db:attribute name="country">巴西</db:attribute>
+			<db:attribute name="country">英国</db:attribute>
+			<db:attribute name="country">德国</db:attribute>
+			<db:attribute name="country">法国</db:attribute>
+			<db:attribute name="writer">Jose Rivera</db:attribute>
+			<db:attribute name="director">沃尔特·塞勒斯</db:attribute>
+			<db:attribute name="pubdate">2004-02-06</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0318462/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">摩托日记</db:attribute>
+			<db:attribute name="language">奇楚亚语</db:attribute>
+			<db:attribute name="language">西班牙语</db:attribute>
+			<db:attribute name="cast">盖尔·加西亚·贝纳尔</db:attribute>
+			<db:attribute name="cast">罗德里格·德拉·塞纳</db:attribute>
+			<db:attribute name="cast">梅赛黛斯·莫朗</db:attribute>
+			<db:attribute name="cast">Jean Pierre Noher</db:attribute>
+			<db:attribute name="cast">Lucas Oro</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/410078136</id>
+		<title>一阵风 看过 The Dark Knight</title>
+		<updated>2011-07-07T23:14:04+08:00</updated>
+		<link href="http://api.douban.com/collection/410078136" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1851857" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1851857</id>
+			<title>The Dark Knight</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>克里斯托弗·诺兰 Christopher Nolan</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1851857" rel="self"/>
+			<link href="http://movie.douban.com/subject/1851857/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3046065.jpg" rel="image"/>
+			<db:attribute name="website">http://thedarkknight.warnerbros.com/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="country">英国</db:attribute>
+			<db:attribute name="writer">乔纳森·诺兰</db:attribute>
+			<db:attribute name="writer">克里斯托弗·诺兰</db:attribute>
+			<db:attribute name="director">克里斯托弗·诺兰</db:attribute>
+			<db:attribute name="pubdate">2008-07-18</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0468569/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">蝙蝠侠前传2：黑暗骑士</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">克里斯蒂安·贝尔</db:attribute>
+			<db:attribute name="cast">希斯·莱杰</db:attribute>
+			<db:attribute name="cast">艾伦·艾克哈特</db:attribute>
+			<db:attribute name="cast">迈克尔·凯恩</db:attribute>
+			<db:attribute name="cast">玛吉·吉伦哈尔</db:attribute>
+			<db:attribute name="cast">加里·奥德曼</db:attribute>
+			<db:attribute name="cast">摩根·弗里曼</db:attribute>
+			<db:attribute name="cast">希里安·墨菲</db:attribute>
+			<db:attribute name="cast">黄经汉</db:attribute>
+			<db:attribute name="cast">陈冠希</db:attribute>
+			<db:attribute name="cast">内斯特·卡博内尔</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/411252238</id>
+		<title>一阵风 想看 Following</title>
+		<updated>2011-07-07T09:31:50+08:00</updated>
+		<link href="http://api.douban.com/collection/411252238" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1397546" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1397546</id>
+			<title>Following</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Christopher Nolan</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1397546" rel="self"/>
+			<link href="http://movie.douban.com/subject/1397546/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s3089374.jpg" rel="image"/>
+			<db:attribute name="country">英国</db:attribute>
+			<db:attribute name="writer">克里斯托弗·诺兰</db:attribute>
+			<db:attribute name="director">克里斯托弗·诺兰</db:attribute>
+			<db:attribute name="pubdate">1998-09-12</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0154506/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">追随</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">Jeremy Theobald</db:attribute>
+			<db:attribute name="cast">Alex Haw</db:attribute>
+			<db:attribute name="cast">露西·拉塞尔</db:attribute>
+			<db:attribute name="cast">John Nolan</db:attribute>
+			<db:attribute name="cast">Dick Bradsell</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/411107255</id>
+		<title>一阵风 看过 Planet of the Apes</title>
+		<updated>2011-07-06T19:48:28+08:00</updated>
+		<link href="http://api.douban.com/collection/411107255" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1296697" rel="http://www.douban.com/2007#subject"/>
+		<summary>very impressive</summary>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1296697</id>
+			<title>Planet of the Apes</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Franklin J. Schaffner</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1296697" rel="self"/>
+			<link href="http://movie.douban.com/subject/1296697/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3220782.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">Michael Wilson</db:attribute>
+			<db:attribute name="writer">罗德·瑟林</db:attribute>
+			<db:attribute name="director">弗兰克林·斯凡那</db:attribute>
+			<db:attribute name="pubdate">1968-02-08</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0063442/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">人猿星球</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">查尔登·海斯顿</db:attribute>
+			<db:attribute name="cast">罗迪·麦克道尔</db:attribute>
+			<db:attribute name="cast">金·亨特</db:attribute>
+			<db:attribute name="cast">Maurice Evans</db:attribute>
+			<db:attribute name="cast">琳达·哈里逊</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/410164418</id>
+		<title>一阵风 想看 ロングバケーション</title>
+		<updated>2011-07-04T01:12:09+08:00</updated>
+		<link href="http://api.douban.com/collection/410164418" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1436674" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1436674</id>
+			<title>ロングバケーション</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>永山耕三</name>
+			</author>
+			<author>
+				<name>铃木雅之</name>
+			</author>
+			<author>
+				<name>臼井裕词</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1436674" rel="self"/>
+			<link href="http://movie.douban.com/subject/1436674/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2154655.jpg" rel="image"/>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="writer">北川悦吏子</db:attribute>
+			<db:attribute name="director">永山耕三</db:attribute>
+			<db:attribute name="director">铃木雅之</db:attribute>
+			<db:attribute name="director">臼井裕词</db:attribute>
+			<db:attribute name="pubdate">1996-04-15</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0116910/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">悠长假期</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">木村拓哉</db:attribute>
+			<db:attribute name="cast">山口智子</db:attribute>
+			<db:attribute name="cast">竹野内丰</db:attribute>
+			<db:attribute name="cast">松隆子</db:attribute>
+			<db:attribute name="cast">广末凉子</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/410164126</id>
+		<title>一阵风 想看 白い巨塔</title>
+		<updated>2011-07-04T01:10:54+08:00</updated>
+		<link href="http://api.douban.com/collection/410164126" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/2150220" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/2150220</id>
+			<title>白い巨塔</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>西谷弘</name>
+			</author>
+			<author>
+				<name>河野圭太</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/2150220" rel="self"/>
+			<link href="http://movie.douban.com/subject/2150220/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2745433.jpg" rel="image"/>
+			<db:attribute name="website">http://japan.videoland.com.tw/channel/b_hp/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="pubdate">2003-10-09</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">白色巨塔</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1112802/</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/408846917</id>
+		<title>一阵风 看过 Rain Man</title>
+		<updated>2011-07-04T00:43:24+08:00</updated>
+		<link href="http://api.douban.com/collection/408846917" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1291870" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1291870</id>
+			<title>Rain Man</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Barry Levinson</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1291870" rel="self"/>
+			<link href="http://movie.douban.com/subject/1291870/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2172026.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">罗纳德·巴斯</db:attribute>
+			<db:attribute name="writer">Barry Morrow</db:attribute>
+			<db:attribute name="director">巴瑞·莱文森</db:attribute>
+			<db:attribute name="pubdate">1988-12-16</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0095953/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">雨人</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">意大利语</db:attribute>
+			<db:attribute name="cast">达斯汀·霍夫曼</db:attribute>
+			<db:attribute name="cast">汤姆·克鲁斯</db:attribute>
+			<db:attribute name="cast">瓦莱莉·高利诺</db:attribute>
+			<db:attribute name="cast">邦尼·亨特</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/410080556</id>
+		<title>一阵风 想看 Ghost</title>
+		<updated>2011-07-03T21:23:58+08:00</updated>
+		<link href="http://api.douban.com/collection/410080556" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1293203" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1293203</id>
+			<title>Ghost</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Jerry Zucker</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1293203" rel="self"/>
+			<link href="http://movie.douban.com/subject/1293203/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4409182.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">布鲁斯·乔伊·罗宾</db:attribute>
+			<db:attribute name="director">杰瑞·扎克</db:attribute>
+			<db:attribute name="pubdate">1990-07-13</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0099653/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">人鬼情未了</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">帕特里克·斯威兹</db:attribute>
+			<db:attribute name="cast">黛米·摩尔</db:attribute>
+			<db:attribute name="cast">托尼·戈德温</db:attribute>
+			<db:attribute name="cast">乌比·戈德堡</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/410080192</id>
+		<title>一阵风 看过 Braveheart</title>
+		<updated>2011-07-03T21:23:04+08:00</updated>
+		<link href="http://api.douban.com/collection/410080192" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1294639" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1294639</id>
+			<title>Braveheart</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>梅尔·吉布森 Mel Gibson</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1294639" rel="self"/>
+			<link href="http://movie.douban.com/subject/1294639/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2804838.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">兰道尔·华莱士</db:attribute>
+			<db:attribute name="director">梅尔·吉布森</db:attribute>
+			<db:attribute name="pubdate">1995-05-24</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0112573/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">勇敢的心</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">法语</db:attribute>
+			<db:attribute name="language">拉丁语</db:attribute>
+			<db:attribute name="language">苏格兰盖立语</db:attribute>
+			<db:attribute name="cast">梅尔·吉布森</db:attribute>
+			<db:attribute name="cast">苏菲·玛索</db:attribute>
+			<db:attribute name="cast">布莱恩·考克斯</db:attribute>
+			<db:attribute name="cast">詹姆斯·卡沙莫</db:attribute>
+			<db:attribute name="cast">辛·劳洛</db:attribute>
+			<db:attribute name="cast">凯瑟琳·麦克马克</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="3"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/410080132</id>
+		<title>一阵风 看过 City of Angels</title>
+		<updated>2011-07-03T21:22:56+08:00</updated>
+		<link href="http://api.douban.com/collection/410080132" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1292212" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1292212</id>
+			<title>City of Angels</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Brad Silberling</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1292212" rel="self"/>
+			<link href="http://movie.douban.com/subject/1292212/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s2612294.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="country">德国</db:attribute>
+			<db:attribute name="writer">Dana Stevens</db:attribute>
+			<db:attribute name="director">布拉德·塞伯宁</db:attribute>
+			<db:attribute name="pubdate">1998-04-10</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0120632/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">天使之城</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">尼古拉斯·凯奇</db:attribute>
+			<db:attribute name="cast">梅格·瑞恩</db:attribute>
+			<db:attribute name="cast">安德鲁·布劳尔</db:attribute>
+			<db:attribute name="cast">丹尼斯·弗兰茨</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/410079382</id>
+		<title>一阵风 看过 西游记大结局之仙履奇缘</title>
+		<updated>2011-07-03T21:21:19+08:00</updated>
+		<link href="http://api.douban.com/collection/410079382" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1292213" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1292213</id>
+			<title>西游记大结局之仙履奇缘</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>刘镇伟</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1292213" rel="self"/>
+			<link href="http://movie.douban.com/subject/1292213/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1311495.jpg" rel="image"/>
+			<db:attribute name="director">刘镇伟</db:attribute>
+			<db:attribute name="country">香港</db:attribute>
+			<db:attribute name="country">中国</db:attribute>
+			<db:attribute name="writer">刘镇伟</db:attribute>
+			<db:attribute name="language">粤语</db:attribute>
+			<db:attribute name="language">普通话</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0114996/</db:attribute>
+			<db:attribute name="pubdate">1995-02-04</db:attribute>
+			<db:attribute name="cast">周星驰</db:attribute>
+			<db:attribute name="cast">朱茵</db:attribute>
+			<db:attribute name="cast">莫文蔚</db:attribute>
+			<db:attribute name="cast">吴孟达</db:attribute>
+			<db:attribute name="cast">罗家英</db:attribute>
+			<db:attribute name="cast">蔡少芬</db:attribute>
+			<db:attribute name="cast">蓝洁瑛</db:attribute>
+			<db:attribute name="cast">刘镇伟</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/410079235</id>
+		<title>一阵风 看过 Edward Scissorhands</title>
+		<updated>2011-07-03T21:21:02+08:00</updated>
+		<link href="http://api.douban.com/collection/410079235" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1292370" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1292370</id>
+			<title>Edward Scissorhands</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Tim Burton</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1292370" rel="self"/>
+			<link href="http://movie.douban.com/subject/1292370/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1987571.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">卡罗琳·汤普森</db:attribute>
+			<db:attribute name="writer">蒂姆·波顿</db:attribute>
+			<db:attribute name="director">蒂姆·波顿</db:attribute>
+			<db:attribute name="pubdate">1990-12-06</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0099487/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">剪刀手爱德华</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">约翰尼·德普</db:attribute>
+			<db:attribute name="cast">薇诺娜·瑞德</db:attribute>
+			<db:attribute name="cast">安东尼·迈克尔·豪尔</db:attribute>
+			<db:attribute name="cast">黛安·韦斯特</db:attribute>
+			<db:attribute name="cast">Kathy Baker</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/410078743</id>
+		<title>一阵风 看过 King Kong</title>
+		<updated>2011-07-03T21:19:57+08:00</updated>
+		<link href="http://api.douban.com/collection/410078743" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1309043" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1309043</id>
+			<title>King Kong</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Peter Jackson</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1309043" rel="self"/>
+			<link href="http://movie.douban.com/subject/1309043/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1462319.jpg" rel="image"/>
+			<db:attribute name="website">http://www.kingkongmovie.com</db:attribute>
+			<db:attribute name="country">新西兰</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="country">德国</db:attribute>
+			<db:attribute name="writer">弗兰·威尔士</db:attribute>
+			<db:attribute name="writer">Philippa Boyens</db:attribute>
+			<db:attribute name="writer">彼得·杰克逊</db:attribute>
+			<db:attribute name="director">彼得·杰克逊</db:attribute>
+			<db:attribute name="pubdate">2005-12-14</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0360717/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">金刚</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">娜奥米·沃茨</db:attribute>
+			<db:attribute name="cast">杰克·布莱克</db:attribute>
+			<db:attribute name="cast">艾德里安·布洛迪</db:attribute>
+			<db:attribute name="cast">托马斯·克莱舒曼</db:attribute>
+			<db:attribute name="cast">科林·汉克斯</db:attribute>
+			<db:attribute name="cast">安迪·塞基斯</db:attribute>
+			<db:attribute name="cast">杰米·贝尔</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/408849511</id>
+		<title>一阵风 看过 (500) Days of Summer</title>
+		<updated>2011-07-02T23:05:09+08:00</updated>
+		<link href="http://api.douban.com/collection/408849511" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3072086" rel="http://www.douban.com/2007#subject"/>
+		<summary>when summer is gone，autumn is here</summary>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3072086</id>
+			<title>(500) Days of Summer</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Marc Webb</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3072086" rel="self"/>
+			<link href="http://movie.douban.com/subject/3072086/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3952995.jpg" rel="image"/>
+			<db:attribute name="website">www.foxsearchlight.com/500daysofsummer</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">Scott Neustadter</db:attribute>
+			<db:attribute name="writer">Michael H. Weber</db:attribute>
+			<db:attribute name="director">马克·韦布</db:attribute>
+			<db:attribute name="pubdate">2009-07-17</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1022603/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">和莎莫的500天</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">法语</db:attribute>
+			<db:attribute name="language">瑞典语</db:attribute>
+			<db:attribute name="cast">约瑟夫·高登-莱维特</db:attribute>
+			<db:attribute name="cast">佐伊·丹斯切尔</db:attribute>
+			<db:attribute name="cast">克拉克·格雷格</db:attribute>
+			<db:attribute name="cast">马修·格雷·古柏勒</db:attribute>
+			<db:attribute name="cast">吉奥弗瑞·阿伦德</db:attribute>
+			<db:attribute name="cast">科洛·莫瑞兹</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/409317839</id>
+		<title>一阵风 看过 Big Fish</title>
+		<updated>2011-07-01T21:32:47+08:00</updated>
+		<link href="http://api.douban.com/collection/409317839" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1291545" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1291545</id>
+			<title>Big Fish</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Tim Burton</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1291545" rel="self"/>
+			<link href="http://movie.douban.com/subject/1291545/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2719970.jpg" rel="image"/>
+			<db:attribute name="website">www.sonypictures.com/movies/bigfish</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">Daniel Wallace</db:attribute>
+			<db:attribute name="writer">约翰·奥古斯特</db:attribute>
+			<db:attribute name="director">蒂姆·波顿</db:attribute>
+			<db:attribute name="pubdate">2003-12-25</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0319061/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">大鱼</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">法语</db:attribute>
+			<db:attribute name="language">俄语</db:attribute>
+			<db:attribute name="language">粤语</db:attribute>
+			<db:attribute name="language">普通话</db:attribute>
+			<db:attribute name="cast">伊万·麦克格雷格</db:attribute>
+			<db:attribute name="cast">阿尔伯特·芬尼</db:attribute>
+			<db:attribute name="cast">比利·克鲁德普</db:attribute>
+			<db:attribute name="cast">杰西卡·兰格</db:attribute>
+			<db:attribute name="cast">海伦娜·邦汉·卡特</db:attribute>
+			<db:attribute name="cast">玛丽昂·歌迪亚</db:attribute>
+			<db:attribute name="cast">艾莉森·洛曼</db:attribute>
+			<db:attribute name="cast">丹尼·德维托</db:attribute>
+			<db:attribute name="cast">Ada Tai</db:attribute>
+			<db:attribute name="cast">Arlene Tai</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/409301741</id>
+		<title>一阵风 看过 Pirates of the Caribbean: On Stranger Tides</title>
+		<updated>2011-07-01T20:52:36+08:00</updated>
+		<link href="http://api.douban.com/collection/409301741" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3227410" rel="http://www.douban.com/2007#subject"/>
+		<summary>@往冥 2011/05/28 天影朗香</summary>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3227410</id>
+			<title>Pirates of the Caribbean: On Stranger Tides</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>罗伯·马歇尔 Rob Marshall</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3227410" rel="self"/>
+			<link href="http://movie.douban.com/subject/3227410/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4669323.jpg" rel="image"/>
+			<db:attribute name="director">罗伯·马歇尔</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">加勒比海盗4：惊涛怪浪</db:attribute>
+			<db:attribute name="website">http://disney.go.com/pirates/</db:attribute>
+			<db:attribute name="writer">泰德·艾略特</db:attribute>
+			<db:attribute name="writer">特里·鲁西奥</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1298650/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="pubdate">2011-05-20(美国/中国大陆)</db:attribute>
+			<db:attribute name="cast">约翰尼·德普</db:attribute>
+			<db:attribute name="cast">佩妮洛普·克鲁兹</db:attribute>
+			<db:attribute name="cast">杰弗里·拉什</db:attribute>
+			<db:attribute name="cast">伊恩·麦柯肖恩</db:attribute>
+			<db:attribute name="cast">山姆·克拉弗林</db:attribute>
+			<db:attribute name="cast">阿斯特丽德·伯格斯-弗瑞斯贝</db:attribute>
+			<db:attribute name="cast">凯文·麦克纳利</db:attribute>
+			<db:attribute name="cast">斯蒂芬·格拉汉姆</db:attribute>
+			<db:attribute name="cast">凯斯·理查德兹</db:attribute>
+			<db:attribute name="cast">理查德·格雷弗斯</db:attribute>
+			<db:attribute name="cast">嘉玛·沃德</db:attribute>
+			<db:attribute name="cast">朱迪·丹奇</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="3"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/407388499</id>
+		<title>一阵风 看过 Brokeback Mountain</title>
+		<updated>2011-06-30T21:36:32+08:00</updated>
+		<link href="http://api.douban.com/collection/407388499" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1418834" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1418834</id>
+			<title>Brokeback Mountain</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>李安</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1418834" rel="self"/>
+			<link href="http://movie.douban.com/subject/1418834/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s3996144.jpg" rel="image"/>
+			<db:attribute name="website">http://www.brokebackmountain.com/</db:attribute>
+			<db:attribute name="country">加拿大</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">拉里·麦克穆特瑞</db:attribute>
+			<db:attribute name="writer">Diana Ossana</db:attribute>
+			<db:attribute name="writer">Annie Proulx</db:attribute>
+			<db:attribute name="director">李安</db:attribute>
+			<db:attribute name="pubdate">2005-12-16(美国)</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0388795/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">断背山</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">希斯·莱杰</db:attribute>
+			<db:attribute name="cast">杰克·吉伦哈尔</db:attribute>
+			<db:attribute name="cast">米歇尔·威廉姆斯</db:attribute>
+			<db:attribute name="cast">安妮·海瑟薇</db:attribute>
+			<db:attribute name="cast">凯特·玛拉</db:attribute>
+			<db:attribute name="cast">兰迪·奎德</db:attribute>
+			<db:attribute name="cast">琳达·卡德里尼</db:attribute>
+			<db:attribute name="cast">安娜·法瑞丝</db:attribute>
+			<db:attribute name="cast">Graham Beckel</db:attribute>
+			<db:attribute name="cast">斯科特·迈克尔·坎贝尔</db:attribute>
+			<db:attribute name="cast">大卫·哈伯</db:attribute>
+			<db:attribute name="cast">Roberta Maxwell</db:attribute>
+			<db:attribute name="cast">Peter McRobbie</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="3"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/408865486</id>
+		<title>一阵风 看过 Starship Troopers</title>
+		<updated>2011-06-30T16:35:52+08:00</updated>
+		<link href="http://api.douban.com/collection/408865486" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1295384" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1295384</id>
+			<title>Starship Troopers</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Paul Verhoeven</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1295384" rel="self"/>
+			<link href="http://movie.douban.com/subject/1295384/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1909822.jpg" rel="image"/>
+			<db:attribute name="director">保罗·范霍文</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">星河战队</db:attribute>
+			<db:attribute name="writer">Edward Neumeier</db:attribute>
+			<db:attribute name="writer">罗伯特·A·海因莱因</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0120201/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="pubdate">1997-11-07</db:attribute>
+			<db:attribute name="cast">卡斯帕·凡·迪恩</db:attribute>
+			<db:attribute name="cast">戴安· 梅尔</db:attribute>
+			<db:attribute name="cast">丹妮丝·理查兹</db:attribute>
+			<db:attribute name="cast">Jake Busey</db:attribute>
+			<db:attribute name="cast">尼尔·帕特里克·哈里斯</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/320281286</id>
+		<title>一阵风 看过 河童のクゥと夏休み</title>
+		<updated>2011-06-30T16:02:48+08:00</updated>
+		<link href="http://api.douban.com/collection/320281286" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/2982823" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/2982823</id>
+			<title>河童のクゥと夏休み</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>原惠一</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/2982823" rel="self"/>
+			<link href="http://movie.douban.com/subject/2982823/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3139857.jpg" rel="image"/>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="writer">原惠一</db:attribute>
+			<db:attribute name="writer">木暮正夫</db:attribute>
+			<db:attribute name="director">原惠一</db:attribute>
+			<db:attribute name="pubdate">2007-07-28</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1179773/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">河童之夏</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">田中直树</db:attribute>
+			<db:attribute name="cast">西田尚美</db:attribute>
+			<db:attribute name="cast">富泽风斗</db:attribute>
+		</db:subject>
+		<db:tag name="动画"/>
+		<db:tag name="日本动画"/>
+		<db:tag name="河童之夏"/>
+		<gd:rating max="5" min="1" value="3"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/408847313</id>
+		<title>一阵风 想看 Matchstick Men</title>
+		<updated>2011-06-30T15:40:49+08:00</updated>
+		<link href="http://api.douban.com/collection/408847313" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1307542" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1307542</id>
+			<title>Matchstick Men</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Ridley Scott</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1307542" rel="self"/>
+			<link href="http://movie.douban.com/subject/1307542/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1457608.jpg" rel="image"/>
+			<db:attribute name="website">http://matchstickmenmovie.warnerbros.com/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">Nicholas Griffin</db:attribute>
+			<db:attribute name="writer">泰德·格里芬</db:attribute>
+			<db:attribute name="director">雷德利·斯科特</db:attribute>
+			<db:attribute name="pubdate">2003-09-12</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0325805/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">火柴人</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">尼古拉斯·凯奇</db:attribute>
+			<db:attribute name="cast">山姆·洛克威尔</db:attribute>
+			<db:attribute name="cast">艾莉森·洛曼</db:attribute>
+			<db:attribute name="cast">布鲁斯·奥尔特曼</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/407236468</id>
+		<title>一阵风 看过 A River Runs Through It</title>
+		<updated>2011-06-30T00:47:34+08:00</updated>
+		<link href="http://api.douban.com/collection/407236468" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1292718" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1292718</id>
+			<title>A River Runs Through It</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>罗伯特·雷德福 Robert Redford</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1292718" rel="self"/>
+			<link href="http://movie.douban.com/subject/1292718/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2934486.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">Richard Friedenberg</db:attribute>
+			<db:attribute name="director">罗伯特·雷德福</db:attribute>
+			<db:attribute name="pubdate">1992-09-13</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0105265/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">大河恋</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">布拉德·皮特</db:attribute>
+			<db:attribute name="cast">克莱格·谢佛</db:attribute>
+			<db:attribute name="cast">汤姆·斯凯里特</db:attribute>
+			<db:attribute name="cast">布兰达·布莱斯</db:attribute>
+			<db:attribute name="cast">Edie McClurg</db:attribute>
+			<db:attribute name="cast">约瑟夫·高登-莱维特</db:attribute>
+			<db:attribute name="cast">艾米丽·劳伊德</db:attribute>
+			<db:attribute name="cast">Stephen Shellen</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/407315706</id>
+		<title>一阵风 看过 羅生門</title>
+		<updated>2011-06-26T01:07:35+08:00</updated>
+		<link href="http://api.douban.com/collection/407315706" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1291879" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1291879</id>
+			<title>羅生門</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>黑泽明</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1291879" rel="self"/>
+			<link href="http://movie.douban.com/subject/1291879/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1310568.jpg" rel="image"/>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="writer">黑泽明</db:attribute>
+			<db:attribute name="writer">桥本忍</db:attribute>
+			<db:attribute name="director">黑泽明</db:attribute>
+			<db:attribute name="pubdate">1950-08-25</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0042876/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">罗生门</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">三船敏郎</db:attribute>
+			<db:attribute name="cast">千秋实</db:attribute>
+			<db:attribute name="cast">京町子</db:attribute>
+			<db:attribute name="cast">森雅之</db:attribute>
+			<db:attribute name="cast">上田吉二郎</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/407315268</id>
+		<title>一阵风 想看 岁月神偷</title>
+		<updated>2011-06-26T01:06:02+08:00</updated>
+		<link href="http://api.douban.com/collection/407315268" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3792799" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3792799</id>
+			<title>岁月神偷</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>罗启锐</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3792799" rel="self"/>
+			<link href="http://movie.douban.com/subject/3792799/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4226652.jpg" rel="image"/>
+			<db:attribute name="director">罗启锐</db:attribute>
+			<db:attribute name="writer">罗启锐</db:attribute>
+			<db:attribute name="language">粤语</db:attribute>
+			<db:attribute name="language">汉语普通话</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1602572/</db:attribute>
+			<db:attribute name="country">香港</db:attribute>
+			<db:attribute name="country">中国大陆</db:attribute>
+			<db:attribute name="pubdate">2010-03-11</db:attribute>
+			<db:attribute name="cast">吴君如</db:attribute>
+			<db:attribute name="cast">任达华</db:attribute>
+			<db:attribute name="cast">钟绍图</db:attribute>
+			<db:attribute name="cast">李治廷</db:attribute>
+			<db:attribute name="cast">蔡颖恩</db:attribute>
+			<db:attribute name="cast">秦沛</db:attribute>
+			<db:attribute name="cast">夏萍</db:attribute>
+			<db:attribute name="cast">谷德昭</db:attribute>
+			<db:attribute name="cast">许鞍华</db:attribute>
+			<db:attribute name="cast">张同祖</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/407313773</id>
+		<title>一阵风 看过 Good Will Hunting</title>
+		<updated>2011-06-26T01:00:56+08:00</updated>
+		<link href="http://api.douban.com/collection/407313773" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1292656" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1292656</id>
+			<title>Good Will Hunting</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>格斯·范·桑特 Gus Van Sant</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1292656" rel="self"/>
+			<link href="http://movie.douban.com/subject/1292656/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s1799694.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">本·阿弗莱克</db:attribute>
+			<db:attribute name="writer">马特·达蒙</db:attribute>
+			<db:attribute name="director">格斯·范·桑特</db:attribute>
+			<db:attribute name="pubdate">1998-01-09</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0119217/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">心灵捕手</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">马特·达蒙</db:attribute>
+			<db:attribute name="cast">罗宾·威廉姆斯</db:attribute>
+			<db:attribute name="cast">本·阿弗莱克</db:attribute>
+			<db:attribute name="cast">明妮·德里弗</db:attribute>
+			<db:attribute name="cast">卡西·阿弗莱克</db:attribute>
+			<db:attribute name="cast">斯特兰·斯卡斯加德</db:attribute>
+			<db:attribute name="cast">科尔·豪瑟</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/406456166</id>
+		<title>一阵风 看过 おくりびと</title>
+		<updated>2011-06-25T22:53:59+08:00</updated>
+		<link href="http://api.douban.com/collection/406456166" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/2149806" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/2149806</id>
+			<title>おくりびと</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>泷田洋二郎</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/2149806" rel="self"/>
+			<link href="http://movie.douban.com/subject/2149806/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3330573.jpg" rel="image"/>
+			<db:attribute name="director">泷田洋二郎</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">入殓师</db:attribute>
+			<db:attribute name="website">http://www.okuribito.jp/</db:attribute>
+			<db:attribute name="writer">小山薰堂</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1069238/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="pubdate">2008-08-23</db:attribute>
+			<db:attribute name="cast">本木雅弘</db:attribute>
+			<db:attribute name="cast">广末凉子</db:attribute>
+			<db:attribute name="cast">山崎努</db:attribute>
+			<db:attribute name="cast">吉行和子</db:attribute>
+			<db:attribute name="cast">笹野高史</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/406454113</id>
+		<title>一阵风 看过 Slumdog Millionaire</title>
+		<updated>2011-06-23T18:12:05+08:00</updated>
+		<link href="http://api.douban.com/collection/406454113" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/2209573" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/2209573</id>
+			<title>Slumdog Millionaire</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>丹尼·鲍尔 Danny Boyle</name>
+			</author>
+			<author>
+				<name>洛芙琳·坦丹 Loveleen Tandan</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/2209573" rel="self"/>
+			<link href="http://movie.douban.com/subject/2209573/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3321179.jpg" rel="image"/>
+			<db:attribute name="website">http://www.foxsearchlight.com/slumdogmillionaire/</db:attribute>
+			<db:attribute name="country">英国</db:attribute>
+			<db:attribute name="writer">西蒙·博福伊</db:attribute>
+			<db:attribute name="writer">维卡斯·史瓦卢普</db:attribute>
+			<db:attribute name="director">丹尼·鲍尔</db:attribute>
+			<db:attribute name="director">Loveleen Tandan</db:attribute>
+			<db:attribute name="pubdate">2008-08-30</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1010048/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">贫民窟的百万富翁</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">北印度语</db:attribute>
+			<db:attribute name="cast">戴夫·帕特尔</db:attribute>
+			<db:attribute name="cast">芙蕾达·平托</db:attribute>
+			<db:attribute name="cast">亚尼·卡普</db:attribute>
+			<db:attribute name="cast">沙鲁巴·舒克拉</db:attribute>
+		</db:subject>
+		<db:tag name="印度"/>
+		<db:tag name="励志"/>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<opensearch:itemsPerPage>50</opensearch:itemsPerPage>
+</feed>

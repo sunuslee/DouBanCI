@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:db="http://www.douban.com/xmlns/" xmlns:gd="http://schemas.google.com/g/2005" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:opensearch="http://a9.com/-/spec/opensearchrss/1.0/">
+	<title>月婆首那 的收藏</title>
+	<author>
+		<link href="http://api.douban.com/people/25658086" rel="self"/>
+		<link href="http://www.douban.com/people/sparezgw/" rel="alternate"/>
+		<link href="http://img3.douban.com/icon/u25658086-2.jpg" rel="icon"/>
+		<name>月婆首那</name>
+		<uri>http://api.douban.com/people/25658086</uri>
+	</author>
+	<opensearch:startIndex>1</opensearch:startIndex>
+	<opensearch:totalResults>5</opensearch:totalResults>
+	<entry>
+		<id>http://api.douban.com/collection/294388117</id>
+		<title>月婆首那 看过 山楂树之恋</title>
+		<updated>2010-09-17T14:17:06+08:00</updated>
+		<link href="http://api.douban.com/collection/294388117" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/4151110" rel="http://www.douban.com/2007#subject"/>
+		<summary>怎么说呢，这种电影就是没事陪着对象得色一下，看看就行了，没有闲钱没有闲功夫的都不用看了，估计过不了几天网上就有清晰版了～我还是习惯的称它为红果树之恋～</summary>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/4151110</id>
+			<title>山楂树之恋</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>张艺谋 Yimou Zhang</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/4151110" rel="self"/>
+			<link href="http://movie.douban.com/subject/4151110/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4495111.jpg" rel="image"/>
+			<db:attribute name="director">张艺谋</db:attribute>
+			<db:attribute name="writer">尹丽川 </db:attribute>
+			<db:attribute name="writer">顾小白</db:attribute>
+			<db:attribute name="writer">阿美</db:attribute>
+			<db:attribute name="writer">多多</db:attribute>
+			<db:attribute name="language">汉语普通话</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1554523/</db:attribute>
+			<db:attribute name="country">中国大陆</db:attribute>
+			<db:attribute name="pubdate">2010-09-15</db:attribute>
+			<db:attribute name="cast">周冬雨</db:attribute>
+			<db:attribute name="cast">窦骁</db:attribute>
+			<db:attribute name="cast">奚美娟</db:attribute>
+			<db:attribute name="cast">李雪健</db:attribute>
+			<db:attribute name="cast">姜瑞佳</db:attribute>
+			<db:attribute name="cast">于新博</db:attribute>
+			<db:attribute name="cast">萨日娜</db:attribute>
+			<db:attribute name="cast">成泰燊</db:attribute>
+			<db:attribute name="cast">吕丽萍</db:attribute>
+			<db:attribute name="cast">孙海英</db:attribute>
+			<db:attribute name="cast">气壳</db:attribute>
+		</db:subject>
+		<db:tag name="张艺谋"/>
+		<db:tag name="爱情"/>
+		<db:tag name="纯情"/>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/293442528</id>
+		<title>月婆首那 看过 The Expendables</title>
+		<updated>2010-09-14T14:56:34+08:00</updated>
+		<link href="http://api.douban.com/collection/293442528" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3279080" rel="http://www.douban.com/2007#subject"/>
+		<summary>看的是译制的，配音相当雷人～</summary>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3279080</id>
+			<title>The Expendables</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Sylvester Stallone</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3279080" rel="self"/>
+			<link href="http://movie.douban.com/subject/3279080/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4225756.jpg" rel="image"/>
+			<db:attribute name="director">西尔维斯特·史泰龙</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">敢死队</db:attribute>
+			<db:attribute name="writer">西尔维斯特·史泰龙</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1320253/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="pubdate">2010-08-20 (中国大陆)</db:attribute>
+			<db:attribute name="cast">西尔维斯特·史泰龙</db:attribute>
+			<db:attribute name="cast">杰森·斯坦森</db:attribute>
+			<db:attribute name="cast">李连杰</db:attribute>
+			<db:attribute name="cast">杜夫·朗格</db:attribute>
+			<db:attribute name="cast">埃里克·罗伯茨</db:attribute>
+			<db:attribute name="cast">兰迪·库卓</db:attribute>
+			<db:attribute name="cast">大卫·札亚斯</db:attribute>
+			<db:attribute name="cast">史蒂夫·奥斯汀</db:attribute>
+			<db:attribute name="cast">米基·洛克</db:attribute>
+			<db:attribute name="cast">吉瑟勒尔·伊迪斯</db:attribute>
+			<db:attribute name="cast">查瑞丝玛·卡朋特</db:attribute>
+			<db:attribute name="cast">盖瑞·丹尼尔斯</db:attribute>
+			<db:attribute name="cast">泰瑞·克鲁斯</db:attribute>
+			<db:attribute name="cast">阿诺·施瓦辛格</db:attribute>
+			<db:attribute name="cast">布鲁斯·威利斯</db:attribute>
+		</db:subject>
+		<db:tag name="动作"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/293442396</id>
+		<title>月婆首那 看过 唐山大地震</title>
+		<updated>2010-09-14T14:55:53+08:00</updated>
+		<link href="http://api.douban.com/collection/293442396" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3596502" rel="http://www.douban.com/2007#subject"/>
+		<summary>实在受不了这种感人的电影，以后这种片子少看。。。</summary>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3596502</id>
+			<title>唐山大地震</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>冯小刚</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3596502" rel="self"/>
+			<link href="http://movie.douban.com/subject/3596502/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4287549.jpg" rel="image"/>
+			<db:attribute name="director">冯小刚</db:attribute>
+			<db:attribute name="writer">苏小卫</db:attribute>
+			<db:attribute name="language">汉语普通话</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1393746/</db:attribute>
+			<db:attribute name="website">http://aftershock.hbpictures.com/</db:attribute>
+			<db:attribute name="country">中国大陆</db:attribute>
+			<db:attribute name="country">香港</db:attribute>
+			<db:attribute name="pubdate">2010-07-22</db:attribute>
+			<db:attribute name="cast">徐帆</db:attribute>
+			<db:attribute name="cast">张静初</db:attribute>
+			<db:attribute name="cast">李晨</db:attribute>
+			<db:attribute name="cast">陈道明</db:attribute>
+			<db:attribute name="cast">张子枫</db:attribute>
+			<db:attribute name="cast">张家骏</db:attribute>
+			<db:attribute name="cast">王子文</db:attribute>
+			<db:attribute name="cast">陈瑾</db:attribute>
+			<db:attribute name="cast">陆毅</db:attribute>
+			<db:attribute name="cast">张国强</db:attribute>
+			<db:attribute name="cast">杨立新</db:attribute>
+			<db:attribute name="cast">吕中</db:attribute>
+			<db:attribute name="cast">咏梅</db:attribute>
+			<db:attribute name="cast">刘莉莉</db:attribute>
+			<db:attribute name="cast">马秋子</db:attribute>
+		</db:subject>
+		<db:tag name="灾难"/>
+		<db:tag name="感人"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/290472631</id>
+		<title>月婆首那 看过 Inception</title>
+		<updated>2010-09-05T21:02:36+08:00</updated>
+		<link href="http://api.douban.com/collection/290472631" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3541415" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3541415</id>
+			<title>Inception</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>克里斯托弗·诺兰 Christopher Nolan</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3541415" rel="self"/>
+			<link href="http://movie.douban.com/subject/3541415/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4356687.jpg" rel="image"/>
+			<db:attribute name="director">克里斯托弗·诺兰</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">盗梦空间</db:attribute>
+			<db:attribute name="website">www.inceptionmovie.com</db:attribute>
+			<db:attribute name="writer">克里斯托弗·诺兰</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="language">法语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1375666/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="country">英国</db:attribute>
+			<db:attribute name="pubdate">2010-09-01</db:attribute>
+			<db:attribute name="cast">莱昂纳多·迪卡普里奥</db:attribute>
+			<db:attribute name="cast">约瑟夫·高登-莱维特</db:attribute>
+			<db:attribute name="cast">艾伦·佩吉</db:attribute>
+			<db:attribute name="cast">渡边谦</db:attribute>
+			<db:attribute name="cast">汤姆·哈迪</db:attribute>
+			<db:attribute name="cast">迪利普·劳</db:attribute>
+			<db:attribute name="cast">玛丽昂·歌迪亚</db:attribute>
+			<db:attribute name="cast">希里安·墨菲</db:attribute>
+			<db:attribute name="cast">汤姆·贝伦杰</db:attribute>
+			<db:attribute name="cast">迈克尔·凯恩</db:attribute>
+			<db:attribute name="cast">卢卡斯·哈斯</db:attribute>
+			<db:attribute name="cast">皮特·波斯尔思韦特</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/180011376</id>
+		<title>月婆首那 看过 可可西里</title>
+		<updated>2009-11-18T18:28:47+08:00</updated>
+		<link href="http://api.douban.com/collection/180011376" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1308857" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1308857</id>
+			<title>可可西里</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>陆川</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1308857" rel="self"/>
+			<link href="http://movie.douban.com/subject/1308857/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1503482.jpg" rel="image"/>
+			<db:attribute name="director">陆川</db:attribute>
+			<db:attribute name="writer">陆川</db:attribute>
+			<db:attribute name="language">汉语普通话</db:attribute>
+			<db:attribute name="language">藏语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0386651/</db:attribute>
+			<db:attribute name="website">http://www.huayifilm.com/home/ind_movie/C000000313.jsp</db:attribute>
+			<db:attribute name="country">中国</db:attribute>
+			<db:attribute name="country">香港</db:attribute>
+			<db:attribute name="pubdate">2004-10-01</db:attribute>
+			<db:attribute name="cast">多布杰</db:attribute>
+			<db:attribute name="cast">张磊</db:attribute>
+			<db:attribute name="cast">亓亮</db:attribute>
+		</db:subject>
+	</entry>
+	<opensearch:itemsPerPage>50</opensearch:itemsPerPage>
+</feed>

@@ -8,24 +8,25 @@
 # Please Do keep those lines above
 import cgitb
 cgitb.enable()
+import threading
+import queue
 import sys, codecs
 import cgi
 import sys
-import re
 import urllib.request
 import urllib.parse
 import urllib.error
-import threading
-import queue
 import time
 import random
 import os
 import url
 import db_api
 import get_names
+import cache
+import dl
 # Please use your own api key instead. e.g. :
 # APIKEY = "23eeeb4347bdd26bfc6b7ee9a3b755dd"
-IS_LOCAL = False
+IS_LOCAL = True
 ROOTDIR = "/home/sunus/apache/" if IS_LOCAL == True else "/usr/local/apache2/"
 HOSTNAME = "http://localhost/"  if IS_LOCAL == True else "http://184.164.137.154/"
 LINK_DB_PEOPLE = "http://www.douban.com/people/"
@@ -34,7 +35,7 @@ SECRET = ''
 people_nr = 5
 people_list = []
 table = []
-tbr_lock = threading.Lock()
+
 class Worker(threading.Thread):
 
         def __init__(self, work_queue):
@@ -43,61 +44,18 @@ class Worker(threading.Thread):
         def run(self):
                 while True:
                         try:
-                                uid , cat = self.work_queue.get()
-                                self.process(uid, cat)
+                                uid, cat, start, que  = self.work_queue.get()
+                                tname = self.getName()
+                                self.process(uid, cat, start, que, tname)
                         finally:
                                 self.work_queue.task_done()
         
-        def process(self, uid, cat):
-                get_user_collection(uid, cat)
-
-
-
-status_chs = {"wishmovie":"想看",       "watchingmovie":"在看",         "watchedmovie":"看过",
-              "wishmusic":"想听",       "listeningmusic":"在听",        "listenedmusic":"听过",
-              "wishbook":"想读",        "readingbook":"在读",           "readbook":"读过"}
+        def process(self, uid, cat, start, que, tname):
+                dl.download_t(uid, cat, start, que, tname)
 
 def get_user_collection(user, cat):
-        vaild_title = False
-        start = 1
-        uid = user[0]
-        item_dict = {}  #{"item_name#1":[item_status, item_link, item_aka], "item_name#2":[item_status, item_link, item_aka], .....}
-        #It just START FROM 1
-        item_status = "<db:status>"
-        item_title = "<title>"
-        item_link = 'http://{0}.douban.com/subject'.format(cat)
-        item_link_re = re.compile(r'\d+')
-        item_aka = '<db:attribute lang="zh_CN" name="aka">'
-
-        while True:
-                uri = "http://api.douban.com/people/{0}/collection?cat={1}&tag=&status=&start-index={2}&max-results=50&alt=atom&apykey={3}".format(uid, cat, start,APIKEY)
-                fh = db_api.try_api(uri)
-                content = fh.read().decode("utf8")
-                tbr_lock.acquire()
-                tbr_lock.release()
-                step = 1
-                if "entry" in content:
-                        for lines in content.splitlines():
-                                if step == 1 and item_status in lines:
-                                        status = lines[13:-12]
-                                        step = 2
-                                elif step == 2 and item_title in lines:
-                                        title = lines[10:-8]
-                                        step = 3
-                                elif step == 3 and item_link in lines:
-                                        link = item_link_re.search(lines).group()
-                                        step = 4
-                                        aka = None
-                                #in case the item DOESN NOT HAVE A AKA
-                                elif step == 4 and item_aka in lines:
-                                        aka = lines[41: -15]
-                                        step = 1
-                                elif "</entry>" in lines:
-                                        step = 1
-                                        item_dict[title] = [status_chs[status + cat], link, aka]
-                else:
-                        break
-                start += 50
+        file_path = ROOTDIR + r'htdocs/cache_datas/' + 'cache_' + user[0] + '_' + cat
+        item_dict = cache.cache_load(file_path)
         table.append([user, item_dict])
 
 def get_user(group_uri, where):
@@ -113,6 +71,7 @@ def get_user(group_uri, where):
                 if str(13577294) in line:       # this num will SOMEHOW INCREASE 1
                         max = int(line.split('-')[1].split()[0])
         start = 0 if max == 0 else random.randint(0, int(max) - 35)
+        start = 42
         print("<h4>你的幸运数字是 *{0}*</h4>".format(start))
         uri = "{0}/member_search?search_text={1}&start={2}".format(group_uri, where, start)
         fh = urllib.request.urlopen(uri)
@@ -121,12 +80,11 @@ def get_user(group_uri, where):
 #        <dd><a href="http://www.douban.com/people/__UID__/">__NIKENAME__</a><br/><span class="pl">(local)</span></dd></dl><dl class="obu" ><dt><a href="http://www.douban.com/people/__UID__/" class="nbg"><img src="http://img3.douban.com/icon/sdfs.jpg" class="m_sub_img" alt="__NIKENAME__"/></a></dt>
         for line in contents.splitlines():
                 if '<dd><a href="http://www.douban.com/people/' in line:
-                        if(len(people_list) == people_nr):
+                        if(len(people_list) == people_nr + 1): #people_list[0] is YOU!
                                 break
                         idx = line.strip().find(r'</a>')
                         a = line.strip()[0:idx].rpartition(r'">')
                         people_list.append([a[0][13:-1], a[2]])
-#        people_pattern = re.compile(r'http://www.douban.com/people/\w+')
 #        people_list.extend(people_pattern.findall(contents)[: 5 * 2:2])
         i = 0
         for i in range(len(people_list)):
@@ -244,13 +202,8 @@ def main():
         
         if var_verify(you, group_url, cat, location) == False:
                 return 0
-#        else:
-#                print("<h4>you:{0}</h4>".format(you))
-#                print("<h4>group:{0}</h4>".format(group_url))
-#                print("<h4>location:{0}</h4>".format(location))
-#                print("<h4>common in {0}</h4>".format(cat))
-#        print("<h4>Start at : {0}</h4>".format(time.asctime()))
-
+        your_nikename = get_names.get_nickname(you)
+        people_list.append([you, your_nikename])
         get_user(group_url, location)
         if len(people_list) == 0:
                 print("<h4>该小组好似没有来自 {0} 的豆友噢:(</h4>".format(location))
@@ -264,22 +217,29 @@ def main():
                 print(f.read())
                 f.close()
                 return
-        # THREAD PART
-        user_queue = queue.Queue()
+
+        # Thread Part
+        dl_queue = queue.Queue()
         for i in range(5):
-                worker = Worker(user_queue)
+                worker = Worker(dl_queue)
                 worker.daemon = True
                 worker.start()
 
-        your_nikename = get_names.get_nickname(you)
-        get_user_collection([you, your_nikename], cat)
         for people in people_list:
-                user_queue.put([people, cat])
-        user_queue.join()
-        # THREAD PART
-
+                file_path = ROOTDIR + r'htdocs/cache_datas/' + 'cache_' + people[0] + '_' + cat
+                if os.access(file_path, os.R_OK) == False:
+                        dl_queue.put([people[0], cat, 1, dl_queue])
+                        dl_queue.join()
+                        cache.cache_save(ROOTDIR + r'htdocs/cache_datas/' + people[0] + '_' + cat + '_1')
+                        get_user_collection(people, cat)
+                else:
+                        people[1] += '(c)'
+                        get_user_collection(people, cat)
+        # Thread Part
         rank = []
         # 0 is uid1, and uid2_idx starts from 1
+        people_list.pop(0)
+        # YOU DO NOT BELONG TO PEOPLE_LIST!!
         total_people = len(people_list)
         for i in range(1, total_people + 1):
                 rank_item = get_match_rate(0, i, cat)
@@ -293,14 +253,10 @@ def main():
         r = 1
         print('<h4>在 <a href="{0}">{1}</a> 为您找到了在 {2} 的豆友:</h4>'.format(group_url, get_names.get_group_name(group_url), location))
         for i in range(ir, total_people):
-                #print('<h4>#{0:<4} <a href="{3}{4}">{1}</a>和你有 {2} 项共同喜好</h4>'.format(r, get_names.get_nickname(table[rank[i][0]][0]), rank[i][1], 
                 #                                                                                     LINK_DB_PEOPLE, table[rank[i][0]][0]))
                 print('<h4>#{0:<4} <a href="{3}{4}">{1}</a>和你有 {2} 项共同喜好</h4>'.format(r, table[rank[i][0]][0][1], rank[i][1], 
                                                                                                      LINK_DB_PEOPLE, table[rank[i][0]][0][0]))
                 r += 1
-#        print("<h4>hopefully u will find she/he!</h4>")
-#        print("<h4>received",total_bytes_recv, "bytes</h4>")
-#        print("<h4>end at : {0}</h4>".format(time.asctime()))
         longurl = HOSTNAME + "history/group_{0}_{1}_{2}.html".format(you, group_url.rsplit('/', 2)[1], suffix)
         short_url = url.get_shortenurl(longurl)
         print("<h4>转发本页地址:{0}</h4>".format(short_url))

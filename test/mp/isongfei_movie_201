@@ -1,0 +1,1687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:db="http://www.douban.com/xmlns/" xmlns:gd="http://schemas.google.com/g/2005" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:opensearch="http://a9.com/-/spec/opensearchrss/1.0/">
+	<title>一阵风 的收藏</title>
+	<author>
+		<link href="http://api.douban.com/people/26695862" rel="self"/>
+		<link href="http://www.douban.com/people/isongfei/" rel="alternate"/>
+		<link href="http://img3.douban.com/icon/u26695862-23.jpg" rel="icon"/>
+		<name>一阵风</name>
+		<uri>http://api.douban.com/people/26695862</uri>
+	</author>
+	<opensearch:startIndex>201</opensearch:startIndex>
+	<opensearch:totalResults>250</opensearch:totalResults>
+	<entry>
+		<id>http://api.douban.com/collection/305204264</id>
+		<title>一阵风 看过 How I Met Your Mother Season 2</title>
+		<updated>2010-10-17T20:39:06+08:00</updated>
+		<link href="http://api.douban.com/collection/305204264" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/2296025" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/2296025</id>
+			<title>How I Met Your Mother Season 2</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Pamela Fryman</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/2296025" rel="self"/>
+			<link href="http://movie.douban.com/subject/2296025/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2781162.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">Carter Bays (creator)</db:attribute>
+			<db:attribute name="writer">Craig Thomas (creator)</db:attribute>
+			<db:attribute name="director">Pamela Fryman</db:attribute>
+			<db:attribute name="pubdate">2006-09-18</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0863640/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">老爸老妈的浪漫史 第二季</db:attribute>
+			<db:attribute name="cast">乔什·拉德诺</db:attribute>
+			<db:attribute name="cast">尼尔·帕特里克·哈里斯</db:attribute>
+			<db:attribute name="cast">艾丽森·汉妮根</db:attribute>
+			<db:attribute name="cast">寇碧·史莫德斯</db:attribute>
+			<db:attribute name="cast">杰森·席格尔</db:attribute>
+		</db:subject>
+		<db:tag name="美剧"/>
+		<db:tag name="看过的电视剧"/>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/305204213</id>
+		<title>一阵风 在看 How I Met Your Mother Season 3</title>
+		<updated>2010-10-17T20:38:57+08:00</updated>
+		<link href="http://api.douban.com/collection/305204213" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/2326226" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watching</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/2326226</id>
+			<title>How I Met Your Mother Season 3</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<link href="http://api.douban.com/movie/subject/2326226" rel="self"/>
+			<link href="http://movie.douban.com/subject/2326226/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3095710.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">西班牙语</db:attribute>
+			<db:attribute name="writer">卡特·贝斯</db:attribute>
+			<db:attribute name="writer">克雷格·汤姆斯 </db:attribute>
+			<db:attribute name="website">www.cbs.com/primetime/how_i_met_your_mother/</db:attribute>
+			<db:attribute name="pubdate">2007-09-24</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1084790/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">老爸老妈的浪漫史 第三季</db:attribute>
+			<db:attribute name="cast">乔什·拉德诺</db:attribute>
+			<db:attribute name="cast">尼尔·帕特里克·哈里斯</db:attribute>
+			<db:attribute name="cast">艾丽森·汉妮根</db:attribute>
+			<db:attribute name="cast">杰森·席格尔</db:attribute>
+			<db:attribute name="cast">寇碧·史莫德斯</db:attribute>
+		</db:subject>
+		<db:tag name="美剧"/>
+		<db:tag name="看过的电视剧"/>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/305202981</id>
+		<title>一阵风 在看 How I Met Your Mother</title>
+		<updated>2010-10-17T20:36:00+08:00</updated>
+		<link href="http://api.douban.com/collection/305202981" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1427818" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watching</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1427818</id>
+			<title>How I Met Your Mother</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Pamela Fryman</name>
+			</author>
+			<author>
+				<name>Rob Greenberg</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1427818" rel="self"/>
+			<link href="http://movie.douban.com/subject/1427818/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2614917.jpg" rel="image"/>
+			<db:attribute name="website">http://www.cbs.com/primetime/how_i_met_your_mother</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">Carter Bays</db:attribute>
+			<db:attribute name="writer">Craig Thomas</db:attribute>
+			<db:attribute name="director">Pamela Fryman</db:attribute>
+			<db:attribute name="director">Rob Greenberg</db:attribute>
+			<db:attribute name="pubdate">2005-09-19</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0460649/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">老爸老妈的浪漫史</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">乔什·拉德诺</db:attribute>
+			<db:attribute name="cast">杰森·席格尔</db:attribute>
+			<db:attribute name="cast">艾丽森·汉妮根</db:attribute>
+			<db:attribute name="cast">尼尔·帕特里克·哈里斯</db:attribute>
+			<db:attribute name="cast">寇碧·史莫德斯</db:attribute>
+		</db:subject>
+		<db:tag name="美剧"/>
+		<db:tag name="喜剧"/>
+		<db:tag name="爱情"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/294906315</id>
+		<title>一阵风 看过 Shutter Island</title>
+		<updated>2010-09-18T21:35:50+08:00</updated>
+		<link href="http://api.douban.com/collection/294906315" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/2334904" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/2334904</id>
+			<title>Shutter Island</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Martin Scorsese</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/2334904" rel="self"/>
+			<link href="http://movie.douban.com/subject/2334904/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s3895194.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">莱塔·卡罗格里迪斯</db:attribute>
+			<db:attribute name="writer">丹尼斯·勒翰</db:attribute>
+			<db:attribute name="director">马丁·斯科塞斯</db:attribute>
+			<db:attribute name="pubdate">2010-02-19</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1130884/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">禁闭岛</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">莱昂纳多·迪卡普里奥</db:attribute>
+			<db:attribute name="cast">马克·鲁弗洛</db:attribute>
+			<db:attribute name="cast">米歇尔·威廉姆斯</db:attribute>
+			<db:attribute name="cast">派翠西娅·克拉克森</db:attribute>
+			<db:attribute name="cast">马克斯·冯·西多</db:attribute>
+			<db:attribute name="cast">艾米莉·莫迪默</db:attribute>
+			<db:attribute name="cast">本·金斯利</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/292500131</id>
+		<title>一阵风 看过 Inception</title>
+		<updated>2010-09-11T20:35:30+08:00</updated>
+		<link href="http://api.douban.com/collection/292500131" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3541415" rel="http://www.douban.com/2007#subject"/>
+		<summary>@往冥 2010 /09/11 金逸影城奥城店</summary>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3541415</id>
+			<title>Inception</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>克里斯托弗·诺兰 Christopher Nolan</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3541415" rel="self"/>
+			<link href="http://movie.douban.com/subject/3541415/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4356687.jpg" rel="image"/>
+			<db:attribute name="director">克里斯托弗·诺兰</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">盗梦空间</db:attribute>
+			<db:attribute name="website">www.inceptionmovie.com</db:attribute>
+			<db:attribute name="writer">克里斯托弗·诺兰</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="language">法语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1375666/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="country">英国</db:attribute>
+			<db:attribute name="pubdate">2010-09-01</db:attribute>
+			<db:attribute name="cast">莱昂纳多·迪卡普里奥</db:attribute>
+			<db:attribute name="cast">约瑟夫·高登-莱维特</db:attribute>
+			<db:attribute name="cast">艾伦·佩吉</db:attribute>
+			<db:attribute name="cast">渡边谦</db:attribute>
+			<db:attribute name="cast">汤姆·哈迪</db:attribute>
+			<db:attribute name="cast">迪利普·劳</db:attribute>
+			<db:attribute name="cast">玛丽昂·歌迪亚</db:attribute>
+			<db:attribute name="cast">希里安·墨菲</db:attribute>
+			<db:attribute name="cast">汤姆·贝伦杰</db:attribute>
+			<db:attribute name="cast">迈克尔·凯恩</db:attribute>
+			<db:attribute name="cast">卢卡斯·哈斯</db:attribute>
+			<db:attribute name="cast">皮特·波斯尔思韦特</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/282394172</id>
+		<title>一阵风 看过 恋愛寫眞</title>
+		<updated>2010-08-15T10:27:55+08:00</updated>
+		<link href="http://api.douban.com/collection/282394172" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1307755" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1307755</id>
+			<title>恋愛寫眞</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>堤幸彦 (Yukihiko Tsutsumi)</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1307755" rel="self"/>
+			<link href="http://movie.douban.com/subject/1307755/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3952915.jpg" rel="image"/>
+			<db:attribute name="website">http://www.c-o-o-l.jp/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="director">堤幸彦 (Yukihiko Tsutsumi)</db:attribute>
+			<db:attribute name="pubdate">2003-09-04</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0370425/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">恋爱写真</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">広末涼子</db:attribute>
+			<db:attribute name="cast">松田龍平</db:attribute>
+			<db:attribute name="cast">小池栄子</db:attribute>
+			<db:attribute name="cast">西山繭子</db:attribute>
+		</db:subject>
+		<db:tag name="爱情"/>
+		<db:tag name="日本电影"/>
+		<db:tag name="广末凉子"/>
+		<db:tag name="恋爱写真"/>
+		<db:tag name="青春"/>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/282393916</id>
+		<title>一阵风 看过 世界の中心で、愛をさけぶ</title>
+		<updated>2010-08-15T10:26:58+08:00</updated>
+		<link href="http://api.douban.com/collection/282393916" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1315570" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1315570</id>
+			<title>世界の中心で、愛をさけぶ</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>行定勋</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1315570" rel="self"/>
+			<link href="http://movie.douban.com/subject/1315570/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1322309.jpg" rel="image"/>
+			<db:attribute name="website">http://aiosakebu.yahoo.co.jp/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="director">行定勋</db:attribute>
+			<db:attribute name="pubdate">2005-02-17</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0424430/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">在世界中心呼唤爱</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">森山未来</db:attribute>
+			<db:attribute name="cast">柴咲コウ</db:attribute>
+			<db:attribute name="cast">長澤まさみ</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/275584656</id>
+		<title>一阵风 看过 Friends</title>
+		<updated>2010-07-27T19:41:52+08:00</updated>
+		<link href="http://api.douban.com/collection/275584656" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1393859" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1393859</id>
+			<title>Friends</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>大卫·克拉尼 David Crane</name>
+			</author>
+			<author>
+				<name>Marta Kauffman</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1393859" rel="self"/>
+			<link href="http://movie.douban.com/subject/1393859/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2559471.jpg" rel="image"/>
+			<db:attribute name="website">www.friendstv.com</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">加里·奥德曼</db:attribute>
+			<db:attribute name="writer">Kevin Bright</db:attribute>
+			<db:attribute name="director">大卫·克拉尼</db:attribute>
+			<db:attribute name="director">玛尔塔·考夫曼</db:attribute>
+			<db:attribute name="pubdate">1994-09-22</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0108778/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">老友记</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">詹妮弗·安妮斯顿</db:attribute>
+			<db:attribute name="cast">柯特妮·考克斯</db:attribute>
+			<db:attribute name="cast">莉莎·库卓</db:attribute>
+			<db:attribute name="cast">马特·理勃兰</db:attribute>
+			<db:attribute name="cast">马修·派瑞</db:attribute>
+			<db:attribute name="cast">大卫·休默</db:attribute>
+			<db:attribute name="cast">詹姆斯·迈克尔·泰勒</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/275584581</id>
+		<title>一阵风 看过 House M.D.</title>
+		<updated>2010-07-27T19:41:40+08:00</updated>
+		<link href="http://api.douban.com/collection/275584581" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1442129" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1442129</id>
+			<title>House M.D.</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Newton Thomas Sigel</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1442129" rel="self"/>
+			<link href="http://movie.douban.com/subject/1442129/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2411175.jpg" rel="image"/>
+			<db:attribute name="website">http://www.fox.com/house/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="director">Newton Thomas Sigel</db:attribute>
+			<db:attribute name="pubdate">2004-12-07</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0412142/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">豪斯医生</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">Hugh Laurie</db:attribute>
+			<db:attribute name="cast">Lisa Edelstein</db:attribute>
+			<db:attribute name="cast">Omar Epps</db:attribute>
+			<db:attribute name="cast">Robert Sean Leonard</db:attribute>
+			<db:attribute name="cast">Jennifer Morrison</db:attribute>
+			<db:attribute name="cast">Jesse Spencer</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/275584339</id>
+		<title>一阵风 在看 The Big Bang Theory</title>
+		<updated>2010-07-27T19:41:01+08:00</updated>
+		<link href="http://api.douban.com/collection/275584339" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/2156528" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watching</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/2156528</id>
+			<title>The Big Bang Theory</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>James Burrows</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/2156528" rel="self"/>
+			<link href="http://movie.douban.com/subject/2156528/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2697823.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">查克·罗瑞</db:attribute>
+			<db:attribute name="writer">比尔·布拉迪</db:attribute>
+			<db:attribute name="pubdate">2007-09-24</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0898266/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">生活大爆炸</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">意大利语</db:attribute>
+			<db:attribute name="cast">吉姆·帕森斯</db:attribute>
+			<db:attribute name="cast">约翰尼·盖尔克奇</db:attribute>
+			<db:attribute name="cast">凯莉·库柯</db:attribute>
+			<db:attribute name="cast">西蒙·赫尔伯格</db:attribute>
+			<db:attribute name="cast">昆瑙·内亚</db:attribute>
+			<db:attribute name="cast">梅丽莎·劳奇</db:attribute>
+		</db:subject>
+		<db:tag name="美剧"/>
+		<db:tag name="搞笑"/>
+		<db:tag name="宅男"/>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/255966446</id>
+		<title>一阵风 看过 ヱヴァンゲリヲン新劇場版:破</title>
+		<updated>2010-05-30T03:08:21+08:00</updated>
+		<link href="http://api.douban.com/collection/255966446" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/2567646" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/2567646</id>
+			<title>ヱヴァンゲリヲン新劇場版:破</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>摩砂雪 Masayuki</name>
+			</author>
+			<author>
+				<name>鹤卷和哉 Kazuya Tsurumaki</name>
+			</author>
+			<author>
+				<name>庵野秀明 Hideaki Anno</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/2567646" rel="self"/>
+			<link href="http://movie.douban.com/subject/2567646/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3294933.jpg" rel="image"/>
+			<db:attribute name="director">摩砂雪</db:attribute>
+			<db:attribute name="director">鹤卷和哉</db:attribute>
+			<db:attribute name="director">庵野秀明</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">福音战士新剧场版：破</db:attribute>
+			<db:attribute name="website">http://www.evangelion.co.jp/</db:attribute>
+			<db:attribute name="writer">庵野秀明</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0860906/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="pubdate">2009-06-27</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/217887391</id>
+		<title>一阵风 看过 あの夏、いちばん静かな海</title>
+		<updated>2010-02-16T20:25:11+08:00</updated>
+		<link href="http://api.douban.com/collection/217887391" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1295815" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1295815</id>
+			<title>あの夏、いちばん静かな海</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>北野武</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1295815" rel="self"/>
+			<link href="http://movie.douban.com/subject/1295815/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1318069.jpg" rel="image"/>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="writer">北野武</db:attribute>
+			<db:attribute name="director">北野武</db:attribute>
+			<db:attribute name="pubdate">1991-10-19</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0103704/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">那年夏天，宁静的海</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">真木藏人</db:attribute>
+			<db:attribute name="cast">大岛弘子</db:attribute>
+			<db:attribute name="cast">渡边哲</db:attribute>
+			<db:attribute name="cast">藤原稔三</db:attribute>
+			<db:attribute name="cast">寺岛进</db:attribute>
+		</db:subject>
+		<db:tag name="北野武"/>
+		<db:tag name="那年夏天宁静的海"/>
+		<db:tag name="日本电影"/>
+		<db:tag name="爱情"/>
+		<db:tag name="文艺"/>
+		<db:tag name="经典"/>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/217884608</id>
+		<title>一阵风 看过 パンダコパンダ</title>
+		<updated>2010-02-16T20:19:08+08:00</updated>
+		<link href="http://api.douban.com/collection/217884608" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1439205" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1439205</id>
+			<title>パンダコパンダ</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>高畑勋 Isao Takahata</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1439205" rel="self"/>
+			<link href="http://movie.douban.com/subject/1439205/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2629441.jpg" rel="image"/>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="writer">宫崎骏</db:attribute>
+			<db:attribute name="director">高畑勋</db:attribute>
+			<db:attribute name="pubdate">1972-12-17</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0069058/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">熊猫家族</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">杉山佳寿子</db:attribute>
+			<db:attribute name="cast">熊倉一雄 Kazuo Kumakura</db:attribute>
+			<db:attribute name="cast">太田淑子 Yoshiko Ohta</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="3"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/216735992</id>
+		<title>一阵风 想看 関口知宏の中国鉄道大纪行</title>
+		<updated>2010-02-13T13:17:55+08:00</updated>
+		<link href="http://api.douban.com/collection/216735992" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3843354" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3843354</id>
+			<title>関口知宏の中国鉄道大纪行</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<link href="http://api.douban.com/movie/subject/3843354" rel="self"/>
+			<link href="http://movie.douban.com/subject/3843354/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3880111.jpg" rel="image"/>
+			<db:attribute name="website">http://www.nhk.or.jp/tabi/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">NHK关口知宏中国铁道大纪行</db:attribute>
+			<db:attribute name="pubdate">2007</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">関口知宏</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/216288539</id>
+		<title>一阵风 看过 喰霊 -零-</title>
+		<updated>2010-02-12T09:35:48+08:00</updated>
+		<link href="http://api.douban.com/collection/216288539" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3136371" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3136371</id>
+			<title>喰霊 -零-</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>あおきえい</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3136371" rel="self"/>
+			<link href="http://movie.douban.com/subject/3136371/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s3332274.jpg" rel="image"/>
+			<db:attribute name="director">あおきえい</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">喰灵 -零-</db:attribute>
+			<db:attribute name="writer">高山克彦</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1475263/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="pubdate">2008-10</db:attribute>
+			<db:attribute name="cast">水原薫</db:attribute>
+			<db:attribute name="cast">茅原实里</db:attribute>
+			<db:attribute name="cast">高橋伸也</db:attribute>
+			<db:attribute name="cast">相沢舞</db:attribute>
+			<db:attribute name="cast">土谷麻貴</db:attribute>
+			<db:attribute name="cast">白石稔</db:attribute>
+			<db:attribute name="cast">若本規夫</db:attribute>
+			<db:attribute name="cast">平松広和</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/216288518</id>
+		<title>一阵风 看过 CLANNAD</title>
+		<updated>2010-02-12T09:35:37+08:00</updated>
+		<link href="http://api.douban.com/collection/216288518" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/2277181" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/2277181</id>
+			<title>CLANNAD</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>石原立也</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/2277181" rel="self"/>
+			<link href="http://movie.douban.com/subject/2277181/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2734110.jpg" rel="image"/>
+			<db:attribute name="director">石原立也</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">团子大家族</db:attribute>
+			<db:attribute name="website">http://www.tbs.co.jp/clannad/</db:attribute>
+			<db:attribute name="writer">麻枝准</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1118804/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="pubdate">2007-10-04</db:attribute>
+			<db:attribute name="cast">中村悠一</db:attribute>
+			<db:attribute name="cast">中原麻衣</db:attribute>
+			<db:attribute name="cast">广桥凉</db:attribute>
+			<db:attribute name="cast">能登麻美子</db:attribute>
+			<db:attribute name="cast">神田朱未</db:attribute>
+			<db:attribute name="cast">野中蓝</db:attribute>
+			<db:attribute name="cast">桑岛法子</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/216288407</id>
+		<title>一阵风 看过 コードギアス 反逆のルルーシュ</title>
+		<updated>2010-02-12T09:34:52+08:00</updated>
+		<link href="http://api.douban.com/collection/216288407" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/2043155" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/2043155</id>
+			<title>コードギアス 反逆のルルーシュ</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<link href="http://api.douban.com/movie/subject/2043155" rel="self"/>
+			<link href="http://movie.douban.com/subject/2043155/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s2359834.jpg" rel="image"/>
+			<db:attribute name="website">http://www.geass.jp/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="writer">大河内一楼</db:attribute>
+			<db:attribute name="writer">谷口悟朗</db:attribute>
+			<db:attribute name="pubdate">2006-10-05</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0994314/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">反叛的鲁路修</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">Willy Krüger</db:attribute>
+			<db:attribute name="cast">Lotte Rausch</db:attribute>
+			<db:attribute name="cast">Charles Brauer</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/216288371</id>
+		<title>一阵风 看过 Fate/stay night</title>
+		<updated>2010-02-12T09:34:37+08:00</updated>
+		<link href="http://api.douban.com/collection/216288371" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1727200" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1727200</id>
+			<title>Fate/stay night</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>山口祐司</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1727200" rel="self"/>
+			<link href="http://movie.douban.com/subject/1727200/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s3129844.jpg" rel="image"/>
+			<db:attribute name="website">http://www.staynight.com/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="writer">奈須きのこ</db:attribute>
+			<db:attribute name="writer">佐藤卓哉</db:attribute>
+			<db:attribute name="director">山口祐司</db:attribute>
+			<db:attribute name="pubdate">2006-01-06</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0774809/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">命运长夜</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">杉山紀彰</db:attribute>
+			<db:attribute name="cast">川澄綾子</db:attribute>
+			<db:attribute name="cast">植田佳奈</db:attribute>
+			<db:attribute name="cast">下屋則子</db:attribute>
+			<db:attribute name="cast">伊藤美紀</db:attribute>
+			<db:attribute name="cast">諏訪部順一</db:attribute>
+			<db:attribute name="cast">浅川悠</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/212365177</id>
+		<title>一阵风 看过 もののけ姫</title>
+		<updated>2010-02-03T23:16:55+08:00</updated>
+		<link href="http://api.douban.com/collection/212365177" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1297359" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1297359</id>
+			<title>もののけ姫</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>宫崎骏</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1297359" rel="self"/>
+			<link href="http://movie.douban.com/subject/1297359/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3894318.jpg" rel="image"/>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="writer">宫崎骏</db:attribute>
+			<db:attribute name="director">宫崎骏</db:attribute>
+			<db:attribute name="pubdate">1997-07-12</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0119698/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">幽灵公主</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">松田洋治</db:attribute>
+			<db:attribute name="cast">石田百合子</db:attribute>
+			<db:attribute name="cast">田中裕子</db:attribute>
+			<db:attribute name="cast">森光子</db:attribute>
+			<db:attribute name="cast">西村雅彦</db:attribute>
+			<db:attribute name="cast">上条恒彦</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/212365077</id>
+		<title>一阵风 想看 魔女の宅急便</title>
+		<updated>2010-02-03T23:16:44+08:00</updated>
+		<link href="http://api.douban.com/collection/212365077" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1307811" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1307811</id>
+			<title>魔女の宅急便</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>宫崎骏</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1307811" rel="self"/>
+			<link href="http://movie.douban.com/subject/1307811/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1317849.jpg" rel="image"/>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="writer">宫崎骏</db:attribute>
+			<db:attribute name="director">宫崎骏</db:attribute>
+			<db:attribute name="pubdate">1989-07-29</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0097814/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">魔女宅急便</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">高山南</db:attribute>
+			<db:attribute name="cast">佐久间玲</db:attribute>
+			<db:attribute name="cast">山口胜平</db:attribute>
+			<db:attribute name="cast">户田惠子</db:attribute>
+			<db:attribute name="cast">信泽三惠子</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/212364762</id>
+		<title>一阵风 看过 風の谷のナウシカ</title>
+		<updated>2010-02-03T23:16:09+08:00</updated>
+		<link href="http://api.douban.com/collection/212364762" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1291585" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1291585</id>
+			<title>風の谷のナウシカ</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>宫崎骏</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1291585" rel="self"/>
+			<link href="http://movie.douban.com/subject/1291585/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3019680.jpg" rel="image"/>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="writer">宫崎骏</db:attribute>
+			<db:attribute name="director">宫崎骏</db:attribute>
+			<db:attribute name="pubdate">1984-03-11</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0087544/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">风之谷</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">岛本须美</db:attribute>
+			<db:attribute name="cast">京田尚子</db:attribute>
+			<db:attribute name="cast">松田洋治</db:attribute>
+			<db:attribute name="cast">麦人</db:attribute>
+			<db:attribute name="cast">榊原良子</db:attribute>
+		</db:subject>
+		<db:tag name="宫崎骏"/>
+		<db:tag name="动画"/>
+		<db:tag name="风之谷"/>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/204361185</id>
+		<title>一阵风 想看 彼女と彼女の猫</title>
+		<updated>2010-01-18T10:44:33+08:00</updated>
+		<link href="http://api.douban.com/collection/204361185" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1483507" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1483507</id>
+			<title>彼女と彼女の猫</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>新海诚</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1483507" rel="self"/>
+			<link href="http://movie.douban.com/subject/1483507/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1647116.jpg" rel="image"/>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="writer">新海诚</db:attribute>
+			<db:attribute name="director">新海诚</db:attribute>
+			<db:attribute name="pubdate">1999年</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0373960/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">她和她的猫</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">新海诚</db:attribute>
+			<db:attribute name="cast">篠原美香</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/204112438</id>
+		<title>一阵风 看过 化物語</title>
+		<updated>2010-01-17T18:40:41+08:00</updated>
+		<link href="http://api.douban.com/collection/204112438" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3893384" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3893384</id>
+			<title>化物語</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>新房昭之 Akiyuki Shinbo</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3893384" rel="self"/>
+			<link href="http://movie.douban.com/subject/3893384/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3882275.jpg" rel="image"/>
+			<db:attribute name="director">新房昭之</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">化物语</db:attribute>
+			<db:attribute name="website">http://www.bakemonogatari.com</db:attribute>
+			<db:attribute name="writer">東冨耶子</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1480925/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="pubdate">2009-07-03</db:attribute>
+			<db:attribute name="cast">神谷浩史</db:attribute>
+			<db:attribute name="cast">斋藤千和</db:attribute>
+			<db:attribute name="cast">加藤英美里</db:attribute>
+			<db:attribute name="cast">泽城美雪</db:attribute>
+			<db:attribute name="cast">花泽香菜</db:attribute>
+			<db:attribute name="cast">堀江由衣</db:attribute>
+			<db:attribute name="cast">喜多村英梨</db:attribute>
+			<db:attribute name="cast">井口裕香</db:attribute>
+			<db:attribute name="cast">樱井孝宏</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/204112178</id>
+		<title>一阵风 看过 空の境界 第六章 忘却録音</title>
+		<updated>2010-01-17T18:40:03+08:00</updated>
+		<link href="http://api.douban.com/collection/204112178" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3369765" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3369765</id>
+			<title>空の境界 第六章 忘却録音</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>三浦贵博</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3369765" rel="self"/>
+			<link href="http://movie.douban.com/subject/3369765/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3492659.jpg" rel="image"/>
+			<db:attribute name="website">http://www.karanokyoukai.com/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="writer">平松正树</db:attribute>
+			<db:attribute name="director">三浦贵博</db:attribute>
+			<db:attribute name="pubdate">2008-12-20</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1343089/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">空之境界 第六章 忘却录音</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">坂本真绫</db:attribute>
+			<db:attribute name="cast">铃村健一</db:attribute>
+			<db:attribute name="cast">本田贵子</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/204112072</id>
+		<title>一阵风 看过 空の境界 第七章 殺人考察(後)</title>
+		<updated>2010-01-17T18:39:48+08:00</updated>
+		<link href="http://api.douban.com/collection/204112072" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3399553" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3399553</id>
+			<title>空の境界 第七章 殺人考察(後)</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>瀧沢進介</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3399553" rel="self"/>
+			<link href="http://movie.douban.com/subject/3399553/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4002481.jpg" rel="image"/>
+			<db:attribute name="website">http://www.karanokyoukai.com/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="director">瀧沢進介</db:attribute>
+			<db:attribute name="pubdate">2009-08-08</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1345776/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">空之境界 第七章 杀人考察(后)</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">坂本真綾</db:attribute>
+			<db:attribute name="cast">鈴村健一</db:attribute>
+			<db:attribute name="cast">本田貴子</db:attribute>
+			<db:attribute name="cast">藤村歩</db:attribute>
+			<db:attribute name="cast">田中理恵</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/204112035</id>
+		<title>一阵风 看过 劇場版 空の境界 第五章「矛盾螺旋」</title>
+		<updated>2010-01-17T18:39:42+08:00</updated>
+		<link href="http://api.douban.com/collection/204112035" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3187790" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3187790</id>
+			<title>劇場版 空の境界 第五章「矛盾螺旋」</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>平尾隆之</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3187790" rel="self"/>
+			<link href="http://movie.douban.com/subject/3187790/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3228941.jpg" rel="image"/>
+			<db:attribute name="website">http://www.karanokyoukai.com/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="writer">平松正树</db:attribute>
+			<db:attribute name="writer">奈须茸</db:attribute>
+			<db:attribute name="director">平尾隆之</db:attribute>
+			<db:attribute name="pubdate">2008-08-16</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1278060/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">空之境界电影版：第五章矛盾螺旋</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">坂本真绫</db:attribute>
+			<db:attribute name="cast">铃村健一</db:attribute>
+			<db:attribute name="cast">本田贵子</db:attribute>
+			<db:attribute name="cast">藤村步</db:attribute>
+			<db:attribute name="cast">中田让治</db:attribute>
+			<db:attribute name="cast">柿原彻也</db:attribute>
+			<db:attribute name="cast">游佐浩二</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/204111985</id>
+		<title>一阵风 看过 劇場版 空の境界 第一章「俯瞰風景」</title>
+		<updated>2010-01-17T18:39:35+08:00</updated>
+		<link href="http://api.douban.com/collection/204111985" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/2354897" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/2354897</id>
+			<title>劇場版 空の境界 第一章「俯瞰風景」</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>青木荣</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/2354897" rel="self"/>
+			<link href="http://movie.douban.com/subject/2354897/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2820180.jpg" rel="image"/>
+			<db:attribute name="director">青木荣</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">空之境界 第一章 俯瞰风景</db:attribute>
+			<db:attribute name="website">http://www.karanokyoukai.com/</db:attribute>
+			<db:attribute name="writer">平松正树</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1155650/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="pubdate">2007-12-01</db:attribute>
+			<db:attribute name="cast">坂本真绫</db:attribute>
+			<db:attribute name="cast">铃村健一</db:attribute>
+			<db:attribute name="cast">本田贵子</db:attribute>
+			<db:attribute name="cast">田中理惠</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/204111936</id>
+		<title>一阵风 看过 劇場版空の境界 第四章 「伽藍の洞」</title>
+		<updated>2010-01-17T18:39:28+08:00</updated>
+		<link href="http://api.douban.com/collection/204111936" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3077701" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3077701</id>
+			<title>劇場版空の境界 第四章 「伽藍の洞」</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>泷口祯一</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3077701" rel="self"/>
+			<link href="http://movie.douban.com/subject/3077701/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3100937.jpg" rel="image"/>
+			<db:attribute name="website">http://www.karanokyoukai.com/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="writer">平松正树</db:attribute>
+			<db:attribute name="director">泷口祯一</db:attribute>
+			<db:attribute name="pubdate">2008-05-24</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1233474/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">空之境界电影版：第四章伽蓝之洞</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">坂本真绫</db:attribute>
+			<db:attribute name="cast">铃村健一</db:attribute>
+			<db:attribute name="cast">本田贵子</db:attribute>
+			<db:attribute name="cast">藤村步</db:attribute>
+			<db:attribute name="cast">东地宏树</db:attribute>
+			<db:attribute name="cast">中田让治</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/204111898</id>
+		<title>一阵风 看过 劇場版 空の境界 第三章「痛覚残留」</title>
+		<updated>2010-01-17T18:39:22+08:00</updated>
+		<link href="http://api.douban.com/collection/204111898" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/2354908" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/2354908</id>
+			<title>劇場版 空の境界 第三章「痛覚残留」</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>小船井充</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/2354908" rel="self"/>
+			<link href="http://movie.douban.com/subject/2354908/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2820198.jpg" rel="image"/>
+			<db:attribute name="website">http://www.karanokyoukai.com/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="writer">平松正树</db:attribute>
+			<db:attribute name="director">小船井充</db:attribute>
+			<db:attribute name="pubdate">2008-01-26</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1155652/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">空之境界电影版：第三章痛觉残留</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">坂本真绫</db:attribute>
+			<db:attribute name="cast">铃村健一</db:attribute>
+			<db:attribute name="cast">本田贵子</db:attribute>
+			<db:attribute name="cast">藤村步</db:attribute>
+			<db:attribute name="cast">能登麻美子</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/204111837</id>
+		<title>一阵风 看过 空の境界 第二章 殺人考察(前)</title>
+		<updated>2010-01-17T18:39:15+08:00</updated>
+		<link href="http://api.douban.com/collection/204111837" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/2354900" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/2354900</id>
+			<title>空の境界 第二章 殺人考察(前)</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>野中卓也</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/2354900" rel="self"/>
+			<link href="http://movie.douban.com/subject/2354900/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2820190.jpg" rel="image"/>
+			<db:attribute name="website">http://www.karanokyoukai.com/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="writer">平松正树</db:attribute>
+			<db:attribute name="director">野中卓也</db:attribute>
+			<db:attribute name="pubdate">2007-12-29</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1155651/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">空之境界 第二章 杀人考察（前）</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">坂本真绫</db:attribute>
+			<db:attribute name="cast">铃村健一</db:attribute>
+			<db:attribute name="cast">中田让治</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/203503782</id>
+		<title>一阵风 看过 東京マーブルチョコレート</title>
+		<updated>2010-01-16T11:55:53+08:00</updated>
+		<link href="http://api.douban.com/collection/203503782" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3138953" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3138953</id>
+			<title>東京マーブルチョコレート</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>盐谷直义</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3138953" rel="self"/>
+			<link href="http://movie.douban.com/subject/3138953/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2808453.jpg" rel="image"/>
+			<db:attribute name="director">盐谷直义</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">东京糖衣巧克力</db:attribute>
+			<db:attribute name="website">http://www.tokyomarble.com</db:attribute>
+			<db:attribute name="writer">尾崎将也</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1239461/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="pubdate">2007-12-05</db:attribute>
+			<db:attribute name="cast">井上麻里奈</db:attribute>
+			<db:attribute name="cast">岩田光央</db:attribute>
+			<db:attribute name="cast">水树奈奈</db:attribute>
+			<db:attribute name="cast">中村优一</db:attribute>
+			<db:attribute name="cast">樱井孝宏</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/203254554</id>
+		<title>一阵风 想看 The Phantom of the Opera</title>
+		<updated>2010-01-15T19:27:48+08:00</updated>
+		<link href="http://api.douban.com/collection/203254554" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1291554" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1291554</id>
+			<title>The Phantom of the Opera</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Joel Schumacher</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1291554" rel="self"/>
+			<link href="http://movie.douban.com/subject/1291554/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1492563.jpg" rel="image"/>
+			<db:attribute name="website">http://phantomthemovie.warnerbros.com/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="country">英国</db:attribute>
+			<db:attribute name="writer">安德鲁·洛伊德·韦伯</db:attribute>
+			<db:attribute name="writer">加斯顿·勒鲁</db:attribute>
+			<db:attribute name="writer">乔·舒马赫</db:attribute>
+			<db:attribute name="director">乔·舒马赫</db:attribute>
+			<db:attribute name="pubdate">2004-12-09</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0293508/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">歌剧魅影</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">法语</db:attribute>
+			<db:attribute name="language">意大利语</db:attribute>
+			<db:attribute name="language">西班牙语</db:attribute>
+			<db:attribute name="cast">杰拉德·巴特勒</db:attribute>
+			<db:attribute name="cast">埃米·罗森</db:attribute>
+			<db:attribute name="cast">帕特里克·威尔森</db:attribute>
+			<db:attribute name="cast">米兰达·理查森</db:attribute>
+			<db:attribute name="cast">明妮·德里弗</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/192609536</id>
+		<title>一阵风 看过 火垂るの墓</title>
+		<updated>2009-12-20T22:06:19+08:00</updated>
+		<link href="http://api.douban.com/collection/192609536" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1293318" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1293318</id>
+			<title>火垂るの墓</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>高畑勋</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1293318" rel="self"/>
+			<link href="http://movie.douban.com/subject/1293318/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3661143.jpg" rel="image"/>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="writer">野坂昭如</db:attribute>
+			<db:attribute name="writer">高畑勋</db:attribute>
+			<db:attribute name="director">高畑勋</db:attribute>
+			<db:attribute name="pubdate">1988-04-16</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0095327/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">萤火虫之墓</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">辰己努</db:attribute>
+			<db:attribute name="cast">白石绫乃</db:attribute>
+			<db:attribute name="cast">志乃原良子</db:attribute>
+			<db:attribute name="cast">山口朱美</db:attribute>
+			<db:attribute name="cast">端田宏三</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/192078663</id>
+		<title>一阵风 看过 Forrest Gump</title>
+		<updated>2009-12-19T19:15:39+08:00</updated>
+		<link href="http://api.douban.com/collection/192078663" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1292720" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1292720</id>
+			<title>Forrest Gump</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Robert Zemeckis</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1292720" rel="self"/>
+			<link href="http://movie.douban.com/subject/1292720/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s4008884.jpg" rel="image"/>
+			<db:attribute name="director">罗伯特·泽米吉斯</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">阿甘正传</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">艾瑞克·罗斯</db:attribute>
+			<db:attribute name="writer">Winston Groom</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0109830/</db:attribute>
+			<db:attribute name="pubdate">1994-07-06</db:attribute>
+			<db:attribute name="cast">汤姆·汉克斯</db:attribute>
+			<db:attribute name="cast">罗宾·怀特</db:attribute>
+			<db:attribute name="cast">加里·西尼斯</db:attribute>
+			<db:attribute name="cast">麦凯尔泰·威廉逊</db:attribute>
+			<db:attribute name="cast">莎莉·菲尔德</db:attribute>
+			<db:attribute name="cast">Michael Conner Humphreys</db:attribute>
+			<db:attribute name="cast">海利·乔·奥斯蒙</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/192078132</id>
+		<title>一阵风 看过 Léon</title>
+		<updated>2009-12-19T19:14:31+08:00</updated>
+		<link href="http://api.douban.com/collection/192078132" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1295644" rel="http://www.douban.com/2007#subject"/>
+		<summary>很经典的~</summary>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1295644</id>
+			<title>Léon</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Luc Besson</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1295644" rel="self"/>
+			<link href="http://movie.douban.com/subject/1295644/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3877058.jpg" rel="image"/>
+			<db:attribute name="director">吕克·贝松</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">这个杀手不太冷</db:attribute>
+			<db:attribute name="website">http://www.luc-besson.com/fr/films/leon/index.html</db:attribute>
+			<db:attribute name="writer">吕克·贝松</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0110413/</db:attribute>
+			<db:attribute name="country">法国</db:attribute>
+			<db:attribute name="pubdate">1994-09-14</db:attribute>
+			<db:attribute name="cast">让·雷诺</db:attribute>
+			<db:attribute name="cast">娜塔丽·波曼</db:attribute>
+			<db:attribute name="cast">加里·奥德曼</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/192054948</id>
+		<title>一阵风 看过 No Country for Old Men</title>
+		<updated>2009-12-19T18:20:32+08:00</updated>
+		<link href="http://api.douban.com/collection/192054948" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1857099" rel="http://www.douban.com/2007#subject"/>
+		<summary>看完一大半还没看懂什么意思，不过是一部很有意思的电影~</summary>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1857099</id>
+			<title>No Country for Old Men</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Ethan Coen</name>
+			</author>
+			<author>
+				<name>Joel Coen</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1857099" rel="self"/>
+			<link href="http://movie.douban.com/subject/1857099/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s2604214.jpg" rel="image"/>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">乔尔·科恩</db:attribute>
+			<db:attribute name="writer">伊桑·科恩</db:attribute>
+			<db:attribute name="writer">考麦克·麦卡锡</db:attribute>
+			<db:attribute name="director">伊桑·科恩</db:attribute>
+			<db:attribute name="director">乔尔·科恩</db:attribute>
+			<db:attribute name="pubdate">2008-02-21</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0477348/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">老无所依</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">西班牙语</db:attribute>
+			<db:attribute name="cast">汤米·李·琼斯</db:attribute>
+			<db:attribute name="cast">哈维尔·巴登</db:attribute>
+			<db:attribute name="cast">乔什·布洛林</db:attribute>
+			<db:attribute name="cast">凯莉·麦克唐纳</db:attribute>
+			<db:attribute name="cast">伍迪·哈里森</db:attribute>
+			<db:attribute name="cast">加瑞特·迪拉胡特</db:attribute>
+			<db:attribute name="cast">泰丝·哈珀</db:attribute>
+			<db:attribute name="cast">巴里·柯宾</db:attribute>
+			<db:attribute name="cast">斯蒂芬·鲁特</db:attribute>
+			<db:attribute name="cast">Rodger Boyce</db:attribute>
+			<db:attribute name="cast">贝丝·格兰特</db:attribute>
+			<db:attribute name="cast">Kit Gwin</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/191925703</id>
+		<title>一阵风 看过 らき☆すた</title>
+		<updated>2009-12-19T12:44:08+08:00</updated>
+		<link href="http://api.douban.com/collection/191925703" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/2224505" rel="http://www.douban.com/2007#subject"/>
+		<summary>经典，特别是泉此方的萌音~</summary>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/2224505</id>
+			<title>らき☆すた</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>山本寛</name>
+			</author>
+			<author>
+				<name>武本康弘</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/2224505" rel="self"/>
+			<link href="http://movie.douban.com/subject/2224505/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2620365.jpg" rel="image"/>
+			<db:attribute name="director">山本寛</db:attribute>
+			<db:attribute name="director">武本康弘</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">幸运星</db:attribute>
+			<db:attribute name="website">http://www.comptiq.com/event/luckystar/</db:attribute>
+			<db:attribute name="writer">待田堂子</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1086236/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="pubdate">2007-04-08</db:attribute>
+			<db:attribute name="cast">平野綾（voice）</db:attribute>
+			<db:attribute name="cast">福原香织（voice）</db:attribute>
+			<db:attribute name="cast">加藤英美里（voice）</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/191925503</id>
+		<title>一阵风 看过 けいおん!</title>
+		<updated>2009-12-19T12:43:38+08:00</updated>
+		<link href="http://api.douban.com/collection/191925503" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3681349" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3681349</id>
+			<title>けいおん!</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>山田尚子</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3681349" rel="self"/>
+			<link href="http://movie.douban.com/subject/3681349/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3653910.jpg" rel="image"/>
+			<db:attribute name="director">山田尚子</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">轻音少女</db:attribute>
+			<db:attribute name="website">http://www.tbs.co.jp/anime/k-on/</db:attribute>
+			<db:attribute name="writer">吉田玲子</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1410218/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="pubdate">2009-04-02</db:attribute>
+			<db:attribute name="cast">日笠阳子</db:attribute>
+			<db:attribute name="cast">丰崎爱生</db:attribute>
+			<db:attribute name="cast">竹达彩奈</db:attribute>
+			<db:attribute name="cast">佐藤聪美</db:attribute>
+			<db:attribute name="cast">寿美菜子</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/191925417</id>
+		<title>一阵风 看过 とらドラ!</title>
+		<updated>2009-12-19T12:43:27+08:00</updated>
+		<link href="http://api.douban.com/collection/191925417" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3184594" rel="http://www.douban.com/2007#subject"/>
+		<summary>青春喜剧~</summary>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3184594</id>
+			<title>とらドラ!</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>長井龍雪</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3184594" rel="self"/>
+			<link href="http://movie.douban.com/subject/3184594/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3393910.jpg" rel="image"/>
+			<db:attribute name="director">長井龍雪</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">龙与虎</db:attribute>
+			<db:attribute name="website">www.starchild.co.jp/special/toradora</db:attribute>
+			<db:attribute name="writer">冈田麿里</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1279024/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="pubdate">2008-10-01</db:attribute>
+			<db:attribute name="cast">钉宫理惠</db:attribute>
+			<db:attribute name="cast">間島淳司</db:attribute>
+			<db:attribute name="cast">堀江由衣</db:attribute>
+			<db:attribute name="cast">野岛裕史</db:attribute>
+			<db:attribute name="cast">喜多村英梨</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/191923327</id>
+		<title>一阵风 看过 ＡＩＲ</title>
+		<updated>2009-12-19T12:38:18+08:00</updated>
+		<link href="http://api.douban.com/collection/191923327" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1980737" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1980737</id>
+			<title>ＡＩＲ</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>石原立也</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1980737" rel="self"/>
+			<link href="http://movie.douban.com/subject/1980737/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2608288.jpg" rel="image"/>
+			<db:attribute name="director">石原立也</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">晴空</db:attribute>
+			<db:attribute name="website">http://www.bs-i.co.jp/anime/AIR/</db:attribute>
+			<db:attribute name="writer">志茂文彦</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0940874/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="pubdate">2005-01-06</db:attribute>
+			<db:attribute name="cast">小野大辅</db:attribute>
+			<db:attribute name="cast">川上伦子</db:attribute>
+		</db:subject>
+		<db:tag name="催泪三部曲"/>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/191852170</id>
+		<title>一阵风 看过 崖の上のポニョ</title>
+		<updated>2009-12-19T00:35:10+08:00</updated>
+		<link href="http://api.douban.com/collection/191852170" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1959877" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1959877</id>
+			<title>崖の上のポニョ</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>宫崎骏</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1959877" rel="self"/>
+			<link href="http://movie.douban.com/subject/1959877/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3031463.jpg" rel="image"/>
+			<db:attribute name="website">http://www.ghibli.jp/ponyo/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="writer">宫崎骏</db:attribute>
+			<db:attribute name="director">宫崎骏</db:attribute>
+			<db:attribute name="pubdate">2008-07-19</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0876563/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">悬崖上的金鱼姬</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">山口智子</db:attribute>
+			<db:attribute name="cast">長嶋一茂</db:attribute>
+			<db:attribute name="cast">天海祐希</db:attribute>
+			<db:attribute name="cast">柊瑠美</db:attribute>
+			<db:attribute name="cast">奈良柚莉爱</db:attribute>
+			<db:attribute name="cast">土井洋辉</db:attribute>
+			<db:attribute name="cast">奈良冈朋子</db:attribute>
+			<db:attribute name="cast">吉行和子</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/191851910</id>
+		<title>一阵风 看过 秒速5センチメートル</title>
+		<updated>2009-12-19T00:34:27+08:00</updated>
+		<link href="http://api.douban.com/collection/191851910" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/2043546" rel="http://www.douban.com/2007#subject"/>
+		<summary>画面很唯美~</summary>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/2043546</id>
+			<title>秒速5センチメートル</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>新海诚</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/2043546" rel="self"/>
+			<link href="http://movie.douban.com/subject/2043546/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2158665.jpg" rel="image"/>
+			<db:attribute name="website">http://5cm.yahoo.co.jp/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="writer">新海诚</db:attribute>
+			<db:attribute name="director">新海诚</db:attribute>
+			<db:attribute name="pubdate">2007-03-03</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0983213/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">秒速五厘米</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">水桥研二</db:attribute>
+			<db:attribute name="cast">近藤好美</db:attribute>
+			<db:attribute name="cast">尾上绫华</db:attribute>
+			<db:attribute name="cast">花村怜美</db:attribute>
+			<db:attribute name="cast">中村优子</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/191851680</id>
+		<title>一阵风 看过 天空の城ラピュタ</title>
+		<updated>2009-12-19T00:33:52+08:00</updated>
+		<link href="http://api.douban.com/collection/191851680" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1291583" rel="http://www.douban.com/2007#subject"/>
+		<summary>经典之作~</summary>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1291583</id>
+			<title>天空の城ラピュタ</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>宫崎骏</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1291583" rel="self"/>
+			<link href="http://movie.douban.com/subject/1291583/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s3819594.jpg" rel="image"/>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="writer">宫崎骏</db:attribute>
+			<db:attribute name="director">宫崎骏</db:attribute>
+			<db:attribute name="pubdate">1986-08-02</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0092067/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">天空之城</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">田中真弓</db:attribute>
+			<db:attribute name="cast">鹫尾真知子</db:attribute>
+			<db:attribute name="cast">初井言荣</db:attribute>
+			<db:attribute name="cast">寺田农</db:attribute>
+			<db:attribute name="cast">常田富士男</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/191851515</id>
+		<title>一阵风 看过 となりのトトロ</title>
+		<updated>2009-12-19T00:33:24+08:00</updated>
+		<link href="http://api.douban.com/collection/191851515" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1291560" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1291560</id>
+			<title>となりのトトロ</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>宫崎骏</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1291560" rel="self"/>
+			<link href="http://movie.douban.com/subject/1291560/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1986510.jpg" rel="image"/>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="director">宫崎骏</db:attribute>
+			<db:attribute name="pubdate">1988-04-16</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0096283/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">龙猫</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">日高法子</db:attribute>
+			<db:attribute name="cast">坂本千夏</db:attribute>
+			<db:attribute name="cast">岛本须美</db:attribute>
+			<db:attribute name="cast">北林谷荣</db:attribute>
+			<db:attribute name="cast">高木均</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/191851198</id>
+		<title>一阵风 看过 時をかける少女</title>
+		<updated>2009-12-19T00:32:38+08:00</updated>
+		<link href="http://api.douban.com/collection/191851198" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1937946" rel="http://www.douban.com/2007#subject"/>
+		<summary>剧情很不错，看了两遍。。。。很好的电影~</summary>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1937946</id>
+			<title>時をかける少女</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>细田守</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1937946" rel="self"/>
+			<link href="http://movie.douban.com/subject/1937946/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2353521.jpg" rel="image"/>
+			<db:attribute name="website">www.kadokawa.co.jp/tokikake/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="writer">奧寺佐渡子</db:attribute>
+			<db:attribute name="director">细田守</db:attribute>
+			<db:attribute name="pubdate">2006-07-15</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0808506/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">穿越时空的少女</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">仲里依纱</db:attribute>
+			<db:attribute name="cast">石田卓也</db:attribute>
+			<db:attribute name="cast">板仓光隆</db:attribute>
+			<db:attribute name="cast">垣内彩未</db:attribute>
+			<db:attribute name="cast">谷村美月</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/191388947</id>
+		<title>一阵风 看过 Kanon</title>
+		<updated>2009-12-17T21:44:23+08:00</updated>
+		<link href="http://api.douban.com/collection/191388947" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1959005" rel="http://www.douban.com/2007#subject"/>
+		<summary>不错的作品~</summary>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1959005</id>
+			<title>Kanon</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>石原立也</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1959005" rel="self"/>
+			<link href="http://movie.douban.com/subject/1959005/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2360588.jpg" rel="image"/>
+			<db:attribute name="website">http://www.bs-i.co.jp/anime/kanon/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="writer">麻枝准</db:attribute>
+			<db:attribute name="director">石原立也</db:attribute>
+			<db:attribute name="pubdate">2006-10-05</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0928093/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">雪之少女</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="cast">杉田智和</db:attribute>
+			<db:attribute name="cast">堀江由衣</db:attribute>
+			<db:attribute name="cast">國府田マリ子</db:attribute>
+			<db:attribute name="cast">饭冢雅弓</db:attribute>
+			<db:attribute name="cast">佐藤朱</db:attribute>
+			<db:attribute name="cast">川澄绫子</db:attribute>
+			<db:attribute name="cast">坂本真绫</db:attribute>
+		</db:subject>
+		<db:tag name="催泪三部曲"/>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/191388679</id>
+		<title>一阵风 看过 CLANNAD ～AFTER STORY～</title>
+		<updated>2009-12-17T21:43:50+08:00</updated>
+		<link href="http://api.douban.com/collection/191388679" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3230813" rel="http://www.douban.com/2007#subject"/>
+		<summary>非常的感人，最喜欢的动画~</summary>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3230813</id>
+			<title>CLANNAD ～AFTER STORY～</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>石原立也</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3230813" rel="self"/>
+			<link href="http://movie.douban.com/subject/3230813/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3687385.jpg" rel="image"/>
+			<db:attribute name="website">http://www.tbs.co.jp/clannad/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="pubdate">2008-10-02</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1298820/</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/191388381</id>
+		<title>一阵风 看过 もうひとつの世界 智代編</title>
+		<updated>2009-12-17T21:43:17+08:00</updated>
+		<link href="http://api.douban.com/collection/191388381" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3160947" rel="http://www.douban.com/2007#subject"/>
+		<summary>很感人，特别是雪中的那一段对白，感觉超级经典~相当感人</summary>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3160947</id>
+			<title>もうひとつの世界 智代編</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>石原立也</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3160947" rel="self"/>
+			<link href="http://movie.douban.com/subject/3160947/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3290658.jpg" rel="image"/>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="director">石原立也</db:attribute>
+			<db:attribute name="pubdate">2008-07-16</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">CLANNAD・智代篇</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1267316/</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/190242412</id>
+		<title>一阵风 看过 涼宮ハルヒちゃんの憂鬱</title>
+		<updated>2009-12-14T22:37:20+08:00</updated>
+		<link href="http://api.douban.com/collection/190242412" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3578781" rel="http://www.douban.com/2007#subject"/>
+		<summary>特别好看，推荐~</summary>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3578781</id>
+			<title>涼宮ハルヒちゃんの憂鬱</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>石原立也</name>
+			</author>
+			<author>
+				<name>武本康弘</name>
+			</author>
+			<author>
+				<name>谷川流</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3578781" rel="self"/>
+			<link href="http://movie.douban.com/subject/3578781/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s3604474.jpg" rel="image"/>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="pubdate">2009-04-02</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">小凉宫春日的忧郁</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt1386581/</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/190242262</id>
+		<title>一阵风 看过 涼宮ハルヒの憂鬱 新アニメーション</title>
+		<updated>2009-12-14T22:37:04+08:00</updated>
+		<link href="http://api.douban.com/collection/190242262" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/3793005" rel="http://www.douban.com/2007#subject"/>
+		<summary>没第一季经典，不过也很好看~</summary>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/3793005</id>
+			<title>涼宮ハルヒの憂鬱 新アニメーション</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>石原立也</name>
+			</author>
+			<author>
+				<name>武本康弘</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/3793005" rel="self"/>
+			<link href="http://movie.douban.com/subject/3793005/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3927681.jpg" rel="image"/>
+			<db:attribute name="website">http://www.haruhi.tv/</db:attribute>
+			<db:attribute name="country">日本</db:attribute>
+			<db:attribute name="director">石原立也</db:attribute>
+			<db:attribute name="director">武本康弘</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">凉宫春日的忧郁（2009）</db:attribute>
+			<db:attribute name="pubdate">2009-04-02</db:attribute>
+			<db:attribute name="language">日语</db:attribute>
+		</db:subject>
+	</entry>
+	<opensearch:itemsPerPage>50</opensearch:itemsPerPage>
+</feed>

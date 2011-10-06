@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:db="http://www.douban.com/xmlns/" xmlns:gd="http://schemas.google.com/g/2005" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:opensearch="http://a9.com/-/spec/opensearchrss/1.0/">
+	<title>云之山 的收藏</title>
+	<author>
+		<link href="http://api.douban.com/people/33327412" rel="self"/>
+		<link href="http://www.douban.com/people/sharps/" rel="alternate"/>
+		<link href="http://img3.douban.com/icon/u33327412-3.jpg" rel="icon"/>
+		<name>云之山</name>
+		<uri>http://api.douban.com/people/33327412</uri>
+	</author>
+	<opensearch:startIndex>1</opensearch:startIndex>
+	<opensearch:totalResults>2</opensearch:totalResults>
+	<entry>
+		<id>http://api.douban.com/collection/214305489</id>
+		<title>云之山 看过 Van Helsing</title>
+		<updated>2010-02-07T23:05:16+08:00</updated>
+		<link href="http://api.douban.com/collection/214305489" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1309136" rel="http://www.douban.com/2007#subject"/>
+		<summary>感觉还可以</summary>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1309136</id>
+			<title>Van Helsing</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>Stephen Sommers</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1309136" rel="self"/>
+			<link href="http://movie.douban.com/subject/1309136/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1426059.jpg" rel="image"/>
+			<db:attribute name="website">http://www.vanhelsing.net/</db:attribute>
+			<db:attribute name="country">捷克</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="writer">斯蒂芬·索莫斯</db:attribute>
+			<db:attribute name="director">斯蒂芬·索莫斯</db:attribute>
+			<db:attribute name="pubdate">2004-05-05</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0338526/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">范海辛</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="language">拉丁语</db:attribute>
+			<db:attribute name="cast">凯特·贝金赛尔</db:attribute>
+			<db:attribute name="cast">罗彼·考特拉尼</db:attribute>
+			<db:attribute name="cast">休·杰克曼</db:attribute>
+			<db:attribute name="cast">大卫·文翰</db:attribute>
+			<db:attribute name="cast">理查德·劳斯伯格</db:attribute>
+		</db:subject>
+		<db:tag name="恐怖"/>
+		<gd:rating max="5" min="1" value="3"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/204993573</id>
+		<title>云之山 看过 Avatar</title>
+		<updated>2010-01-19T18:19:49+08:00</updated>
+		<link href="http://api.douban.com/collection/204993573" rel="self"/>
+		<link href="http://api.douban.com/movie/subject/1652587" rel="http://www.douban.com/2007#subject"/>
+		<db:status>watched</db:status>
+		<db:subject>
+			<id>http://api.douban.com/movie/subject/1652587</id>
+			<title>Avatar</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#movie"/>
+			<author>
+				<name>James Cameron</name>
+			</author>
+			<link href="http://api.douban.com/movie/subject/1652587" rel="self"/>
+			<link href="http://movie.douban.com/subject/1652587/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4065701.jpg" rel="image"/>
+			<db:attribute name="website">http://www.avatarmovie.com/</db:attribute>
+			<db:attribute name="country">美国</db:attribute>
+			<db:attribute name="country">英国</db:attribute>
+			<db:attribute name="writer">詹姆斯·卡梅隆</db:attribute>
+			<db:attribute name="director">詹姆斯·卡梅隆</db:attribute>
+			<db:attribute name="pubdate">2009-12-16</db:attribute>
+			<db:attribute name="imdb">http://www.imdb.com/title/tt0499549/</db:attribute>
+			<db:attribute lang="zh_CN" name="aka">阿凡达</db:attribute>
+			<db:attribute name="language">英语</db:attribute>
+			<db:attribute name="cast">萨姆·沃辛顿</db:attribute>
+			<db:attribute name="cast">佐伊·索尔达娜</db:attribute>
+			<db:attribute name="cast">西格妮·韦弗</db:attribute>
+			<db:attribute name="cast">史蒂芬·朗</db:attribute>
+			<db:attribute name="cast">米歇尔·罗德里格兹</db:attribute>
+			<db:attribute name="cast">乔·摩尔</db:attribute>
+			<db:attribute name="cast">吉奥瓦尼·瑞比西</db:attribute>
+		</db:subject>
+	</entry>
+	<opensearch:itemsPerPage>50</opensearch:itemsPerPage>
+</feed>
