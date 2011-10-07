@@ -71,7 +71,6 @@ def get_user(group_uri, where):
                 if str(13577294) in line:       # this num will SOMEHOW INCREASE 1
                         max = int(line.split('-')[1].split()[0])
         start = 0 if max == 0 else random.randint(0, int(max) - 35)
-        start = 42
         print("<h4>你的幸运数字是 *{0}*</h4>".format(start))
         uri = "{0}/member_search?search_text={1}&start={2}".format(group_uri, where, start)
         fh = urllib.request.urlopen(uri)

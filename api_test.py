@@ -40,9 +40,7 @@ def get_user(group_uri, where):
 def main():
         group_url = "http://www.douban.com/group/python/"
         location = "天津"
-        GMT_FORMAT = '%a, %d %b %Y %H:%M:%S GMT'
         get_user(group_url, location)
-        header = {'If-Modified-Since': 'Wed, 28 Sep 2011 09:50:50 GMT'}
         for i in range(900):
                 try:
                         p = urllib.request.urlopen("http://api.douban.com/people/{0}?alt=atom&apikey={1}".format(people_list[i%35][0],APIKEY))
