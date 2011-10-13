@@ -4,6 +4,7 @@ import threading
 import time
 import fcntl
 import urllib.request
+import urllib.error
 import queue
 import os
 LOCK_EX = fcntl.LOCK_EX
@@ -13,8 +14,9 @@ LOCK_NB = fcntl.LOCK_NB
 IS_LOCAL = True
 ROOTDIR = "/home/sunus/apache/" if IS_LOCAL == True else "/usr/local/apache2/"
 APIKEY = "053caab0d0224c680fb600127066e538"
-
+EXIT = False
 def download_t(uid, cat, start, queue, t_name):
+        global EXIT
         url = "http://api.douban.com/people/{0}/collection?cat={1}&tag=&status=&start-index={2}&max-results=50&alt=atom&apykey={3}".format(uid, cat, start,APIKEY)
         filename = '{0}_{1}_{2}'.format(uid, cat, start)
         while True:
@@ -34,7 +36,20 @@ def download_t(uid, cat, start, queue, t_name):
         fcntl.flock(fh, LOCK_UN)
         fh.close()
         #print('start dl:{0} {1}'.format(t_name, time.ctime()))
-        data = urllib.request.urlopen(url).read().decode('utf8')
+        try:
+                data = urllib.request.urlopen(url).read().decode('utf8')
+        except (urllib.error.URLError, ValueError) as e:
+                if hasattr(e, 'reason'):
+                        print("<h4>Cannot connected to the server</h4>")
+                        print("<h4>url:</h4>",url)
+                        EXIT = True
+                        return
+                if hasattr(e, 'code'):
+                        print("<h4>Return code:",e.code,"error</h4>")
+                        print("<h4>",e.msg,"</h4>")
+                        print("<h4>url:</h4>",url)
+                        EXIT = True
+                        return
         fw = open(ROOTDIR + r'htdocs/cache_datas/' + filename, "w+", encoding = 'utf8')
         fw.write(data)
         fw.close()

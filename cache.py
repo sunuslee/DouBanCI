@@ -1,4 +1,5 @@
 #!/usr/bin/env python3.1
+# -*- coding: UTF-8 -*-
 
 IS_LOCAL = True
 ROOTDIR = "/home/sunus/apache/" if IS_LOCAL == True else "/usr/local/apache2/"
@@ -11,8 +12,10 @@ def write_entry(fh, entry_type, entry):
 
 def cache_save(filename_path):
         filename = filename_path.split('/')[-1]
-        user = filename.split('_')[0]
-        cat = filename.split('_')[1]
+        rl = filename.rfind('_')
+        rl = filename[:rl].rfind('_')
+        user = filename[:rl]
+        cat = filename.split('_')[-2]
         item_status = "<db:status>"
         item_title = "<title>"
         item_id = "<id>"

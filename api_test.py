@@ -22,7 +22,7 @@ def get_user(group_uri, where):
                 if str(13577294) in line:       # this num will SOMEHOW INCREASE 1
                         max = int(line.split('-')[1].split()[0])
         start = 0 if max == 0 else random.randint(0, int(max) - 35)
-        print("<h4>你的幸运数字是 *{0}*</h4>".format(start))
+        print("<h4>*{0}*</h4>".format(start))
         uri = "{0}/member_search?search_text={1}&start={2}".format(group_uri, where, start)
         fh = urllib.request.urlopen(uri)
         contents = fh.read().decode("utf8")
@@ -41,19 +41,25 @@ def main():
         group_url = "http://www.douban.com/group/python/"
         location = "天津"
         get_user(group_url, location)
+        fw = open('testlog', 'w')
         for i in range(900):
                 try:
-                        p = urllib.request.urlopen("http://api.douban.com/people/{0}?alt=atom&apikey={1}".format(people_list[i%35][0],APIKEY))
+                        url = "http://api.douban.com/people/{0}/collection?cat={1}&tag=&status=&start-index={2}&max-results=50&alt=atom&apykey={3}".format(people_list[i%35][0], 'movie', 1,APIKEY)
+                        p = urllib.request.urlopen(url)
                         rec = p.read().decode("utf8")
-                        print("cnt = {0} user = {1}\n".format(i, people_list[i%35][0]))
+                        print("cnt = {0} user = {1} {2}\n".format(i, people_list[i%35][0], time.ctime()))
+                        fw.write("cnt = {0} user = {1} {2}\n".format(i, people_list[i%35][0], time.ctime()))
+                        fw.flush()
                         time.sleep(2.1)
                 except (urllib.error.URLError, ValueError) as e:
                         if hasattr(e, 'reason'):
                                 print("<h4>Cannot connected to the server</h4>")
+                                break
                         if hasattr(e, 'code'):
                                 print("<h4>Return code:",e.code,"error</h4>")
-                                print("<h4>This username/group may not exsit</h4>")
-
+                                print("<h4>",e.msg,"</h4>")
+                                break
+        fw.close()
         print("done")
 
 if __name__ == "__main__":
