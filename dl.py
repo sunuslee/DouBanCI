@@ -21,7 +21,7 @@ def download_t(uid, cat, start, queue, t_name):
         filename = '{0}_{1}_{2}'.format(uid, cat, start)
         while True:
                 try:
-                        fh = open("api_limit_fs", "a+")
+                        fh = open("api_limit", "a+")
                         fcntl.flock(fh.fileno(), LOCK_EX|LOCK_NB)
                         break
                 except IOError:
