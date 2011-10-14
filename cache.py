@@ -66,6 +66,6 @@ def cache_load(filename_path):
         content = fr.read()
         for line in content.splitlines():
                 line = line.split('\t')
-                item_dict[line[2]] = [line[0], line[1], line[3] if len(line) == 5 else 'None']
+                item_dict[line[2]] = [line[0], line[1], line[3] if len(line) == 5 else line[2]]
         fr.close()
         return item_dict

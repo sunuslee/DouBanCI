@@ -20,7 +20,6 @@ import time
 import random
 import os
 import url
-import db_api
 import get_names
 import cache
 import dl
@@ -71,7 +70,6 @@ def get_user(group_uri, where):
                 if str(13577294) in line:       # this num will SOMEHOW INCREASE 1
                         max = int(line.split('-')[1].split()[0])
         start = 0 if max == 0 else random.randint(0, int(max) - 35)
-        start = 378
         print("<h4>你的幸运数字是 *{0}*</h4>".format(start))
         uri = "{0}/member_search?search_text={1}&start={2}".format(group_uri, where, start)
         fh = urllib.request.urlopen(uri)
@@ -136,7 +134,7 @@ def get_match_rate(uid1_idx, uid2_idx, cat):
                       <td width="300px"><h4><a href="{3}" target="_blank">{0}</a></h4></td>\
                       <td width="150px"><h4>{1}</h4></td>\
                       <td width="150px"><h4>{2}</h4></td></tr>'.\
-                      format(name, table[uid1_idx][1][item_name][0], table[uid2_idx][1][item_name][0], link_db_item + table[uid1_idx][1][item_name][1]))
+                      format(name, table[uid1_idx][1][item_name][0], table[uid2_idx][1][item_name][0], table[uid1_idx][1][item_name][1]))
         print("</table>")
         rate = len(common_set)
         return [uid2_idx, rate]
@@ -155,6 +153,7 @@ def var_verify(user, group = None, cat = None, location = None):
                         urllib.request.urlopen(group)
                 else:
                         print("<h4>This isn't DouBan Group!</h4>")
+                        return False
         except (urllib.error.URLError, ValueError) as e:
                 if hasattr(e, 'reason'):
                         print("<h4>{0}</h4>".format(e.reason))
