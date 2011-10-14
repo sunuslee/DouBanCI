@@ -67,5 +67,6 @@ def cache_load(filename_path):
         for line in content.splitlines():
                 line = line.split('\t')
                 item_dict[line[2]] = [line[0], line[1], line[3] if len(line) == 5 else line[2]]
+                # line[3] is AKA , line[2] is the ORIGIN NAME
         fr.close()
         return item_dict
