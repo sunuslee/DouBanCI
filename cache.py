@@ -1,7 +1,7 @@
 #!/usr/bin/env python3.1
 # -*- coding: UTF-8 -*-
 
-IS_LOCAL = True
+IS_LOCAL = False
 ROOTDIR = "/home/sunus/apache/" if IS_LOCAL == True else "/usr/local/apache2/"
 status_chs = {"wishmovie":"想看",       "watchingmovie":"在看",         "watchedmovie":"看过",
               "wishmusic":"想听",       "listeningmusic":"在听",        "listenedmusic":"听过",
