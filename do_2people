@@ -60,7 +60,7 @@ class Worker(threading.Thread):
 
 
 def get_user_collection(user, cat):
-        global table_movie, table_music, table_music
+        global table_movie, table_music, table_book
         if cat == "movie":
                 table = table_movie
         elif cat == "music":
@@ -75,7 +75,7 @@ def get_user_collection(user, cat):
 # This function returns the uid1-uid2's match rate
 # uid1 and uid2 has it's own index in table.
 def get_match_rate(uid1_idx, uid2_idx, cat):
-        global table_movie, table_music, table_music
+        global table_movie, table_music, table_book
         if cat == "movie":
                 table = table_movie
                 cat_local = "电影"
@@ -189,25 +189,24 @@ def main():
                         if os.access(file_path, os.R_OK) == False:
                                 dl_queue.put([people[0], cat, 1, dl_queue])
                                 dl_queue.join()
-                        if dl.EXIT == True:
-                                print("<h4> DL.exit =", dl.EXIT, "</h4>")
-                                print("</body>")
-                                print("</html>")
-                                sys.stdout.close()
-                                sys.stdout = Old_stdout
-                                f = open(ROOTDIR + "htdocs/history/group_{0}_{1}_{2}.html".format(you, group_url.rsplit('/', 2)[1], suffix), "r", encoding = "utf8")
-                                sys.stdout = codecs.getwriter('utf8')(sys.stdout.buffer) # comment this out if you want to debug
-                                print("Content-type:text/html; charset=UTF-8\r\n\r\n")
-                                print(f.read())
-                                f.close()
-                                return
-
-                        cache.cache_save(ROOTDIR + r'htdocs/cache_datas/' + people[0] + '_' + cat + '_1')
-                        get_user_collection(people, cat)
-                else:
-                        people[1] += '(c)'
-                        get_user_collection(people, cat)
-
+                                if dl.EXIT == True:
+                                        print("<h4> DL.exit =", dl.EXIT, "</h4>")
+                                        print("</body>")
+                                        print("</html>")
+                                        sys.stdout.close()
+                                        sys.stdout = Old_stdout
+                                        f = open(ROOTDIR + "htdocs/history/group_{0}_{1}_{2}.html".format(you, group_url.rsplit('/', 2)[1], suffix), "r", encoding = "utf8")
+                                        sys.stdout = codecs.getwriter('utf8')(sys.stdout.buffer) # comment this out if you want to debug
+                                        print("Content-type:text/html; charset=UTF-8\r\n\r\n")
+                                        print(f.read())
+                                        f.close()
+                                        return
+                                cache.cache_save(ROOTDIR + r'htdocs/cache_datas/' + people[0] + '_' + cat + '_1')
+                                get_user_collection(people, cat)
+                        else:
+                                if people[1].endswith('(c)') == False:
+                                        people[1] += '(c)'
+                                get_user_collection(people, cat)
         mp = []
         rank = []
         # 0 is uid1, and uid2_idx starts from 1

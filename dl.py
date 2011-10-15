@@ -17,7 +17,7 @@ APIKEY = "053caab0d0224c680fb600127066e538"
 EXIT = False
 def download_t(uid, cat, start, queue, t_name):
         global EXIT
-        url = "http://api.douban.com/people/{0}/collection?cat={1}&tag=&status=&start-index={2}&max-results=50&alt=atom&apykey={3}".format(uid, cat, start,APIKEY)
+        url = "http://api.douban.com/people/{0}/collection?cat={1}&tag=&status=&start-index={2}&max-results=50&alt=atom&apikey={3}".format(uid, cat, start,APIKEY)
         filename = '{0}_{1}_{2}'.format(uid, cat, start)
         while True:
                 try:
