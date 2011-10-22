@@ -4,15 +4,30 @@
 import user_queue
 import os
 import time
-import sendmail
-def mian():
+import url
+
+IS_LOCAL = True
+ROOTDIR = "/home/sunus/apache/" if IS_LOCAL == True else "/usr/local/apache2/"
+HOSTNAME = "http://localhost/"  if IS_LOCAL == True else "http://184.164.137.154/"
+DO_CI_PATH = '/home/sunus/apache/cgi-bin/do_ci' if IS_LOCAL == True else '/usr/local/apache2/cgi-bin/do_ci'
+SEND_MAIL_PATH = '/home/sunus/apache/cgi-bin/sendmail.py' if IS_LOCAL == True else '/usr/local/apache2/cgi-bin/sendmail.py'
+def main():
         while True:
                 args = user_queue.fetch_user()
                 if args != None:
-                        cmd = ' '.join(('python3.1', DO_CI_PATH, args[0], args[2],args[4], args[5]))
+                        suffix = str(int(time.time()))[-1:-9:-1]
+                        longurl = HOSTNAME + "history/group_{0}_{1}_{2}.html".format(args[0], args[2].rsplit('/', 2)[1], suffix)
+                        short_url = url.get_shortenurl(longurl)
+                        html_page_path = ROOTDIR + "htdocs/history/group_{0}_{1}_{2}.html".format(args[0], args[2].rsplit('/', 2)[1], suffix)
+                        cmd = ' '.join(('python3.1', DO_CI_PATH, args[0], args[2], args[4], args[5], args[1], args[3], html_page_path, short_url))
+                        print('run',cmd)
                         os.system(cmd)
-                        sendmail.sendmail(args[0], 'notify', 'content')
+                        send_to = args[0]
+                        cmd = ' '.join(('python2.6' , SEND_MAIL_PATH, send_to, short_url))
+                        print('run',cmd)
+                        os.system(cmd)
                 else:
+                        print('No User In Queue Now:(')
                         time.sleep(60)
 
 if __name__ == '__main__':

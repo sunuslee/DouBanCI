@@ -16,12 +16,10 @@ import urllib.error
 import time
 import random
 import os
-import url
 import get_names
 import cache
 import dl
-# Please use your own api key instead. e.g. :
-# APIKEY = "23eeeb4347bdd26bfc6b7ee9a3b755dd"
+
 IS_LOCAL = True
 ROOTDIR = "/home/sunus/apache/" if IS_LOCAL == True else "/usr/local/apache2/"
 HOSTNAME = "http://localhost/"  if IS_LOCAL == True else "http://184.164.137.154/"
@@ -167,9 +165,12 @@ def main():
                 group_url += '/'
         location = sys.argv[3]
         cat = sys.argv[4]
+        your_nikename = sys.argv[5]
+        group_name = sys.argv[6]
+        html_page_path = sys.argv[7]
+        short_url = sys.argv[8]
         location = urllib.parse.unquote(location)
-        suffix = str(int(time.time()))[-1:-9:-1]
-        fh_write_html = open(ROOTDIR + "htdocs/history/group_{0}_{1}_{2}.html".format(you, group_url.rsplit('/', 2)[1], suffix), "w", encoding = "utf8")
+        fh_write_html = open(html_page_path, "w", encoding = "utf8")
         fh_write_html.write("<html>\n")
         fh_write_html.write("<head>\n")
         fh_write_html.write('<meta http-equiv="content-type" content="text/html; charset=utf8" />\n')
@@ -177,24 +178,14 @@ def main():
         fh_write_html.write("</head>\n")
         fh_write_html.write("<body>\n")
         
-        if var_verify(you, group_url, cat, location) == False:
-                fh_write_html.write("<h4>BUG!</4>\n")
-                fh_write_html.write("</body>\n")
-                fh_write_html.write("</html>\n")
-                return 0
-        your_nikename = get_names.get_nickname(you)
-        if your_nikename == None:
-                fh_write_html.write("<h4>BUG NAME!</4>\n")
-                fh_write_html.write("</body>\n")
-                fh_write_html.write("</html>\n")
-                return 0
-
         people_list.append([you, your_nikename])
         get_user(group_url, location)
         if len(people_list) == 0:
                 fh_write_html.write("<h4>该小组好似没有来自 {0} 的豆友噢:(</h4>\n".format(location))
+                fh_write_html.write("<h4>转发本页地址:{0}</h4>\n".format(short_url))
                 fh_write_html.write("</body>\n")
                 fh_write_html.write("</html>\n")
+                print('New page:', short_url)
                 return 0
 
         # Thread Part
@@ -210,10 +201,12 @@ def main():
                         dl_queue.put([people[0], cat, 1, dl_queue])
                         dl_queue.join()
                         if dl.EXIT == True:
-                                fh_write_html.write("<h4> DL.exit =", dl.EXIT, "</h4>\n")
+                                fh_write_html.write("<h4> DL.exit =" + str(dl.EXIT) +  "</h4>\n")
+                                fh_write_html.write("<h4>转发本页地址:{0}</h4>\n".format(short_url))
                                 fh_write_html.write("</body>\n")
                                 fh_write_html.write("</html>\n")
-                                return
+                                print('New page:', short_url)
+                                return 0
 
                         cache.cache_save(ROOTDIR + r'htdocs/cache_datas/' + people[0] + '_' + cat + '_1')
                         get_user_collection(people, cat)
@@ -236,16 +229,15 @@ def main():
         else:
                 ir = 0
         r = 1
-        fh_write_html.write('<h4>在 <a href="{0}">{1}</a> 为您找到了在 {2} 的豆友:</h4>\n'.format(group_url, get_names.get_group_name(group_url), location))
+        fh_write_html.write('<h4>在 <a href="{0}">{1}</a> 为您找到了在 {2} 的豆友:</h4>\n'.format(group_url, group_name, location))
         for i in range(ir, total_people):
-                #                                                                                     LINK_DB_PEOPLE, table[rank[i][0]][0]))
                 fh_write_html.write('<h4>#{0:<4} <a href="{3}{4}">{1}</a>和你有 {2} 项共同喜好</h4>\n'.format(r, table[rank[i][0]][0][1], rank[i][1], 
                                                                                                      LINK_DB_PEOPLE, table[rank[i][0]][0][0]))
                 r += 1
-        longurl = HOSTNAME + "history/group_{0}_{1}_{2}.html".format(you, group_url.rsplit('/', 2)[1], suffix)
-        short_url = url.get_shortenurl(longurl)
         fh_write_html.write("<h4>转发本页地址:{0}</h4>\n".format(short_url))
         fh_write_html.write("</body>\n")
         fh_write_html.write("</html>\n")
+        print('New page:', short_url)
+        return 
 
 main()

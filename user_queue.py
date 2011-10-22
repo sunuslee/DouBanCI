@@ -123,9 +123,9 @@ def test_add_user():
 DO_CI_PATH = '/home/sunus/apache/cgi-bin/do_ci'
 def test_fet_user():
         args = fetch_user()
-        cmd = ' '.join(('python3.1', DO_CI_PATH, args[0], args[2],args[4], args[5]))
+        cmd = ' '.join(('python3.1', DO_CI_PATH, args[0], args[2],args[4], args[5], args[1], args[3]))
         print(cmd)
         os.system(cmd)
 
-test_fet_user()
+#test_fet_user()
 #test_queue()
