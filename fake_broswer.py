@@ -3,9 +3,7 @@ import urllib.request
 class fake_broswer(urllib.request.Request):
         def __init__(self, url):
                 self.fake_broswer_headers = {
-                                'User-agent': 'Mozilla/5.0 (X11; Linux i686; rv:7.0.1) Gecko/20100101 Firefox/7.0.1', 
-                                'Accept-encoding': 'identity', 
-                                'Connection': 'keep-alive'}
+                                'User-agent': 'Mozilla/5.0 (X11; Linux i686; rv:7.0.1) Gecko/20100101 Firefox/7.0.1'}
                 self.url = url
                 self.request = urllib.request.Request(url, headers = {})
 

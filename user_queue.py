@@ -8,7 +8,6 @@ import get_names
 LOCK_EX = fcntl.LOCK_EX
 LOCK_UN = fcntl.LOCK_UN
 LOCK_NB = fcntl.LOCK_NB
-
 def fetch_user():
         while True:
                 try:
@@ -16,7 +15,7 @@ def fetch_user():
                         fcntl.flock(fh.fileno(), LOCK_EX|LOCK_NB)
                         first_line = fh.readline()
                         if first_line == '': #empty file
-                                break
+                                return None
                         rest_queue = fh.readlines()
                         os.lseek(fh.fileno(), 0, os.SEEK_SET)
                         fh.truncate(0)
@@ -121,4 +120,12 @@ def test_add_user():
         entry = "{0}\t{1}\t{2}\t{3}\t{4}".format(username, group_addr, location, cat, anonymous)
         add_user(entry)
 
+DO_CI_PATH = '/home/sunus/apache/cgi-bin/do_ci'
+def test_fet_user():
+        args = fetch_user()
+        cmd = ' '.join(('python3.1', DO_CI_PATH, args[0], args[2],args[4], args[5]))
+        print(cmd)
+        os.system(cmd)
+
+test_fet_user()
 #test_queue()

@@ -27,5 +27,5 @@ def sendmail(send_to, subject, content):
                         pass
         except SyntaxError:
                 pass # safe
-finally:
-        print 'Done'
+        finally:
+                print 'Done'
