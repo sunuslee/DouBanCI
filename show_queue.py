@@ -1,27 +1,14 @@
 #!/usr/bin/env python3.1
 # -*- coding: UTF-8 -*-
+
 import cgi
-import user_queue
 import sys
 import codecs
-import get_names
-cat_chs = {'movie':'电影','music':'音乐','book':'书籍'}
-def main():
-        global cat_chs
-        form = cgi.FieldStorage()
-        you = form.getvalue("you", "sunus")
-        group_url = form.getvalue("group_url", "http://www.douban.com/group/python/")
-        if group_url.endswith('/') == False:
-                group_url += '/'
-        location = form.getvalue("location", "天津")
-        cat = form.getvalue("cat", "movie")
-        anonymous = 0
-        nickname = get_names.get_nickname(you)
-        group_name = get_names.get_group_name(group_url)
-        entry = "{0}\t{1}\t{2}\t{3}\t{4}\t{5}\t{6}".format(you, nickname, group_url, group_name, location, cat, anonymous)
-        user_queue.add_user(entry)
-        sys.stdout = codecs.getwriter('utf8')(sys.stdout.buffer) # comment this out if you want to debug
 
+cat_chs = {'movie':'电影','music':'音乐','book':'书籍'}
+
+def main():
+        sys.stdout = codecs.getwriter('utf8')(sys.stdout.buffer) # comment this out if you want to debug
         fh = open('./wait_queue', encoding = 'utf8')
         lines = fh.readlines()
         fh.close()

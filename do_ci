@@ -16,7 +16,6 @@ import urllib.error
 import time
 import random
 import os
-import get_names
 import cache
 import dl
 

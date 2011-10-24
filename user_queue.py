@@ -1,5 +1,6 @@
-#!/usr/bin/env python3.1
+#!/usr/bin/env python2.6
 # -*- coding: UTF-8 -*-
+
 import os
 import fcntl
 import random
@@ -11,7 +12,7 @@ LOCK_NB = fcntl.LOCK_NB
 def fetch_user():
         while True:
                 try:
-                        fh = open("./wait_queue", "r+", encoding = 'utf8')
+                        fh = open("./wait_queue", "r+")
                         fcntl.flock(fh.fileno(), LOCK_EX|LOCK_NB)
                         first_line = fh.readline()
                         if first_line == '': #empty file
@@ -28,9 +29,10 @@ def fetch_user():
 
 # add a user into wait_queue and return it's user_nr
 def add_user(user):
+        user = user.encode('utf8')
         while True:
                 try:
-                        fh = open('./wait_queue', 'a+', encoding = 'utf8')
+                        fh = open('./wait_queue', 'a+')
                         fcntl.flock(fh.fileno(), LOCK_EX|LOCK_NB)
                         if os.path.getsize('./wait_queue') == 0:
                                 nr = 1
@@ -49,7 +51,7 @@ def add_user(user):
 # This function returns the number of how many user are waiting befor user #x
 # get serviced.
 def get_wait_user_nr(user_x):
-        fh = open('./wait_queue', encoding = 'utf8')
+        fh = open('./wait_queue')
         first_nr = fh.readline()
         first_nr = first_nr.split()[-1]
         first_nr = int(first_nr)
@@ -58,8 +60,7 @@ def get_wait_user_nr(user_x):
                 return nr
         else:
                 return -1
-
-
+'''
 group_addrs = ('http://www.douban.com/group/zhuangb/',
                 'http://www.douban.com/group/tjpu/',
                 'http://www.douban.com/group/kaopulove/',
@@ -126,6 +127,4 @@ def test_fet_user():
         cmd = ' '.join(('python3.1', DO_CI_PATH, args[0], args[2],args[4], args[5], args[1], args[3]))
         print(cmd)
         os.system(cmd)
-
-#test_fet_user()
-#test_queue()
+'''
