@@ -29,7 +29,7 @@ def main():
         print('uid:', uid)
         if key:
                 client.client.login(key, secret)
-
+                sendmail.sendmail(client, 'sunus', 'step2_subject', 'step2_content')
         print("</body>")
         print("</html>")
 

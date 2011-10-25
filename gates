@@ -8,7 +8,7 @@ import sys
 import url
 import time
 
-IS_LOCAL = True
+IS_LOCAL = False
 ROOTDIR = "/home/sunus/apache/" if IS_LOCAL == True else "/usr/local/apache2/"
 HOSTNAME = "http://localhost/"  if IS_LOCAL == True else "http://184.164.137.154/"
 def gate_open(page):

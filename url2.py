@@ -29,3 +29,17 @@ def get_longurl(Short_url):
                 f.write("{0} LONG URL IS UNAVAILABLE NOW! Short_url : {1}\n".format(time.ctime(), Short_url))
                 f.close()
                 return None
+
+def url_test():
+        url = 'http://www.douban.com'
+        print 'url test:\n'
+        print url
+        su = get_shortenurl(url)
+        print su
+        lu = get_longurl(su)
+        print lu
+        print 'test finished'
+
+
+if __name__ == '__main__':
+        url_test()

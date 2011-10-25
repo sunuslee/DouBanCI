@@ -6,7 +6,7 @@ import os
 import time
 import url2
 
-IS_LOCAL = True
+IS_LOCAL = False
 ROOTDIR = "/home/sunus/apache/" if IS_LOCAL == True else "/usr/local/apache2/"
 HOSTNAME = "http://localhost/"  if IS_LOCAL == True else "http://184.164.137.154/"
 DO_CI_PATH = '/home/sunus/apache/cgi-bin/do_ci' if IS_LOCAL == True else '/usr/local/apache2/cgi-bin/do_ci'
