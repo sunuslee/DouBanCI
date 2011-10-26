@@ -5,10 +5,11 @@ import user_queue
 import os
 import time
 import url2
+import pickle
 
-IS_LOCAL = False
+IS_LOCAL = True
 ROOTDIR = "/home/sunus/apache/" if IS_LOCAL == True else "/usr/local/apache2/"
-HOSTNAME = "http://localhost/"  if IS_LOCAL == True else "http://184.164.137.154/"
+HOSTNAME = "http://10.10.149.18/"  if IS_LOCAL == True else "http://184.164.137.154/"
 DO_CI_PATH = '/home/sunus/apache/cgi-bin/do_ci' if IS_LOCAL == True else '/usr/local/apache2/cgi-bin/do_ci'
 SEND_MAIL_PATH = '/home/sunus/apache/cgi-bin/sendmail.py' if IS_LOCAL == True else '/usr/local/apache2/cgi-bin/sendmail.py'
 
@@ -23,13 +24,21 @@ def main():
                         short_url = url2.get_shortenurl(longurl)
                         short_url = short_url.encode()
                         html_page_path = ROOTDIR + "htdocs/history/group_{0}_{1}_{2}.html".format(args[0], args[2].rsplit('/', 2)[1], suffix)
-                        cmd = ' '.join(('python3.1', DO_CI_PATH, args[0], args[2], args[4], args[5], args[1], args[3], html_page_path, short_url))
+                        args.append(short_url)
+                        args.append(html_page_path)
+                        args_filename = args[0] + '_args'
+                        fa = open(args_filename, 'w')
+                        args_line = '\t'.join(args)
+                        fa.write(args_line)
+                        fa.close()
+                        cmd = ' '.join(('python3.1', DO_CI_PATH, args_filename))
                         print('run',cmd)
                         os.system(cmd)
                         send_to = args[0]
                         cmd = ' '.join(('python2.6' , SEND_MAIL_PATH, args[0], send_to, short_url))
                         print('run',cmd)
                         os.system(cmd)
+                        user_queue.remove_first_user()
                 else:
                         print('No User In Queue Now:(')
                         time.sleep(60)

@@ -18,7 +18,7 @@ def main():
         global cat_chs
         form = cgi.FieldStorage()
         you = form.getvalue("you", "sunus")
-        group_url = form.getvalue("group_url", "http://www.douban.com/group/python/")
+        group_url = form.getvalue("group_url", "http://www.douban.com/group/maths/")
         if group_url.endswith('/') == False:
                 group_url += '/'
         location = form.getvalue("location", "天津")
@@ -37,7 +37,7 @@ def main():
         print("</head>\n")
         print("<body>\n")
         clientp = service.DoubanService(api_key=API_KEY, secret = SECRET)
-        clientp.client.login(Parent = clientp, sid = you + '_sid')
+        clientp.client.login(Parent = clientp)
         print("</body>\n")
         print("</html>")
 

@@ -9,21 +9,36 @@ import get_names
 LOCK_EX = fcntl.LOCK_EX
 LOCK_UN = fcntl.LOCK_UN
 LOCK_NB = fcntl.LOCK_NB
+
 def fetch_user():
+        while True:
+                try:
+                        fh = open("./wait_queue", "r")
+                        fcntl.flock(fh.fileno(), LOCK_EX|LOCK_NB)
+                        first_line = fh.readline()
+                        first_line = first_line[0:-1] #remove the last '\n'
+                        if first_line == '': #empty file
+                                return None
+                        fcntl.flock(fh.fileno(), LOCK_UN)
+                        fh.close()
+                        return first_line.split('\t') #remove '\t'
+                except IOError:
+                        fh.close()
+
+# the first line will never be ''
+def remove_first_user():
         while True:
                 try:
                         fh = open("./wait_queue", "r+")
                         fcntl.flock(fh.fileno(), LOCK_EX|LOCK_NB)
                         first_line = fh.readline()
-                        if first_line == '': #empty file
-                                return None
                         rest_queue = fh.readlines()
                         os.lseek(fh.fileno(), 0, os.SEEK_SET)
                         fh.truncate(0)
                         fh.writelines(rest_queue)
                         fcntl.flock(fh.fileno(), LOCK_UN)
                         fh.close()
-                        return first_line.split() #remove '\t' and '\n'
+                        return 
                 except IOError:
                         fh.close()
 

@@ -18,8 +18,9 @@ import random
 import os
 import cache
 import dl
+import pickle
 
-IS_LOCAL = False
+IS_LOCAL = True
 ROOTDIR = "/home/sunus/apache/" if IS_LOCAL == True else "/usr/local/apache2/"
 HOSTNAME = "http://localhost/"  if IS_LOCAL == True else "http://184.164.137.154/"
 LINK_DB_PEOPLE = "http://www.douban.com/people/"
@@ -158,6 +159,7 @@ def var_verify(user, group = None, cat = None, location = None):
 def main():
         global people_list
         global fh_write_html
+        '''
         you = sys.argv[1]
         group_url = sys.argv[2]
         if group_url.endswith('/') == False:
@@ -169,6 +171,21 @@ def main():
         html_page_path = sys.argv[7]
         short_url = sys.argv[8]
         location = urllib.parse.unquote(location)
+        '''
+        fa = open(sys.argv[1])
+        args = fa.readline().split('\t')
+        fa.close()
+        you = args[0]
+        your_nikename = args[1]
+        group_url = args[2]
+        group_name = args[3]
+        if group_url.endswith('/') == False:
+                group_url += '/'
+        location = args[4]
+        cat = args[5]
+        short_url = args[8]
+        html_page_path = args[9]
+
         fh_write_html = open(html_page_path, "w", encoding = "utf8")
         fh_write_html.write("<html>\n")
         fh_write_html.write("<head>\n")
