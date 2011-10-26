@@ -9,12 +9,18 @@ import pickle
 cat_chs = {'movie':'电影','music':'音乐','book':'书籍'}
 
 def main():
+
+        fh = open('./wait_queue')
+        lines = fh.readlines()
+        fh.close()
+        wait_nr = len(lines) - 1
         # finish login process
         form = cgi.FieldStorage()
         sid = form.getvalue("oauth_token", None)
         key = None
         if sid != None:
-                fp = open('./' + sid)
+                sid = lines[0].split('\t')[-2]
+                fp = open('./temp/' + sid)
                 data = pickle.load(fp)
                 client = data[0]
                 key = data[1]
@@ -23,15 +29,10 @@ def main():
                 key, secret, uid = client.client.get_access_token(key, secret)
                 if key:
                         client.client.login(key, secret)
-                        fp = open('./_' + sid, 'w')
+                        fp = open('./temp/' + sid, 'w')
                         pickle.dump(client, fp)
                         fp.close()
         # finish login process
-        fh = open('./wait_queue')
-        lines = fh.readlines()
-        fh.close()
-        wait_nr = len(lines) - 1
-
         print "Content-type:text/html; charset=UTF-8\r\n\r\n"
         print '<html>'
         print '<head>'

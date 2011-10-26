@@ -28,14 +28,14 @@ def sendmail(client, send_to, subject, content):
                 print 'Done'
 
 def main():
-        sid = sys.argv[1] 
+        sid = sys.argv[1]
         send_to = sys.argv[2]
         content_url = sys.argv[3]
         subject = '来自DBCI的结果!'
         content = '您好，访问以下网址获取您在DBCI提交的豆友共同喜好的搜索结果:)\n{0}\n希望您喜欢该APP\n'.format(content_url)
-        sid = raw_input('input the sid filename:')
-        fp = open('./' + sid)
+        fp = open('./temp/' + sid)
         client = pickle.load(fp)
+        fp.close()
         sendmail(client, send_to, subject, content)
 if __name__ == '__main__':
         main()
