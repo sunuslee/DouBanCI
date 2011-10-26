@@ -22,7 +22,7 @@ def main():
         files = os.listdir('.')
         for cur_file in files:
                 found = False
-                if cur_file != __file__:
+                if cur_file != __file__ and os.path.isfile('./' + cur_file):
                         fw = open('fin_temp', 'w')
                         fr = open(cur_file)
                         i = 0
@@ -30,7 +30,7 @@ def main():
                         for line in lines:
                                 if found == False and patten in line:
                                         found = True
-                                        print 'Found line',line,__file__
+                                        print 'Found line',line,cur_file 
                                         lines[i] = val + '\n'
                                 i += 1
                         fw.writelines(lines)
