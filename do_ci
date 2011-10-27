@@ -65,8 +65,7 @@ def get_user(group_uri, where):
         for line in data.splitlines():
                 if str(13577294) in line:       # this num will SOMEHOW INCREASE 1
                         max = int(line.split('-')[1].split()[0])
-        start = 0 if max == 0 else random.randint(0, int(max) - 35)
-        fh_write_html.write("<h4>你的幸运数字是 *{0}*</h4>\n".format(start))
+        start = 0 if max == 0 else random.randint(0, int(max) - people_nr)
         uri = "{0}/member_search?search_text={1}&start={2}".format(group_uri, where, start)
         fh = urllib.request.urlopen(uri)
         contents = fh.read().decode("utf8")
@@ -74,15 +73,21 @@ def get_user(group_uri, where):
 #        <dd><a href="http://www.douban.com/people/__UID__/">__NIKENAME__</a><br/><span class="pl">(local)</span></dd></dl><dl class="obu" ><dt><a href="http://www.douban.com/people/__UID__/" class="nbg"><img src="http://img3.douban.com/icon/sdfs.jpg" class="m_sub_img" alt="__NIKENAME__"/></a></dt>
         for line in contents.splitlines():
                 if '<dd><a href="http://www.douban.com/people/' in line:
-                        if(len(people_list) == people_nr + 1): #people_list[0] is YOU!
+                        if(len(people_list) == people_nr + 1 and max != 0):
                                 break
                         idx = line.strip().find(r'</a>')
                         a = line.strip()[0:idx].rpartition(r'">')
                         people_list.append([a[0][13:-1], a[2]])
-#        people_list.extend(people_pattern.findall(contents)[: 5 * 2:2])
+#       people_list[0] is YOU!, if max == 0, that means all the users are in the first page, which can't show the number of max, so max == 0,got it from previous
+#       lines, so, we need to get all the users in the first pages,which the number could be (0~35).Insteading of just get the number of people_nr
         i = 0
         for i in range(len(people_list)):
                 people_list[i][0] = people_list[i][0].rpartition("/")[2]
+        if max == 0:
+                start = random.randint(0, len(people_list) - people_nr)
+                people_list = people_list[0:1] + people_list[start : start + people_nr]
+#       here, continue with the max == 0 case, get the random 'start' right,then cut the size of people_list to 1 + people_list
+        fh_write_html.write("<h4>你的幸运数字是 *{0}*</h4>\n".format(start))
 # This function returns the uid1-uid2's match rate
 # uid1 and uid2 has it's own index in table.
 def get_match_rate(uid1_idx, uid2_idx, cat):
@@ -172,7 +177,7 @@ def main():
         short_url = sys.argv[8]
         location = urllib.parse.unquote(location)
         '''
-        fa = open('./wait_queue')
+        fa = open('./wait_queue', encoding = 'utf8')
         args = fa.readline()[:-1]
         args = args.split('\t')
         fa.close()
@@ -256,5 +261,4 @@ def main():
         fh_write_html.write("</html>\n")
         print('New page:', short_url)
         return 
-
 main()
