@@ -23,3 +23,21 @@
 [LOG]	Thu Oct 27 11:16:26 2011:	 run cmd:python3.1 /home/sunus/apache/cgi-bin/do_ci with args:
 [LOG]	Thu Oct 27 11:16:45 2011:	 run cmd:python2.6 /home/sunus/apache/cgi-bin/sendmail.py 1319685340 sunus http://goo.gl/gfAk5
 [LOG]	Thu Oct 27 11:16:45 2011:	 No User In Queue Now:(
+[LOG]	Thu Oct 27 19:15:38 2011:	 run cmd:python3.1 /home/sunus/apache/cgi-bin/do_ci with args:
+[LOG]	Thu Oct 27 19:24:01 2011:	 run cmd:python3.1 /home/sunus/apache/cgi-bin/do_ci with args:
+[LOG]	Thu Oct 27 19:24:21 2011:	 run cmd:python2.6 /home/sunus/apache/cgi-bin/sendmail.py 1319714046 sunus http://goo.gl/cZNWu http://10.10.149.18//history/group_sunus_kaopulove_1319714046.html
+[LOG]	Thu Oct 27 19:24:21 2011:	 No User In Queue Now:(
+[LOG]	Thu Oct 27 19:26:36 2011:	 run cmd:python3.1 /home/sunus/apache/cgi-bin/do_ci with args:
+[LOG]	Thu Oct 27 19:28:22 2011:	 run cmd:python2.6 /home/sunus/apache/cgi-bin/sendmail.py 1319714776 sunus http://goo.gl/cJYqe http://10.10.149.18/history/group_sunus_kaopulove_1319714776.html
+[LOG]	Thu Oct 27 19:28:22 2011:	 No User In Queue Now:(
+[LOG]	Thu Oct 27 19:29:22 2011:	 No User In Queue Now:(
+[LOG]	Thu Oct 27 19:32:57 2011:	 run cmd:python3.1 /home/sunus/apache/cgi-bin/do_ci with args:
+[LOG]	Thu Oct 27 19:34:51 2011:	 run cmd:python3.1 /home/sunus/apache/cgi-bin/do_ci with args:
+[LOG]	Thu Oct 27 19:34:53 2011:	 run cmd:python2.6 /home/sunus/apache/cgi-bin/sendmail.py 1319715154 sunus http://goo.gl/Hs9NI http://10.10.149.18/history/group_sunus_maths_1319715154.html
+[LOG]	Thu Oct 27 19:34:53 2011:	 No User In Queue Now:(
+[LOG]	Thu Oct 27 19:35:26 2011:	 No User In Queue Now:(
+[LOG]	Thu Oct 27 19:36:26 2011:	 run cmd:python3.1 /home/sunus/apache/cgi-bin/do_ci with args:
+[LOG]	Thu Oct 27 19:36:39 2011:	 run cmd:python2.6 /home/sunus/apache/cgi-bin/sendmail.py 1319715348 sunus http://goo.gl/tzDLA http://10.10.149.18/history/group_sunus_ilovesoftware_1319715348.html
+[LOG]	Thu Oct 27 19:36:39 2011:	 No User In Queue Now:(
+[LOG]	Thu Oct 27 19:37:40 2011:	 No User In Queue Now:(
+[LOG]	Thu Oct 27 19:38:40 2011:	 No User In Queue Now:(

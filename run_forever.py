@@ -39,8 +39,9 @@ def main():
                         flog.write('[LOG]\t{0}:\t run cmd:{1} with args:\n'.format(time.ctime(), cmd, args))
                         flog.flush()
                         os.system(cmd)
-                        cmd = ' '.join(('python2.6' , SEND_MAIL_PATH, args[-2], args[0], args[7]))
-                                                                        #sid, send_to, content_url
+                        longurl = HOSTNAME + 'history/' + args[-3].split('/')[-1]
+                        cmd = ' '.join(('python2.6' , SEND_MAIL_PATH, args[-2], args[0], args[7], longurl))
+                                                                        #sid, send_to, content_url_short, content_url_long
                         print('run',cmd)
                         os.system(cmd)
                         user_queue.remove_first_user()
