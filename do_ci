@@ -29,6 +29,7 @@ SECRET = ''
 people_nr = 5
 people_list = []
 table = []
+cat_chs = {'movie':'电影','music':'音乐','book':'书籍'}
 global fh_write_html
 class Worker(threading.Thread):
 
@@ -93,12 +94,7 @@ def get_user(group_uri, where):
 # uid1 and uid2 has it's own index in table.
 def get_match_rate(uid1_idx, uid2_idx, cat):
         global fh_write_html
-        if cat == "movie":
-                cat_local = "电影"
-        elif cat == "music":
-                cat_local = "音乐"
-        else:
-                cat_local = "书籍"
+        cat_local = cat_chs[cat]
         u1_set = set()
         u2_set = set()
         common_set = set()
@@ -165,19 +161,6 @@ def var_verify(user, group = None, cat = None, location = None):
 def main():
         global people_list
         global fh_write_html
-        '''
-        you = sys.argv[1]
-        group_url = sys.argv[2]
-        if group_url.endswith('/') == False:
-                group_url += '/'
-        location = sys.argv[3]
-        cat = sys.argv[4]
-        your_nikename = sys.argv[5]
-        group_name = sys.argv[6]
-        html_page_path = sys.argv[7]
-        short_url = sys.argv[8]
-        location = urllib.parse.unquote(location)
-        '''
         fa = open('./wait_queue', encoding = 'utf8')
         args = fa.readline()[:-1]
         args = args.split('\t')
@@ -196,7 +179,7 @@ def main():
         fh_write_html = open(html_page_path, "w", encoding = "utf8")
         fh_write_html.write("<html>\n")
         fh_write_html.write("<head>\n")
-        fh_write_html.write('<meta http-equiv="content-type" content="text/html; charset=utf8"/>\n')
+        fh_write_html.write('<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>\n')
         fh_write_html.write("<title>Result</title>\n")
         fh_write_html.write("</head>\n")
         fh_write_html.write("<body>\n")
@@ -253,9 +236,11 @@ def main():
                 ir = 0
         r = 1
         fh_write_html.write('<h4>在 <a href="{0}">{1}</a> 为您找到了在 {2} 的豆友:</h4>\n'.format(group_url, group_name, location))
+        fh_write_html.write('<!-- saying:glc\t{0}\t{1}\t{2}\t -->\n'.format(group_name, location, cat_chs[cat]))
         for i in range(ir, total_people):
                 fh_write_html.write('<h4>#{0:<4} <a href="{3}{4}">{1}</a>和你有 {2} 项共同喜好</h4>\n'.format(r, table[rank[i][0]][0][1], rank[i][1], 
                                                                                                      LINK_DB_PEOPLE, table[rank[i][0]][0][0]))
+                fh_write_html.write('<!-- saying:rank\t{0}\t{1}\t{2}\t -->\n'.format(r, table[rank[i][0]][0][1], rank[i][1]))
                 r += 1
         fh_write_html.write("<h4>转发本页地址:{0}</h4>\n".format(short_url))
         fh_write_html.write("</body>\n")
