@@ -12,7 +12,8 @@ import get_names
 import user_queue
 import url2
 import time
-
+#import url3
+#       Be careful to import url3 instead of url2
 IS_LOCAL = True
 ROOTDIR = "/home/sunus/apache/" if IS_LOCAL == True else "/usr/local/apache2/"
 HOSTNAME = "http://10.10.149.18/"  if IS_LOCAL == True else "http://184.164.137.154/"
@@ -37,7 +38,7 @@ def main():
         suffix = str(int(time.time()))
         longurl = HOSTNAME + "history/group_{0}_{1}_{2}.html".format(you, group_url.rsplit('/', 2)[1], suffix)
         short_url = url2.get_shortenurl(longurl)
-        short_url = short_url.encode()
+        #short_url = short_url.encode()
         html_page_path = ROOTDIR + "htdocs/history/group_{0}_{1}_{2}.html".format(you, group_url.rsplit('/', 2)[1], suffix)
         entry = '\t'.join((you, nickname, group_url, group_name, location, cat, '0', short_url, html_page_path, suffix))
         # usr suffix as a oauth login verifier,too

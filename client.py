@@ -46,6 +46,7 @@ class OAuthClient:
         print '// -->'
         print '</script>'
         sys.stdout.flush()
+        # It will stop excute in this line and retirect to auth page and never come back.
         #print url
         '''
         print '<script language="javascript" type="text/javascript">'
