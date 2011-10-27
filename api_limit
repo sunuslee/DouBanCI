@@ -3471,3 +3471,4 @@
 [LOG] Thu Oct 27 10:21:28 2011 http://api.douban.com/people/lunahere/collection?cat=movie&tag=&status=&start-index=501&max-results=50&alt=atom 1319682088.30
 [LOG] Thu Oct 27 10:21:31 2011 http://api.douban.com/people/lunahere/collection?cat=movie&tag=&status=&start-index=351&max-results=50&alt=atom 1319682091.30
 [LOG] Thu Oct 27 10:21:34 2011 http://api.douban.com/people/7245951/collection?cat=movie&tag=&status=&start-index=1&max-results=50&alt=atom 1319682094.36
+[LOG] Thu Oct 27 10:58:58 2011 http://api.douban.com/people/40221880/collection?cat=movie&tag=&status=&start-index=1&max-results=50&alt=atom 1319684338.41

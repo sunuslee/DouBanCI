@@ -84,8 +84,9 @@ def get_user(group_uri, where):
         for i in range(len(people_list)):
                 people_list[i][0] = people_list[i][0].rpartition("/")[2]
         if max == 0:
-                start = random.randint(0, len(people_list) - people_nr)
-                people_list = people_list[0:1] + people_list[start : start + people_nr]
+                if len(people_list) - people_nr > 0:
+                        start = random.randint(0, len(people_list) - people_nr)
+                        people_list = people_list[0:1] + people_list[start : start + people_nr]
 #       here, continue with the max == 0 case, get the random 'start' right,then cut the size of people_list to 1 + people_list
         fh_write_html.write("<h4>你的幸运数字是 *{0}*</h4>\n".format(start))
 # This function returns the uid1-uid2's match rate
@@ -202,7 +203,7 @@ def main():
         
         people_list.append([you, your_nikename])
         get_user(group_url, location)
-        if len(people_list) == 0:
+        if len(people_list) == 1:
                 fh_write_html.write("<h4>该小组好似没有来自 {0} 的豆友噢:(</h4>\n".format(location))
                 fh_write_html.write("<h4>转发本页地址:{0}</h4>\n".format(short_url))
                 fh_write_html.write("</body>\n")

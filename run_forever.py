@@ -15,6 +15,7 @@ SEND_MAIL_PATH = '/home/sunus/apache/cgi-bin/sendmail.py' if IS_LOCAL == True el
 
 API_KEY = '053caab0d0224c680fb600127066e538'
 SECRET = 'f2bebed97e85be8a'
+flog = open('run_log', 'a')
 def main():
         while True:
                 args = user_queue.fetch_user()
@@ -35,14 +36,20 @@ def main():
                         '''
                         cmd = ' '.join(('python3.1', DO_CI_PATH))
                         print('run',cmd)
+                        flog.write('[LOG]\t{0}:\t run cmd:{1} with args:\n'.format(time.ctime(), cmd, args))
+                        flog.flush()
                         os.system(cmd)
                         cmd = ' '.join(('python2.6' , SEND_MAIL_PATH, args[-2], args[0], args[7]))
                                                                         #sid, send_to, content_url
                         print('run',cmd)
                         os.system(cmd)
                         user_queue.remove_first_user()
+                        flog.write('[LOG]\t{0}:\t run cmd:{1}\n'.format(time.ctime(), cmd))
+                        flog.flush()
                 else:
                         print('No User In Queue Now:(')
+                        flog.write('[LOG]\t{0}:\t No User In Queue Now:(\n'.format(time.ctime()))
+                        flog.flush()
                         time.sleep(60)
 
 if __name__ == '__main__':
