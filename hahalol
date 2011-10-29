@@ -1,0 +1,31 @@
+#!/usr/bin/python2.6
+
+import base64
+import cgi
+
+def generate_expcode(uid):
+        if uid != None:
+                exp_code = base64.encodestring(uid)[:3]
+                return exp_code
+        return None
+def main():
+        print("Content-type:text/html; charset=UTF-8\r\n\r\n")
+        print("<html>\n")
+        print("<head>\n")
+        print('<meta http-equiv="content-type" content="text/html; charset=utf8" />\n')
+        print("<title>Verification</title>\n")
+        print("</head>\n")
+        print("<body>\n")
+        form = cgi.FieldStorage()
+        uid = form.getvalue("uid", None)
+        exp_code = generate_expcode(uid)
+        if exp_code != None:
+                print("<h2>Congratulation {0}:<br>here is your test_code:<br>{1}</h2>".format(uid, exp_code))
+        else:
+                print("<h2>ERROR!</h2>")
+
+        print("</body></html>")
+        return
+
+if __name__ == '__main__':
+        main()

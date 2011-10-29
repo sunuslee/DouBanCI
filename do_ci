@@ -240,7 +240,9 @@ def main():
         for i in range(ir, total_people):
                 fh_write_html.write('<h4>#{0:<4} <a href="{3}{4}">{1}</a>和你有 {2} 项共同喜好</h4>\n'.format(r, table[rank[i][0]][0][1], rank[i][1], 
                                                                                                      LINK_DB_PEOPLE, table[rank[i][0]][0][0]))
-                fh_write_html.write('<!-- saying:rank\t{0}\t{1}\t{2}\t -->\n'.format(r, table[rank[i][0]][0][1], rank[i][1]))
+                fh_write_html.write('<!-- saying:rank\t{0}\t{1}\t{2}\t -->\n'.format(r,
+                                                                                table[rank[i][0]][0][1] if '(c)' not in table[rank[i][0]][0][1] else
+                                                                                table[rank[i][0]][0][1][:-3], rank[i][1]))
                 r += 1
         fh_write_html.write("<h4>转发本页地址:{0}</h4>\n".format(short_url))
         fh_write_html.write("</body>\n")
