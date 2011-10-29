@@ -20,7 +20,7 @@ import cache
 import dl
 import pickle
 
-IS_LOCAL = False
+IS_LOCAL = True
 ROOTDIR = "/home/sunus/apache/" if IS_LOCAL == True else "/usr/local/apache2/"
 LINK_DB_PEOPLE = "http://www.douban.com/people/"
 APIKEY = "053caab0d0224c680fb600127066e538"
@@ -52,10 +52,11 @@ def get_user_collection(user, cat):
         item_dict = cache.cache_load(file_path)
         table.append([user, item_dict])
 
-def get_user(group_uri, where):
+def get_user(group_uri, where, you):
         where = urllib.parse.quote(where)
         global fh_write_html
         global people_list
+        global people_nr
         start = 13577293
         error = 0
         uri = "{0}/member_search?search_text={1}&start={2}".format(group_uri, where, start)
@@ -66,23 +67,27 @@ def get_user(group_uri, where):
                 if str(13577294) in line:       # this num will SOMEHOW INCREASE 1
                         max = int(line.split('-')[1].split()[0])
         start = 0 if max == 0 else random.randint(0, int(max) - people_nr)
+        start = 76
         uri = "{0}/member_search?search_text={1}&start={2}".format(group_uri, where, start)
         fh = urllib.request.urlopen(uri)
         contents = fh.read().decode("utf8")
 #       line is like this pattern:
-#        <dd><a href="http://www.douban.com/people/__UID__/">__NIKENAME__</a><br/><span class="pl">(local)</span></dd></dl><dl class="obu" ><dt><a href="http://www.douban.com/people/__UID__/" class="nbg"><img src="http://img3.douban.com/icon/sdfs.jpg" class="m_sub_img" alt="__NIKENAME__"/></a></dt>
+#        <dd><a href="http://www.douban.com/people/__UID__/">__NICKNAME__</a><br/><span class="pl">(local)</span></dd></dl><dl class="obu" ><dt><a href="http://www.douban.com/people/__UID__/" class="nbg"><img src="http://img3.douban.com/icon/sdfs.jpg" class="m_sub_img" alt="__NIKENAME__"/></a></dt>
         for line in contents.splitlines():
                 if '<dd><a href="http://www.douban.com/people/' in line:
                         if(len(people_list) == people_nr + 1 and max != 0):
                                 break
                         idx = line.strip().find(r'</a>')
                         a = line.strip()[0:idx].rpartition(r'">')
-                        people_list.append([a[0][13:-1], a[2]])
+                        if a[0][13:-1].split('/')[-1] != you:
+                                people_list.append([a[0][13:-1].split('/')[-1], a[2]])
 #       people_list[0] is YOU!, if max == 0, that means all the users are in the first page, which can't show the number of max, so max == 0,got it from previous
 #       lines, so, we need to get all the users in the first pages,which the number could be (0~35).Insteading of just get the number of people_nr
+        '''
         i = 0
         for i in range(len(people_list)):
                 people_list[i][0] = people_list[i][0].rpartition("/")[2]
+        '''
         if max == 0:
                 if len(people_list) - people_nr > 0:
                         start = random.randint(0, len(people_list) - people_nr)
@@ -184,7 +189,7 @@ def main():
         fh_write_html.write("<body>\n")
         
         people_list.append([you, your_nikename])
-        get_user(group_url, location)
+        get_user(group_url, location, you)
         if len(people_list) == 1:
                 fh_write_html.write("<h4>该小组好似没有来自 {0} 的豆友噢:(</h4>\n".format(location))
                 fh_write_html.write("<h4>转发本页地址:{0}</h4>\n".format(short_url))
@@ -222,20 +227,18 @@ def main():
         rank = []
         # 0 is uid1, and uid2_idx starts from 1
         people_list.pop(0)
-        # YOU DO NOT BELONG TO PEOPLE_LIST!!
+        # YOU DO NOT BELONG TO PEOPLE_LIST ANYMORE!!
         total_people = len(people_list)
         for i in range(1, total_people + 1):
                 rank_item = get_match_rate(0, i, cat)
                 if rank_item != None:
                         rank.append(rank_item)
         rank.sort(key = lambda node:node[1], reverse = True) 
-        if table[rank[0][0]][0] == you:
-                ir = 1
-        else:
-                ir = 0
-        r = 1
+
         fh_write_html.write('<h4>在 <a href="{0}">{1}</a> 为您找到了在 {2} 的豆友:</h4>\n'.format(group_url, group_name, location))
         fh_write_html.write('<!-- saying:glc\t{0}\t{1}\t{2}\t -->\n'.format(group_name, location, cat_chs[cat]))
+        r = 1
+        ir = 0
         for i in range(ir, total_people):
                 uid =      table[rank[i][0]][0][0] # use to @somebody
                 nikename = table[rank[i][0]][0][1] # use to show on html page
@@ -248,4 +251,5 @@ def main():
         fh_write_html.write("</html>\n")
         print('New page:', short_url)
         return 
+
 main()

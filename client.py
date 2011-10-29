@@ -7,7 +7,7 @@ import time
 import sys
 import pickle
 
-IS_LOCAL = False
+IS_LOCAL = True
 auth_callback_url = 'http://10.10.149.18/cgi-bin/show_queue.py' if IS_LOCAL == True else 'http://184.164.137.154/cgi-bin/show_queue.py'
 signature_method = oauth.OAuthSignatureMethod_HMAC_SHA1()
 
@@ -23,7 +23,7 @@ class OAuthClient:
         self.consumer = oauth.OAuthConsumer(key, secret)
         self.token = None
 
-    def login(self, key=None, secret=None, Parent=None, sid=None):
+    def login(self, key=None, secret=None, Parent=None, entry=None):
         if key and secret:
             self.token = oauth.OAuthToken(key, secret)
             return True
@@ -37,8 +37,9 @@ class OAuthClient:
         #line = raw_input()
         url = self.get_authorization_url(key, secret, auth_callback_url)
         Parent.client = self
-        fp = open('./temp/' + sid, 'w')
-        pickle.dump((Parent, key, secret), fp)
+        entry += '\t' + key
+        fp = open('./temp/' + key, 'w')
+        pickle.dump((Parent, key, secret, entry), fp)
         fp.close()
         print '<script language="javascript" type="text/javascript">'
         print '<!--'

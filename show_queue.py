@@ -5,26 +5,25 @@ import cgi
 import sys
 import codecs
 import pickle
-
+import user_queue
 cat_chs = {'movie':'电影','music':'音乐','book':'书籍'}
 
 def main():
 
-        fh = open('./wait_queue')
-        lines = fh.readlines()
-        fh.close()
-        wait_nr = len(lines) - 1
+        watch = False
+        if len(sys.argv) == 2 and sys.argv[1] == 'see':
+                watch = True
         # finish login process
         form = cgi.FieldStorage()
         sid = form.getvalue("oauth_token", None)
         key = None
         if sid != None:
-                sid = lines[0].split('\t')[-2]
                 fp = open('./temp/' + sid)
                 data = pickle.load(fp)
                 client = data[0]
                 key = data[1]
                 secret = data[2]
+                entry = data[3]
                 fp.close()
                 key, secret, uid = client.client.get_access_token(key, secret)
                 if key:
@@ -32,6 +31,8 @@ def main():
                         fp = open('./temp/' + sid, 'w')
                         pickle.dump(client, fp)
                         fp.close()
+                        user_queue.add_user(entry)
+                        # until we get here, we can add this user into wait_queue
         # finish login process
         print "Content-type:text/html; charset=UTF-8\r\n\r\n"
         print '<html>'
@@ -40,10 +41,18 @@ def main():
         print '<title>Waiting Line</title>'
         print '</head>'
         print '<body>'
-        if key == None:
+        if key == None and watch == False:
                 print '<h2>授权登录失败!</h2>'
-        else:
+        elif watch == False:
                 print '<h2>授权登录成功!</h2>'
+        else:
+                pass
+
+        fh = open('./wait_queue')
+        lines = fh.readlines()
+        fh.close()
+        wait_nr = len(lines) - 1
+
         print '<h2>当前有{0}位用户在您前面</h2>'.format(wait_nr)
         print '<div style="overflow-x: auto; overflow-y: auto; height: 400px; width:700px;">'
         print '<table id="table" border="1" align="center" width="700px" height="400px">'

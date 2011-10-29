@@ -4,7 +4,7 @@ import random
 import pickle
 
 # ONLY USE THIS MODULE WHEN YOU HAVE A *REAL DOMAIN*
-IS_LOCAL = False
+IS_LOCAL = True
 PAGEDIR  = '/home/sunus/apache/htdocs/' if IS_LOCAL == True else '/usr/local/apache2/htdocs/'
 HOSTNAME = 'http://10.10.149.18/'  if IS_LOCAL == True else 'http://184.164.137.154/'
 RETFILE  = 'http://10.10.149.18/r/showresult.py?'

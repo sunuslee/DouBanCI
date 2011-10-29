@@ -9,7 +9,7 @@ import html_parse
 
 API_KEY = '053caab0d0224c680fb600127066e538'
 SECRET = 'f2bebed97e85be8a'
-IS_LOCAL = False
+IS_LOCAL = True
 PAGEDIR = "/home/sunus/apache/htdocs/history/" if IS_LOCAL == True else "/usr/local/apache2/htdocs/history/"
 
 def sendmail(client, send_to, subject, content):
@@ -40,7 +40,8 @@ def saying(client, html_file_path, short_url):
         top_user_nr = 3 if len(parse_result[1]) >= 3 else len(parse_result[1])
         i = 0
         while i < top_user_nr:
-                content += '(@{0}:{1}项) '.format(*parse_result[1][i])
+                if parse_result[1][i][1] != 0:
+                        content += '(@{0}:{1}项) '.format(*parse_result[1][i])
                 i += 1
         content += '查看我们都喜欢什么{0}请点击{1}'.format(cat, short_url)
         content += '豆瓣喜爱，你也来试试吧!\n'
