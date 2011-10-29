@@ -11,7 +11,7 @@ LOCK_EX = fcntl.LOCK_EX
 LOCK_UN = fcntl.LOCK_UN
 LOCK_NB = fcntl.LOCK_NB
 
-IS_LOCAL = True
+IS_LOCAL = False
 ROOTDIR = "/home/sunus/apache/" if IS_LOCAL == True else "/usr/local/apache2/"
 APIKEY = "053caab0d0224c680fb600127066e538"
 EXIT = False

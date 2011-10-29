@@ -20,7 +20,7 @@ import cache
 import dl
 import pickle
 
-IS_LOCAL = True
+IS_LOCAL = False
 ROOTDIR = "/home/sunus/apache/" if IS_LOCAL == True else "/usr/local/apache2/"
 LINK_DB_PEOPLE = "http://www.douban.com/people/"
 APIKEY = "053caab0d0224c680fb600127066e538"

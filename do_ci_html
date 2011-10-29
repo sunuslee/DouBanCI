@@ -25,7 +25,7 @@ import cache
 import dl
 # Please use your own api key instead. e.g. :
 # APIKEY = "23eeeb4347bdd26bfc6b7ee9a3b755dd"
-IS_LOCAL = True
+IS_LOCAL = False
 ROOTDIR = "/home/sunus/apache/" if IS_LOCAL == True else "/usr/local/apache2/"
 HOSTNAME = "http://localhost/"  if IS_LOCAL == True else "http://184.164.137.154/"
 LINK_DB_PEOPLE = "http://www.douban.com/people/"

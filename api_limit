@@ -3657,3 +3657,8 @@
 [LOG] Sat Oct 29 12:36:02 2011 http://api.douban.com/people/Travishui/collection?cat=movie&tag=&status=&start-index=901&max-results=50&alt=atom 1319862962.30
 [LOG] Sat Oct 29 12:36:05 2011 http://api.douban.com/people/15185939/collection?cat=movie&tag=&status=&start-index=1&max-results=50&alt=atom 1319862965.30
 [LOG] Sat Oct 29 12:36:08 2011 http://api.douban.com/people/15185939/collection?cat=movie&tag=&status=&start-index=51&max-results=50&alt=atom 1319862968.30
+[LOG] Sat Oct 29 15:04:41 2011 http://api.douban.com/people/typhoidin/collection?cat=movie&tag=&status=&start-index=1&max-results=50&alt=atom 1319871881.38
+[LOG] Sat Oct 29 15:04:46 2011 http://api.douban.com/people/50910884/collection?cat=movie&tag=&status=&start-index=1&max-results=50&alt=atom 1319871886.45
+[LOG] Sat Oct 29 15:04:49 2011 http://api.douban.com/people/50039034/collection?cat=movie&tag=&status=&start-index=1&max-results=50&alt=atom 1319871889.45
+[LOG] Sat Oct 29 15:04:52 2011 http://api.douban.com/people/49771136/collection?cat=movie&tag=&status=&start-index=1&max-results=50&alt=atom 1319871892.45
+[LOG] Sat Oct 29 15:04:55 2011 http://api.douban.com/people/49739777/collection?cat=movie&tag=&status=&start-index=1&max-results=50&alt=atom 1319871895.45

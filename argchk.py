@@ -3,11 +3,12 @@
 
 import base64
 import urllib2
-IS_LOCAL = True
+IS_LOCAL = False
 HOSTNAME = "http://10.10.149.18/"  if IS_LOCAL == True else "http://184.164.137.154/"
 def exp_check(you, exp_code):
         if you == None or exp_code == None:
                 return False
+        you = you[::-1]
         b64s_you = base64.encodestring(you)
         b64s_you = b64s_you[:3]
         if b64s_you == exp_code:
@@ -16,8 +17,11 @@ def exp_check(you, exp_code):
                 return False
 
 def arg_chk(user, group = None, location = None):
+        if group is None:
+                print("<h4>搜索小组不能为空！</h4>")
+                return False
         if location is None:
-                print("<h4>搜索地址不能为空！</h4>")
+                print("<h4>搜索地区不能为空！</h4>")
                 return False
         try:
                 urllib2.urlopen("http://www.douban.com/people/{0}".format(user))

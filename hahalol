@@ -4,6 +4,7 @@ import base64
 import cgi
 
 def generate_expcode(uid):
+        uid = uid[::-1]
         if uid != None:
                 exp_code = base64.encodestring(uid)[:3]
                 return exp_code
