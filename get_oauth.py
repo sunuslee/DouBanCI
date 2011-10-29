@@ -15,7 +15,7 @@ import time
 import argchk
 #import url3
 #       Be careful to import url3 instead of url2
-IS_LOCAL = False
+IS_LOCAL = True
 ROOTDIR = "/home/sunus/apache/" if IS_LOCAL == True else "/usr/local/apache2/"
 HOSTNAME = "http://10.10.149.18/"  if IS_LOCAL == True else "http://184.164.137.154/"
 
@@ -25,23 +25,16 @@ SECRET = 'f2bebed97e85be8a'
 cat_chs = {'movie':'电影','music':'音乐','book':'书籍'}
 def main():
         global cat_chs
-        print("Content-type:text/html; charset=UTF-8\r\n\r\n")
-        print("<html>\n")
-        print("<head>\n")
-        print('<meta http-equiv="content-type" content="text/html; charset=utf8" />\n')
-        print("<title>Verification</title>\n")
-        print("</head>\n")
-        print("<body>\n")
+        print "Content-type:text/html; charset=UTF-8\r\n\r\n"
+        print "<html>\n"
+        print "<head>\n"
+        print '<meta http-equiv="content-type" content="text/html; charset=utf8" />\n'
+        print "<title>Verification</title>\n"
+        print "</head>\n"
+        print "<body>\n"
         form = cgi.FieldStorage()
         you = form.getvalue("you", None)
         exp_code = form.getvalue("exp_code", None)
-        if argchk.exp_check(you, exp_code) == False:
-                print("<h2>Sorry:(</h2>")
-                print("<h2>This page is now only for testing users only</h2>")
-                print("<h2>you:{0}<br>code:{1}".format(you, exp_code))
-                print("</body>")
-                print("</html>")
-                return
         group_url = form.getvalue("group_url", "http://www.douban.com/group/maths/")
         if group_url.endswith('/') == False:
                 group_url += '/'
@@ -49,6 +42,18 @@ def main():
         location = location.decode('utf8')
         cat = form.getvalue("cat", None)
         anonymous = 0
+        if argchk.exp_check(you, exp_code) == False:
+                print "<h2>Sorry:(</h2>"
+                print "<h2>This page is now only for testing users only</h2>"
+                print "<h2>you:{0}<br>code:{1}".format(you, exp_code)
+                print "</body>"
+                print "</html>"
+                return
+        if argchk.arg_chk(you, group_url, location) == False:
+                print "</body>"
+                print "</html>"
+                return
+
         nickname = get_names.get_nickname(you)
         group_name = get_names.get_group_name(group_url)
         suffix = str(int(time.time()))

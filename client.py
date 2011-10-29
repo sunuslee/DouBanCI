@@ -7,7 +7,7 @@ import time
 import sys
 import pickle
 
-IS_LOCAL = False
+IS_LOCAL = True
 auth_callback_url = 'http://10.10.149.18/cgi-bin/show_queue.py' if IS_LOCAL == True else 'http://184.164.137.154/cgi-bin/show_queue.py'
 signature_method = oauth.OAuthSignatureMethod_HMAC_SHA1()
 

@@ -25,7 +25,7 @@ import cache
 import dl
 # Please use your own api key instead. e.g. :
 # APIKEY = "23eeeb4347bdd26bfc6b7ee9a3b755dd"
-IS_LOCAL = False
+IS_LOCAL = True
 ROOTDIR = "/home/sunus/apache/" if IS_LOCAL == True else "/usr/local/apache2/"
 HOSTNAME = "http://localhost/"  if IS_LOCAL == True else "http://184.164.137.154/"
 LINK_DB_PEOPLE = "http://www.douban.com/people/"
@@ -140,10 +140,7 @@ def get_match_rate(uid1_idx, uid2_idx, cat):
         return [uid2_idx, rate]
 
 
-def var_verify(user, group = None, cat = None, location = None):
-        if cat is None or cat.lower() not in ["movie", "music", "book"]:
-                print("<h4>it must be ONE of movie,book or music</h4>")
-                return False
+def var_verify(user, group = None, location = None):
         if location is None:
                 print("<h4>Location Can not be None!</h4>")
                 return False

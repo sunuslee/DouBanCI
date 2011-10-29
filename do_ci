@@ -20,9 +20,8 @@ import cache
 import dl
 import pickle
 
-IS_LOCAL = False
+IS_LOCAL = True
 ROOTDIR = "/home/sunus/apache/" if IS_LOCAL == True else "/usr/local/apache2/"
-HOSTNAME = "http://localhost/"  if IS_LOCAL == True else "http://184.164.137.154/"
 LINK_DB_PEOPLE = "http://www.douban.com/people/"
 APIKEY = "053caab0d0224c680fb600127066e538"
 SECRET = ''
@@ -238,10 +237,11 @@ def main():
         fh_write_html.write('<h4>在 <a href="{0}">{1}</a> 为您找到了在 {2} 的豆友:</h4>\n'.format(group_url, group_name, location))
         fh_write_html.write('<!-- saying:glc\t{0}\t{1}\t{2}\t -->\n'.format(group_name, location, cat_chs[cat]))
         for i in range(ir, total_people):
-                name = table[rank[i][0]][0][1]
-                fh_write_html.write('<h4>#{0:<4} <a href="{3}{4}">{1}</a>和你有 {2} 项共同喜好</h4>\n'.format(r, name, rank[i][1], 
-                                                                                                     LINK_DB_PEOPLE, table[rank[i][0]][0][0]))
-                fh_write_html.write('<!-- saying:rank\t{0}\t{1}\t{2}\t -->\n'.format(r,name  if '(c)' not in name else name[:-3], rank[i][1]))
+                uid =      table[rank[i][0]][0][0] # use to @somebody
+                nikename = table[rank[i][0]][0][1] # use to show on html page
+                fh_write_html.write('<h4>#{0:<4} <a href="{3}{4}">{1}</a>和你有 {2} 项共同喜好</h4>\n'.format(r, nikename, rank[i][1], 
+                                                                                                     LINK_DB_PEOPLE, uid))
+                fh_write_html.write('<!-- saying:rank\t{0}\t{1}\t{2}\t -->\n'.format(r, uid, rank[i][1]))
                 r += 1
         fh_write_html.write("<h4>转发本页地址:{0}</h4>\n".format(short_url))
         fh_write_html.write("</body>\n")
