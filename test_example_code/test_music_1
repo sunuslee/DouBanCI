@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:db="http://www.douban.com/xmlns/" xmlns:gd="http://schemas.google.com/g/2005" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:opensearch="http://a9.com/-/spec/opensearchrss/1.0/">
+	<title>半 日光 的收藏</title>
+	<author>
+		<link href="http://api.douban.com/people/48935604" rel="self"/>
+		<link href="http://www.douban.com/people/48935604/" rel="alternate"/>
+		<link href="http://img3.douban.com/icon/u48935604-4.jpg" rel="icon"/>
+		<name>半 日光</name>
+		<uri>http://api.douban.com/people/48935604</uri>
+	</author>
+	<opensearch:startIndex>1</opensearch:startIndex>
+	<opensearch:totalResults>34</opensearch:totalResults>
+	<entry>
+		<id>http://api.douban.com/collection/451758330</id>
+		<title>半 日光 听过 藍眼睛</title>
+		<updated>2011-10-30T11:04:32+08:00</updated>
+		<link href="http://api.douban.com/collection/451758330" rel="self"/>
+		<link href="http://api.douban.com/music/subject/3037286" rel="http://www.douban.com/2007#subject"/>
+		<summary>诡异 旋律像烟雾一样 虚虚晃晃萦绕在耳畔</summary>
+		<db:status>listened</db:status>
+		<db:subject>
+			<id>http://api.douban.com/music/subject/3037286</id>
+			<title>藍眼睛</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#music"/>
+			<author>
+				<name>蘇打綠</name>
+			</author>
+			<link href="http://api.douban.com/music/subject/3037286" rel="self"/>
+			<link href="http://music.douban.com/subject/3037286/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3024417.jpg" rel="image"/>
+			<db:attribute name="pubdate">2007-04-04</db:attribute>
+			<db:attribute name="singer">蘇打綠</db:attribute>
+			<db:attribute name="publisher">kkbox</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/451757478</id>
+		<title>半 日光 听过 追梦3DNA电影原声音乐专辑</title>
+		<updated>2011-10-30T11:01:16+08:00</updated>
+		<link href="http://api.douban.com/collection/451757478" rel="self"/>
+		<link href="http://api.douban.com/music/subject/6815838" rel="http://www.douban.com/2007#subject"/>
+		<db:status>listened</db:status>
+		<db:subject>
+			<id>http://api.douban.com/music/subject/6815838</id>
+			<title>追梦3DNA电影原声音乐专辑</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#music"/>
+			<author>
+				<name>Various Artists</name>
+			</author>
+			<author>
+				<name>五月天</name>
+			</author>
+			<author>
+				<name>家家</name>
+			</author>
+			<author>
+				<name>王汤尼</name>
+			</author>
+			<author>
+				<name>高媛媛</name>
+			</author>
+			<link href="http://api.douban.com/music/subject/6815838" rel="self"/>
+			<link href="http://music.douban.com/subject/6815838/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s6920528.jpg" rel="image"/>
+			<db:attribute name="pubdate">2011-09-16</db:attribute>
+			<db:attribute name="singer">Various Artists</db:attribute>
+			<db:attribute name="singer">五月天</db:attribute>
+			<db:attribute name="singer">家家</db:attribute>
+			<db:attribute name="singer">王汤尼</db:attribute>
+			<db:attribute name="singer">高媛媛</db:attribute>
+			<db:attribute name="publisher">相信音乐</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/451757261</id>
+		<title>半 日光 听过 那又怎样</title>
+		<updated>2011-10-30T11:00:24+08:00</updated>
+		<link href="http://api.douban.com/collection/451757261" rel="self"/>
+		<link href="http://api.douban.com/music/subject/6758073" rel="http://www.douban.com/2007#subject"/>
+		<db:status>listened</db:status>
+		<db:subject>
+			<id>http://api.douban.com/music/subject/6758073</id>
+			<title>那又怎样</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#music"/>
+			<author>
+				<name>那英</name>
+			</author>
+			<link href="http://api.douban.com/music/subject/6758073" rel="self"/>
+			<link href="http://music.douban.com/subject/6758073/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s6944243.jpg" rel="image"/>
+			<db:attribute name="pubdate">2011-10-07</db:attribute>
+			<db:attribute name="singer">那英</db:attribute>
+			<db:attribute name="publisher">亚神唱片</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/447980399</id>
+		<title>半 日光 听过 空氣中的視聽與幻覺</title>
+		<updated>2011-10-19T15:54:52+08:00</updated>
+		<link href="http://api.douban.com/collection/447980399" rel="self"/>
+		<link href="http://api.douban.com/music/subject/1755260" rel="http://www.douban.com/2007#subject"/>
+		<db:status>listened</db:status>
+		<db:subject>
+			<id>http://api.douban.com/music/subject/1755260</id>
+			<title>空氣中的視聽與幻覺</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#music"/>
+			<author>
+				<name>苏打绿</name>
+			</author>
+			<link href="http://api.douban.com/music/subject/1755260" rel="self"/>
+			<link href="http://music.douban.com/subject/1755260/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s4567534.jpg" rel="image"/>
+			<db:attribute name="pubdate">2004年11月1日</db:attribute>
+			<db:attribute name="singer">苏打绿</db:attribute>
+			<db:attribute name="publisher">林暐哲音樂社</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/441582173</id>
+		<title>半 日光 听过 Wake Me Up When September Ends UK CD Single 2</title>
+		<updated>2011-10-01T14:07:05+08:00</updated>
+		<link href="http://api.douban.com/collection/441582173" rel="self"/>
+		<link href="http://api.douban.com/music/subject/1431596" rel="http://www.douban.com/2007#subject"/>
+		<db:status>listened</db:status>
+		<db:subject>
+			<id>http://api.douban.com/music/subject/1431596</id>
+			<title>Wake Me Up When September Ends UK CD Single 2</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#music"/>
+			<author>
+				<name>Green Day</name>
+			</author>
+			<link href="http://api.douban.com/music/subject/1431596" rel="self"/>
+			<link href="http://music.douban.com/subject/1431596/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3572868.jpg" rel="image"/>
+			<db:attribute name="pubdate">2005</db:attribute>
+			<db:attribute name="singer">Green Day</db:attribute>
+			<db:attribute name="publisher">Wea International</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/441581607</id>
+		<title>半 日光 听过 你在煩惱什麼</title>
+		<updated>2011-10-01T14:05:34+08:00</updated>
+		<link href="http://api.douban.com/collection/441581607" rel="self"/>
+		<link href="http://api.douban.com/music/subject/6816154" rel="http://www.douban.com/2007#subject"/>
+		<db:status>listened</db:status>
+		<db:subject>
+			<id>http://api.douban.com/music/subject/6816154</id>
+			<title>你在煩惱什麼</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#music"/>
+			<author>
+				<name>苏打绿</name>
+			</author>
+			<link href="http://api.douban.com/music/subject/6816154" rel="self"/>
+			<link href="http://music.douban.com/subject/6816154/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s6965824.jpg" rel="image"/>
+			<db:attribute name="pubdate">2011-11-11</db:attribute>
+			<db:attribute name="singer">苏打绿</db:attribute>
+			<db:attribute name="publisher">林暐哲音乐社</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/429951413</id>
+		<title>半 日光 听过 Change</title>
+		<updated>2011-08-26T22:29:55+08:00</updated>
+		<link href="http://api.douban.com/collection/429951413" rel="self"/>
+		<link href="http://api.douban.com/music/subject/3200300" rel="http://www.douban.com/2007#subject"/>
+		<db:status>listened</db:status>
+		<db:subject>
+			<id>http://api.douban.com/music/subject/3200300</id>
+			<title>Change</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#music"/>
+			<author>
+				<name>Taylor Swift</name>
+			</author>
+			<link href="http://api.douban.com/music/subject/3200300" rel="self"/>
+			<link href="http://music.douban.com/subject/3200300/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3281720.jpg" rel="image"/>
+			<db:attribute name="pubdate">2008-08-08</db:attribute>
+			<db:attribute name="singer">Taylor Swift</db:attribute>
+			<db:attribute name="publisher">Big Machine Records</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/429951310</id>
+		<title>半 日光 听过 Taylor Swift</title>
+		<updated>2011-08-26T22:29:42+08:00</updated>
+		<link href="http://api.douban.com/collection/429951310" rel="self"/>
+		<link href="http://api.douban.com/music/subject/3298756" rel="http://www.douban.com/2007#subject"/>
+		<db:status>listened</db:status>
+		<db:subject>
+			<id>http://api.douban.com/music/subject/3298756</id>
+			<title>Taylor Swift</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#music"/>
+			<author>
+				<name>Taylor Swift</name>
+			</author>
+			<link href="http://api.douban.com/music/subject/3298756" rel="self"/>
+			<link href="http://music.douban.com/subject/3298756/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3516555.jpg" rel="image"/>
+			<db:attribute name="pubdate">2007-11-06</db:attribute>
+			<db:attribute name="singer">Taylor Swift</db:attribute>
+			<db:attribute name="publisher">Big Machine Records</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/406421419</id>
+		<title>半 日光 听过 双栖动物</title>
+		<updated>2011-06-23T16:31:33+08:00</updated>
+		<link href="http://api.douban.com/collection/406421419" rel="self"/>
+		<link href="http://api.douban.com/music/subject/1405127" rel="http://www.douban.com/2007#subject"/>
+		<db:status>listened</db:status>
+		<db:subject>
+			<id>http://api.douban.com/music/subject/1405127</id>
+			<title>双栖动物</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#music"/>
+			<author>
+				<name>蔡健雅</name>
+			</author>
+			<link href="http://api.douban.com/music/subject/1405127" rel="self"/>
+			<link href="http://music.douban.com/subject/1405127/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3530542.jpg" rel="image"/>
+			<db:attribute name="isrc">CNF230438300</db:attribute>
+			<db:attribute name="ean">CNF230438300</db:attribute>
+			<db:attribute name="pubdate">2005-1-7</db:attribute>
+			<db:attribute name="singer">蔡健雅</db:attribute>
+			<db:attribute name="publisher">珠影白天鹅音像出版社</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/406421374</id>
+		<title>半 日光 听过 陌生人</title>
+		<updated>2011-06-23T16:31:24+08:00</updated>
+		<link href="http://api.douban.com/collection/406421374" rel="self"/>
+		<link href="http://api.douban.com/music/subject/1408650" rel="http://www.douban.com/2007#subject"/>
+		<db:status>listened</db:status>
+		<db:subject>
+			<id>http://api.douban.com/music/subject/1408650</id>
+			<title>陌生人</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#music"/>
+			<author>
+				<name>蔡健雅</name>
+			</author>
+			<link href="http://api.douban.com/music/subject/1408650" rel="self"/>
+			<link href="http://music.douban.com/subject/1408650/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3464707.jpg" rel="image"/>
+			<db:attribute name="isrc">CNA260334900</db:attribute>
+			<db:attribute name="ean">CNA260334900</db:attribute>
+			<db:attribute name="pubdate">2003</db:attribute>
+			<db:attribute name="singer">蔡健雅</db:attribute>
+			<db:attribute name="publisher">Warner Music Taiwan Ltd</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/406421333</id>
+		<title>半 日光 听过 GOODBYE &amp; HELLO</title>
+		<updated>2011-06-23T16:31:17+08:00</updated>
+		<link href="http://api.douban.com/collection/406421333" rel="self"/>
+		<link href="http://api.douban.com/music/subject/2264207" rel="http://www.douban.com/2007#subject"/>
+		<db:status>listened</db:status>
+		<db:subject>
+			<id>http://api.douban.com/music/subject/2264207</id>
+			<title>GOODBYE &amp; HELLO</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#music"/>
+			<author>
+				<name>蔡健雅</name>
+			</author>
+			<author>
+				<name>Tanya</name>
+			</author>
+			<link href="http://api.douban.com/music/subject/2264207" rel="self"/>
+			<link href="http://music.douban.com/subject/2264207/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2744900.jpg" rel="image"/>
+			<db:attribute name="pubdate">2007-10-19</db:attribute>
+			<db:attribute name="singer">蔡健雅</db:attribute>
+			<db:attribute name="singer">Tanya</db:attribute>
+			<db:attribute name="publisher">亚神音乐</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/406421216</id>
+		<title>半 日光 听过 还是会寂寞</title>
+		<updated>2011-06-23T16:30:54+08:00</updated>
+		<link href="http://api.douban.com/collection/406421216" rel="self"/>
+		<link href="http://api.douban.com/music/subject/1394547" rel="http://www.douban.com/2007#subject"/>
+		<db:status>listened</db:status>
+		<db:subject>
+			<id>http://api.douban.com/music/subject/1394547</id>
+			<title>还是会寂寞</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#music"/>
+			<author>
+				<name>陈绮贞</name>
+			</author>
+			<link href="http://api.douban.com/music/subject/1394547" rel="self"/>
+			<link href="http://music.douban.com/subject/1394547/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1399755.jpg" rel="image"/>
+			<db:attribute name="pubdate">2000</db:attribute>
+			<db:attribute name="singer">陈绮贞</db:attribute>
+			<db:attribute name="publisher">魔岩唱片</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/406421173</id>
+		<title>半 日光 听过 旅行的意义</title>
+		<updated>2011-06-23T16:30:46+08:00</updated>
+		<link href="http://api.douban.com/collection/406421173" rel="self"/>
+		<link href="http://api.douban.com/music/subject/1395089" rel="http://www.douban.com/2007#subject"/>
+		<db:status>listened</db:status>
+		<db:subject>
+			<id>http://api.douban.com/music/subject/1395089</id>
+			<title>旅行的意义</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#music"/>
+			<author>
+				<name>陈绮贞</name>
+			</author>
+			<link href="http://api.douban.com/music/subject/1395089" rel="self"/>
+			<link href="http://music.douban.com/subject/1395089/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1430722.jpg" rel="image"/>
+			<db:attribute name="pubdate">2004</db:attribute>
+			<db:attribute name="singer">陈绮贞</db:attribute>
+			<db:attribute name="publisher">好小氣音樂工作室</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/406421042</id>
+		<title>半 日光 听过 无美丽</title>
+		<updated>2011-06-23T16:30:23+08:00</updated>
+		<link href="http://api.douban.com/collection/406421042" rel="self"/>
+		<link href="http://api.douban.com/music/subject/2286200" rel="http://www.douban.com/2007#subject"/>
+		<db:status>listened</db:status>
+		<db:subject>
+			<id>http://api.douban.com/music/subject/2286200</id>
+			<title>无美丽</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#music"/>
+			<author>
+				<name>苏打绿</name>
+			</author>
+			<link href="http://api.douban.com/music/subject/2286200" rel="self"/>
+			<link href="http://music.douban.com/subject/2286200/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2747459.jpg" rel="image"/>
+			<db:attribute name="pubdate">2007-10-17</db:attribute>
+			<db:attribute name="singer">苏打绿</db:attribute>
+			<db:attribute name="publisher">林暐哲音乐社</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/406420991</id>
+		<title>半 日光 听过 苏打绿:夏/狂热</title>
+		<updated>2011-06-23T16:30:13+08:00</updated>
+		<link href="http://api.douban.com/collection/406420991" rel="self"/>
+		<link href="http://api.douban.com/music/subject/4705375" rel="http://www.douban.com/2007#subject"/>
+		<db:status>listened</db:status>
+		<db:subject>
+			<id>http://api.douban.com/music/subject/4705375</id>
+			<title>苏打绿:夏/狂热</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#music"/>
+			<author>
+				<name>苏打绿</name>
+			</author>
+			<link href="http://api.douban.com/music/subject/4705375" rel="self"/>
+			<link href="http://music.douban.com/subject/4705375/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4238043.jpg" rel="image"/>
+			<db:attribute name="isrc">CNA130945200</db:attribute>
+			<db:attribute name="ean">CNA130945200</db:attribute>
+			<db:attribute name="pubdate">2009年</db:attribute>
+			<db:attribute name="singer">苏打绿</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/406420920</id>
+		<title>半 日光 听过 春·日光</title>
+		<updated>2011-06-23T16:30:00+08:00</updated>
+		<link href="http://api.douban.com/collection/406420920" rel="self"/>
+		<link href="http://api.douban.com/music/subject/3671026" rel="http://www.douban.com/2007#subject"/>
+		<db:status>listened</db:status>
+		<db:subject>
+			<id>http://api.douban.com/music/subject/3671026</id>
+			<title>春·日光</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#music"/>
+			<author>
+				<name>苏打绿</name>
+			</author>
+			<link href="http://api.douban.com/music/subject/3671026" rel="self"/>
+			<link href="http://music.douban.com/subject/3671026/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3763169.jpg" rel="image"/>
+			<db:attribute name="pubdate">2009-5-8</db:attribute>
+			<db:attribute name="singer">苏打绿</db:attribute>
+			<db:attribute name="publisher">林暐哲音乐社</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/406420874</id>
+		<title>半 日光 听过 夏·狂热</title>
+		<updated>2011-06-23T16:29:53+08:00</updated>
+		<link href="http://api.douban.com/collection/406420874" rel="self"/>
+		<link href="http://api.douban.com/music/subject/3838018" rel="http://www.douban.com/2007#subject"/>
+		<db:status>listened</db:status>
+		<db:subject>
+			<id>http://api.douban.com/music/subject/3838018</id>
+			<title>夏·狂热</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#music"/>
+			<author>
+				<name>苏打绿</name>
+			</author>
+			<link href="http://api.douban.com/music/subject/3838018" rel="self"/>
+			<link href="http://music.douban.com/subject/3838018/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3967123.jpg" rel="image"/>
+			<db:attribute name="pubdate">2009-09-11</db:attribute>
+			<db:attribute name="singer">苏打绿</db:attribute>
+			<db:attribute name="publisher">環球國際唱片股份有限公司</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/406420817</id>
+		<title>半 日光 听过 十年一刻</title>
+		<updated>2011-06-23T16:29:44+08:00</updated>
+		<link href="http://api.douban.com/collection/406420817" rel="self"/>
+		<link href="http://api.douban.com/music/subject/4923069" rel="http://www.douban.com/2007#subject"/>
+		<db:status>listened</db:status>
+		<db:subject>
+			<id>http://api.douban.com/music/subject/4923069</id>
+			<title>十年一刻</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#music"/>
+			<author>
+				<name>蘇打綠</name>
+			</author>
+			<link href="http://api.douban.com/music/subject/4923069" rel="self"/>
+			<link href="http://music.douban.com/subject/4923069/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4424848.jpg" rel="image"/>
+			<db:attribute name="pubdate">2010-8-27</db:attribute>
+			<db:attribute name="singer">蘇打綠</db:attribute>
+			<db:attribute name="publisher">UNI</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/406420736</id>
+		<title>半 日光 听过 苏打绿</title>
+		<updated>2011-06-23T16:29:29+08:00</updated>
+		<link href="http://api.douban.com/collection/406420736" rel="self"/>
+		<link href="http://api.douban.com/music/subject/1421488" rel="http://www.douban.com/2007#subject"/>
+		<db:status>listened</db:status>
+		<db:subject>
+			<id>http://api.douban.com/music/subject/1421488</id>
+			<title>苏打绿</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#music"/>
+			<author>
+				<name>苏打绿</name>
+			</author>
+			<author>
+				<name>蘇打綠</name>
+			</author>
+			<link href="http://api.douban.com/music/subject/1421488" rel="self"/>
+			<link href="http://music.douban.com/subject/1421488/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s1434104.jpg" rel="image"/>
+			<db:attribute name="pubdate">2005年9月</db:attribute>
+			<db:attribute name="singer">苏打绿</db:attribute>
+			<db:attribute name="singer">蘇打綠</db:attribute>
+			<db:attribute name="publisher">林暐哲音乐社</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/406420708</id>
+		<title>半 日光 听过 小宇宙</title>
+		<updated>2011-06-23T16:29:23+08:00</updated>
+		<link href="http://api.douban.com/collection/406420708" rel="self"/>
+		<link href="http://api.douban.com/music/subject/1900796" rel="http://www.douban.com/2007#subject"/>
+		<db:status>listened</db:status>
+		<db:subject>
+			<id>http://api.douban.com/music/subject/1900796</id>
+			<title>小宇宙</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#music"/>
+			<author>
+				<name>蘇打綠</name>
+			</author>
+			<author>
+				<name>苏打绿</name>
+			</author>
+			<link href="http://api.douban.com/music/subject/1900796" rel="self"/>
+			<link href="http://music.douban.com/subject/1900796/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s1883654.jpg" rel="image"/>
+			<db:attribute name="pubdate">2006-10-20</db:attribute>
+			<db:attribute name="singer">蘇打綠</db:attribute>
+			<db:attribute name="singer">苏打绿</db:attribute>
+			<db:attribute name="publisher">林暐哲音乐社</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/406420673</id>
+		<title>半 日光 听过 無與倫比的美麗</title>
+		<updated>2011-06-23T16:29:15+08:00</updated>
+		<link href="http://api.douban.com/collection/406420673" rel="self"/>
+		<link href="http://api.douban.com/music/subject/3717116" rel="http://www.douban.com/2007#subject"/>
+		<db:status>listened</db:status>
+		<db:subject>
+			<id>http://api.douban.com/music/subject/3717116</id>
+			<title>無與倫比的美麗</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#music"/>
+			<author>
+				<name>苏打绿</name>
+			</author>
+			<link href="http://api.douban.com/music/subject/3717116" rel="self"/>
+			<link href="http://music.douban.com/subject/3717116/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2757483.jpg" rel="image"/>
+			<db:attribute name="pubdate">2007-11-02</db:attribute>
+			<db:attribute name="singer">苏打绿</db:attribute>
+			<db:attribute name="publisher">林暐哲音乐社</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/406420641</id>
+		<title>半 日光 听过 如果有一天</title>
+		<updated>2011-06-23T16:29:07+08:00</updated>
+		<link href="http://api.douban.com/collection/406420641" rel="self"/>
+		<link href="http://api.douban.com/music/subject/1521919" rel="http://www.douban.com/2007#subject"/>
+		<db:status>listened</db:status>
+		<db:subject>
+			<id>http://api.douban.com/music/subject/1521919</id>
+			<title>如果有一天</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#music"/>
+			<author>
+				<name>梁静茹</name>
+			</author>
+			<link href="http://api.douban.com/music/subject/1521919" rel="self"/>
+			<link href="http://music.douban.com/subject/1521919/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1508465.jpg" rel="image"/>
+			<db:attribute name="pubdate">2000-8-3</db:attribute>
+			<db:attribute name="singer">梁静茹</db:attribute>
+			<db:attribute name="publisher">滚石</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/406420576</id>
+		<title>半 日光 听过 勇气</title>
+		<updated>2011-06-23T16:28:54+08:00</updated>
+		<link href="http://api.douban.com/collection/406420576" rel="self"/>
+		<link href="http://api.douban.com/music/subject/1428604" rel="http://www.douban.com/2007#subject"/>
+		<db:status>listened</db:status>
+		<db:subject>
+			<id>http://api.douban.com/music/subject/1428604</id>
+			<title>勇气</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#music"/>
+			<author>
+				<name>梁静茹</name>
+			</author>
+			<link href="http://api.douban.com/music/subject/1428604" rel="self"/>
+			<link href="http://music.douban.com/subject/1428604/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3530568.jpg" rel="image"/>
+			<db:attribute name="isrc">CNA500033700</db:attribute>
+			<db:attribute name="pubdate">2000-08</db:attribute>
+			<db:attribute name="singer">梁静茹</db:attribute>
+			<db:attribute name="publisher">滚石唱片</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/406420482</id>
+		<title>半 日光 听过 霍元甲</title>
+		<updated>2011-06-23T16:28:38+08:00</updated>
+		<link href="http://api.douban.com/collection/406420482" rel="self"/>
+		<link href="http://api.douban.com/music/subject/1478792" rel="http://www.douban.com/2007#subject"/>
+		<db:status>listened</db:status>
+		<db:subject>
+			<id>http://api.douban.com/music/subject/1478792</id>
+			<title>霍元甲</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#music"/>
+			<author>
+				<name>周杰伦</name>
+			</author>
+			<link href="http://api.douban.com/music/subject/1478792" rel="self"/>
+			<link href="http://music.douban.com/subject/1478792/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s1496424.jpg" rel="image"/>
+			<db:attribute name="isrc">CNE040630900</db:attribute>
+			<db:attribute name="ean">CNE040630900</db:attribute>
+			<db:attribute name="pubdate">2006</db:attribute>
+			<db:attribute name="singer">周杰伦</db:attribute>
+			<db:attribute name="publisher">新力博德曼</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/406420410</id>
+		<title>半 日光 听过 依然范特西</title>
+		<updated>2011-06-23T16:28:20+08:00</updated>
+		<link href="http://api.douban.com/collection/406420410" rel="self"/>
+		<link href="http://api.douban.com/music/subject/2210561" rel="http://www.douban.com/2007#subject"/>
+		<db:status>listened</db:status>
+		<db:subject>
+			<id>http://api.douban.com/music/subject/2210561</id>
+			<title>依然范特西</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#music"/>
+			<author>
+				<name>周杰伦</name>
+			</author>
+			<link href="http://api.douban.com/music/subject/2210561" rel="self"/>
+			<link href="http://music.douban.com/subject/2210561/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1943885.jpg" rel="image"/>
+			<db:attribute name="pubdate">2006</db:attribute>
+			<db:attribute name="singer">周杰伦</db:attribute>
+			<db:attribute name="publisher">新索音乐</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/406420352</id>
+		<title>半 日光 听过 十一月的萧邦</title>
+		<updated>2011-06-23T16:28:09+08:00</updated>
+		<link href="http://api.douban.com/collection/406420352" rel="self"/>
+		<link href="http://api.douban.com/music/subject/1436975" rel="http://www.douban.com/2007#subject"/>
+		<db:status>listened</db:status>
+		<db:subject>
+			<id>http://api.douban.com/music/subject/1436975</id>
+			<title>十一月的萧邦</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#music"/>
+			<author>
+				<name>周杰伦</name>
+			</author>
+			<link href="http://api.douban.com/music/subject/1436975" rel="self"/>
+			<link href="http://music.douban.com/subject/1436975/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1454231.jpg" rel="image"/>
+			<db:attribute name="isrc">CNE040547400</db:attribute>
+			<db:attribute name="ean">CNE040547400</db:attribute>
+			<db:attribute name="pubdate">2005</db:attribute>
+			<db:attribute name="singer">周杰伦</db:attribute>
+			<db:attribute name="publisher">好乐迪集团阿尔发音乐股份有限公司</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/406420316</id>
+		<title>半 日光 听过 Jay</title>
+		<updated>2011-06-23T16:28:02+08:00</updated>
+		<link href="http://api.douban.com/collection/406420316" rel="self"/>
+		<link href="http://api.douban.com/music/subject/1422300" rel="http://www.douban.com/2007#subject"/>
+		<db:status>listened</db:status>
+		<db:subject>
+			<id>http://api.douban.com/music/subject/1422300</id>
+			<title>Jay</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#music"/>
+			<author>
+				<name>周杰伦</name>
+			</author>
+			<link href="http://api.douban.com/music/subject/1422300" rel="self"/>
+			<link href="http://music.douban.com/subject/1422300/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3120265.jpg" rel="image"/>
+			<db:attribute name="pubdate">2000-11-13</db:attribute>
+			<db:attribute name="singer">周杰伦</db:attribute>
+			<db:attribute name="publisher">BMG@SonyBMG</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/406420270</id>
+		<title>半 日光 听过 八度空间</title>
+		<updated>2011-06-23T16:27:55+08:00</updated>
+		<link href="http://api.douban.com/collection/406420270" rel="self"/>
+		<link href="http://api.douban.com/music/subject/1403832" rel="http://www.douban.com/2007#subject"/>
+		<db:status>listened</db:status>
+		<db:subject>
+			<id>http://api.douban.com/music/subject/1403832</id>
+			<title>八度空间</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#music"/>
+			<author>
+				<name>周杰伦</name>
+			</author>
+			<link href="http://api.douban.com/music/subject/1403832" rel="self"/>
+			<link href="http://music.douban.com/subject/1403832/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s1416964.jpg" rel="image"/>
+			<db:attribute name="isrc">CNF080201070</db:attribute>
+			<db:attribute name="ean">CNF080201070</db:attribute>
+			<db:attribute name="pubdate">2002年07月01日</db:attribute>
+			<db:attribute name="singer">周杰伦</db:attribute>
+			<db:attribute name="publisher">湖南金锋音像出版社</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/406420219</id>
+		<title>半 日光 听过 叶惠美</title>
+		<updated>2011-06-23T16:27:46+08:00</updated>
+		<link href="http://api.douban.com/collection/406420219" rel="self"/>
+		<link href="http://api.douban.com/music/subject/1406522" rel="http://www.douban.com/2007#subject"/>
+		<db:status>listened</db:status>
+		<db:subject>
+			<id>http://api.douban.com/music/subject/1406522</id>
+			<title>叶惠美</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#music"/>
+			<author>
+				<name>周杰伦</name>
+			</author>
+			<link href="http://api.douban.com/music/subject/1406522" rel="self"/>
+			<link href="http://music.douban.com/subject/1406522/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3737082.jpg" rel="image"/>
+			<db:attribute name="pubdate">2003-7-1</db:attribute>
+			<db:attribute name="singer">周杰伦</db:attribute>
+			<db:attribute name="publisher">Sony Music</db:attribute>
+			<db:attribute name="ean">CNE040350500</db:attribute>
+			<db:attribute name="isrc">CNE040350500</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/406420183</id>
+		<title>半 日光 听过 七里香</title>
+		<updated>2011-06-23T16:27:39+08:00</updated>
+		<link href="http://api.douban.com/collection/406420183" rel="self"/>
+		<link href="http://api.douban.com/music/subject/1401853" rel="http://www.douban.com/2007#subject"/>
+		<db:status>listened</db:status>
+		<db:subject>
+			<id>http://api.douban.com/music/subject/1401853</id>
+			<title>七里香</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#music"/>
+			<author>
+				<name>周杰伦</name>
+			</author>
+			<link href="http://api.douban.com/music/subject/1401853" rel="self"/>
+			<link href="http://music.douban.com/subject/1401853/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3737076.jpg" rel="image"/>
+			<db:attribute name="pubdate">2004</db:attribute>
+			<db:attribute name="singer">周杰伦</db:attribute>
+			<db:attribute name="publisher">上海声像出版社</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/406420142</id>
+		<title>半 日光 听过 范特西</title>
+		<updated>2011-06-23T16:27:32+08:00</updated>
+		<link href="http://api.douban.com/collection/406420142" rel="self"/>
+		<link href="http://api.douban.com/music/subject/1403307" rel="http://www.douban.com/2007#subject"/>
+		<db:status>listened</db:status>
+		<db:subject>
+			<id>http://api.douban.com/music/subject/1403307</id>
+			<title>范特西</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#music"/>
+			<author>
+				<name>周杰伦</name>
+			</author>
+			<link href="http://api.douban.com/music/subject/1403307" rel="self"/>
+			<link href="http://music.douban.com/subject/1403307/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s3737044.jpg" rel="image"/>
+			<db:attribute name="isrc">CNA260150200</db:attribute>
+			<db:attribute name="ean">CNA260150200</db:attribute>
+			<db:attribute name="pubdate">2001</db:attribute>
+			<db:attribute name="singer">周杰伦</db:attribute>
+			<db:attribute name="publisher">BMG</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/406420061</id>
+		<title>半 日光 听过 The Moment</title>
+		<updated>2011-06-23T16:27:17+08:00</updated>
+		<link href="http://api.douban.com/collection/406420061" rel="self"/>
+		<link href="http://api.douban.com/music/subject/1402385" rel="http://www.douban.com/2007#subject"/>
+		<db:status>listened</db:status>
+		<db:subject>
+			<id>http://api.douban.com/music/subject/1402385</id>
+			<title>The Moment</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#music"/>
+			<author>
+				<name>孙燕姿</name>
+			</author>
+			<link href="http://api.douban.com/music/subject/1402385" rel="self"/>
+			<link href="http://music.douban.com/subject/1402385/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2794840.jpg" rel="image"/>
+			<db:attribute name="pubdate">2003-7-1</db:attribute>
+			<db:attribute name="singer">孙燕姿</db:attribute>
+			<db:attribute name="publisher">Warner</db:attribute>
+			<db:attribute name="ean">CNA260351000</db:attribute>
+			<db:attribute name="isrc">CNA260351000</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/406420004</id>
+		<title>半 日光 听过 风筝</title>
+		<updated>2011-06-23T16:27:07+08:00</updated>
+		<link href="http://api.douban.com/collection/406420004" rel="self"/>
+		<link href="http://api.douban.com/music/subject/1407437" rel="http://www.douban.com/2007#subject"/>
+		<db:status>listened</db:status>
+		<db:subject>
+			<id>http://api.douban.com/music/subject/1407437</id>
+			<title>风筝</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#music"/>
+			<author>
+				<name>孙燕姿</name>
+			</author>
+			<link href="http://api.douban.com/music/subject/1407437" rel="self"/>
+			<link href="http://music.douban.com/subject/1407437/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s6569456.jpg" rel="image"/>
+			<db:attribute name="pubdate">2001-07-09</db:attribute>
+			<db:attribute name="singer">孙燕姿</db:attribute>
+			<db:attribute name="publisher">国际文化交流音像出版社出版</db:attribute>
+			<db:attribute name="ean">CNA260145000</db:attribute>
+			<db:attribute name="isrc">CNA260145000</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/406419928</id>
+		<title>半 日光 听过 是时候</title>
+		<updated>2011-06-23T16:26:53+08:00</updated>
+		<link href="http://api.douban.com/collection/406419928" rel="self"/>
+		<link href="http://api.douban.com/music/subject/5958397" rel="http://www.douban.com/2007#subject"/>
+		<db:status>listened</db:status>
+		<db:subject>
+			<id>http://api.douban.com/music/subject/5958397</id>
+			<title>是时候</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#music"/>
+			<author>
+				<name>孙燕姿</name>
+			</author>
+			<link href="http://api.douban.com/music/subject/5958397" rel="self"/>
+			<link href="http://music.douban.com/subject/5958397/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4653287.jpg" rel="image"/>
+			<db:attribute name="pubdate">2011-03-08</db:attribute>
+			<db:attribute name="singer">孙燕姿</db:attribute>
+			<db:attribute name="publisher">美妙音乐</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<opensearch:itemsPerPage>50</opensearch:itemsPerPage>
+</feed>

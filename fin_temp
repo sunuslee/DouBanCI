@@ -21,14 +21,14 @@ def main():
                 args = user_queue.fetch_user()
                 if args != None:
                         cmd = ' '.join(('python3.1', DO_CI_PATH))
-                        print('run',cmd)
+                        print('run',cmd, time.ctime())
                         flog.write('[LOG]\t{0}:\t run cmd:{1} with args:\n'.format(time.ctime(), cmd, args))
                         flog.flush()
                         os.system(cmd)
                         longurl = HOSTNAME + 'history/' + args[-3].split('/')[-1]
-                        cmd = ' '.join(('python2.6' , SEND_STATUS_PATH, 'sm', args[-2], args[0], args[7], longurl))
+                        cmd = ' '.join(('python2.6' , SEND_STATUS_PATH, 'm', args[-2], args[0], args[7], longurl))
                                                                         #opt, sid, send_to, content_url_short, content_url_long
-                        print('run',cmd)
+                        print('run',cmd, time.ctime())
                         os.system(cmd)
                         user_queue.remove_first_user()
                         flog.write('[LOG]\t{0}:\t run cmd:{1}\n'.format(time.ctime(), cmd))
@@ -37,7 +37,7 @@ def main():
                         print('No User In Queue Now:(')
                         flog.write('[LOG]\t{0}:\t No User In Queue Now:(\n'.format(time.ctime()))
                         flog.flush()
-                        time.sleep(60)
+                        time.sleep(30)
 
 if __name__ == '__main__':
         main()

@@ -23,8 +23,6 @@ import pickle
 IS_LOCAL = True
 ROOTDIR = "/home/sunus/apache/" if IS_LOCAL == True else "/usr/local/apache2/"
 LINK_DB_PEOPLE = "http://www.douban.com/people/"
-APIKEY = "053caab0d0224c680fb600127066e538"
-SECRET = ''
 people_nr = 5
 people_list = []
 table = []
@@ -82,17 +80,29 @@ def get_user(group_uri, where, you):
                                 people_list.append([a[0][13:-1].split('/')[-1], a[2]])
 #       people_list[0] is YOU!, if max == 0, that means all the users are in the first page, which can't show the number of max, so max == 0,got it from previous
 #       lines, so, we need to get all the users in the first pages,which the number could be (0~35).Insteading of just get the number of people_nr
-        '''
-        i = 0
-        for i in range(len(people_list)):
-                people_list[i][0] = people_list[i][0].rpartition("/")[2]
-        '''
         if max == 0:
                 if len(people_list) - people_nr > 0:
                         start = random.randint(0, len(people_list) - people_nr)
                         people_list = people_list[0:1] + people_list[start : start + people_nr]
 #       here, continue with the max == 0 case, get the random 'start' right,then cut the size of people_list to 1 + people_list
         fh_write_html.write("<h4>你的幸运数字是 *{0}*</h4>\n".format(start))
+
+#this function return the codes for print n light starts and maxstar - n dark stars
+IMG_PATH = "/imgs/"
+def print_stars(n, maxstar, summary='', item_url=''):
+        if n  == -1:
+                n = 0
+        if summary == '-1':
+                summary = ''
+        n_st = n;
+        n_nst = maxstar - n
+        s1 = '<a href="{0}" title="{1}"><img src="{2}sg.png" /></a>'.format(item_url, summary, IMG_PATH)
+        s2 = '<a href="{0}" title="{1}"><img src="{2}sw.png" /></a>'.format(item_url, summary, IMG_PATH)
+        html_code = s1 * n + s2 * n_nst + '&nbsp'
+        if summary != '':
+                html_code += '<a href="{0}" title="{1}"><img src="{2}info.png" /></a>'.format(item_url, summary, IMG_PATH)
+        return html_code
+
 # This function returns the uid1-uid2's match rate
 # uid1 and uid2 has it's own index in table.
 def get_match_rate(uid1_idx, uid2_idx, cat):
@@ -126,12 +136,16 @@ def get_match_rate(uid1_idx, uid2_idx, cat):
                                                                                            LINK_DB_PEOPLE, table[uid1_idx][0][0], table[uid2_idx][0][0]))
         link_db_item = "http://{0}.douban.com/subject/".format(cat)
         for item_name in common_set:
-                name = table[uid1_idx][1][item_name][2] if table[uid1_idx][1][item_name][2] != None else item_name
+                name = table[uid1_idx][1][item_name][2] if table[uid1_idx][1][item_name][2] != '-1' else item_name
+                item_url = table[uid1_idx][1][item_name][1]
                 fh_write_html.write('<tr>\
-                      <td width="300px"><h4><a href="{3}" target="_blank">{0}</a></h4></td>\
-                      <td width="150px"><h4>{1}</h4></td>\
-                      <td width="150px"><h4>{2}</h4></td></tr>\n'.\
-                      format(name, table[uid1_idx][1][item_name][0], table[uid2_idx][1][item_name][0], table[uid1_idx][1][item_name][1]))
+                      <td width="300px"><h4><a href="{5}" target="_blank">{0}</a></h4></td>\
+                      <td width="150px"><h4>{1}<br>{2}</h4></td>\
+                      <td width="150px"><h4>{3}<br>{4}</h4></td></tr>\n'.\
+                      format(name, 
+                        table[uid1_idx][1][item_name][0], print_stars(int(table[uid1_idx][1][item_name][3]), 5, table[uid1_idx][1][item_name][4], item_url),
+                        table[uid2_idx][1][item_name][0], print_stars(int(table[uid2_idx][1][item_name][3]), 5, table[uid2_idx][1][item_name][4], item_url),
+                        item_url))
         fh_write_html.write("</table>\n")
         rate = len(common_set)
         return [uid2_idx, rate]

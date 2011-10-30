@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:db="http://www.douban.com/xmlns/" xmlns:gd="http://schemas.google.com/g/2005" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:opensearch="http://a9.com/-/spec/opensearchrss/1.0/">
+	<title>sunus 的收藏</title>
+	<author>
+		<link href="http://api.douban.com/people/3146104" rel="self"/>
+		<link href="http://www.douban.com/people/sunus/" rel="alternate"/>
+		<link href="http://img3.douban.com/icon/u3146104-2.jpg" rel="icon"/>
+		<name>sunus</name>
+		<uri>http://api.douban.com/people/3146104</uri>
+	</author>
+	<opensearch:startIndex>1</opensearch:startIndex>
+	<opensearch:totalResults>25</opensearch:totalResults>
+	<entry>
+		<id>http://api.douban.com/collection/450709967</id>
+		<title>sunus 在读 史蒂夫·乔布斯传</title>
+		<updated>2011-10-27T12:34:15+08:00</updated>
+		<link href="http://api.douban.com/collection/450709967" rel="self"/>
+		<link href="http://api.douban.com/book/subject/6798611" rel="http://www.douban.com/2007#subject"/>
+		<summary>无聊时候翻翻。。</summary>
+		<db:status>reading</db:status>
+		<db:subject>
+			<id>http://api.douban.com/book/subject/6798611</id>
+			<title>史蒂夫·乔布斯传</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+			<author>
+				<name>[美] 沃尔特·艾萨克森</name>
+			</author>
+			<link href="http://api.douban.com/book/subject/6798611" rel="self"/>
+			<link href="http://book.douban.com/subject/6798611/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s6974202.jpg" rel="image"/>
+			<link href="http://api.douban.com/collection/450709967" rel="collection"/>
+			<db:attribute name="isbn10">7508630068</db:attribute>
+			<db:attribute name="isbn13">9787508630069</db:attribute>
+			<db:attribute name="translator">管延圻</db:attribute>
+			<db:attribute name="translator">魏群</db:attribute>
+			<db:attribute name="translator">余倩</db:attribute>
+			<db:attribute name="translator">赵萌萌</db:attribute>
+			<db:attribute name="author">[美] 沃尔特·艾萨克森</db:attribute>
+			<db:attribute name="price">68.00元</db:attribute>
+			<db:attribute name="publisher">中信出版社</db:attribute>
+			<db:attribute name="pubdate">2011-10-24</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/450709920</id>
+		<title>sunus 在读 浪潮之巅</title>
+		<updated>2011-10-27T12:34:06+08:00</updated>
+		<link href="http://api.douban.com/collection/450709920" rel="self"/>
+		<link href="http://api.douban.com/book/subject/6709783" rel="http://www.douban.com/2007#subject"/>
+		<summary>慢慢看。。</summary>
+		<db:status>reading</db:status>
+		<db:subject>
+			<id>http://api.douban.com/book/subject/6709783</id>
+			<title>浪潮之巅</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+			<author>
+				<name>吴军</name>
+			</author>
+			<link href="http://api.douban.com/book/subject/6709783" rel="self"/>
+			<link href="http://book.douban.com/subject/6709783/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s6807265.jpg" rel="image"/>
+			<link href="http://api.douban.com/collection/450709920" rel="collection"/>
+			<db:attribute name="isbn10">7121139510</db:attribute>
+			<db:attribute name="isbn13">9787121139512</db:attribute>
+			<db:attribute name="author">吴军</db:attribute>
+			<db:attribute name="price">55.00元</db:attribute>
+			<db:attribute name="publisher">电子工业出版社</db:attribute>
+			<db:attribute name="pubdate">2011-8</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/450709765</id>
+		<title>sunus 想读 黑客与画家</title>
+		<updated>2011-10-27T12:33:27+08:00</updated>
+		<link href="http://api.douban.com/collection/450709765" rel="self"/>
+		<link href="http://api.douban.com/book/subject/6021440" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/book/subject/6021440</id>
+			<title>黑客与画家</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+			<author>
+				<name>[美] Paul Graham</name>
+			</author>
+			<link href="http://api.douban.com/book/subject/6021440" rel="self"/>
+			<link href="http://book.douban.com/subject/6021440/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s4669554.jpg" rel="image"/>
+			<link href="http://api.douban.com/collection/450709765" rel="collection"/>
+			<db:attribute name="isbn10">7115249490</db:attribute>
+			<db:attribute name="isbn13">9787115249494</db:attribute>
+			<db:attribute name="translator">阮一峰</db:attribute>
+			<db:attribute name="author">[美] Paul Graham</db:attribute>
+			<db:attribute name="price">49.00元</db:attribute>
+			<db:attribute name="publisher">人民邮电出版社</db:attribute>
+			<db:attribute name="pubdate">2011-4</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/446470970</id>
+		<title>sunus 在读 《Python核心编程》(中文第二版)</title>
+		<updated>2011-10-14T23:32:44+08:00</updated>
+		<link href="http://api.douban.com/collection/446470970" rel="self"/>
+		<link href="http://api.douban.com/book/subject/3112503" rel="http://www.douban.com/2007#subject"/>
+		<db:status>reading</db:status>
+		<db:subject>
+			<id>http://api.douban.com/book/subject/3112503</id>
+			<title>《Python核心编程》(中文第二版)</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+			<author>
+				<name>[美]Wesley J. Chun（陳仲才）</name>
+			</author>
+			<link href="http://api.douban.com/book/subject/3112503" rel="self"/>
+			<link href="http://book.douban.com/subject/3112503/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3140466.jpg" rel="image"/>
+			<link href="http://api.douban.com/collection/446470970" rel="collection"/>
+			<db:attribute name="isbn10">711517850X</db:attribute>
+			<db:attribute name="isbn13">9787115178503</db:attribute>
+			<db:attribute name="translator">CPUG</db:attribute>
+			<db:attribute name="author">[美]Wesley J. Chun（陳仲才）</db:attribute>
+			<db:attribute name="price">89.0</db:attribute>
+			<db:attribute name="publisher">人民邮电出版社</db:attribute>
+			<db:attribute name="pubdate">2008-06</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/430381476</id>
+		<title>sunus 在读 代码大全（第2版）</title>
+		<updated>2011-08-28T02:30:25+08:00</updated>
+		<link href="http://api.douban.com/collection/430381476" rel="self"/>
+		<link href="http://api.douban.com/book/subject/1477390" rel="http://www.douban.com/2007#subject"/>
+		<db:status>reading</db:status>
+		<db:subject>
+			<id>http://api.douban.com/book/subject/1477390</id>
+			<title>代码大全（第2版）</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+			<author>
+				<name>[美] 史蒂夫·迈克康奈尔</name>
+			</author>
+			<link href="http://api.douban.com/book/subject/1477390" rel="self"/>
+			<link href="http://book.douban.com/subject/1477390/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1495029.jpg" rel="image"/>
+			<link href="http://api.douban.com/collection/430381476" rel="collection"/>
+			<db:attribute name="isbn10">7121022982</db:attribute>
+			<db:attribute name="isbn13">9787121022982</db:attribute>
+			<db:attribute name="translator">金戈</db:attribute>
+			<db:attribute name="translator">汤凌</db:attribute>
+			<db:attribute name="translator">陈硕</db:attribute>
+			<db:attribute name="translator">张菲 译</db:attribute>
+			<db:attribute name="translator">裘宗燕 审校</db:attribute>
+			<db:attribute name="author">[美] 史蒂夫·迈克康奈尔</db:attribute>
+			<db:attribute name="price">98.00元</db:attribute>
+			<db:attribute name="publisher">电子工业出版社</db:attribute>
+			<db:attribute name="pubdate">2006-3</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/430126540</id>
+		<title>sunus 想读 Apache源代码全景分析第1卷</title>
+		<updated>2011-08-27T14:08:14+08:00</updated>
+		<link href="http://api.douban.com/collection/430126540" rel="self"/>
+		<link href="http://api.douban.com/book/subject/3683326" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/book/subject/3683326</id>
+			<title>Apache源代码全景分析第1卷</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+			<author>
+				<name>张中庆</name>
+			</author>
+			<author>
+				<name>梁雪平</name>
+			</author>
+			<link href="http://api.douban.com/book/subject/3683326" rel="self"/>
+			<link href="http://book.douban.com/subject/3683326/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s3737874.jpg" rel="image"/>
+			<link href="http://api.douban.com/collection/430126540" rel="collection"/>
+			<db:attribute name="isbn10">7121084740</db:attribute>
+			<db:attribute name="isbn13">9787121084744</db:attribute>
+			<db:attribute name="author">张中庆</db:attribute>
+			<db:attribute name="author">梁雪平</db:attribute>
+			<db:attribute name="price">88.00元</db:attribute>
+			<db:attribute name="publisher">电子工业出版社</db:attribute>
+			<db:attribute name="pubdate">2009年</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/429150391</id>
+		<title>sunus 想读 梦断代码</title>
+		<updated>2011-08-24T19:45:21+08:00</updated>
+		<link href="http://api.douban.com/collection/429150391" rel="self"/>
+		<link href="http://api.douban.com/book/subject/3142280" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/book/subject/3142280</id>
+			<title>梦断代码</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+			<author>
+				<name>Scott Rosenberg</name>
+			</author>
+			<link href="http://api.douban.com/book/subject/3142280" rel="self"/>
+			<link href="http://book.douban.com/subject/3142280/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s3196124.jpg" rel="image"/>
+			<link href="http://api.douban.com/collection/429150391" rel="collection"/>
+			<db:attribute name="isbn10">7121066793</db:attribute>
+			<db:attribute name="isbn13">9787121066795</db:attribute>
+			<db:attribute name="translator">韩磊</db:attribute>
+			<db:attribute name="author">Scott Rosenberg</db:attribute>
+			<db:attribute name="price">49.00</db:attribute>
+			<db:attribute name="publisher">电子工业出版社</db:attribute>
+			<db:attribute name="pubdate">2008.06</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/415769133</id>
+		<title>sunus 在读 Python 3程序开发指南</title>
+		<updated>2011-07-23T19:54:24+08:00</updated>
+		<link href="http://api.douban.com/collection/415769133" rel="self"/>
+		<link href="http://api.douban.com/book/subject/5924860" rel="http://www.douban.com/2007#subject"/>
+		<summary>有基础的看起来还算凑合。</summary>
+		<db:status>reading</db:status>
+		<db:subject>
+			<id>http://api.douban.com/book/subject/5924860</id>
+			<title>Python 3程序开发指南</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+			<author>
+				<name>（美）萨默菲尔德</name>
+			</author>
+			<link href="http://api.douban.com/book/subject/5924860" rel="self"/>
+			<link href="http://book.douban.com/subject/5924860/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4622623.jpg" rel="image"/>
+			<link href="http://api.douban.com/collection/415769133" rel="collection"/>
+			<db:attribute name="isbn10">711524507X</db:attribute>
+			<db:attribute name="isbn13">9787115245076</db:attribute>
+			<db:attribute name="translator">王弘博</db:attribute>
+			<db:attribute name="translator">孙传庆</db:attribute>
+			<db:attribute name="author">（美）萨默菲尔德</db:attribute>
+			<db:attribute name="price">69.00元</db:attribute>
+			<db:attribute name="pubdate">2011-2-1</db:attribute>
+		</db:subject>
+		<db:tag name="Python"/>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/417277182</id>
+		<title>sunus 想读 计算机程序的构造和解释</title>
+		<updated>2011-07-23T15:34:56+08:00</updated>
+		<link href="http://api.douban.com/collection/417277182" rel="self"/>
+		<link href="http://api.douban.com/book/subject/1148282" rel="http://www.douban.com/2007#subject"/>
+		<db:status>wish</db:status>
+		<db:subject>
+			<id>http://api.douban.com/book/subject/1148282</id>
+			<title>计算机程序的构造和解释</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+			<author>
+				<name>Harold Abelson</name>
+			</author>
+			<author>
+				<name>Gerald Jay Sussman</name>
+			</author>
+			<author>
+				<name>Julie Sussman</name>
+			</author>
+			<link href="http://api.douban.com/book/subject/1148282" rel="self"/>
+			<link href="http://book.douban.com/subject/1148282/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1113106.jpg" rel="image"/>
+			<link href="http://api.douban.com/collection/417277182" rel="collection"/>
+			<db:attribute name="isbn10">7111135105</db:attribute>
+			<db:attribute name="isbn13">9787111135104</db:attribute>
+			<db:attribute name="translator">艾伯森</db:attribute>
+			<db:attribute name="author">Harold Abelson</db:attribute>
+			<db:attribute name="author">Gerald Jay Sussman</db:attribute>
+			<db:attribute name="author">Julie Sussman</db:attribute>
+			<db:attribute name="price">45.00元</db:attribute>
+			<db:attribute name="publisher">机械工业出版社</db:attribute>
+			<db:attribute name="pubdate">2004-2</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/383727446</id>
+		<title>sunus 在读 TCP/IP 详解 卷1:协议TCP/IP IIIustrated Volume 1: The Protocols</title>
+		<updated>2011-04-28T14:10:37+08:00</updated>
+		<link href="http://api.douban.com/collection/383727446" rel="self"/>
+		<link href="http://api.douban.com/book/subject/1088054" rel="http://www.douban.com/2007#subject"/>
+		<summary>求人一同学习交流！</summary>
+		<db:status>reading</db:status>
+		<db:subject>
+			<id>http://api.douban.com/book/subject/1088054</id>
+			<title>TCP/IP 详解 卷1:协议TCP/IP IIIustrated Volume 1: The Protocols</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+			<author>
+				<name>W.Richard Stevens</name>
+			</author>
+			<link href="http://api.douban.com/book/subject/1088054" rel="self"/>
+			<link href="http://book.douban.com/subject/1088054/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1543906.jpg" rel="image"/>
+			<link href="http://api.douban.com/collection/383727446" rel="collection"/>
+			<db:attribute name="isbn10">7111075668</db:attribute>
+			<db:attribute name="isbn13">9787111075660</db:attribute>
+			<db:attribute name="author">W.Richard Stevens</db:attribute>
+			<db:attribute name="price">45.00元</db:attribute>
+			<db:attribute name="publisher">机械工业出版社</db:attribute>
+			<db:attribute name="pubdate">2000-4-1</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/336903514</id>
+		<title>sunus 在读 UNIX环境高级编程（英文版·第二版）</title>
+		<updated>2011-01-07T01:04:03+08:00</updated>
+		<link href="http://api.douban.com/collection/336903514" rel="self"/>
+		<link href="http://api.douban.com/book/subject/1692629" rel="http://www.douban.com/2007#subject"/>
+		<db:status>reading</db:status>
+		<db:subject>
+			<id>http://api.douban.com/book/subject/1692629</id>
+			<title>UNIX环境高级编程（英文版·第二版）</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+			<author>
+				<name>W.Richard Stevens Stephen A.Rago</name>
+			</author>
+			<author>
+				<name>Stephen A. Rago</name>
+			</author>
+			<link href="http://api.douban.com/book/subject/1692629" rel="self"/>
+			<link href="http://book.douban.com/subject/1692629/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1726893.jpg" rel="image"/>
+			<link href="http://api.douban.com/collection/336903514" rel="collection"/>
+			<db:attribute name="isbn10">7115144842</db:attribute>
+			<db:attribute name="isbn13">9787115144843</db:attribute>
+			<db:attribute name="publisher">人民邮电出版社</db:attribute>
+			<db:attribute name="author">W.Richard Stevens Stephen A.Rago</db:attribute>
+			<db:attribute name="author">Stephen A. Rago</db:attribute>
+			<db:attribute name="price">99.00</db:attribute>
+			<db:attribute name="pubdate">2006-2-1</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/326631383</id>
+		<title>sunus 在读 Linux内核完全剖析</title>
+		<updated>2010-12-14T15:16:42+08:00</updated>
+		<link href="http://api.douban.com/collection/326631383" rel="self"/>
+		<link href="http://api.douban.com/book/subject/3229243" rel="http://www.douban.com/2007#subject"/>
+		<db:status>reading</db:status>
+		<db:subject>
+			<id>http://api.douban.com/book/subject/3229243</id>
+			<title>Linux内核完全剖析</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+			<author>
+				<name>赵炯</name>
+			</author>
+			<link href="http://api.douban.com/book/subject/3229243" rel="self"/>
+			<link href="http://book.douban.com/subject/3229243/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s3275386.jpg" rel="image"/>
+			<link href="http://api.douban.com/collection/326631383" rel="collection"/>
+			<db:attribute name="isbn10">7111250478</db:attribute>
+			<db:attribute name="isbn13">9787111250470</db:attribute>
+			<db:attribute name="author">赵炯</db:attribute>
+			<db:attribute name="price">99.00元</db:attribute>
+			<db:attribute name="publisher">机械工业出版社</db:attribute>
+			<db:attribute name="pubdate">2008.10</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/319053423</id>
+		<title>sunus 在读 深入理解计算机系统</title>
+		<updated>2010-12-14T15:16:20+08:00</updated>
+		<link href="http://api.douban.com/collection/319053423" rel="self"/>
+		<link href="http://api.douban.com/book/subject/5333562" rel="http://www.douban.com/2007#subject"/>
+		<db:status>reading</db:status>
+		<db:subject>
+			<id>http://api.douban.com/book/subject/5333562</id>
+			<title>深入理解计算机系统</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+			<author>
+				<name>（美）Randal E.Bryant</name>
+			</author>
+			<author>
+				<name>David O'Hallaron</name>
+			</author>
+			<link href="http://api.douban.com/book/subject/5333562" rel="self"/>
+			<link href="http://book.douban.com/subject/5333562/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s4510534.jpg" rel="image"/>
+			<link href="http://api.douban.com/collection/319053423" rel="collection"/>
+			<db:attribute name="isbn10">7111321332</db:attribute>
+			<db:attribute name="isbn13">9787111321330</db:attribute>
+			<db:attribute name="translator">龚奕利</db:attribute>
+			<db:attribute name="translator">雷迎春</db:attribute>
+			<db:attribute name="author">（美）Randal E.Bryant</db:attribute>
+			<db:attribute name="author">David O'Hallaron</db:attribute>
+			<db:attribute name="price">99.00元</db:attribute>
+			<db:attribute name="publisher">机械工业出版社</db:attribute>
+			<db:attribute name="pubdate">2010年</db:attribute>
+		</db:subject>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/314004844</id>
+		<title>sunus 在读 Intel微处理器</title>
+		<updated>2010-11-11T13:16:08+08:00</updated>
+		<link href="http://api.douban.com/collection/314004844" rel="self"/>
+		<link href="http://api.douban.com/book/subject/4872461" rel="http://www.douban.com/2007#subject"/>
+		<db:status>reading</db:status>
+		<db:subject>
+			<id>http://api.douban.com/book/subject/4872461</id>
+			<title>Intel微处理器</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+			<author>
+				<name>（美）Barry B Brey</name>
+			</author>
+			<link href="http://api.douban.com/book/subject/4872461" rel="self"/>
+			<link href="http://book.douban.com/subject/4872461/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4386231.jpg" rel="image"/>
+			<link href="http://api.douban.com/collection/314004844" rel="collection"/>
+			<db:attribute name="isbn10">7111304853</db:attribute>
+			<db:attribute name="isbn13">9787111304852</db:attribute>
+			<db:attribute name="translator">金惠华</db:attribute>
+			<db:attribute name="translator">艾明晶</db:attribute>
+			<db:attribute name="translator">尚利宏</db:attribute>
+			<db:attribute name="author">（美）Barry B Brey</db:attribute>
+			<db:attribute name="price">89.00元</db:attribute>
+			<db:attribute name="publisher">机械工业出版社</db:attribute>
+			<db:attribute name="pubdate">2010年6月</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/305031211</id>
+		<title>sunus 在读 IBM-PC汇编语言程序设计 （第2版）</title>
+		<updated>2010-10-17T12:40:51+08:00</updated>
+		<link href="http://api.douban.com/collection/305031211" rel="self"/>
+		<link href="http://api.douban.com/book/subject/1091718" rel="http://www.douban.com/2007#subject"/>
+		<db:status>reading</db:status>
+		<db:subject>
+			<id>http://api.douban.com/book/subject/1091718</id>
+			<title>IBM-PC汇编语言程序设计 （第2版）</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+			<author>
+				<name>沈美明</name>
+			</author>
+			<author>
+				<name>温冬婵 编著</name>
+			</author>
+			<link href="http://api.douban.com/book/subject/1091718" rel="self"/>
+			<link href="http://book.douban.com/subject/1091718/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s5685391.jpg" rel="image"/>
+			<link href="http://api.douban.com/collection/305031211" rel="collection"/>
+			<db:attribute name="isbn10">7302046646</db:attribute>
+			<db:attribute name="isbn13">9787302046646</db:attribute>
+			<db:attribute name="author">沈美明</db:attribute>
+			<db:attribute name="author">温冬婵 编著</db:attribute>
+			<db:attribute name="price">34.80元</db:attribute>
+			<db:attribute name="publisher">清华大学出版社</db:attribute>
+			<db:attribute name="pubdate">2001-8</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/305031120</id>
+		<title>sunus 在读 汇编语言</title>
+		<updated>2010-10-17T12:40:38+08:00</updated>
+		<link href="http://api.douban.com/collection/305031120" rel="self"/>
+		<link href="http://api.douban.com/book/subject/3037562" rel="http://www.douban.com/2007#subject"/>
+		<db:status>reading</db:status>
+		<db:subject>
+			<id>http://api.douban.com/book/subject/3037562</id>
+			<title>汇编语言</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+			<author>
+				<name>王爽</name>
+			</author>
+			<link href="http://api.douban.com/book/subject/3037562" rel="self"/>
+			<link href="http://book.douban.com/subject/3037562/" rel="alternate"/>
+			<link href="http://img1.douban.com/spic/s5889594.jpg" rel="image"/>
+			<link href="http://api.douban.com/collection/305031120" rel="collection"/>
+			<db:attribute name="isbn10">7302172285</db:attribute>
+			<db:attribute name="isbn13">9787302172284</db:attribute>
+			<db:attribute name="author">王爽</db:attribute>
+			<db:attribute name="price">33.00元</db:attribute>
+			<db:attribute name="publisher">清华大学出版社</db:attribute>
+			<db:attribute name="pubdate">2008-4</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/305030892</id>
+		<title>sunus 读过 C陷阱与缺陷</title>
+		<updated>2010-10-17T12:40:03+08:00</updated>
+		<link href="http://api.douban.com/collection/305030892" rel="self"/>
+		<link href="http://api.douban.com/book/subject/2778632" rel="http://www.douban.com/2007#subject"/>
+		<db:status>read</db:status>
+		<db:subject>
+			<id>http://api.douban.com/book/subject/2778632</id>
+			<title>C陷阱与缺陷</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+			<author>
+				<name>Andrew Koenig</name>
+			</author>
+			<link href="http://api.douban.com/book/subject/2778632" rel="self"/>
+			<link href="http://book.douban.com/subject/2778632/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2870233.jpg" rel="image"/>
+			<link href="http://api.douban.com/collection/305030892" rel="collection"/>
+			<db:attribute name="isbn10">7115171793</db:attribute>
+			<db:attribute name="isbn13">9787115171795</db:attribute>
+			<db:attribute name="translator">高巍</db:attribute>
+			<db:attribute name="author">Andrew Koenig</db:attribute>
+			<db:attribute name="price">30.00元</db:attribute>
+			<db:attribute name="publisher">人民邮电</db:attribute>
+			<db:attribute name="pubdate">2008-2</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/305030836</id>
+		<title>sunus 读过 C专家编程</title>
+		<updated>2010-10-17T12:39:51+08:00</updated>
+		<link href="http://api.douban.com/collection/305030836" rel="self"/>
+		<link href="http://api.douban.com/book/subject/2377310" rel="http://www.douban.com/2007#subject"/>
+		<db:status>read</db:status>
+		<db:subject>
+			<id>http://api.douban.com/book/subject/2377310</id>
+			<title>C专家编程</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+			<author>
+				<name>Peter Van</name>
+			</author>
+			<author>
+				<name>Der Linden</name>
+			</author>
+			<link href="http://api.douban.com/book/subject/2377310" rel="self"/>
+			<link href="http://book.douban.com/subject/2377310/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2951488.jpg" rel="image"/>
+			<link href="http://api.douban.com/collection/305030836" rel="collection"/>
+			<db:attribute name="isbn10">7115171807</db:attribute>
+			<db:attribute name="isbn13">9787115171801</db:attribute>
+			<db:attribute name="translator">徐波</db:attribute>
+			<db:attribute name="author">Peter Van</db:attribute>
+			<db:attribute name="author">Der Linden</db:attribute>
+			<db:attribute name="price">45.00元</db:attribute>
+			<db:attribute name="publisher">人民邮电出版社</db:attribute>
+			<db:attribute name="pubdate">2008-2</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/305029169</id>
+		<title>sunus 读过 The  C Programming Language (2nd Edition)</title>
+		<updated>2010-10-17T12:36:12+08:00</updated>
+		<link href="http://api.douban.com/collection/305029169" rel="self"/>
+		<link href="http://api.douban.com/book/subject/1236999" rel="http://www.douban.com/2007#subject"/>
+		<db:status>read</db:status>
+		<db:subject>
+			<id>http://api.douban.com/book/subject/1236999</id>
+			<title>The  C Programming Language (2nd Edition)</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+			<author>
+				<name>Brian W. Kernighan</name>
+			</author>
+			<author>
+				<name>Dennis M. Ritchie</name>
+			</author>
+			<link href="http://api.douban.com/book/subject/1236999" rel="self"/>
+			<link href="http://book.douban.com/subject/1236999/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4569741.jpg" rel="image"/>
+			<link href="http://api.douban.com/collection/305029169" rel="collection"/>
+			<db:attribute name="isbn10">0131103628</db:attribute>
+			<db:attribute name="isbn13">9780131103627</db:attribute>
+			<db:attribute name="translator">-</db:attribute>
+			<db:attribute name="translator">-</db:attribute>
+			<db:attribute name="author">Brian W. Kernighan</db:attribute>
+			<db:attribute name="author">Dennis M. Ritchie</db:attribute>
+			<db:attribute name="price">$48.67</db:attribute>
+			<db:attribute name="publisher">Prentice Hall</db:attribute>
+			<db:attribute name="pubdate">1989-03-01</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/304660269</id>
+		<title>sunus 在读 操作系统</title>
+		<updated>2010-10-16T12:51:10+08:00</updated>
+		<link href="http://api.douban.com/collection/304660269" rel="self"/>
+		<link href="http://api.douban.com/book/subject/1506160" rel="http://www.douban.com/2007#subject"/>
+		<db:status>reading</db:status>
+		<db:subject>
+			<id>http://api.douban.com/book/subject/1506160</id>
+			<title>操作系统</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+			<author>
+				<name>斯托林斯</name>
+			</author>
+			<link href="http://api.douban.com/book/subject/1506160" rel="self"/>
+			<link href="http://book.douban.com/subject/1506160/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s5646472.jpg" rel="image"/>
+			<link href="http://api.douban.com/collection/304660269" rel="collection"/>
+			<db:attribute name="isbn10">712102196X</db:attribute>
+			<db:attribute name="isbn13">9787121021961</db:attribute>
+			<db:attribute name="translator">陈渝</db:attribute>
+			<db:attribute name="author">斯托林斯</db:attribute>
+			<db:attribute name="price">58.00元</db:attribute>
+			<db:attribute name="publisher">电子工业</db:attribute>
+			<db:attribute name="pubdate">2006-2</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/298981948</id>
+		<title>sunus 读过 1988：我想和这个世界谈谈</title>
+		<updated>2010-09-30T18:09:18+08:00</updated>
+		<link href="http://api.douban.com/collection/298981948" rel="self"/>
+		<link href="http://api.douban.com/book/subject/5275059" rel="http://www.douban.com/2007#subject"/>
+		<db:status>read</db:status>
+		<db:subject>
+			<id>http://api.douban.com/book/subject/5275059</id>
+			<title>1988：我想和这个世界谈谈</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+			<author>
+				<name>韩寒</name>
+			</author>
+			<link href="http://api.douban.com/book/subject/5275059" rel="self"/>
+			<link href="http://book.douban.com/subject/5275059/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s4477716.jpg" rel="image"/>
+			<link href="http://api.douban.com/collection/298981948" rel="collection"/>
+			<db:attribute name="isbn10">751250098X</db:attribute>
+			<db:attribute name="isbn13">9787512500983</db:attribute>
+			<db:attribute name="author">韩寒</db:attribute>
+			<db:attribute name="price">25.00元</db:attribute>
+			<db:attribute name="publisher">国际文化出版公司</db:attribute>
+			<db:attribute name="pubdate">2010-9</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="3"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/297615918</id>
+		<title>sunus 在读 Coders at Work</title>
+		<updated>2010-09-26T15:47:30+08:00</updated>
+		<link href="http://api.douban.com/collection/297615918" rel="self"/>
+		<link href="http://api.douban.com/book/subject/3673223" rel="http://www.douban.com/2007#subject"/>
+		<db:status>reading</db:status>
+		<db:subject>
+			<id>http://api.douban.com/book/subject/3673223</id>
+			<title>Coders at Work</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+			<author>
+				<name>Peter Seibel</name>
+			</author>
+			<link href="http://api.douban.com/book/subject/3673223" rel="self"/>
+			<link href="http://book.douban.com/subject/3673223/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s5521021.jpg" rel="image"/>
+			<link href="http://api.douban.com/collection/297615918" rel="collection"/>
+			<db:attribute name="isbn10">1430219483</db:attribute>
+			<db:attribute name="isbn13">9781430219484</db:attribute>
+			<db:attribute name="author">Peter Seibel</db:attribute>
+			<db:attribute name="price">USD 29.99</db:attribute>
+			<db:attribute name="publisher">Apress</db:attribute>
+			<db:attribute name="pubdate">2009-9-16</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="4"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/291320845</id>
+		<title>sunus 在读 操作系统设计与实现（上册）</title>
+		<updated>2010-09-08T12:37:07+08:00</updated>
+		<link href="http://api.douban.com/collection/291320845" rel="self"/>
+		<link href="http://api.douban.com/book/subject/2044818" rel="http://www.douban.com/2007#subject"/>
+		<db:status>reading</db:status>
+		<db:subject>
+			<id>http://api.douban.com/book/subject/2044818</id>
+			<title>操作系统设计与实现（上册）</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+			<author>
+				<name>Andrew S. Tanenbaum</name>
+			</author>
+			<author>
+				<name>Albert S. Woodhull</name>
+			</author>
+			<link href="http://api.douban.com/book/subject/2044818" rel="self"/>
+			<link href="http://book.douban.com/subject/2044818/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s5811568.jpg" rel="image"/>
+			<link href="http://api.douban.com/collection/291320845" rel="collection"/>
+			<db:attribute name="isbn10">712103381X</db:attribute>
+			<db:attribute name="isbn13">9787121033810</db:attribute>
+			<db:attribute name="translator">陈渝</db:attribute>
+			<db:attribute name="translator">谌卫军</db:attribute>
+			<db:attribute name="author">Andrew S. Tanenbaum</db:attribute>
+			<db:attribute name="author">Albert S. Woodhull</db:attribute>
+			<db:attribute name="price">49.80元</db:attribute>
+			<db:attribute name="publisher">电子工业出版社</db:attribute>
+			<db:attribute name="pubdate">2007-3</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/291320755</id>
+		<title>sunus 在读 算法导论</title>
+		<updated>2010-09-08T12:36:49+08:00</updated>
+		<link href="http://api.douban.com/collection/291320755" rel="self"/>
+		<link href="http://api.douban.com/book/subject/1885170" rel="http://www.douban.com/2007#subject"/>
+		<db:status>reading</db:status>
+		<db:subject>
+			<id>http://api.douban.com/book/subject/1885170</id>
+			<title>算法导论</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+			<author>
+				<name>[美] Thomas H.Cormen</name>
+			</author>
+			<author>
+				<name>Charles E.Leiserson</name>
+			</author>
+			<author>
+				<name>Ronald L.Rivest</name>
+			</author>
+			<author>
+				<name>Clifford Stein</name>
+			</author>
+			<link href="http://api.douban.com/book/subject/1885170" rel="self"/>
+			<link href="http://book.douban.com/subject/1885170/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s1959967.jpg" rel="image"/>
+			<link href="http://api.douban.com/collection/291320755" rel="collection"/>
+			<db:attribute name="isbn10">7111187776</db:attribute>
+			<db:attribute name="isbn13">9787111187776</db:attribute>
+			<db:attribute name="translator">潘金贵 等</db:attribute>
+			<db:attribute name="author">[美] Thomas H.Cormen</db:attribute>
+			<db:attribute name="author">Charles E.Leiserson</db:attribute>
+			<db:attribute name="author">Ronald L.Rivest</db:attribute>
+			<db:attribute name="author">Clifford Stein</db:attribute>
+			<db:attribute name="price">85.00元</db:attribute>
+			<db:attribute name="publisher">机械工业出版社</db:attribute>
+			<db:attribute name="pubdate">2006-9</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/collection/244127619</id>
+		<title>sunus 在读 C和指针</title>
+		<updated>2010-04-24T22:58:08+08:00</updated>
+		<link href="http://api.douban.com/collection/244127619" rel="self"/>
+		<link href="http://api.douban.com/book/subject/1229973" rel="http://www.douban.com/2007#subject"/>
+		<db:status>reading</db:status>
+		<db:subject>
+			<id>http://api.douban.com/book/subject/1229973</id>
+			<title>C和指针</title>
+			<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+			<author>
+				<name>里克</name>
+			</author>
+			<link href="http://api.douban.com/book/subject/1229973" rel="self"/>
+			<link href="http://book.douban.com/subject/1229973/" rel="alternate"/>
+			<link href="http://img3.douban.com/spic/s2284747.jpg" rel="image"/>
+			<link href="http://api.douban.com/collection/244127619" rel="collection"/>
+			<db:attribute name="isbn10">7115114560</db:attribute>
+			<db:attribute name="isbn13">9787115114563</db:attribute>
+			<db:attribute name="translator">徐波</db:attribute>
+			<db:attribute name="author">里克</db:attribute>
+			<db:attribute name="price">55.0</db:attribute>
+			<db:attribute name="publisher">人民邮电出版社</db:attribute>
+			<db:attribute name="pubdate">2003-09-01</db:attribute>
+		</db:subject>
+		<gd:rating max="5" min="1" value="5"/>
+	</entry>
+	<opensearch:itemsPerPage>50</opensearch:itemsPerPage>
+</feed>
+

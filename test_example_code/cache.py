@@ -6,8 +6,6 @@ status_chs = {"wishmovie":"想看",       "watchingmovie":"在看",         "wat
               "wishmusic":"想听",       "listeningmusic":"在听",        "listenedmusic":"听过",
               "wishbook":"想读",        "readingbook":"在读",           "readbook":"读过"}
 
-IS_LOCAL = True
-ROOTDIR = "/home/sunus/apache/" if IS_LOCAL == True else "/usr/local/apache2/"
 def write_entry(fh, entry_type, entry):
         fh.write('\t<{0}>{1}</{0}>\n'.format(entry_type, entry))
 
@@ -24,7 +22,7 @@ def cache_save(filename_path):
         item_link = 'http://{0}.douban.com/subject'.format(cat)
         item_aka = '<db:attribute lang="zh_CN" name="aka">'
         item_rating = '<gd:rating'
-        fw = open(ROOTDIR + r'/htdocs/cache_datas/' + 'cache_' + user + '_' + cat, 'w', encoding = 'utf8')
+        fw = open('./' + 'cache_' + user + '_' + cat, 'w', encoding = 'utf8')
         file_idx = 1
         while True:
                 try:
@@ -74,7 +72,6 @@ def cache_load(filename_path):
         content = fr.read()
         for line in content.splitlines():
                 line = line.split('\t')
-                item_dict[line[2]] = [line[0], line[1], line[3] if line[3] != '-1' else line[2] ,line[4],line[5]]
+                item_dict[line[2]] = [line[0], line[1], line[3],line[4],line[5]]
         fr.close()
         return item_dict
-
