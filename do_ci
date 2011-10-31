@@ -65,6 +65,7 @@ def get_user(group_uri, where, you):
                 if str(13577294) in line:       # this num will SOMEHOW INCREASE 1
                         max = int(line.split('-')[1].split()[0])
         start = 0 if max == 0 else random.randint(0, int(max) - people_nr)
+        start = 312
         uri = "{0}/member_search?search_text={1}&start={2}".format(group_uri, where, start)
         fh = urllib.request.urlopen(uri)
         contents = fh.read().decode("utf8")
@@ -86,6 +87,8 @@ def get_user(group_uri, where, you):
                         people_list = people_list[0:1] + people_list[start : start + people_nr]
 #       here, continue with the max == 0 case, get the random 'start' right,then cut the size of people_list to 1 + people_list
         fh_write_html.write("<h4>你的幸运数字是 *{0}*</h4>\n".format(start))
+
+
 
 #this function return the codes for print n light starts and maxstar - n dark stars
 IMG_PATH = "/imgs/"
@@ -143,9 +146,9 @@ def get_match_rate(uid1_idx, uid2_idx, cat):
                       <td width="150px"><h4>{1}<br>{2}</h4></td>\
                       <td width="150px"><h4>{3}<br>{4}</h4></td></tr>\n'.\
                       format(name, 
-                        table[uid1_idx][1][item_name][0], print_stars(int(table[uid1_idx][1][item_name][3]), 5, table[uid1_idx][1][item_name][4], item_url),
-                        table[uid2_idx][1][item_name][0], print_stars(int(table[uid2_idx][1][item_name][3]), 5, table[uid2_idx][1][item_name][4], item_url),
-                        item_url))
+                             table[uid1_idx][1][item_name][0], print_stars(int(table[uid1_idx][1][item_name][3]), 5, table[uid1_idx][1][item_name][4], item_url),
+                             table[uid2_idx][1][item_name][0], print_stars(int(table[uid2_idx][1][item_name][3]), 5, table[uid2_idx][1][item_name][4], item_url),
+                             item_url))
         fh_write_html.write("</table>\n")
         rate = len(common_set)
         return [uid2_idx, rate]

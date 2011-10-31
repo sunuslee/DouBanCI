@@ -173,3 +173,21 @@
 [LOG]	Sun Oct 30 17:02:47 2011:	 No User In Queue Now:(
 [LOG]	Sun Oct 30 17:03:17 2011:	 No User In Queue Now:(
 [LOG]	Sun Oct 30 17:03:47 2011:	 No User In Queue Now:(
+[LOG]	Mon Oct 31 09:07:29 2011:	 run cmd:python3.1 /home/sunus/apache/cgi-bin/do_ci with args:
+[LOG]	Mon Oct 31 09:08:37 2011:	 run cmd:python2.6 /home/sunus/apache/cgi-bin/sendstatus.py m 49b5f61ed5f234ffdd21e25c81d69efd sunus http://goo.gl/T3S9E http://10.10.149.18/history/group_sunus_tjpu_1320023183.html
+[LOG]	Mon Oct 31 09:08:37 2011:	 No User In Queue Now:(
+[LOG]	Mon Oct 31 09:09:07 2011:	 No User In Queue Now:(
+[LOG]	Mon Oct 31 09:09:37 2011:	 No User In Queue Now:(
+[LOG]	Mon Oct 31 09:10:07 2011:	 No User In Queue Now:(
+[LOG]	Mon Oct 31 09:10:37 2011:	 No User In Queue Now:(
+[LOG]	Mon Oct 31 09:11:07 2011:	 No User In Queue Now:(
+[LOG]	Mon Oct 31 09:11:37 2011:	 No User In Queue Now:(
+[LOG]	Mon Oct 31 09:12:07 2011:	 No User In Queue Now:(
+[LOG]	Mon Oct 31 09:12:37 2011:	 No User In Queue Now:(
+[LOG]	Mon Oct 31 09:13:07 2011:	 No User In Queue Now:(
+[LOG]	Mon Oct 31 09:13:37 2011:	 No User In Queue Now:(
+[LOG]	Mon Oct 31 14:12:36 2011:	 No User In Queue Now:(
+[LOG]	Mon Oct 31 14:13:06 2011:	 No User In Queue Now:(
+[LOG]	Mon Oct 31 14:13:36 2011:	 run cmd:python3.1 /home/sunus/apache/cgi-bin/do_ci with args:
+[LOG]	Mon Oct 31 14:19:11 2011:	 run cmd:python2.6 /home/sunus/apache/cgi-bin/sendstatus.py m 2f1bcdd1b81edc608d536975285c9520 sunus http://goo.gl/iEo3Y http://10.10.149.18/history/group_sunus_tjpu_1320041598.html
+[LOG]	Mon Oct 31 14:19:11 2011:	 No User In Queue Now:(

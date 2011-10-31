@@ -1,7 +1,7 @@
 #!/usr/bin/env python3.1
 # -*- coding: UTF-8 -*-
 
-
+import time
 status_chs = {"wishmovie":"想看",       "watchingmovie":"在看",         "watchedmovie":"看过",
               "wishmusic":"想听",       "listeningmusic":"在听",        "listenedmusic":"听过",
               "wishbook":"想读",        "readingbook":"在读",           "readbook":"读过"}
@@ -31,7 +31,7 @@ def cache_save(filename_path):
                         fr = open(filename_path, 'r', encoding = 'utf8')
                         content = fr.read()
                 except IOError as e:
-                        print('err', e)
+                        print('user:', user, cat, 'finish', 'total:', file_idx, time.ctime())
                         break
                 in_entry = False
                 for line in content.splitlines():
