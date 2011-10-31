@@ -4,16 +4,16 @@
 import urllib2
 
 def get_nickname(uid):
-        next_line_is_nikename = False
+        next_line_is_nickname = False
         try:
                 fh = urllib2.urlopen('http://www.douban.com/people/' + uid)
                 cont = fh.read(512).decode('utf8')
                 for line in cont.splitlines():
                         if '<title>' in line:
-                                next_line_is_nikename = True
-                        elif next_line_is_nikename == True:
-                                nikename = line
-                                return nikename
+                                next_line_is_nickname = True
+                        elif next_line_is_nickname == True:
+                                nickname = line
+                                return nickname
         except (urllib2.HTTPError, ValueError) as e:
                 if hasattr(e, 'reason'):
                         print("<h4>{0}</h4>".format(e.reason))
@@ -41,11 +41,11 @@ def get_group_name(group_url):
 
 
 def names_test():
-        print "aka's nikename is"
+        print "aka's nickname is"
         print get_nickname('aka')
-        print "sunus's nikename is"
+        print "sunus's nickname is"
         print get_nickname('sunus')
-        print "unknownsunus is nikename is,"
+        print "unknownsunus is nickname is,"
         print get_nickname('unknownsunus')
         print 'http://www.douban.com/group/zhuangb/'
         print get_group_name('http://www.douban.com/group/zhuangb/')

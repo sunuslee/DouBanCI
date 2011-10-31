@@ -6,40 +6,30 @@
 # This is my first python program , with my first cgi page and first apache server
 # You can do anything you want with those files under ONLY ONE condition:
 # Please Do keep those lines above
-import cgitb
-cgitb.enable()
-import sys, os, codecs
-import cgi
+import threading
+import queue
+import sys, codecs
 import sys
 import urllib.request
 import urllib.parse
 import urllib.error
-import threading
-import queue
 import time
-import fcntl
-import url
-import dl
+import random
+import os
 import cache
-import get_names
-# Please use your own api key instead. e.g. :
-# APIKEY = "23eeeb4347bdd26bfc6b7ee9a3b755dd"
-IS_LOCAL = True
+import dl
+import pickle
+
+IS_LOCAL = False
 ROOTDIR = "/home/sunus/apache/" if IS_LOCAL == True else "/usr/local/apache2/"
-HOSTNAME = "http://localhost/"  if IS_LOCAL == True else "http://184.164.137.154/"
 LINK_DB_PEOPLE = "http://www.douban.com/people/"
-APIKEY = "053caab0d0224c680fb600127066e538"
-SECRET = ''
-LOCK_EX = fcntl.LOCK_EX
-LOCK_UN = fcntl.LOCK_UN
-LOCK_NB = fcntl.LOCK_NB
+people_nr = 5
 people_list = []
 table_movie = []
 table_music = []
 table_book  = []
-total_bytes_recv = 0
-tbr_lock = threading.Lock()
-
+cat_chs = {'movie':'电影','music':'音乐','book':'书籍'}
+global fh_write_html
 class Worker(threading.Thread):
 
         def __init__(self, work_queue):
@@ -57,13 +47,13 @@ class Worker(threading.Thread):
         def process(self, uid, cat, start, que, tname):
                 dl.download_t(uid, cat, start, que, tname)
 
-
-
 def get_user_collection(user, cat):
-        global table_movie, table_music, table_book
-        if cat == "movie":
+        global table_movie
+        global table_music
+        global table_book
+        if cat == 'movie':
                 table = table_movie
-        elif cat == "music":
+        elif cat == 'music':
                 table = table_music
         else:
                 table = table_book
@@ -72,19 +62,39 @@ def get_user_collection(user, cat):
         table.append([user, item_dict])
 
 
+
+
+#this function return the codes for print n light starts and maxstar - n dark stars
+IMG_PATH = "/imgs/"
+def print_stars(n, maxstar, summary='', item_url=''):
+        if n  == -1:
+                n = 0
+        if summary == '-1':
+                summary = ''
+        n_st = n;
+        n_nst = maxstar - n
+        s1 = '<a href="{0}" title="{1}"><img src="{2}sg.png" /></a>'.format(item_url, summary, IMG_PATH)
+        s2 = '<a href="{0}" title="{1}"><img src="{2}sw.png" /></a>'.format(item_url, summary, IMG_PATH)
+        html_code = s1 * n + s2 * n_nst + '&nbsp'
+        if summary != '':
+                html_code += '<a href="{0}" title="{1}"><img src="{2}info.png" /></a>'.format(item_url, summary, IMG_PATH)
+        return html_code
+
 # This function returns the uid1-uid2's match rate
 # uid1 and uid2 has it's own index in table.
 def get_match_rate(uid1_idx, uid2_idx, cat):
-        global table_movie, table_music, table_book
-        if cat == "movie":
+        global fh_write_html
+        global table_movie
+        global table_music
+        global table_book
+        if cat == 'movie':
                 table = table_movie
-                cat_local = "电影"
-        elif cat == "music":
+        elif cat == 'music':
                 table = table_music
-                cat_local = "音乐"
         else:
                 table = table_book
-                cat_local = "书籍"
+
+        cat_local = cat_chs[cat]
         u1_set = set()
         u2_set = set()
         common_set = set()
@@ -95,111 +105,81 @@ def get_match_rate(uid1_idx, uid2_idx, cat):
                 for item_name in table[uid2_idx][1].keys():
                         u2_set.add(item_name)
         except IndexError as e:
-                print("<h4>Got the problem, uid1_idx = {0} uid2_idx = {1}</h4>".format(uid1_idx, uid2_idx))
+                fh_write_html.write("<h4>Got the problem, uid1_idx = {0} uid2_idx = {1}</h4>\n".format(uid1_idx, uid2_idx))
                 return None
         common_set = u1_set & u2_set
-        nikename1 = table[uid1_idx][0][1]
-        nikename2 = table[uid2_idx][0][1]
+        nickname1 = table[uid1_idx][0][1]
+        nickname2 = table[uid2_idx][0][1]
                 
-        print('<h4><a href="{0}{1}">{3}</a>\
+        fh_write_html.write('<h4><a href="{0}{1}">{3}</a>\
               和\
               <a href="{0}{2}">{4}</a>\
-              都喜欢的{5}有({6}):</h4>'.format(LINK_DB_PEOPLE, table[uid1_idx][0][0], table[uid2_idx][0][0], nikename1, nikename2, cat_local, len(common_set)))
-        print('<table border="1" width="600px">')
-        print('<tr>\
+              都喜欢的{5}有({6}):</h4>\n'.format(LINK_DB_PEOPLE, table[uid1_idx][0][0], table[uid2_idx][0][0], nickname1, nickname2, cat_local, len(common_set)))
+        fh_write_html.write('<table border="1" width="600px">\n')
+        fh_write_html.write('<tr>\
         <th align="left" width="300px"><h4>{0}</h4></th>\
         <th align="left" width="150px"><h4><a href="{3}{4}">{1}</a></h4></th>\
-        <th align="left" width="150px"><h4><a href="{3}{5}">{2}</a></h4></th></tr>'.format("match", nikename1, nikename2, 
+        <th align="left" width="150px"><h4><a href="{3}{5}">{2}</a></h4></th></tr>\n'.format("match", nickname1, nickname2, 
                                                                                            LINK_DB_PEOPLE, table[uid1_idx][0][0], table[uid2_idx][0][0]))
         link_db_item = "http://{0}.douban.com/subject/".format(cat)
         for item_name in common_set:
-                name = table[uid1_idx][1][item_name][2] if table[uid1_idx][1][item_name][2] != None else item_name
-                print('<tr>\
-                      <td width="300px"><h4><a href="{3}" target="_blank">{0}</a></h4></td>\
-                      <td width="150px"><h4>{1}</h4></td>\
-                      <td width="150px"><h4>{2}</h4></td></tr>'.\
-                      format(name, table[uid1_idx][1][item_name][0], table[uid2_idx][1][item_name][0], table[uid1_idx][1][item_name][1]))
-        print("</table>")
-        rate = len(common_set)
-        return [uid2_idx, rate]
-
-
-
-def var_verify_2p(user1, user2):
-        if user1 == None or user2 == None:
-                print("<h4>Usernames may not exsit</h4>")
-                return False
-        try:
-                urllib.request.urlopen("http://www.douban.com/people/{0}".format(user1))
-                urllib.request.urlopen("http://www.douban.com/people/{0}".format(user2))
-        except (urllib.error.URLError, ValueError) as e:
-                if hasattr(e, 'reason'):
-                        print("<h4>Cannot connected to the server</h4>")
-                if hasattr(e, 'code'):
-                        print("<h4>Return code:",e.code,"error</h4>")
-                        print("<h4>Usernames may not exsit</h4>")
-                return False
-        return True
+                name = table[uid1_idx][1][item_name][2] if table[uid1_idx][1][item_name][2] != '-1' else item_name
+                item_url = table[uid1_idx][1][item_name][1]
+                fh_write_html.write('<tr>\
+                      <td width="300px"><h4><a href="{5}" target="_blank">{0}</a></h4></td>\
+                      <td width="150px"><h4>{1}<br>{2}</h4></td>\
+                      <td width="150px"><h4>{3}<br>{4}</h4></td></tr>\n'.\
+                      format(name, 
+                             table[uid1_idx][1][item_name][0], print_stars(int(table[uid1_idx][1][item_name][3]), 5, table[uid1_idx][1][item_name][4], item_url),
+                             table[uid2_idx][1][item_name][0], print_stars(int(table[uid2_idx][1][item_name][3]), 5, table[uid2_idx][1][item_name][4], item_url),
+                             item_url))
+        fh_write_html.write("</table>\n")
+        return len(common_set)
 
 def main():
-        global f
-        global total_bytes_recv
         global people_list
-        form = cgi.FieldStorage()
-        user1 = form.getvalue("user1", 'sunus')
-        user2 = form.getvalue("user2", '3215295')
-        Old_stdout = sys.stdout
-        while True:
-                try:
-                        sys.stdout = open(ROOTDIR + "/htdocs/history/couple_{0}_{1}.html".format(user1, user2), "w", encoding = "utf8")
-                        break
-                except:
-                        os.remove(ROOTDIR + "/htdocs/history/couple_{0}_{1}.html".format(user1, user2))
-                        #delete the file if it exsits
-        print("<html>")
-        print("<head>")
-        print('<meta http-equiv="content-type" content="text/html; charset=utf8" />')
-        print("<title>Result</title>")
-        print("</head>")
-        print("<body>")
-        if var_verify_2p(user1, user2) == False:
-                print("</body>")
-                print("</html>")
-                sys.stdout.close()
-                sys.stdout = Old_stdout
-                f = open(ROOTDIR + "/htdocs/history/couple_{0}_{1}.html".format(user1, user2), "r", encoding = "utf8")
-                sys.stdout = codecs.getwriter('utf8')(sys.stdout.buffer) # comment this out if you want to debug
-                print("Content-type:text/html; charset=UTF-8\r\n\r\n")
-                print(f.read())
-                f.close()
-                return 0
-        nk = get_names.get_nickname(user1)
-        user1 = [user1, nk]
-        nk = get_names.get_nickname(user2)
-        user2 = [user2, nk]
+        global fh_write_html
+        fa = open('./wait_queue', encoding = 'utf8')
+        args = fa.readline()[:-1]
+        args = args.split('\t')
+        fa.close()
+        user1     = args[0]
+        nickname1 = args[1]
+        user2     = args[2]
+        nickname2 = args[3]
+        short_url = args[5]
+        html_page_path = args[6]
+
+        fh_write_html = open(html_page_path, "w", encoding = "utf8")
+        fh_write_html.write("<html>\n")
+        fh_write_html.write("<head>\n")
+        fh_write_html.write('<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>\n')
+        fh_write_html.write("<title>Result</title>\n")
+        fh_write_html.write("</head>\n")
+        fh_write_html.write("<body>\n")
+        
+        people_list.append([user1, nickname1])
+        people_list.append([user2, nickname2])
+        
+        # Thread Part
         dl_queue = queue.Queue()
         for i in range(5):
                 worker = Worker(dl_queue)
                 worker.daemon = True
                 worker.start()
 
-        for people in [user1, user2]:
-                for cat in ['movie', 'music', 'book']:
+        for people in people_list:
+                for cat in ('movie', 'music', 'book'):
                         file_path = ROOTDIR + r'htdocs/cache_datas/' + 'cache_' + people[0] + '_' + cat
                         if os.access(file_path, os.R_OK) == False:
                                 dl_queue.put([people[0], cat, 1, dl_queue])
                                 dl_queue.join()
                                 if dl.EXIT == True:
-                                        print("<h4> DL.exit =", dl.EXIT, "</h4>")
-                                        print("</body>")
-                                        print("</html>")
-                                        sys.stdout.close()
-                                        sys.stdout = Old_stdout
-                                        f = open(ROOTDIR + "htdocs/history/group_{0}_{1}_{2}.html".format(you, group_url.rsplit('/', 2)[1], suffix), "r", encoding = "utf8")
-                                        sys.stdout = codecs.getwriter('utf8')(sys.stdout.buffer) # comment this out if you want to debug
-                                        print("Content-type:text/html; charset=UTF-8\r\n\r\n")
-                                        print(f.read())
-                                        f.close()
+                                        fh_write_html.write("<h4> DL.exit =" + str(dl.EXIT) +  "</h4>\n")
+                                        fh_write_html.write("<h4>转发本页地址:{0}</h4>\n".format(short_url))
+                                        fh_write_html.write("</body>\n")
+                                        fh_write_html.write("</html>\n")
+                                        print('New page:', short_url)
                                         return
                                 cache.cache_save(ROOTDIR + r'htdocs/cache_datas/' + people[0] + '_' + cat + '_1')
                                 get_user_collection(people, cat)
@@ -207,23 +187,17 @@ def main():
                                 if people[1].endswith('(c)') == False:
                                         people[1] += '(c)'
                                 get_user_collection(people, cat)
-        mp = []
-        rank = []
-        # 0 is uid1, and uid2_idx starts from 1
-        get_match_rate(0, 1, "movie")
-        get_match_rate(0, 1, "music")
-        get_match_rate(0, 1, "book")
-        longurl = HOSTNAME + "history/couple_{0}_{1}.html".format(user1[0], user2[0])
-        short_url = url.get_shortenurl(longurl)
-        print("<h4>转发本页地址:{0}</h4>".format(short_url))
-        print("</body>")
-        print("</html>")
-        sys.stdout.close()
-        sys.stdout = Old_stdout
-        f = open(ROOTDIR + "/htdocs/history/couple_{0}_{1}.html".format(user1[0], user2[0]), "r", encoding = "utf8")
-        sys.stdout = codecs.getwriter('utf8')(sys.stdout.buffer) # comment this out if you want to debug
-        print("Content-type:text/html; charset=UTF-8\r\n\r\n")
-        print(f.read())
-        f.close()
+        rate = []
+        for cat in ('movie', 'music', 'book'):
+                rate.append(get_match_rate(0, 1, cat))
+
+        fh_write_html.write('<h4>你和<a href="{0}">{1}</a>都喜欢:</h4>'.format('http://www.douban.com/people/' + user2, nickname2))
+        fh_write_html.write('<h4>{0} {1}，{2} {3}，{4} {5}。'.format(rate[0], '部电影', rate[1], "张音乐", rate[2], "本书籍"))
+        fh_write_html.write('<h4>转发本页地址:{0}</h4>\n'.format(short_url))
+        fh_write_html.write('</body>\n')
+        fh_write_html.write('</html>\n')
+        fh_write_html.close()
+        print('New page:', short_url)
+        return 
 
 main()

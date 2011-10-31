@@ -3,7 +3,7 @@
 
 import base64
 import urllib2
-IS_LOCAL = True
+IS_LOCAL = False
 HOSTNAME = "http://10.10.149.18/"  if IS_LOCAL == True else "http://184.164.137.154/"
 def exp_check(you, exp_code):
         if you == None or exp_code == None:
@@ -56,6 +56,23 @@ def arg_chk(user, group = None, location = None):
                         print '<h4>当前网络出问题了......</h4>'
                 return False
 
+def arg_chk2p(user1, user2):
+        try:
+                urllib2.urlopen("http://www.douban.com/people/{0}".format(user1))
+                urllib2.urlopen("http://www.douban.com/people/{0}".format(user2))
+                return True
+        except urllib2.URLError as e:
+                if hasattr(e, 'code'):
+                        print '<h4>请检查用户ID是否正确'
+                        print '<h4>正确的用户ID格式如下（数字或字母形式都可）<br>'
+                        print '如果你的豆瓣主页地址为（数字形式）：<a href="{0}">{0}</a><br>'.format('http://www.douban.com/people/3146104/')
+                        print '则填写：3146104<br>'
+                        print '如果你的豆瓣主页地址为（字母形式）：<a href="{0}">{0}</a><br>'.format('http://www.douban.com/people/sunus/')
+                        print '则填写: sunus<br>'
+                        print '<br><a href="{0}">点击返回修改</a>'.format(HOSTNAME)
+                elif hasattr(e, 'reason'):
+                        print '<h4>当前网络出问题了......</h4>'
+                return False
 def test():
         print arg_chk('sunuss', 'http://www.douban.com/gr0up/python', 'bj')
         print arg_chk('sunus', 'python', 'bj')

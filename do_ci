@@ -20,7 +20,7 @@ import cache
 import dl
 import pickle
 
-IS_LOCAL = True
+IS_LOCAL = False
 ROOTDIR = "/home/sunus/apache/" if IS_LOCAL == True else "/usr/local/apache2/"
 LINK_DB_PEOPLE = "http://www.douban.com/people/"
 people_nr = 5
@@ -65,7 +65,6 @@ def get_user(group_uri, where, you):
                 if str(13577294) in line:       # this num will SOMEHOW INCREASE 1
                         max = int(line.split('-')[1].split()[0])
         start = 0 if max == 0 else random.randint(0, int(max) - people_nr)
-        start = 312
         uri = "{0}/member_search?search_text={1}&start={2}".format(group_uri, where, start)
         fh = urllib.request.urlopen(uri)
         contents = fh.read().decode("utf8")
@@ -124,18 +123,18 @@ def get_match_rate(uid1_idx, uid2_idx, cat):
                 fh_write_html.write("<h4>Got the problem, uid1_idx = {0} uid2_idx = {1}</h4>\n".format(uid1_idx, uid2_idx))
                 return None
         common_set = u1_set & u2_set
-        nikename1 = table[uid1_idx][0][1]
-        nikename2 = table[uid2_idx][0][1]
+        nickname1 = table[uid1_idx][0][1]
+        nickname2 = table[uid2_idx][0][1]
                 
         fh_write_html.write('<h4><a href="{0}{1}">{3}</a>\
               和\
               <a href="{0}{2}">{4}</a>\
-              都喜欢的{5}有({6}):</h4>\n'.format(LINK_DB_PEOPLE, table[uid1_idx][0][0], table[uid2_idx][0][0], nikename1, nikename2, cat_local, len(common_set)))
+              都喜欢的{5}有({6}):</h4>\n'.format(LINK_DB_PEOPLE, table[uid1_idx][0][0], table[uid2_idx][0][0], nickname1, nickname2, cat_local, len(common_set)))
         fh_write_html.write('<table border="1" width="600px">\n')
         fh_write_html.write('<tr>\
         <th align="left" width="300px"><h4>{0}</h4></th>\
         <th align="left" width="150px"><h4><a href="{3}{4}">{1}</a></h4></th>\
-        <th align="left" width="150px"><h4><a href="{3}{5}">{2}</a></h4></th></tr>\n'.format("match", nikename1, nikename2, 
+        <th align="left" width="150px"><h4><a href="{3}{5}">{2}</a></h4></th></tr>\n'.format("match", nickname1, nickname2, 
                                                                                            LINK_DB_PEOPLE, table[uid1_idx][0][0], table[uid2_idx][0][0]))
         link_db_item = "http://{0}.douban.com/subject/".format(cat)
         for item_name in common_set:
@@ -154,29 +153,6 @@ def get_match_rate(uid1_idx, uid2_idx, cat):
         return [uid2_idx, rate]
 
 
-def var_verify(user, group = None, cat = None, location = None):
-        global fh_write_html
-        if cat is None or cat.lower() not in ["movie", "music", "book"]:
-                fh_write_html.write("<h4>it must be ONE of movie,book or music</h4>")
-                return False
-        if location is None:
-                fh_write_html.write("<h4>Location Can not be None!</h4>")
-                return False
-        try:
-                urllib.request.urlopen("http://www.douban.com/people/{0}".format(user))
-                if"douban.com/group/" in group:
-                        urllib.request.urlopen(group)
-                else:
-                        fh_write_html.write("<h4>This isn't DouBan Group!</h4>\n")
-                        return False
-        except (urllib.error.URLError, ValueError) as e:
-                if hasattr(e, 'reason'):
-                        fh_write_html.write("<h4>{0}</h4>\n".format(e.reason))
-                if hasattr(e, 'code'):
-                        fh_write_html.write("<h4>Return code:\n",e.code,"error</h4>")
-                        fh_write_html.write("<h4>This username/group may not exsit</h4>\n")
-                return False
-        return True
 
 def main():
         global people_list
@@ -186,7 +162,7 @@ def main():
         args = args.split('\t')
         fa.close()
         you = args[0]
-        your_nikename = args[1]
+        your_nickname = args[1]
         group_url = args[2]
         group_name = args[3]
         if group_url.endswith('/') == False:
@@ -204,7 +180,7 @@ def main():
         fh_write_html.write("</head>\n")
         fh_write_html.write("<body>\n")
         
-        people_list.append([you, your_nikename])
+        people_list.append([you, your_nickname])
         get_user(group_url, location, you)
         if len(people_list) == 1:
                 fh_write_html.write("<h4>该小组好似没有来自 {0} 的豆友噢:(</h4>\n".format(location))
@@ -257,14 +233,15 @@ def main():
         ir = 0
         for i in range(ir, total_people):
                 uid =      table[rank[i][0]][0][0] # use to @somebody
-                nikename = table[rank[i][0]][0][1] # use to show on html page
-                fh_write_html.write('<h4>#{0:<4} <a href="{3}{4}">{1}</a>和你有 {2} 项共同喜好</h4>\n'.format(r, nikename, rank[i][1], 
+                nickname = table[rank[i][0]][0][1] # use to show on html page
+                fh_write_html.write('<h4>#{0:<4} <a href="{3}{4}">{1}</a>和你有 {2} 项共同喜好</h4>\n'.format(r, nickname, rank[i][1], 
                                                                                                      LINK_DB_PEOPLE, uid))
                 fh_write_html.write('<!-- saying:rank\t{0}\t{1}\t{2}\t -->\n'.format(r, uid, rank[i][1]))
                 r += 1
         fh_write_html.write("<h4>转发本页地址:{0}</h4>\n".format(short_url))
         fh_write_html.write("</body>\n")
         fh_write_html.write("</html>\n")
+        fh_write_html.close()
         print('New page:', short_url)
         return 
 

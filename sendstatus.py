@@ -9,7 +9,7 @@ import html_parse
 
 API_KEY = '053caab0d0224c680fb600127066e538'
 SECRET = 'f2bebed97e85be8a'
-IS_LOCAL = True
+IS_LOCAL = False
 PAGEDIR = "/home/sunus/apache/htdocs/history/" if IS_LOCAL == True else "/usr/local/apache2/htdocs/history/"
 
 def sendmail(client, send_to, subject, content):

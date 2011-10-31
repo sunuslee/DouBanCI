@@ -60,13 +60,24 @@ def main():
         i = 1
         for line in lines:
                 line = line.split('\t')
-                print '<tr height="50px">\
-                        <td width="50px">#{0}</td>\
-                        <td width="100px"><a href="{1}">{2}</a></td>\
-                        <td width="200px"><a href="{3}">{4}</a></td>\
-                        <td width="50">{5}</td>\
-                        <td width="50">{6}</td>\
-                        </tr>'.format(i, 'http://www.douban.com/people/' + line[0], line[1], line[2], line[3], cat_chs[line[5]], line[4])
+                if 'douban.com/group' in line[2]:
+                        print '<tr height="50px">\
+                                <td width="50px">#{0}</td>\
+                                <td width="100px"><a href="{1}">{2}</a></td>\
+                                <td width="200px"><a href="{3}">{4}</a></td>\
+                                <td width="50">{5}</td>\
+                                <td width="50">{6}</td>\
+                                </tr>'.format(i, 'http://www.douban.com/people/' + line[0], line[1], line[2], line[3], cat_chs[line[5]], line[4])
+                else:
+                        print '<tr height="50px">\
+                                <td width="50px">#{0}</td>\
+                                <td width="100px"><a href="{1}">{2}</a></td>\
+                                <td width="100px"><a href="{3}">{4}</a></td>\
+                                <td width="150">{5}</td>\
+                                <td width="50">{6}</td>\
+                                </tr>'.format(i, 'http://www.douban.com/people/' + line[0], line[1],
+                                                 'http://www.douban.com/people/' + line[2], line[3], '电影，音乐，书籍', '不限')
+
                 i += 1
         print '</tbody></table></div></body></html>'
 
