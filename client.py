@@ -7,7 +7,7 @@ import time
 import sys
 import pickle
 
-IS_LOCAL = False
+IS_LOCAL = True
 auth_callback_url = 'http://10.10.149.18/cgi-bin/show_queue' if IS_LOCAL == True else 'http://184.164.137.154/cgi-bin/show_queue'
 signature_method = oauth.OAuthSignatureMethod_HMAC_SHA1()
 
@@ -46,6 +46,7 @@ class OAuthClient:
         print 'location.replace("{0}")'.format(url)
         print '// -->'
         print '</script>'
+        print url
         sys.stdout.flush()
         # It will stop excute in this line and retirect to auth page and never come back.
         #print url

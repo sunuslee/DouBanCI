@@ -8,11 +8,9 @@
 # Please Do keep those lines above
 import threading
 import queue
-import sys, codecs
 import sys
-import urllib.request
 import urllib.parse
-import urllib.error
+import httplib2
 import time
 import random
 import os
@@ -20,7 +18,7 @@ import cache
 import dl
 import pickle
 
-IS_LOCAL = False
+IS_LOCAL = True
 ROOTDIR = "/home/sunus/apache/" if IS_LOCAL == True else "/usr/local/apache2/"
 LINK_DB_PEOPLE = "http://www.douban.com/people/"
 people_nr = 5
@@ -56,28 +54,38 @@ def get_user(group_uri, where, you):
         global people_list
         global people_nr
         start = 13577293
-        error = 0
         uri = "{0}/member_search?search_text={1}&start={2}".format(group_uri, where, start)
         fh = urllib.request.urlopen(uri)
-        data = fh.read().decode("utf8")
+        data = fh.read().decode('utf8')
         max = 0
         for line in data.splitlines():
                 if str(13577294) in line:       # this num will SOMEHOW INCREASE 1
                         max = int(line.split('-')[1].split()[0])
         start = 0 if max == 0 else random.randint(0, int(max) - people_nr)
+        start = 5
         uri = "{0}/member_search?search_text={1}&start={2}".format(group_uri, where, start)
         fh = urllib.request.urlopen(uri)
         contents = fh.read().decode("utf8")
 #       line is like this pattern:
 #        <dd><a href="http://www.douban.com/people/__UID__/">__NICKNAME__</a><br/><span class="pl">(local)</span></dd></dl><dl class="obu" ><dt><a href="http://www.douban.com/people/__UID__/" class="nbg"><img src="http://img3.douban.com/icon/sdfs.jpg" class="m_sub_img" alt="__NIKENAME__"/></a></dt>
         for line in contents.splitlines():
+                if '''<div class='obss'><dl class="obu" >''' in line:
+                        first_icon = None
+                        for l in line.split('"'):
+                                if l.endswith('.jpg'):
+                                        first_icon = l
+                                        cur_user_icon = first_icon
                 if '<dd><a href="http://www.douban.com/people/' in line:
                         if(len(people_list) == people_nr + 1 and max != 0):
                                 break
+                        for l in line.split('"'):
+                                if l.endswith('.jpg'):
+                                        next_user_icon = l
                         idx = line.strip().find(r'</a>')
                         a = line.strip()[0:idx].rpartition(r'">')
                         if a[0][13:-1].split('/')[-1] != you:
-                                people_list.append([a[0][13:-1].split('/')[-1], a[2]])
+                                people_list.append([a[0][13:-1].split('/')[-1], a[2], cur_user_icon])
+                                cur_user_icon = next_user_icon
 #       people_list[0] is YOU!, if max == 0, that means all the users are in the first page, which can't show the number of max, so max == 0,got it from previous
 #       lines, so, we need to get all the users in the first pages,which the number could be (0~35).Insteading of just get the number of people_nr
         if max == 0:
@@ -125,17 +133,24 @@ def get_match_rate(uid1_idx, uid2_idx, cat):
         common_set = u1_set & u2_set
         nickname1 = table[uid1_idx][0][1]
         nickname2 = table[uid2_idx][0][1]
-                
-        fh_write_html.write('<h4><a href="{0}{1}">{3}</a>\
+        icon1     = table[uid1_idx][0][2] 
+        icon2     = table[uid2_idx][0][2]
+        #disable icons for now
+        icon1     = '/imgs/empty.png'
+        icon2     = '/imgs/empty.png'
+        fh_write_html.write('<h4><a href="{0}{1}">{2}</a>\
               和\
-              <a href="{0}{2}">{4}</a>\
-              都喜欢的{5}有({6}):</h4>\n'.format(LINK_DB_PEOPLE, table[uid1_idx][0][0], table[uid2_idx][0][0], nickname1, nickname2, cat_local, len(common_set)))
+              <a href="{0}{3}">{4}</a>\
+              都喜欢的{5}有({6}):</h4>\n'.format(LINK_DB_PEOPLE, table[uid1_idx][0][0], nickname1,
+                                                                 table[uid2_idx][0][0], nickname2,
+                                                                 cat_local, len(common_set),))
         fh_write_html.write('<table border="1" width="600px">\n')
         fh_write_html.write('<tr>\
-        <th align="left" width="300px"><h4>{0}</h4></th>\
-        <th align="left" width="150px"><h4><a href="{3}{4}">{1}</a></h4></th>\
-        <th align="left" width="150px"><h4><a href="{3}{5}">{2}</a></h4></th></tr>\n'.format("match", nickname1, nickname2, 
-                                                                                           LINK_DB_PEOPLE, table[uid1_idx][0][0], table[uid2_idx][0][0]))
+        <th align="left" width="300px"><h4>{1}</h4></th>\
+        <th align="left" width="300px"><h4><a href="{0}{2}">{3}<img src="{4}" /></a></h4></th>\
+        <th align="left" width="300px"><h4><a href="{0}{5}">{6}<img src="{7}" /></a></h4></th></tr>\n'.format(LINK_DB_PEOPLE, "match", 
+                                                                                                              table[uid1_idx][0][0], nickname1, icon1,
+                                                                                                              table[uid2_idx][0][0], nickname2, icon2))
         link_db_item = "http://{0}.douban.com/subject/".format(cat)
         for item_name in common_set:
                 name = table[uid1_idx][1][item_name][2] if table[uid1_idx][1][item_name][2] != '-1' else item_name
@@ -152,6 +167,13 @@ def get_match_rate(uid1_idx, uid2_idx, cat):
         rate = len(common_set)
         return [uid2_idx, rate]
 
+def get_user_icon(uid):
+        fh = urllib.request.urlopen('http://www.douban.com/people/' + uid)
+        cont = fh.read().decode('utf8')
+        for line in cont.splitlines():
+                if 'douban.com/icon' in line:
+                        icon = line.split('"')[1]
+                        return icon
 
 
 def main():
@@ -179,8 +201,8 @@ def main():
         fh_write_html.write("<title>Result</title>\n")
         fh_write_html.write("</head>\n")
         fh_write_html.write("<body>\n")
-        
-        people_list.append([you, your_nickname])
+        you_icon = get_user_icon(you)
+        people_list.append([you, your_nickname, you_icon])
         get_user(group_url, location, you)
         if len(people_list) == 1:
                 fh_write_html.write("<h4>该小组好似没有来自 {0} 的豆友噢:(</h4>\n".format(location))
@@ -232,10 +254,12 @@ def main():
         r = 1
         ir = 0
         for i in range(ir, total_people):
-                uid =      table[rank[i][0]][0][0] # use to @somebody
+                uid      = table[rank[i][0]][0][0] # use to @somebody
                 nickname = table[rank[i][0]][0][1] # use to show on html page
-                fh_write_html.write('<h4>#{0:<4} <a href="{3}{4}">{1}</a>和你有 {2} 项共同喜好</h4>\n'.format(r, nickname, rank[i][1], 
-                                                                                                     LINK_DB_PEOPLE, uid))
+                icon     = table[rank[i][0]][0][2] # use to show user icon
+                icon     = '/imgs/empty.png'       # disable icon for now
+                fh_write_html.write('<h4>#{0:<4} <a href="{3}{4}">{1}<img src="{5}" /></a>和你有 {2} 项共同喜好</h4>\n'.format(r, nickname, rank[i][1], 
+                                                                                                     LINK_DB_PEOPLE, uid, icon))
                 fh_write_html.write('<!-- saying:rank\t{0}\t{1}\t{2}\t -->\n'.format(r, uid, rank[i][1]))
                 r += 1
         fh_write_html.write("<h4>转发本页地址:{0}</h4>\n".format(short_url))

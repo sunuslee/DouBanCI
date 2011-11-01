@@ -1,0 +1,2053 @@
+status: 200
+content-length: 83225
+content-location: http://www.douban.com/people/3215295/
+set-cookie: bid="fanPL6Afj1I"; path=/; domain=.douban.com;
+	expires=Thu, 01-Jan-2012 00:00:00 GMT
+expires: Sun, 1 Jan 2006 01:00:00 GMT
+keep-alive: timeout=10
+server: nginx
+connection: keep-alive
+-content-encoding: gzip
+pragma: no-cache
+cache-control: must-revalidate, no-cache, private
+date: Tue, 01 Nov 2011 07:49:06 GMT
+p3p: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+content-type: text/html; charset=utf-8
+
+<!DOCTYPE html>
+<html lang="zh-CN" class="">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+    <title>
+Miss米花·爆
+</title>
+    <script> (function(d){var i=function(b,a,c){var e=new Date,f,a=a||30,c=c||"/";e.setTime(e.getTime()+a*864E5);a="; expires="+e.toGMTString();for(f in b)d.cookie=f+"="+b[f]+a+"; path="+c},j=function(b){b+="=";var a,c,e,f=d.cookie.split(";");for(c=0,e=f.length;c<e;c++)if(a=f[c].replace(/^\s+|\s+$/g,""),a.indexOf(b)==0)return a.substring(b.length,a.length).replace(/\"/g,"");return null},h=d.write,k={"douban.com":1,"douban.fm":1,"google.com":1,"googleapis.com":1,"gmaptiles.co.kr":1,"gstatic.com":1,"google-analytics.com":1, "googleadservices.com":1},l=function(b,a){var c=new Image;c.onload=function(){};c.src="http://www.douban.com/j/except_report?kind=ra022&reason="+encodeURIComponent(b)+"&environment="+encodeURIComponent(a)},g=function(b){try{h.call(d,b)}catch(a){h(b)}},m=/<script.*?src\=["']?([^"'\s>]+)/ig,n=/http:\/\/(.+?)\.([^\/]+).+/i;d.writeln=d.write=function(b){var a=m.exec(b),c;a?(c=n.exec(a[1]))?k[c[2]]?g(b):j("hj")!=="tqs"&&(l(a[1],location.href),i({hj:"tqs"},1),setTimeout(function(){location.replace(location.href)}, 50)):g(b):g(b)}})(document); </script>
+
+    
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+    
+    <link href="http://img3.douban.com/css/packed_douban6945416866.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript">var _head_start = new Date();</script>
+    <script type="text/javascript" src="http://img3.douban.com/js/packed_jquery.min9556435062.js"></script>
+    <link href="http://img3.douban.com/css/separation/packed__all9104510074.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="http://img3.douban.com/js/packed_do7035717041.js" data-cfg-autoload="false"></script>
+    <script type="text/javascript" src="http://img3.douban.com/js/packed_douban4131673062.js"></script>
+    <script type="text/javascript" src="http://img3.douban.com/js/separation/packed__all5322393881.js"></script>
+    
+
+
+<link rel="alternate" href="http://www.douban.com/feed/people/3215295/interests" type="application/rss+xml" title="Miss米花·爆的收藏" />
+
+    <style type="text/css">
+.captcha-input {border-radius:3px;-webkit-border-radius:3px;-moz-border-radius:3px;border:1px solid #B9B9B9;font-size:14px;height:18px;padding:5px;width:95px;}
+.actfromfri img {padding-bottom:16px}
+.actfromfri .event_long {width:70%}
+#user_guide { background: #f8f8f8; color: #666666; padding: 8px 20px; margin: 0 0 40px 0 }
+#user_guide .guide { color: #424242; font-size: 14px }
+#user_guide ol { margin: 20px 30px 20px 50px; padding: 0 }
+#user_guide ol li { list-style-type: none; zoom:1 }
+#user_guide ol li.user-icon form { margin-bottom: 40px; overflow: hidden }
+#user_guide ol li h5 a { color: #006600; font-size: 14px }
+#user_guide ol li h5 a:hover { background: none; color: #005500 }
+#user_guide ol li h5 a:active { background: none; color: #005500 }
+#user_guide ol li.user-icon h5.todo { background: url(http://img3.douban.com/pics/guide_step_icon.gif) no-repeat left top }
+#user_guide ol li.user-icon h5.done { background: url(http://img3.douban.com/pics/guide_step_icon.gif) no-repeat left -22px }
+#user_guide ol li.user-intro h5.todo { background: url(http://img3.douban.com/pics/guide_step_icon.gif) no-repeat left -44px }
+#user_guide ol li.user-intro h5.done { background: url(http://img3.douban.com/pics/guide_step_icon.gif) no-repeat left -66px }
+#user_guide ol li h5 { color: #666666; font-size: 14px; line-height: 22px; padding-left: 30px; margin: 5px 0 ; zoom:1}
+#user_guide ol li h5 span { padding-right: 25px; background: url(http://img3.douban.com/pics/icon/icon-ok-g.gif) no-repeat right center }
+#user_guide ol li form { display: none;padding-left: 30px }
+#user_guide ol li textarea { width: 270px; height: 90px; border-radius: 3px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border: 1px solid #c0c0c0; margin: 15px 0 0 0}
+#user_guide #preview-icon-l { float: left; margin: 10px 10px 10px 0 }
+#user_guide #preview-icon {  margin: 10px 10px 10px 0; float: left }
+.bn-flat { display:-moz-inline-box;display:inline-block;border-width:1px;border-style:solid;border-color:#d9d9d9 #ccc #c9c9c9;*display:inline;*zoom:1;border-radius:4px;-moz-border-radius:4px;-webkit-border-radius:4px;overflow:hidden;vertical-align:middle; }
+.bn-flat:hover { border-color: #c9c9c9; }
+.bn-flat input { border:none;height:25px;padding:0 8px;color:#333;background:transparent url(http://img1.douban.com/pics/site/sp_all_4.png) repeat-x 0 -700px\9;outline:none;font-size:12px;*padding:3px 8px 0;margin:0 !important;cursor:pointer; border-radius:2px;-moz-border-radius:2px;-webkit-border-radius:2px; background-image: -moz-linear-gradient(-90deg, #ffffff 50%, #e9e8e8 100%); background-image: -webkit-gradient(linear,left top,left bottom, color-stop(0.5, #ffffff), color-stop(1, #e9e8e8)); }
+.bn-flat input:hover { color:#333 !important;background-color:transparent !important;background-position: 1px -706px\9; background-image: -moz-linear-gradient(-90deg, #f5f5f5 40%, #dedede 100%); background-image: -webkit-gradient(linear,left top,left bottom, color-stop(0.4, #f5f5f5), color-stop(1, #dedede)); }
+.bn-flat input:active { background:#ebebeb !important; }
+
+@media all and (min-width:0px) {
+    .bn-flat input { background:transparent url(http://img1.douban.com/pics/site/sp_all_4.png) repeat-x 0 -700px; }
+    .bn-flat input:hover { background-position: 1px 706px; }
+}
+p.error , span.error { color: #ff0000 }
+p.tips { margin: 0; padding: 5px 0 12px 0 }
+
+/* dialog: donate  */
+#dialog { padding:0; }
+.dlg-hd { position:relative;padding:10px;background:#EBF5EB; }
+.dlg-hd h3 { height:auto;color:#060;background:none; }
+.bn-dlg-close { position:absolute;right:20px;top:10px; }
+a.bn-dlg-close:link, a.bn-dlg-close:visited { color:#b4b4b4; }
+a.bn-dlg-close:hover, a.bn-dlg-close:active { color:#fab0b6;background-color:transparent; }
+
+/* shuo_widget */
+
+#shuo-widget { color:#505050; margin-bottom:35px; }
+
+#shuo-widget .body .state { padding:10px 0; text-align:center; }
+#shuo-widget .body .item { padding:5px 0; border-bottom:1px solid #f0f0f0; }
+#shuo-widget .body .item a.people { color:#505050 }
+#shuo-widget .body .item a.people:hover { color:white; background-color:#505050; }
+#shuo-widget .body .item .text,
+#shuo-widget .body .item .attachment,
+#shuo-widget .body .item .ft { font-size:12px; word-wrap:break-word; }
+#shuo-widget .body .item .ft { color:#999; }
+#shuo-widget .body .item .ft a { color:#bbb; }
+#shuo-widget .body .item .ft a:hover { color:white; background-color:#bbb; }
+
+
+</style>
+    <script type="text/javascript"> 
+
+
+    
+    Douban.init_usr_donate = function(o) {
+      var donateUrl = $(o).attr('href'), 
+      dlgWidth = 420, 
+      dlgContent = '<div class="dlg-hd"><h3>{TITLE}</h3><a href="#" class="bn-dlg-close">x</a></div><iframe id="ifm-donate" src="' + donateUrl + '" frameborder="0" width="' + dlgWidth + '" height="230" scrolling="no">', 
+      handleClick = function(e){
+        e.preventDefault();
+        show_dialog(dlgContent.replace('{TITLE}', '送小豆给' + this.getAttribute('data-user')), dlgWidth);
+        $('#dialog .bn-dlg-close').click(handleCloseClick);
+        return false;
+      },
+      handleCloseClick = function(e){
+        e.preventDefault();
+        close_dialog();
+      };
+      $(o).click(handleClick);
+    };
+
+ </script>
+
+    <link rel="shortcut icon" href="http://img3.douban.com/favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <script type="text/javascript">var _body_start = new Date();</script>
+    
+    
+
+<div class="top-nav">
+  <div class="bd">
+    
+
+
+
+
+
+<div class="top-nav-info">
+    <a href="http://www.douban.com/accounts/login" rel="nofollow">登录</a>
+    <a href="http://www.douban.com/accounts/register">注册</a>
+</div>
+
+
+    <div class="top-nav-items">
+        <ul>
+                
+                    
+                    <li class="on">
+                    <a href="http://www.douban.com/">豆瓣社区</a>
+                    </li>
+                
+                    
+                    <li>
+                    <a href="http://book.douban.com/">豆瓣读书</a>
+                    </li>
+                
+                    
+                    <li>
+                    <a href="http://movie.douban.com/">豆瓣电影</a>
+                    </li>
+                
+                    
+                    <li>
+                    <a href="http://music.douban.com/">豆瓣音乐</a>
+                    </li>
+                
+                    
+                    <li>
+                    <a href="http://www.douban.com/location/">豆瓣同城</a>
+                    </li>
+                
+                    
+                    <li>
+                    <a href="http://douban.fm/" target="_blank">豆瓣FM</a>
+                    </li>
+                
+                    <li class="top-nav-more">
+                        <div class="top-nav-more-items">
+                            <a href="#more" class="more">更多 <span class="arrow">&nbsp;</span>&nbsp;</a>
+                            <ul>
+                            
+                            <li><a href="http://9.douban.com" target="_blank">九点</a></li>
+                            
+                            <li><a href="http://alphatown.com" target="_blank">阿尔法城</a></li>
+                            </ul>
+                        </div>
+                    </li>
+        </ul>
+    </div>
+  </div>
+</div>
+<script>
+Do(function(){
+    var more = $('.top-nav-more a.more').click(function(e){
+      e.preventDefault();
+      var el = $(e.currentTarget), p = el.parent(); 
+      p.toggleClass('on');
+      return false;
+    });
+    $('body').click(function(){
+      more.parent().removeClass('on');
+    });
+});
+</script>
+
+
+    <div id="wrapper">
+        
+<div id="header">
+    
+
+
+<div id="db-nav-main" class="site-nav">
+    <div class="site-nav-logo">
+      <a href="http://www.douban.com">
+          <img src="http://img3.douban.com/pics/nav/lg_main_a7.png" alt="豆瓣">
+       <em>首页</em>
+      </a>
+    </div>
+
+
+    <div class="bd">
+    <div class="nav-srh">
+        <form name="ssform" method="get" action="http://www.douban.com/search">
+            <div class="inp">
+                <span><input name="search_text" type="text" title="成员、小组、音乐人、主办方" size="22" maxlength="60" value=""/></span>
+                <span><input class="bn-srh" type="submit" value="搜索"/></span>
+            </div>
+        </form>
+    </div>
+    <script type="text/javascript">
+        Do = (typeof Do === 'undefined')? $ : Do;
+        Do(function(){
+            $("form[name=ssform]").submit(function(){
+                if($("input[name=search_text]").val()==="成员、小组、音乐人、主办方"){
+                    return false;
+                }
+            })
+        })
+    </script>
+
+    <div class="site-nav-items">
+        <ul>
+             
+                     <li><a href="http://www.douban.com">首页</a></li>
+             
+             
+             
+             
+                     <li><a href="http://www.douban.com/explore/">浏览发现</a></li>
+        </ul>
+    </div>
+    </div>
+    <div class="ext"></div>
+</div>
+<script>
+setTimeout(function(){
+    $('#db-nav-main .nav-srh form').prettyField();
+    $('#db-nav-main .guide a.close').click(function(e) {
+        e.preventDefault();
+        $.post_withck('/j/accounts/hidetip',{kind: $(this).next().val()}, function(r){});
+        $(this).parent().fadeOut('normal');
+    });
+}, 0);
+</script>
+
+</div>
+
+        
+    <div id="content">
+    
+
+    <div class="grid-16-8 clearfix">
+        
+        <div class="article">
+
+
+
+
+<div id="db-usr-profile">
+<div class="pic">
+    <a href="http://www.douban.com/people/3215295/">
+        <img src="http://img3.douban.com/icon/u3215295-11.jpg" alt="Miss米花·爆"/>
+    </a>
+</div>
+<div class="info">
+    <h1>
+        Miss米花·爆
+            
+    
+        <span id="display" class="pl">((￣ε(#￣)☆╰╮o(￣皿￣///))</span>
+
+    </h1>
+    
+    <ul>
+            <li><a href="http://www.douban.com/people/3215295/notes">日记</a></li>
+            <li><a href="http://www.douban.com/people/3215295/photos">相册</a></li>
+            <li><a href="http://www.douban.com/people/3215295/recs">推荐</a></li>
+            <li><a href="http://www.douban.com/people/3215295/likes">喜欢</a></li>
+            <li><a href="http://www.douban.com/people/3215295/miniblogs">广播</a></li>
+            <li><a href="http://www.douban.com/people/3215295/deals/">二手</a></li>
+            <li><a href="http://www.douban.com/people/3215295/doulists">豆列</a></li>
+            <li><a href="http://www.douban.com/people/3215295/board">留言板</a></li>
+    </ul>
+
+</div>
+</div>
+<div class="clear"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        <div class="" id="note">
+        
+
+
+
+
+
+
+
+    
+    <h2>
+        Miss米花·爆的日记
+         &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+            <span class="pl">&nbsp;(
+                <a href="http://www.douban.com/people/3215295/notes">全部</a>
+            ) </span>
+    </h2>
+
+    <div class="content">
+        <div class="mbtr2"><div class="note-header pl2"><a title="我果然还是一只容易怀旧的喵" href="http://www.douban.com/note/171683918/" class="ll">我果然还是一只容易怀旧的喵</a>
+        </span><br/><div><span class="pl">2011-09-09 14:00:48</span></div></div><div class="clear"></div><div class="note" id="note_171683918_short">手机里的歌听听就腻了，然后就在电脑里翻出来压箱底的歌，发现了很多年不曾听过的歌，很久不曾关注的人。  一、韩国  翻看着Shinhwa也好，HOT也好，当年九十年代末前面好长的刘海，后面很短的发型，还有统一的队服，现在看看觉得好土啊（捂嘴笑），怎么当年还觉得很帅来着~记得大概是两三年前，看到日本九十年代的歌星的时......&nbsp; &nbsp; <a href="/note/171683918/#comments">(2回应)</a></div>
+    <div id="note_171683918_full" style="display:none;"><pre class="note"></pre></div>
+    <div id="note_171683918_footer" class="note-ft" style=" display:none;"><div class="note_upper_footer"><span class="pl gtleft"><a href="/note/171683918/#comments">2回应</a></span>
+             </div><div class="sns-bar"><div class="sns-bar-donate">
+
+
+
+        
+
+        <a href="http://dou.douban.com/transact_by_type?para=9E164C0BC193A0533146B570A2434CEEADB357A7698E85F80A93829E4282D9FEAF91672EDEB2930600596E8E9B922C04&url=http://www.douban.com/note/171683918/&title=我果然还是一只容易怀旧的喵" class="j a_show_login btn-donate">感谢</a>
+
+</div><div class="sns-bar-rec">
+
+
+
+
+
+
+
+
+<div class="rec-sec">
+    <span class="rec">
+
+<a href="/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+</div>
+
+        <div class="sns-bar-fav">
+
+
+
+            <a class="fav-add btn-fav j a_show_login" title="标为喜欢？" href="http://www.douban.com/accounts/register?reason=like" data-tid="171683918" data-tkind="1015">喜欢</a>
+        <script> 
+            !function(){
+                if (typeof hasInitFavBtn !== 'undefined') {
+                    return;
+                }
+                hasInitFavBtn = 1;
+
+                
+var api_userlist = 'http://www.douban.com/j/like',
+$win = $(window),
+updateFavNum = function(node, n) {
+  var p = node.parent(), favNum = p.find('.fav-num'), num;
+  $('#fav-userlist').hide();
+  if (favNum.length === 0) {
+    favNum = $(['<span class="fav-num" data-tkind="', node.data('tkind'),'" data-tid="', node.data('tid'),'"><a href="#">0人</a>喜欢</span>'].join(''));
+    p.prepend(favNum);
+  }
+
+  num = parseInt(favNum.find('a').text(),10) + n;
+  if (num === 0) {
+    favNum.remove();
+    return;
+  }
+  favNum.find('a').text(num + '人');
+},
+renderUserList = function(node, da) {
+  if (!$.isArray(da)) {
+    $('#fav-userlist').hide();
+    return;
+  }
+
+  var i = 0, o, pos, h, htmlstr = ['<ul>'];
+  if (da.length > 0){
+      for (; o = da[i++]; ) {
+        htmlstr.push([
+         '<li>',
+         '<a href="http://www.douban.com/people/', o.uid, '" target="_blank" class="pic"><img src="', o.icon_avatar,'" width="24" height="24"></a>', 
+         '<a href="http://www.douban.com/people/', o.uid, '" target="_blank">', o.screen_name,'</a>', 
+         '</li>'
+        ].join(''));
+      }
+      htmlstr.push('</ul>');
+  } else {
+      htmlstr = ['<span>啊哦…喜欢这个的人都不愿意露脸</span>'];
+  }
+  
+
+  node.removeClass('arrow-bottom').find('.bd').css({
+    height: i > 9 ? 220 : 'auto',
+    overflow: i > 9 ? 'auto' : 'hidden'
+  }).html(htmlstr.join(''));
+
+  pos = node.offset();
+  h = node.height();
+
+  if (pos.top - $win.scrollTop() + h > $win.height() - 40) {
+    node.addClass('arrow-bottom').css('top', pos.top - h - 55);
+  }
+};
+
+$('html').bind('click', function(e) {
+  var list = $('#fav-userlist');
+  if (list.length === 0 || 
+      list.css('display') === 'none' || 
+      e.target.tagName === 'A') {
+    return;
+  }
+  if (!$.contains(list[0], e.target)) {
+    list.hide();
+  }
+});
+
+$('html').delegate('.fav-num a', 'click', function(e) {
+  e.preventDefault();
+  var el = $(e.currentTarget), 
+  pos = el.offset(),
+  params = el.parent().data(),
+  dataId = [params.tkind, params.tid].join(''),
+  fav_user_list = $('#fav-userlist');
+
+  if (fav_user_list.length === 0) {
+    fav_user_list = $([
+    '<div id="fav-userlist" class="fav-userlist">',
+    '<div class="hd"><a href="" class="btn-close">X</a></div>',
+    '<div class="bd">',
+    '</div><i class="arrow"></i>',
+    '</div>'
+    ].join('')).appendTo('body');
+    fav_user_list.find('.btn-close').click(function(e){
+      e.preventDefault();
+      fav_user_list.hide();
+    });
+  }
+
+  fav_user_list.removeClass('arrow-bottom').
+      find('.bd').
+      css('height', 'auto').
+      html('加载中...');
+      
+  fav_user_list.css({
+    top: pos.top + 22,
+    'margin-left': (function(con){
+      return -1 * Math.floor(con.width()/2 - pos.left + con.offset().left) -10;
+    })($('#content')) 
+  }).show();
+
+  $.get(api_userlist, 
+  {
+      tkind: params.tkind,
+      tid: params.tid,
+      alt: 'xd'
+  },
+  function(e){
+    renderUserList(fav_user_list, e);
+  }, 'jsonp');
+});
+
+            }();
+        </script>
+
+
+</div> </div></div></div><div class="clear"></div><div class="mbtr2"><div class="note-header pl2"><a title="ZT政治忠诚——西方政治制度与中国政治文化的摩擦与调适" href="http://www.douban.com/note/89133793/" class="ll">ZT政治忠诚——西方政治制度与中国政治文化的摩擦与调适</a>
+        </span><br/><div><span class="pl">2010-09-05 12:06:09</span></div></div><div class="clear"></div><div class="note" id="note_89133793_short">总觉得转那么一篇文章很装13，但是真的觉得很好。。。  内容提要：本文从一种政治心理现象入手提出问题，认为制度的文化基础决定了制度的德性，政治制度与政治文化之间的摩擦决定了实现制度的美德是十分困难的事情，这就使得知识分子的政治疏离不可避免，要减轻政治疏离，必须调适政治制度与政治文化的摩擦。作者分析了两种......&nbsp; &nbsp; <a href="/note/89133793/#comments">(6回应)</a></div>
+    <div id="note_89133793_full" style="display:none;"><pre class="note"></pre></div>
+    <div id="note_89133793_footer" class="note-ft" style=" display:none;"><div class="note_upper_footer"><span class="pl gtleft"><a href="/note/89133793/#comments">6回应</a></span>
+             </div><div class="sns-bar"><div class="sns-bar-donate">
+
+
+
+        
+
+        <a href="http://dou.douban.com/transact_by_type?para=9E164C0BC193A0533146B570A2434CEEADB357A7698E85F80A93829E4282D9FEAF91672EDEB2930600596E8E9B922C04&url=http://www.douban.com/note/89133793/&title=ZT政治忠诚——西方政治制度与中国政治文化的摩擦与调适" class="j a_show_login btn-donate">感谢</a>
+
+</div><div class="sns-bar-rec">
+
+
+
+
+
+
+
+
+<div class="rec-sec">
+    <span class="rec">
+
+<a href="/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+<span class="rec-num">4人</span>
+</div>
+</div>
+
+        <div class="sns-bar-fav">
+
+
+
+        <span class="fav-num" data-tid="89133793" data-tkind="1015"><a href="#">2人</a>喜欢</span>
+            <a class="fav-add btn-fav j a_show_login" title="标为喜欢？" href="http://www.douban.com/accounts/register?reason=like" data-tid="89133793" data-tkind="1015">喜欢</a>
+        <script> 
+            !function(){
+                if (typeof hasInitFavBtn !== 'undefined') {
+                    return;
+                }
+                hasInitFavBtn = 1;
+
+                
+var api_userlist = 'http://www.douban.com/j/like',
+$win = $(window),
+updateFavNum = function(node, n) {
+  var p = node.parent(), favNum = p.find('.fav-num'), num;
+  $('#fav-userlist').hide();
+  if (favNum.length === 0) {
+    favNum = $(['<span class="fav-num" data-tkind="', node.data('tkind'),'" data-tid="', node.data('tid'),'"><a href="#">0人</a>喜欢</span>'].join(''));
+    p.prepend(favNum);
+  }
+
+  num = parseInt(favNum.find('a').text(),10) + n;
+  if (num === 0) {
+    favNum.remove();
+    return;
+  }
+  favNum.find('a').text(num + '人');
+},
+renderUserList = function(node, da) {
+  if (!$.isArray(da)) {
+    $('#fav-userlist').hide();
+    return;
+  }
+
+  var i = 0, o, pos, h, htmlstr = ['<ul>'];
+  if (da.length > 0){
+      for (; o = da[i++]; ) {
+        htmlstr.push([
+         '<li>',
+         '<a href="http://www.douban.com/people/', o.uid, '" target="_blank" class="pic"><img src="', o.icon_avatar,'" width="24" height="24"></a>', 
+         '<a href="http://www.douban.com/people/', o.uid, '" target="_blank">', o.screen_name,'</a>', 
+         '</li>'
+        ].join(''));
+      }
+      htmlstr.push('</ul>');
+  } else {
+      htmlstr = ['<span>啊哦…喜欢这个的人都不愿意露脸</span>'];
+  }
+  
+
+  node.removeClass('arrow-bottom').find('.bd').css({
+    height: i > 9 ? 220 : 'auto',
+    overflow: i > 9 ? 'auto' : 'hidden'
+  }).html(htmlstr.join(''));
+
+  pos = node.offset();
+  h = node.height();
+
+  if (pos.top - $win.scrollTop() + h > $win.height() - 40) {
+    node.addClass('arrow-bottom').css('top', pos.top - h - 55);
+  }
+};
+
+$('html').bind('click', function(e) {
+  var list = $('#fav-userlist');
+  if (list.length === 0 || 
+      list.css('display') === 'none' || 
+      e.target.tagName === 'A') {
+    return;
+  }
+  if (!$.contains(list[0], e.target)) {
+    list.hide();
+  }
+});
+
+$('html').delegate('.fav-num a', 'click', function(e) {
+  e.preventDefault();
+  var el = $(e.currentTarget), 
+  pos = el.offset(),
+  params = el.parent().data(),
+  dataId = [params.tkind, params.tid].join(''),
+  fav_user_list = $('#fav-userlist');
+
+  if (fav_user_list.length === 0) {
+    fav_user_list = $([
+    '<div id="fav-userlist" class="fav-userlist">',
+    '<div class="hd"><a href="" class="btn-close">X</a></div>',
+    '<div class="bd">',
+    '</div><i class="arrow"></i>',
+    '</div>'
+    ].join('')).appendTo('body');
+    fav_user_list.find('.btn-close').click(function(e){
+      e.preventDefault();
+      fav_user_list.hide();
+    });
+  }
+
+  fav_user_list.removeClass('arrow-bottom').
+      find('.bd').
+      css('height', 'auto').
+      html('加载中...');
+      
+  fav_user_list.css({
+    top: pos.top + 22,
+    'margin-left': (function(con){
+      return -1 * Math.floor(con.width()/2 - pos.left + con.offset().left) -10;
+    })($('#content')) 
+  }).show();
+
+  $.get(api_userlist, 
+  {
+      tkind: params.tkind,
+      tid: params.tid,
+      alt: 'xd'
+  },
+  function(e){
+    renderUserList(fav_user_list, e);
+  }, 'jsonp');
+});
+
+            }();
+        </script>
+
+
+</div> </div></div></div><div class="clear"></div><div class="clear"></div>
+    </div>
+
+
+        </div>
+
+        
+        <div class="" id="like">
+        
+
+
+
+
+
+
+    
+    <h2>
+        <img src="http://img3.douban.com/pics/red-heart.gif" width="13" height="13">
+        Miss米花·爆喜欢
+         &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+            <span class="pl">&nbsp;(
+                <a href="http://www.douban.com/people/3215295/favorites">全部</a>
+            ) </span>
+    </h2>
+
+    
+    <ul class="bs">
+       
+            <li>
+             <span class="time">6天前</span>
+             <a href="http://www.douban.com/photos/photo/1271854257/">书桓你醒醒啊醒醒你不要这样好么我不能没你</a>
+            </li>
+              
+            <li>
+             <span class="time">15天前</span>
+             <a href="http://www.douban.com/photos/photo/1258615259/">这个世界怎么了=口= 姨妈巾拟人</a>
+            </li>
+       
+            <li>
+             <span class="time">9月21日 10:56</span>
+             <a href="http://www.douban.com/group/topic/1141931/">请推荐一本逻辑学的入门读物</a>
+            </li>
+       
+            <li>
+             <span class="time">9月20日 10:28</span>
+             <a href="http://www.douban.com/photos/photo/1218922534/">《呆猫》</a>
+            </li>
+    </ul>
+    <div class="clear"></div>
+
+        </div>
+
+        
+        <div class="" id="review">
+        
+
+
+
+
+
+
+
+    
+        
+    <h2>
+        Miss米花·爆的评论
+         &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+            <span class="pl">&nbsp;(
+                <a href="http://www.douban.com/people/3215295/reviews">全部</a>
+            ) </span>
+    </h2>
+
+                    
+    <ul class="tlst">
+    <li class="pl2 clst"><a title="歌词和动画契合的真好，唱出了nodame的心声啊" href="http://music.douban.com/review/5101474/" class="" >歌词和动画契合的真好，唱出了nodame的心声啊</a></li><li class="ilst" style="clear:both;">
+        <a href="http://music.douban.com/subject/2007399/" title="Crystal Kay - こんなに近くで..."><img src="http://img1.douban.com/spic/s2188124.jpg" class="fil" alt="Crystal Kay - こんなに近くで..."/></a>
+        <li class="clst"><span class="pl ll obss"><span class="starb"> <a href="http://www.douban.com/people/3215295/">Miss米花·爆</a>((￣ε(#￣)☆╰╮o(￣皿￣///)) &nbsp;评论: <a href="http://music.douban.com/subject/2007399/">こんなに近くで...</a></span><span class="stars5 stars" title="力荐"></span></span><br/><div id='review_5101474_short' style="margin-top:8px;">Crystal Kay-こんなに近くで...<br/><br/>恋がせつないと<br/>すぐそばで気付いたあの夜<br/>だって他の誰より<br/>あなたの事をしってるか......</div><div id="review_5101474_full" style="display:none"></div>
+    </li>
+    </ul>
+    <div class="clear"></div>
+    
+                    
+    <ul class="tlst">
+    <li class="pl2 clst"><a title="内含腐向分析+剧中古典乐下载" href="http://movie.douban.com/review/5058243/" class="" >内含腐向分析+剧中古典乐下载</a></li><li class="ilst" style="clear:both;">
+        <a href="http://movie.douban.com/subject/3818822/" title="交响情人梦Finale"><img src="http://img3.douban.com/spic/s4181807.jpg" class="fil" alt="交响情人梦Finale"/></a>
+        <li class="clst"><span class="pl ll obss"><span class="starb"> <a href="http://www.douban.com/people/3215295/">Miss米花·爆</a>((￣ε(#￣)☆╰╮o(￣皿￣///)) &nbsp;评论: <a href="http://movie.douban.com/subject/3818822/">のだめカンタービレ フィナーレ / 交响情人梦Finale</a></span><span class="stars5 stars" title="力荐"></span></span><br/><div id='review_5058243_short' style="margin-top:8px;">我最浪漫的事，就是和你一起努力<br/><br/>——记交响情人梦<br/><br/>动漫史上的一朵奇葩，结合了少女漫画，少年漫画以及基漫的精华。<br/><br/>传统少女漫...... <a class="pl" href="http://movie.douban.com/review/5058243/" >(6回应)</a></div><div id="review_5058243_full" style="display:none"></div>
+    </li>
+    </ul>
+    <div class="clear"></div>
+    
+
+        </div>
+
+        
+        <div class="" id="recs">
+        
+
+
+
+
+
+
+    
+    <h2>
+        Miss米花·爆的推荐
+         &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+            <span class="pl">&nbsp;(
+                <a href="http://www.douban.com/people/3215295/recs">全部</a>
+            ) </span>
+    </h2>
+
+    <ul class="bs"><li><span class="pl">推荐<a href="http://www.douban.com/people/pandacry/">一泡大便少女熊</a>的<a href="http://www.douban.com/photos/photo/1271854257/" >照片</a>&nbsp;&nbsp;<span class="pl">10-26 13:07</span>
+        </span><span ><a href="http://www.douban.com/people/3215295/recs?rid=100343693#r100343693"  name="recreply-3215295-100343693-r-n-n" >回应</a>
+    </span></li><div class="clear"></div><li><span class="pl">推荐<a href="http://www.douban.com/online/10947322/album/58838188/" >普通青年VS文艺青年VS二逼青年</a>
+                &nbsp;&nbsp;<span class="pl">10-26 13:04</span>
+        </span><span class="recreply pl" ><a href="http://www.douban.com/people/3215295/recs?rid=100343302#r100343302"  name="recreply-3215295-100343302-r-n-n" >回应</a>
+    </span></li><div class="clear"></div><li><span class="pl">推荐<a href="http://www.douban.com/people/Tanroro/">tanroro有诺诺</a>的<a href="http://www.douban.com/photos/photo/1258615259/" >照片</a>&nbsp;&nbsp;<span class="pl">10-17 07:02</span>
+        </span><span class="recreply pl" ><a href="http://www.douban.com/people/3215295/recs?rid=98611051#r98611051"  name="recreply-3215295-98611051-r-n-n" >回应</a>
+    </span></li><div class="clear"></div><li><span class="pl">推荐<a href="http://www.douban.com/people/xiaoxiongxia/">小熊侠</a>的<a href="http://www.douban.com/photos/photo/1218922534/" >照片</a>&nbsp;&nbsp;<span class="pl">09-20 10:28</span>
+        </span><span class="recreply pl" ><a href="http://www.douban.com/people/3215295/recs?rid=95802195#r95802195"  name="recreply-3215295-95802195-r-n-n" >回应</a>
+    </span></li><div class="clear"></div><li><span class="pl">推荐小组话题：<a href="http://www.douban.com/group/topic/9363427/" >整理帝 剪刀手肖申克 全文收录版</a>&nbsp;&nbsp;<span class="pl">09-13 11:14</span>
+        </span><span ><a href="http://www.douban.com/people/3215295/recs?rid=95108470#r95108470"  name="recreply-3215295-95108470-r-n-n" >回应</a>
+    </span></li><div class="clear"></div></ul>
+    <div class="clear"></div>
+
+        </div>
+
+        
+        <div class="" id="book">
+        
+
+
+
+
+
+
+
+
+
+
+
+    
+    <h2>
+        Miss米花·爆的书
+         &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+            <span class="pl">&nbsp;(
+                <a href="http://book.douban.com/people/3215295/do">13本在读</a>&nbsp;&middot;&nbsp;<a href="http://book.douban.com/people/3215295/wish">65本想读</a>&nbsp;&middot;&nbsp;<a href="http://book.douban.com/people/3215295/collect">22本读过</a>
+            ) </span>
+    </h2>
+
+
+
+    
+    
+            <div class=obssin>
+                <div class="substatus">在读</div>
+                <ul><li class="aob"><a href="http://book.douban.com/subject/2977416/" title="古希腊罗马神话十日谈（上册）
+
+"><img src="http://img3.douban.com/spic/s5868558.jpg" class="climg" alt="古希腊罗马神话十日谈（上册）"/></a></li>
+            <li class="aob"><a href="http://book.douban.com/subject/1948901/" title="盗墓笔记
+
+"><img src="http://img3.douban.com/spic/s4442295.jpg" class="climg" alt="盗墓笔记"/></a></li>
+            <li class="aob"><a href="http://book.douban.com/subject/4886245/" title="独唱团（第一辑）
+
+"><img src="http://img3.douban.com/spic/s4436571.jpg" class="climg" alt="独唱团（第一辑）"/></a></li>
+            <li class="aob"><a href="http://book.douban.com/subject/1084604/" title="人类的故事
+
+"><img src="http://img3.douban.com/spic/s1087547.jpg" class="climg" alt="人类的故事"/></a></li>
+            <li class="aob"><a href="http://book.douban.com/subject/1069848/" title="围城
+
+"><img src="http://img3.douban.com/spic/s1068075.jpg" class="climg" alt="围城"/></a></li>
+            </ul>
+            <div class="clear"></div></div>
+        
+    
+            <div class=obssin>
+                <div class="substatus">想读</div>
+                <ul><li class="aob"><a href="http://book.douban.com/subject/2159625/" title="三联爱乐·2007年第3期
+
+"><img src="http://img3.douban.com/spic/s2693991.jpg" class="climg" alt="三联爱乐·2007年第3期"/></a></li>
+            <li class="aob"><a href="http://book.douban.com/subject/1859140/" title="上学记
+
+"><img src="http://img1.douban.com/spic/s1950424.jpg" class="climg" alt="上学记"/></a></li>
+            <li class="aob"><a href="http://book.douban.com/subject/1075022/" title="毕竟是书生
+
+"><img src="http://img3.douban.com/spic/s1060275.jpg" class="climg" alt="毕竟是书生"/></a></li>
+            <li class="aob"><a href="http://book.douban.com/subject/1396491/" title="第三帝国的兴亡（全三册）
+
+"><img src="http://img3.douban.com/spic/s1559848.jpg" class="climg" alt="第三帝国的兴亡（全三册）"/></a></li>
+            <li class="aob"><a href="http://book.douban.com/subject/5954602/" title="罗马帝国衰亡史（全6册）
+
+"><img src="http://img3.douban.com/spic/s4707509.jpg" class="climg" alt="罗马帝国衰亡史（全6册）"/></a></li>
+            </ul>
+            <div class="clear"></div></div>
+        
+    
+    
+        <p class="pl"><a href="http://book.douban.com/magazine/list/3215295/">&gt; 浏览Miss米花·爆看的杂志(3)</a></p>
+
+
+        </div>
+
+        
+        <div class="" id="movie">
+        
+
+
+
+
+
+
+
+
+
+
+
+    
+    <h2>
+        Miss米花·爆的电影
+         &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+            <span class="pl">&nbsp;(
+                <a href="http://movie.douban.com/people/3215295/do">23部在看</a>&nbsp;&middot;&nbsp;<a href="http://movie.douban.com/people/3215295/wish">181部想看</a>&nbsp;&middot;&nbsp;<a href="http://movie.douban.com/people/3215295/collect">185部看过</a>
+            ) </span>
+    </h2>
+
+
+
+    
+    
+            <div class=obssin>
+                <div class="substatus">想看</div>
+                <ul><li class="aob"><a href="http://movie.douban.com/subject/3443389/" title="海洋
+
+海洋 / Oceans"><img src="http://img3.douban.com/spic/s6795049.jpg" class="climg" alt="海洋"/></a></li>
+            <li class="aob"><a href="http://movie.douban.com/subject/2228522/" title="恋爱情结
+
+恋爱情结 / Lovely Complex"><img src="http://img3.douban.com/spic/s3515137.jpg" class="climg" alt="恋爱情结"/></a></li>
+            <li class="aob"><a href="http://movie.douban.com/subject/3908423/" title="夏日大作战
+
+夏日大作战 / 夏日战争"><img src="http://img3.douban.com/spic/s4072630.jpg" class="climg" alt="夏日大作战"/></a></li>
+            <li class="aob"><a href="http://movie.douban.com/subject/2147129/" title="萤之光
+
+萤之光 / 干物女"><img src="http://img3.douban.com/spic/s4509516.jpg" class="climg" alt="萤之光"/></a></li>
+            <li class="aob"><a href="http://movie.douban.com/subject/4812830/" title="魁拔之十万火急
+
+魁拔"><img src="http://img3.douban.com/spic/s6523337.jpg" class="climg" alt="魁拔之十万火急"/></a></li>
+            </ul>
+            <div class="clear"></div></div>
+        
+    
+            <div class=obssin>
+                <div class="substatus">看过</div>
+                <ul><li class="aob"><a href="http://movie.douban.com/subject/4035906/" title="三个火枪手
+
+三个火枪手 / 三剑侠3D 双城暗战(港)"><img src="http://img1.douban.com/spic/s6880594.jpg" class="climg" alt="三个火枪手"/></a></li>
+            <li class="aob"><a href="http://movie.douban.com/subject/4191644/" title="一天
+
+一天 / 真爱挑日子(台)"><img src="http://img3.douban.com/spic/s6329368.jpg" class="climg" alt="一天"/></a></li>
+            <li class="aob"><a href="http://movie.douban.com/subject/3818822/" title="交响情人梦Finale
+
+交响情人梦Finale / 如歌的野田废"><img src="http://img3.douban.com/spic/s4181807.jpg" class="climg" alt="交响情人梦Finale"/></a></li>
+            <li class="aob"><a href="http://movie.douban.com/subject/1950601/" title="交响情人梦
+
+交响情人梦 / 如歌般的野田妹"><img src="http://img3.douban.com/spic/s2577713.jpg" class="climg" alt="交响情人梦"/></a></li>
+            <li class="aob"><a href="http://movie.douban.com/subject/3647097/" title="胡须鸡仔
+
+胡须鸡仔 / 胡子小鸡"><img src="http://img3.douban.com/spic/s3707062.jpg" class="climg" alt="胡须鸡仔"/></a></li>
+            </ul>
+            <div class="clear"></div></div>
+        
+
+
+
+        </div>
+
+        
+        <div class="" id="music">
+        
+
+
+
+
+
+
+
+
+
+
+
+    
+    <h2>
+        Miss米花·爆的音乐
+         &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+            <span class="pl">&nbsp;(
+                <a href="http://music.douban.com/people/3215295/do">11张在听</a>&nbsp;&middot;&nbsp;<a href="http://music.douban.com/people/3215295/wish">3张想听</a>&nbsp;&middot;&nbsp;<a href="http://music.douban.com/people/3215295/collect">43张听过</a>
+            ) </span>
+    </h2>
+
+
+
+    
+    
+            <div class=obssin>
+                <div class="substatus">在听</div>
+                <ul><li class="aob"><a href="http://music.douban.com/subject/5979050/" title="ワカバ - 明日、僕は君に会いに行く。"><img src="http://img3.douban.com/spic/s4700688.jpg" class="climg" alt="ワカバ - 明日、僕は君に会いに行く。"/></a></li>
+            <li class="aob"><a href="http://music.douban.com/subject/1421642/" title="Artur Rubinstein - Artur Rubinstein - The Chopin Collection: The Nocturnes"><img src="http://img3.douban.com/spic/s1434415.jpg" class="climg" alt="Artur Rubinstein - Artur Rubinstein - The Chopin Collection: The Nocturnes"/></a></li>
+            <li class="aob"><a href="http://music.douban.com/subject/1438173/" title="Hilary Duff - Hilary Duff"><img src="http://img3.douban.com/spic/s4717157.jpg" class="climg" alt="Hilary Duff - Hilary Duff"/></a></li>
+            <li class="aob"><a href="http://music.douban.com/subject/1397232/" title="Snow Patrol - Final Straw"><img src="http://img3.douban.com/spic/s1511709.jpg" class="climg" alt="Snow Patrol - Final Straw"/></a></li>
+            <li class="aob"><a href="http://music.douban.com/subject/2977909/" title="手嶌葵 - The Rose~I Love Cinemas~"><img src="http://img3.douban.com/spic/s2969728.jpg" class="climg" alt="手嶌葵 - The Rose~I Love Cinemas~"/></a></li>
+            </ul>
+            <div class="clear"></div></div>
+        
+    
+            <div class=obssin>
+                <div class="substatus">想听</div>
+                <ul><li class="aob"><a href="http://music.douban.com/subject/1483301/" title="Masnada - Maitres Du Je"><img src="http://img3.douban.com/spic/s1501121.jpg" class="climg" alt="Masnada - Maitres Du Je"/></a></li>
+            <li class="aob"><a href="http://music.douban.com/subject/1755270/" title="Kyo - Kyo"><img src="http://img3.douban.com/spic/s1601153.jpg" class="climg" alt="Kyo - Kyo"/></a></li>
+            <li class="aob"><a href="http://music.douban.com/subject/3533452/" title="Green Day - 21st Century Breakdown"><img src="http://img3.douban.com/spic/s3727625.jpg" class="climg" alt="Green Day - 21st Century Breakdown"/></a></li>
+            </ul>
+            <div class="clear"></div></div>
+        
+    
+
+
+
+
+    <span class="pl">最近喜欢: </span>
+    
+        
+        <a href="http://music.douban.com/subject/2995812/" title="来自We Sing. We Dance. We Steal Things.">I'm Yours</a>&nbsp;
+            ,
+        
+        <a href="http://music.douban.com/subject/2275357/" title="来自私は私をあとにして">月の傷</a>&nbsp;
+            ,
+        
+        <a href="http://music.douban.com/subject/3158576/" title="来自Under the Radar">Best Of Me</a>&nbsp;
+            ,
+        
+        <a href="http://music.douban.com/subject/1419586/" title="来自Bach: English Suites, BWV 806-811">English Suite No.1 BWV806 III.</a>&nbsp;
+    <div class="ul"></div>
+
+        </div>
+
+
+
+
+
+
+        
+        <div class="" id="photo">
+        
+
+
+
+
+
+    
+    <h2>
+        Miss米花·爆的相册
+         &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+            <span class="pl">&nbsp;(
+                <a href="http://www.douban.com/people/3215295/photos">全部</a>
+            ) </span>
+    </h2>
+
+    <div style="width:590px;">
+        <div class="photoin"><a class="nbg" href="http://www.douban.com/photos/album/36557584/" title="三六零X疼讯的基情" alt="三六零X疼讯的基情"><img src="http://img3.douban.com/view/photo/albumicon/public/p697353650.jpg" class="album_s"/></a>
+        <div class="ll pl" style="padding-top:8px;width:138px"><a href="http://www.douban.com/photos/album/36557584/">三六零X疼讯的基情</a><br/>2010-11-11更新</div></div>
+            <div class="clear"></div>
+    </div>
+
+        </div>
+
+        
+        <div class="" id="blog">
+        
+
+
+
+
+
+
+
+        </div>
+
+        
+        <div class="" id="minisite">
+        
+
+
+
+
+
+
+
+        
+        
+    <h2>
+        Miss米花·爆喜欢的小站
+         &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+            <span class="pl">&nbsp;(
+                <a href="http://www.douban.com/people/3215295/minisite">全部</a>
+            ) </span>
+    </h2>
+
+    <div style="width:590px">
+        <div class="photoin"><a href="http://site.douban.com/linkinpark/" class="artist_photo nbg">
+                    <img src="http://img3.douban.com/view/site/median/public/90f2350714bf219.jpg" alt="Linkin Park" title="Linkin Park" class="artist_s" width="100px" height="100px"/></a>
+                    <div class="ll" style="text-align:center;width:100px"><a href="http://site.douban.com/linkinpark/">Linkin Park</a></div></div>
+                    <div class="photoin"><a href="http://site.douban.com/106921/" class="artist_photo nbg">
+                    <img src="http://img3.douban.com/view/site/median/public/e25a83064093f27.jpg" alt="银魂@Love&amp;Peace" title="银魂@Love&amp;Peace" class="artist_s" width="100px" height="100px"/></a>
+                    <div class="ll" style="text-align:center;width:100px"><a href="http://site.douban.com/106921/">银魂@Love&amp;Peace</a></div></div>
+                    <div class="photoin"><a href="http://site.douban.com/duchangtuan/" class="artist_photo nbg">
+                    <img src="http://img3.douban.com/view/site/median/public/88773c3afd836ea.jpg" alt="独唱团" title="独唱团" class="artist_s" width="100px" height="100px"/></a>
+                    <div class="ll" style="text-align:center;width:100px"><a href="http://site.douban.com/duchangtuan/">独唱团</a></div></div>
+                    <div class="photoin"><a href="http://site.douban.com/mwacc/" class="artist_photo nbg">
+                    <img src="http://img3.douban.com/view/site/median/public/62241a4981a8bd7.jpg" alt="云汉文化★剧场演出" title="云汉文化★剧场演出" class="artist_s" width="100px" height="100px"/></a>
+                    <div class="ll" style="text-align:center;width:100px"><a href="http://site.douban.com/mwacc/">云汉文化★剧场演出</a></div></div>
+                    <br clear="all"/>
+    
+    </div>
+
+        </div>
+
+
+</div>
+        <div class="aside">
+            
+
+
+    
+
+
+
+
+
+
+
+<div id="profile">
+
+
+<div class="infobox">
+    <div class="ex1"><span></span></div>
+    <div class="bd">
+    <img src="http://img3.douban.com/icon/ul3215295-11.jpg" class="userface" alt="" />
+
+<div class="user-info">
+
+<div class="pl">3215295 <br/> 2008-11-15加入</div>
+
+    
+
+
+
+
+
+
+
+
+
+<div class="user-opt">
+   <a href="#" class="a-btn-add mr10 j a_show_login">关注此人</a>
+   <a class="a-btn mr5 j a_show_login" rel="nofollow" href="/accounts/register?reason=send-doumail">发豆邮</a>
+
+</div>
+
+
+
+
+</div>
+
+
+<div class="sep-line"></div>
+<div class="user-intro">
+
+
+
+
+
+
+
+
+    
+
+
+
+    
+    <div id="edit_intro"  class="j edtext pl">
+        <span id="intro_display" >　　恋がせつないと <br />　　すぐそばで気付いたあの夜 <br />　　だって他の誰より <br />　　あなたの事をしってるから <br />　　いつものさりけない <br />　　優しささえ　この胸を締め付けてく <br />　　 <br />　　 <br />　　即使戀愛讓人苦悶 <br />　　在某天夜晚立刻會察覺 你在我身邊 <br />　　因為我比任何人 <br />　　對你都要了解 <br />　　總是若無其事的 溫柔地支持我 <br />　　令我揪心不已 <br />　　 <br />　　こんなに　こんなに　近くで見つめても <br />　　どうして　どうして　ただの友達なの？ <br />　　どんなに　どんなに　強く思っていても <br />　　伝えられない　you do not understand <br />　　I am so in love with you. <br />　　 <br />　　 <br />　　如此地 如此地 即使如此靠近的凝視著 <br />　　為何 為何 卻只能當朋友 <br />　　無論 無論如何強烈的思念 <br />　　都無法傳達給你 you do not understand <br />　　I am so in love with you. <br />　　 <br />　　「元気ないよね？」と <br />　　あなたからいわれた瞬間 <br />　　涙隠すアクビで <br />　　「寝不足かな？」っていい訳した <br />　　 <br />　　 <br />　　「怎麼沒精神？」聽到你說的瞬間 <br />　　用打呵欠來隱藏淚水 <br />　　「沒睡好吧？」 只好如此解釋 <br />　　 <br />　　 <br />　　 <br />　　一番大切な <br />　　人に嘘を重ねてく...今の私 <br />　　 <br />　　對最重要的人不斷的說謊 如今的我 <br />　　 <br />　　毎日　毎日　胸が苦しいから <br />　　いくつも　いくつも　眠れぬ夜を越え <br />　　はじめて　はじめて　出逢ったあの日にまた <br />　　戻れるのなら　いいのに... <br />　　I am so in love with you. <br />　　 <br />　　 <br />　　每天 每天 都覺得苦悶 <br />　　多少個 多少個 渡過了無法成眠的夜晚 <br />　　第一次第一次 相逢的那天 <br />　　能再回來的話 那該有多好 <br />　　I am so in love with you. <br />　　 <br />　　 <br />　　「アイシテル」と告げたらきっと <br />　　もう二度と笑顔のは戻れないかもしれない <br />　　けれども友達のまま　作り笑いは <br />　　これ以上私出来ないから <br />　　 <br />　　 <br />　　「我愛你」如果我告訴你的話 一定 <br />　　已經無法再看到笑顏再重返 <br />　　但就這樣笑著只作朋友 <br />　　我無法再這麼做 <br />　　 <br />　　 <br />　　ホントは　ホントは　ずっとすきだったの <br />　　いつでも　いつでも　愛し續けてたの <br />　　あなたに　あなたに　届けたい気持ちを <br />　　青い空へと囁いた <br />　　I am so in love with you. <br />　　 <br />　　 <br />　　真的 真的 一直很喜歡你 <br />　　總是 總是 不斷愛你 <br />　　想傳達給你的心意 <br />　　只好向天空偷偷的說 <br />　　I am so in love with you. <br />　　 <br />　　 <br />　　 <br />　　こんなに　こんなに　近くで見つめても <br />　　どうして　どうして　ただの友達なの？ <br />　　どんなに　どんなに　強く思っていても <br />　　伝えられない　you do not understand <br />　　I am so in love with you. <br />　　 <br />　　如此地 如此地 即使如此靠近的凝視著 <br />　　為何 為何 卻只能當朋友 <br />　　無論 無論如何強烈的思念 <br />　　都無法傳達給你 you do not understand <br />　　I am so in love with you. <br /><br /><br />我知道<br />我之于你<br />其实<br />什么都不是<br />只是我一厢情愿<br />自顾自的开心<br />再自顾自的黯然神伤<br /><br />美好的事物，是一定要拼搏才能获得。没有时间去羡慕他人的荣耀，要用自己的坚韧不拔和勤奋工作，给予自己光辉<br /><br />如果再看你一眼 <br />是否还会有感觉 <br />当年素面朝天要多纯洁就有多纯洁 <br />不画扮熟的眼线 <br />不用抹匀粉底液 <br />暴雨天 照逛街 <br />偷笑别人花了脸 <br />如果再看你一眼 <br />是否还会有感觉 <br />最真实的喜怒哀乐全都埋葬在昨天 <br />不掺任何的表演 <br />轰轰烈烈那几年 <br />我怀念 别怀念 <br />怀念也回不到从前 <br /><br /><br />所有当年经历过的苦难<br />一定都是为了今日能靠在你肩<br />闲聊当年<br /><br /><br />you could be my unintended<br />choice to live my life extended<br />you could be the one i'll always love<br />you could be the one who listens<br />to my deepest inquisitions<br />you could be the one i'll always love<br />i'll be there as soon as i can<br />but i'm busy mending broken<br />pieces of the life i had before<br />first there was the one who challenged<br />all my dreams and all my balance<br />she could never be as good as you<br />before you<br /><br />喜欢豆油（1）的感觉，觉得是在这个遗失手稿的年代里的一种补偿<br /><br />关于恋爱我对这两件事深信不疑：<br />1、你来我信你不会走，你走我当你没来过<br />2、没有谁离不开谁，谁都一样，只是那时你恰好出现了而已<br /><br />最近开始相信星座<br />都说摩羯和金牛最配了<br />其次是处女、摩羯和双鱼<br /><br />看电视和上网给人一种热闹的假象，<br />关掉机器会感到特别孤独；<br />只有本来就是单人行为的读书，<br />才能把令人忧郁的寂寞变成甜美的独处<br /><br /> 一路上，跌跌撞撞，摸爬滚打，总是含着眼泪，以史为鉴，总结经验，拍拍身上的土，继续孑孓前行<br />终于想明白：豆油之于大部分人，只不过是一种手段，一种途径，一段过了河就拆的桥<br /><br /><br />    <br />    <br />    <br />    <br />    <br />    </span>
+        
+        <form style="display: none;" action="/j/people/3215295/edit_intro"
+            name="edit_intro" mothod="post">
+            <textarea name="intro" >　　恋がせつないと 
+　　すぐそばで気付いたあの夜 
+　　だって他の誰より 
+　　あなたの事をしってるから 
+　　いつものさりけない 
+　　優しささえ　この胸を締め付けてく 
+　　 
+　　 
+　　即使戀愛讓人苦悶 
+　　在某天夜晚立刻會察覺 你在我身邊 
+　　因為我比任何人 
+　　對你都要了解 
+　　總是若無其事的 溫柔地支持我 
+　　令我揪心不已 
+　　 
+　　こんなに　こんなに　近くで見つめても 
+　　どうして　どうして　ただの友達なの？ 
+　　どんなに　どんなに　強く思っていても 
+　　伝えられない　you do not understand 
+　　I am so in love with you. 
+　　 
+　　 
+　　如此地 如此地 即使如此靠近的凝視著 
+　　為何 為何 卻只能當朋友 
+　　無論 無論如何強烈的思念 
+　　都無法傳達給你 you do not understand 
+　　I am so in love with you. 
+　　 
+　　「元気ないよね？」と 
+　　あなたからいわれた瞬間 
+　　涙隠すアクビで 
+　　「寝不足かな？」っていい訳した 
+　　 
+　　 
+　　「怎麼沒精神？」聽到你說的瞬間 
+　　用打呵欠來隱藏淚水 
+　　「沒睡好吧？」 只好如此解釋 
+　　 
+　　 
+　　 
+　　一番大切な 
+　　人に嘘を重ねてく...今の私 
+　　 
+　　對最重要的人不斷的說謊 如今的我 
+　　 
+　　毎日　毎日　胸が苦しいから 
+　　いくつも　いくつも　眠れぬ夜を越え 
+　　はじめて　はじめて　出逢ったあの日にまた 
+　　戻れるのなら　いいのに... 
+　　I am so in love with you. 
+　　 
+　　 
+　　每天 每天 都覺得苦悶 
+　　多少個 多少個 渡過了無法成眠的夜晚 
+　　第一次第一次 相逢的那天 
+　　能再回來的話 那該有多好 
+　　I am so in love with you. 
+　　 
+　　 
+　　「アイシテル」と告げたらきっと 
+　　もう二度と笑顔のは戻れないかもしれない 
+　　けれども友達のまま　作り笑いは 
+　　これ以上私出来ないから 
+　　 
+　　 
+　　「我愛你」如果我告訴你的話 一定 
+　　已經無法再看到笑顏再重返 
+　　但就這樣笑著只作朋友 
+　　我無法再這麼做 
+　　 
+　　 
+　　ホントは　ホントは　ずっとすきだったの 
+　　いつでも　いつでも　愛し續けてたの 
+　　あなたに　あなたに　届けたい気持ちを 
+　　青い空へと囁いた 
+　　I am so in love with you. 
+　　 
+　　 
+　　真的 真的 一直很喜歡你 
+　　總是 總是 不斷愛你 
+　　想傳達給你的心意 
+　　只好向天空偷偷的說 
+　　I am so in love with you. 
+　　 
+　　 
+　　 
+　　こんなに　こんなに　近くで見つめても 
+　　どうして　どうして　ただの友達なの？ 
+　　どんなに　どんなに　強く思っていても 
+　　伝えられない　you do not understand 
+　　I am so in love with you. 
+　　 
+　　如此地 如此地 即使如此靠近的凝視著 
+　　為何 為何 卻只能當朋友 
+　　無論 無論如何強烈的思念 
+　　都無法傳達給你 you do not understand 
+　　I am so in love with you. 
+
+
+我知道
+我之于你
+其实
+什么都不是
+只是我一厢情愿
+自顾自的开心
+再自顾自的黯然神伤
+
+美好的事物，是一定要拼搏才能获得。没有时间去羡慕他人的荣耀，要用自己的坚韧不拔和勤奋工作，给予自己光辉
+
+如果再看你一眼 
+是否还会有感觉 
+当年素面朝天要多纯洁就有多纯洁 
+不画扮熟的眼线 
+不用抹匀粉底液 
+暴雨天 照逛街 
+偷笑别人花了脸 
+如果再看你一眼 
+是否还会有感觉 
+最真实的喜怒哀乐全都埋葬在昨天 
+不掺任何的表演 
+轰轰烈烈那几年 
+我怀念 别怀念 
+怀念也回不到从前 
+
+
+所有当年经历过的苦难
+一定都是为了今日能靠在你肩
+闲聊当年
+
+
+you could be my unintended
+choice to live my life extended
+you could be the one i'll always love
+you could be the one who listens
+to my deepest inquisitions
+you could be the one i'll always love
+i'll be there as soon as i can
+but i'm busy mending broken
+pieces of the life i had before
+first there was the one who challenged
+all my dreams and all my balance
+she could never be as good as you
+before you
+
+喜欢豆油（1）的感觉，觉得是在这个遗失手稿的年代里的一种补偿
+
+关于恋爱我对这两件事深信不疑：
+1、你来我信你不会走，你走我当你没来过
+2、没有谁离不开谁，谁都一样，只是那时你恰好出现了而已
+
+最近开始相信星座
+都说摩羯和金牛最配了
+其次是处女、摩羯和双鱼
+
+看电视和上网给人一种热闹的假象，
+关掉机器会感到特别孤独；
+只有本来就是单人行为的读书，
+才能把令人忧郁的寂寞变成甜美的独处
+
+ 一路上，跌跌撞撞，摸爬滚打，总是含着眼泪，以史为鉴，总结经验，拍拍身上的土，继续孑孓前行
+终于想明白：豆油之于大部分人，只不过是一种手段，一种途径，一段过了河就拆的桥
+
+
+    
+    
+    
+    
+    
+    </textarea><br/>
+            <input id="intro_submit" class="submit" type="submit" value="保存" />
+            <input id="intro_cancel" class="cancel" type="button" value="取消" />
+        </form>
+
+        <span id="intro_error" class="attn" style="display: none;"></span>
+    </div>
+
+</div>
+
+</div>
+    <div class="ex2"><span></span></div>
+</div>
+
+
+</div>
+
+
+
+
+<script src="http://img3.douban.com/js/jquery_plugin/packed_jquery.elastic1813004923.js"></script>
+<script>
+
+
+$(function(){
+    var intro_form = $('form[name="edit_intro"]')[0];
+    var intro_error = $('#intro_error');
+    var intro_disp = $('#intro_display');
+    var intro_action = $('#intro_disp_act');
+    var intro_action_a = $('#intro_disp_act a');
+    var intro_textarea = $('textarea[name="intro"]');
+    var intro_submit = $('#intro_submit');
+    var intro_cancel = $('#intro_cancel');
+
+    var introShow = function(t){
+            if(t != undefined){
+                intro_disp.html(t);
+                if (intro_disp.text() === ''){
+                    intro_action_a.text('添加自我介绍');
+                }else{
+                    intro_action_a.text('编辑');
+                };
+            }
+            $(intro_form).hide();
+            intro_disp.show();
+            intro_action.show();
+            intro_error.css('display', 'none');
+        }
+
+    var myEnableForm = function(){
+        $(intro_form).attr('disabled', 0);
+        $(intro_form).children('input,textarea').attr('disabled', 0);
+        intro_textarea.focus();
+    }
+    
+    intro_textarea.elastic();
+    
+    $(intro_form).submit(function(e){
+        e.preventDefault();
+        remote_submit_json(intro_form, function(r){
+            if (r.r === '0') {
+                introShow( r.intro );
+                intro_error.css('display', 'none');
+                intro_disp.css('font-style', 'normal');
+            } else {
+                intro_error.text(r.error);
+                intro_error.css('display', 'inline');
+                myEnableForm();
+            }
+        });
+        return false;
+    });
+    
+    intro_cancel.click(function(e){
+        e.preventDefault();
+        $(intro_form).hide();
+        intro_disp.show();
+        intro_action.show();
+        intro_error.css('display', 'none');
+    });
+
+    intro_action_a.click(function(e){
+        e.preventDefault();
+        intro_disp.hide();
+        intro_action.hide();
+        $(intro_form).show();
+
+        myEnableForm();
+        intro_textarea.elastic();
+    });
+
+});
+
+
+</script>
+
+
+    
+
+
+
+
+
+
+
+
+    <div class="clear"></div>
+
+    
+
+    <h2>
+        Miss米花·爆的豆瓣说&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+        <span class="pl">&nbsp;(<a target="_blank" href="http://shuo.douban.com/#!/3215295">全部</a>)</span>
+    </h2>
+    
+
+
+
+
+
+<script id="shuo-widget-item" type="text/template">
+    <li class="item">
+        <div class="text">
+            {{html shuoText}}
+        </div>
+    	<div class="attachment">
+            <a href="{{= attachmentShortURL}}" target="_blank" title="{{= attachmentURL}}">{{= attachmentTitle}}</a>
+    	</div>
+        <div class="ft">
+            <a href="{{= shuoURL}}" class="time-stamp" target="_blank">{{= shuoTimeStamp}}</a>
+            &middot;
+            <a href="{{= shuoURL}}" target="_blank">{{if commentsCount}}{{= commentsCount}}{{/if}}回复</a>
+        </div>
+    </li>
+</script>
+
+<div id="shuo-widget">
+	<div class="body">
+		<ul></ul>
+        <div class="state"></div>
+	</div>
+</div>
+
+<script id="tmpl-user-mentions" type="text/template">
+    <a href="http://shuo.douban.com/#!/{{= uid}}" target="_blank" title="{{= screen_name}} (@{{= uid}})">{{= screen_name}}</a>
+</script>
+<script id="tmpl-urls" type="text/template">
+    <a href="{{= url}}" title="{{= expanded_url}}" target="_blank">{{= expanded_url}}</a>
+</script>
+<script id="tmpl-topics" type="text/template">
+    <a href="http://shuo.douban.com/#!/topics/{{= encoded_text}}" target="_blank" >{{= text}}</a>
+</script>
+<script type="text/javascript">
+    Do.add('template',{path: 'http://img3.douban.com/js/lib/packed_jquery.tmpl2124361866.js', type: 'js'});
+    Do('template',function() {
+        var TMPL_TL_ITEM = $.template(null, $('#shuo-widget-item').html()),
+        shuoWidget = $('#shuo-widget');
+
+        shuoWidget.find('.state').text('加载中...');
+
+        //error handling
+        var cbSuccess = false;
+        setTimeout(function() {
+            if ( !cbSuccess ) {
+                shuoWidget.find('.state').text('加载超时啦，刷新重试一下');       
+            }
+        },6000);
+
+        $.ajax({
+            dataType: 'jsonp',
+            url: 'http://www.douban.com/shuo/!service/widgets/user_timeline/3215295?count=5&alt=xd&reshared=0',
+            jsonp: false, 
+            jsonpCallback: 'cb',
+            success: renderTimeline
+        });
+
+        function renderTimeline(data) {
+            cbSuccess = true;
+
+            var id = '3215295',
+                url = 'http://shuo.douban.com/#!/' + id,
+                name = 'Miss米花·爆',
+                i = 0,
+                length = data.length,
+                shuoInfo = [],
+                item;
+
+            for ( i=0;i<length;i++ ) {
+                item = data[i];
+
+                if ( item.reshared_status !== undefined ) {
+                // 转发的不放进去
+                    continue;
+                } else {
+                    shuoInfo.push({
+                        //common parts
+                        profileURL: url,
+                        profileName: name,
+                        shuoText: extractText(item.text, item.entities) || '推荐',
+                        shuoURL: 'http://shuo.douban.com/#!/' + id + '/status/' + item.id,
+                        shuoTimeStamp: getTimestamp(item.created_at), 
+                        commentsCount: item.comments_count,
+
+                        //different parts
+                        // item.attachments[0] acts as guardian value, if there's no attachments, it will be left as empty
+                        attachmentShortURL: item.attachments[0] && ( item.attachments[0].href ||'http://shuo.douban.com/#!/' + id + '/status/' + item.id ),
+                        attachmentURL: item.attachments[0] && item.attachments[0].expanded_href,
+                        // if attachments[0].title is empty, this item must be a uploaded image
+                        attachmentTitle: item.attachments[0] && ( item.attachments[0].title || '查看图片')
+                    });
+                }
+            }
+            //end of for loop
+            $.tmpl(TMPL_TL_ITEM, shuoInfo).appendTo('#shuo-widget .body>ul');
+
+            shuoWidget.find('.state').remove();
+
+        }
+        
+        function getCurrentTime () {
+            var d = new Date(),
+                localTime = d.getTime(),
+                localOffset = d.getTimezoneOffset()*60000,
+                utc = localTime + localOffset,
+                offset = +8,
+                time = utc + (3600000*offset),
+                today = new Date(time),
+                year = today.getFullYear(), 
+                month = today.getMonth()+1, 
+                date = today.getDate(), 
+                hour = today.getHours(), 
+                minute = today.getMinutes(), 
+                second = today.getSeconds(); 
+            return year + "-" + month + "-" + date + " " + hour + ":" + minute + ":" + second;
+        }
+        function getTimestamp (date) {
+            var now = getCurrentTime(), 
+                d = date.split(" "),
+                n = now.split(" "),
+                dd = d[0].split("-"),
+                nn = n[0].split("-"),
+                diff,hs,ms,ss;
+
+            d = dd[1] + "/" + dd[2] + "/" + dd[0] + " " + d[1]; //转化为标准时间格式(月/日/年 时:分:秒)
+            n = nn[1] + "/" + nn[2] + "/" + nn[0] + " " + n[1]; //转化为标准时间格式(月/日/年 时:分:秒)
+            diff = Date.parse(n)-Date.parse(d);
+            ss = Math.ceil(diff / 3000);
+            ms = Math.floor(diff / 60000);
+            hs = Math.floor(diff / 3600000);
+
+            if (ss === 0 ) {
+                return '刚刚';
+            } else if (ss < 60){
+                return ss + '秒前';
+            } else if (ms < 60){
+                return ms + '分钟前';
+            } else if (hs < 24){
+                return hs + '小时前';
+            } else if (dd[0] === nn[0] ) {
+                d = date.split(' ')[1];
+                return dd[1].replace(/^0*/, "") + '月' + dd[2].replace(/^0*/, "") + '日 ' + d.substring(0,d.lastIndexOf(':'));
+            }
+            return dd[0] + '年' + dd[1].replace(/^0*/, "") + '月' + dd[2].replace(/^0*/, "") + '日';
+        }
+
+        function encodeURIStr(str){
+            var regexs = new Array(new RegExp('%', 'g'),
+                              new RegExp(',', 'g'),
+                              new RegExp('\/', 'g'),
+                              new RegExp('\\?', 'g'),
+                              new RegExp(':', 'g'),
+                              new RegExp('@', 'g'),
+                              new RegExp('&', 'g'),
+                              new RegExp('=', 'g'),
+                              new RegExp('\\+', 'g'),
+                              new RegExp('\\$', 'g'),
+                              new RegExp('#', 'g')
+              );  
+            var replaces = new Array('%25', '%2C','%2F','%3F','%3A','%40','%26','%3D','%2B','%24','%23');
+            for (var i = 0; i < regexs.length; i++){
+                str = str.replace(regexs[i], replaces[i]);
+            }   
+            return str;
+        }
+
+        function extractText(text,entities) {
+            var urls = entities.urls,
+                user_mentions = entities.user_mentions,
+                topics = entities.topics,
+                all_html = [], 
+                all = [], 
+                ret_text = '', s, e, begin, plaintext;
+
+            $('#tmpl-user-mentions').template('TMPL_UESR_MENTIONS');
+            $('#tmpl-urls').template('TMPL_URLS');
+            $('#tmpl-topics').template('TMPL_TOPICS');
+
+            all = urls.concat(user_mentions);
+            all = all.concat(topics);
+            all.sort(function(a,b){
+                return a['indices'][0] - b['indices'][0];
+            }); 
+
+            //if ( all.length === 0 ) return emoji(text);
+            if ( all.length === 0 ) return text.replace(/\ue335/g, '&#9733;'); 
+
+            for ( var k = 0; k < all.length; k++ ) { 
+                if ( all[k]['uid'] ) { 
+                    all_html[k] = $.tmpl('TMPL_UESR_MENTIONS',all[k]);
+                }   
+                else if ( all[k]['url'] ) { 
+                     all_html[k] = $.tmpl('TMPL_URLS',all[k]);
+                }   
+                else {
+                    all[k]['encoded_text'] = encodeURIStr(all[k]['text'])
+                    all_html[k] = $.tmpl('TMPL_TOPICS',all[k]);
+                }   
+
+
+                begin = k ? e : 0,
+                s = all[k]['indices'][0];
+                e = all[k]['indices'][1];
+                plaintext = text.substring(begin, s).replace(/\ue335/g, '&#9733;');
+                //plaintext = emoji(text.substring(begin, s));
+
+                ret_text = ret_text + plaintext + $('<div></div>').append(all_html[k].clone()).html();
+
+                if( k === all.length - 1) {
+                    ret_text = ret_text + text.substring(e).replace(/\ue335/g, '&#9733;');
+                    //ret_text = ret_text + emoji(text.substring(e));
+                }   
+            }   
+            return ret_text;
+        }
+    });
+</script>
+
+
+
+    
+
+
+
+
+
+
+
+
+<div id="friend">
+
+    <h2>
+        Miss米花·爆关注的人
+         &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+            <span class="pl">&nbsp;(
+                <a href="http://www.douban.com/people/3215295/contacts">全部141</a>
+            ) </span>
+    </h2>
+
+<dl class="obu" ><dt><a href="http://www.douban.com/people/ChannaDisco/" class="nbg"><img src="http://img3.douban.com/icon/u16249062-385.jpg" class="m_sub_img" alt="夏一次恋奈"/></a></dt>
+                    <dd><a href="http://www.douban.com/people/ChannaDisco/">夏一次恋奈</a></dd></dl><dl class="obu" ><dt><a href="http://www.douban.com/people/Tanroro/" class="nbg"><img src="http://img3.douban.com/icon/u3629648-252.jpg" class="m_sub_img" alt="tanroro有诺诺"/></a></dt>
+                    <dd><a href="http://www.douban.com/people/Tanroro/">tanroro有诺诺</a></dd></dl><dl class="obu" ><dt><a href="http://www.douban.com/people/emphasize/" class="nbg"><img src="http://img3.douban.com/icon/u34679304-45.jpg" class="m_sub_img" alt="叶老豆"/></a></dt>
+                    <dd><a href="http://www.douban.com/people/emphasize/">叶老豆</a></dd></dl><dl class="obu" ><dt><a href="http://www.douban.com/people/zhanxanxus/" class="nbg"><img src="http://img3.douban.com/icon/u42619405-12.jpg" class="m_sub_img" alt="战战战战战战君"/></a></dt>
+                    <dd><a href="http://www.douban.com/people/zhanxanxus/">战战战战战战君</a></dd></dl><dl class="obu" ><dt><a href="http://www.douban.com/people/lv_zhensheng/" class="nbg"><img src="http://img3.douban.com/icon/u39557012-191.jpg" class="m_sub_img" alt="Potions Master"/></a></dt>
+                    <dd><a href="http://www.douban.com/people/lv_zhensheng/">Potions Master</a></dd></dl><dl class="obu" ><dt><a href="http://www.douban.com/people/philolea/" class="nbg"><img src="http://img3.douban.com/icon/u4108865-2.jpg" class="m_sub_img" alt="幻叶子-猫瞳"/></a></dt>
+                    <dd><a href="http://www.douban.com/people/philolea/">幻叶子-猫瞳</a></dd></dl><dl class="obu" ><dt><a href="http://www.douban.com/people/z-jhd/" class="nbg"><img src="http://img3.douban.com/icon/u2288132-17.jpg" class="m_sub_img" alt="苹果TMD还不死"/></a></dt>
+                    <dd><a href="http://www.douban.com/people/z-jhd/">苹果TMD还不死</a></dd></dl><dl class="obu" ><dt><a href="http://www.douban.com/people/z2L/" class="nbg"><img src="http://img3.douban.com/icon/u10548573-3626.jpg" class="m_sub_img" alt="妹夫"/></a></dt>
+                    <dd><a href="http://www.douban.com/people/z2L/">妹夫</a></dd></dl><dl class="obu" ><dt><a href="http://www.douban.com/people/bestillemelten/" class="nbg"><img src="http://img3.douban.com/icon/u52205826-2.jpg" class="m_sub_img" alt="猪大夫"/></a></dt>
+                    <dd><a href="http://www.douban.com/people/bestillemelten/">猪大夫</a></dd></dl><dl class="obu" ><dt><a href="http://www.douban.com/people/dionysus/" class="nbg"><img src="http://img3.douban.com/icon/u1110751-156.jpg" class="m_sub_img" alt="七月狄奥尼索斯"/></a></dt>
+                    <dd><a href="http://www.douban.com/people/dionysus/">七月狄奥尼索斯</a></dd></dl><dl class="obu" ><dt><a href="http://www.douban.com/people/kimispeaking/" class="nbg"><img src="http://img3.douban.com/icon/u45778646-13.jpg" class="m_sub_img" alt="kimi"/></a></dt>
+                    <dd><a href="http://www.douban.com/people/kimispeaking/">kimi</a></dd></dl><dl class="obu" ><dt><a href="http://www.douban.com/people/iserlohnwind/" class="nbg"><img src="http://img3.douban.com/icon/u1360856-31.jpg" class="m_sub_img" alt="伊谢尔伦的风"/></a></dt>
+                    <dd><a href="http://www.douban.com/people/iserlohnwind/">伊谢尔伦的风</a></dd></dl><br clear="all"/>
+    
+
+
+<p>
+<a href="http://www.douban.com/people/3215295/rev_contacts">&gt; 被329人关注</a>
+</p>
+
+</div>
+
+
+    
+
+    
+
+
+
+
+        
+        <div class="" id="event">
+        
+
+
+
+
+
+
+    
+    <h2>
+        Miss米花·爆的同城活动
+         &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+            <span class="pl">&nbsp;(
+                <a href="http://www.douban.com/people/3215295/event?g=a">6个参加</a>&nbsp;&middot;&nbsp;<a href="http://www.douban.com/people/3215295/event?g=w">9个感兴趣</a>
+            ) </span>
+    </h2>
+
+        <div class="evt_short"><ul><li class="actfromfri">
+        <div class="pl">
+        <a class="pl2" href="http://www.douban.com/event/13426919/">英国TNT剧院 莎翁经典喜剧《无事生非》中国巡演天津站</a><br/>
+        时间：3月24日 周四 19:30 － 22:00<br/>
+        29人参加
+        &nbsp; 84 人感兴趣</div><br class="clear" /></li><li class="actfromfri">
+        <div class="pl">
+        <a class="pl2" href="http://www.douban.com/event/11835351/">【天津影迷幼兒園增3期】《我的糖》外院放映</a><br/>
+        时间：5月13日 周四 18:30 － 20:15<br/>
+        85人参加
+        &nbsp; 226 人感兴趣</div><br class="clear" /></li></ul></div><div class="clear"></div>
+
+        </div>
+
+        
+        <div class="" id="online">
+        
+
+
+
+
+
+    
+        
+    <h2>
+        Miss米花·爆的线上活动
+         &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+            <span class="pl">&nbsp;(
+                <a href="http://www.douban.com/people/3215295/online">全部</a>
+            ) </span>
+    </h2>
+
+
+        <div><ul>
+            
+
+    <li class="actfromfri">
+        <span class="pl">[已结束]
+    <a class="pl2" href="http://www.douban.com/online/10020976/">来晒我的电脑桌面壁纸！</a>
+
+        <br/><span class="pl">时间：6月9日 周四 － 9月8日 周四</span>
+
+
+        <br/><span class="pl">27441人参加 </span>
+        <br/><div class="ul"></div>
+    </li>
+
+            
+
+    <li class="actfromfri">
+        <span class="pl">[已结束]
+    <a class="pl2" href="http://www.douban.com/online/10858741/">总有一句台词让你刻骨铭心！</a>
+
+        <br/><span class="pl">时间：6月22日 周三 13:25 － 13:25</span>
+
+
+        <br/><span class="pl">1003人参加 </span>
+        <br/><div class="ul"></div>
+    </li>
+
+        </ul></div><br/>
+
+
+
+
+
+
+
+        </div>
+
+        
+        <div class="" id="doulist">
+        
+
+
+
+
+
+        
+    <h2>
+        Miss米花·爆的豆列(1)
+         &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+    </h2>
+
+        <p><a href="http://music.douban.com/doulist/279692/">往事染尽玫瑰色——那些温软淡然的慢摇们</a></p>
+    <div class="clear"></div>
+
+        </div>
+
+        
+        <div class="" id="group">
+        
+
+
+
+
+
+
+        
+    <h2>
+        Miss米花·爆参加的小组(111)
+         &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+            <span class="pl">&nbsp;(
+                <a href="http://www.douban.com/people/3215295/groups">全部</a>
+            ) </span>
+    </h2>
+
+    <dl class="ob"><dt><a  href="http://www.douban.com/group/fengrenyuan/"><img src="http://img3.douban.com/icon/g177029-11.jpg" class="m_sub_img" alt="减肥疯人院"/></a></dt>
+        <dd><a  href="http://www.douban.com/group/fengrenyuan/">减肥疯人院</a> <span>(22382)</span>
+        </dd></dl><dl class="ob"><dt><a  href="http://www.douban.com/group/Yi-club/"><img src="http://img3.douban.com/icon/g120464-17.jpg" class="m_sub_img" alt="我们爱讲冷笑话™"/></a></dt>
+        <dd><a  href="http://www.douban.com/group/Yi-club/">我们爱讲冷笑话™</a> <span>(103852)</span>
+        </dd></dl><dl class="ob"><dt><a  href="http://www.douban.com/group/kaopulove/"><img src="http://img3.douban.com/icon/g139316-11.jpg" class="m_sub_img" alt="豆瓣最靠谱的恋爱小组。"/></a></dt>
+        <dd><a  href="http://www.douban.com/group/kaopulove/">豆瓣最靠谱的恋爱小组。</a> <span>(126794)</span>
+        </dd></dl><dl class="ob"><dt><a  href="http://www.douban.com/group/txtbook/"><img src="http://img3.douban.com/icon/g62293-1.jpg" class="m_sub_img" alt="豆瓣读书之TXT交流"/></a></dt>
+        <dd><a  href="http://www.douban.com/group/txtbook/">豆瓣读书之TXT交流</a> <span>(48620)</span>
+        </dd></dl><dl class="ob"><dt><a  href="http://www.douban.com/group/ha-no-point/"><img src="http://img3.douban.com/icon/g62993-7.jpg" class="m_sub_img" alt="笑点很奇怪"/></a></dt>
+        <dd><a  href="http://www.douban.com/group/ha-no-point/">笑点很奇怪</a> <span>(62431)</span>
+        </dd></dl><dl class="ob"><dt><a  href="http://www.douban.com/group/42518/"><img src="http://img3.douban.com/icon/g42518-6.jpg" class="m_sub_img" alt="唱片收藏家"/></a></dt>
+        <dd><a  href="http://www.douban.com/group/42518/">唱片收藏家</a> <span>(1907)</span>
+        </dd></dl><dl class="ob"><dt><a  href="http://www.douban.com/group/DQMQQ/"><img src="http://img3.douban.com/icon/g50411-4.jpg" class="m_sub_img" alt="豆瓣高智商男女交友沙龙"/></a></dt>
+        <dd><a  href="http://www.douban.com/group/DQMQQ/">豆瓣高智商男女交友沙龙</a> <span>(5040)</span>
+        </dd></dl><dl class="ob"><dt><a  href="http://www.douban.com/group/BigBangTheory/"><img src="http://img3.douban.com/icon/g71265-35.jpg" class="m_sub_img" alt="The Big Bang Theory 生活大爆炸 TBBT"/></a></dt>
+        <dd><a  href="http://www.douban.com/group/BigBangTheory/">The Big Bang Theory 生活...</a> <span>(66998)</span>
+        </dd></dl>
+    <div class="clear"></div>
+
+        </div>
+
+        
+        <div class="" id="board">
+        
+
+
+
+
+
+
+        
+    <h2>
+        留言板
+         &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+            <span class="pl">&nbsp;(
+                <a href="http://www.douban.com/people/3215295/board">全部</a>
+            ) </span>
+    </h2>
+
+
+    <ul class="mbt"><li class="mbtl"><a href="http://www.douban.com/people/LunaSnape/"><img src="http://img3.douban.com/icon/u2811450-13.jpg" alt="Dr.WizardLuna"/></a></li>
+        <li class="mbtrdot"><a href="http://www.douban.com/people/LunaSnape/">Dr.WizardLuna</a>: &nbsp; XD &nbsp; &nbsp; <span class="pl">04-15 23:29</span>
+        </li><li class="mbtl"><a href="http://www.douban.com/people/DustinBalance/"><img src="http://img3.douban.com/icon/u1099773-1.jpg" alt="Wu Lala"/></a></li>
+        <li class="mbtrdot"><a href="http://www.douban.com/people/DustinBalance/">Wu Lala</a>: &nbsp; 曾经P大啊，自学为主啊，我咆哮已经成习惯了啊 &nbsp; &nbsp; <span class="pl">03-09 16:34</span>
+        </li><li class="mbtl"><a href="http://www.douban.com/people/meishi/"><img src="http://img3.douban.com/icon/u41267172-38.jpg" alt="相濡以沫大炸弹"/></a></li>
+        <li class="mbtrdot"><a href="http://www.douban.com/people/meishi/">相濡以沫大炸弹</a>: &nbsp; 大号被封。不是马甲…… &nbsp; &nbsp; <span class="pl">2010-12-17 09:22</span>
+        </li><li class="mbtl"><a href="http://www.douban.com/people/ssjuer/"><img src="http://img3.douban.com/icon/u4697302-110.jpg" alt="逢考必过弎菇凉"/></a></li>
+        <li class="mbtrdot"><a href="http://www.douban.com/people/ssjuer/">逢考必过弎菇凉</a>: &nbsp; (▔/﹏\▔)因为神马你被围观了？ &nbsp; &nbsp; <span class="pl">2010-12-16 21:32</span>
+        </li><li class="mbtl"><a href="http://www.douban.com/people/ssjuer/"><img src="http://img3.douban.com/icon/u4697302-110.jpg" alt="逢考必过弎菇凉"/></a></li>
+        <li class="mbtrdot"><a href="http://www.douban.com/people/ssjuer/">逢考必过弎菇凉</a>: &nbsp; ╮(￣▽￣&quot;)╭ 原来我老早就关注了你了呢~ &nbsp; &nbsp; <span class="pl">2010-12-16 21:26</span>
+        </li></ul>
+
+        </div>
+
+        
+        <div class="" id="host">
+        
+
+
+
+
+
+
+
+        </div>
+
+    
+
+
+
+
+        
+        <div class="" id="artist">
+        
+
+
+
+
+
+
+
+        </div>
+
+        
+        <div class="" id="offer">
+        
+
+
+
+
+
+
+
+        </div>
+
+
+
+
+
+
+        
+<p class="pl">订阅Miss米花·爆的收藏: <br/><span class="feed">
+    <a href="http://www.douban.com/feed/people/3215295/interests"> feed: rss 2.0</a></span></p>
+
+
+
+        </div>
+        <div class="extra">
+            
+
+        </div>
+    </div>
+    </div>
+
+        
+        <div id="footer">
+            
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2011 douban.com, all rights reserved
+</span>
+
+<span class="fright">
+    <a href="http://www.douban.com/about">关于豆瓣</a>
+    · <a href="http://www.douban.com/about?topic=teamup">在豆瓣工作</a>
+    · <a href="http://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="http://www.douban.com/about?policy=disclaimer">免责声明</a>
+    
+    · <a href="http://www.douban.com/help/">帮助中心</a>
+    · <a href="http://www.douban.com/service/">API</a>
+    · <a href="http://www.douban.com/mobile/">手机豆瓣</a>
+    · <a href="http://www.douban.com/partner/">品牌俱乐部</a>
+
+</span>
+
+
+        </div>
+
+    </div>
+    
+    
+    
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-7019765-1']);
+_gaq.push(['_addOrganic', 'baidu', 'word']);
+_gaq.push(['_addOrganic', 'soso', 'w']);
+_gaq.push(['_addOrganic', '3721', 'name']);
+_gaq.push(['_addOrganic', 'yodao', 'q']);
+_gaq.push(['_addOrganic', 'vnet', 'kw']);
+_gaq.push(['_addOrganic', 'sogou', 'query']);
+_gaq.push(['_addIgnoredOrganic', '豆瓣']);
+_gaq.push(['_addIgnoredOrganic', 'douban']);
+_gaq.push(['_addIgnoredOrganic', '豆瓣网']);
+_gaq.push(['_addIgnoredOrganic', 'www.douban.com']);
+_gaq.push(['_setDomainName', '.douban.com']);
+
+_gaq.push(['_trackPageview']);
+_gaq.push(['_trackPageLoadTime']);
+
+
+(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})();
+</script>
+
+
+
+
+
+
+
+    <!-- gardner6-->
+<script>var _check_hijack = function () {
+            var _sig = "fanPL6Af", _login = false, bid = get_cookie('bid');
+            if (location.protocol != "file:" && (typeof(bid) != "string" && _login || typeof(bid) == "string" && bid.substring(0,8) != _sig)) {
+                location.href+=(/\?/.test(location.href)?"&":"?") + "_r=" + Math.random().toString(16).substring(2);
+            }};
+            if (typeof(Do) != 'undefined') Do(_check_hijack);
+            else if (typeof(get_cookie) != 'undefined') _check_hijack();
+            </script></body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,72 @@
+status: 200
+content-length: 3734
+content-location: http://10.0.1.5
+accept-ranges: bytes
+server: DrcomServer1.0
+connection: keep-alive
+cache-control: no-cache
+content-type: text/html
+
+<html><head>
+<script language="JavaScript"><!--
+sv=0;sv1=0;v6='http://[::]:9002/v6                                     ';myv6ip='                                       ';
+
+if(sv==1&&sv1==0)window.location=v6;
+function mysubmit(){if(sv1==1)document.form1.v6ip.value=myv6ip;return true;}
+// --></script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>Drcom上网登录窗                         </title>
+<style><!--
+a {text-decoration: none}
+.f1 { font-size: 9pt; font-family: Verdana; line-height: 14pt }
+.f2 { font-size: 8pt; font-family: Verdana; line-height: 12pt }
+-->
+</style></head><body><form name=form1 method=post action="/" onSubmit="return mysubmit()">
+<center>
+<table width=600 border=0 height=80%>
+<tr>
+<td height=100%>
+<div align=center>
+<center>
+<table width=350 border=0 height=397 bgcolor=#FFFFFF cellspacing=0 cellpadding=0 style="border-collapse: collapse" bordercolor=#111111>
+<tr>
+<td height=60 width=350 colspan=2>
+			<p align=center>
+<img border=0 src=4.gif width=350 height=44></td>
+</tr>
+<tr>
+<td height=70 width=350 colspan=2>
+<div align=center><font ; font color=000000>请您用客户端登录，客户端下载地址：<br>http://10.0.201.13/Download.aspx<br>                                                                                                                              </font></div>
+<div align=center style="width: 352; height: 20"><font ; font color=000000></font></div></td></tr>
+<tr>
+<td height=28 width=350 class=f1 align=right colspan=2 bgcolor=#94A9BE>
+			<p align=center class=f1><font color=#FFFFFF>请输入您的帐号和密码</font></td>
+</tr>
+<tr>
+<td height=65 width=163 class=f1 align=right bgcolor=#D3DCE4>帐号 Account :</td>
+<td height=65 width=187 class=f1 bgcolor=#D3DCE4>
+<p>&nbsp;<input name=DDDDD size=16 maxlength=26 style=" BACKGROUND-COLOR: rgb(255,255,255); BORDER-BOTTOM: rgb(0,0,0) 1px solid; BORDER-LEFT: rgb(0,0,0) 1px solid; BORDER-RIGHT: rgb(0,0,0) 1px solid; BORDER-TOP: rgb(0,0,0) 1px solid"></p>
+			</td>
+</tr>
+<tr>
+<td height=15 width=163 class=f1 align=right bgcolor=#D3DCE4>密码 Password :</td>
+<td height=15 width=187 class=f1 bgcolor=#D3DCE4>
+			<p>&nbsp;<input type=password name=upass size=16 maxlength=16 style=" BACKGROUND-COLOR: rgb(255,255,255); BORDER-BOTTOM: rgb(0,0,0) 1px solid; BORDER-LEFT: rgb(0,0,0) 1px solid; BORDER-RIGHT: rgb(0,0,0) 1px solid; BORDER-TOP: rgb(0,0,0) 1px solid"></p>
+</td>
+</tr>
+<tr>
+<td height=70 width=350 colspan=2 bgcolor=#D3DCE4><p align=center>
+<input type=submit name=0MKKey value="登录 Login" style=" BACKGROUND-COLOR: rgb(105,130,150); BORDER-BOTTOM: rgb(100,130,160) 1px solid; BORDER-LEFT: rgb(139,141,218) 1px solid; BORDER-RIGHT: rgb(23,24,79) 1px solid; BORDER-TOP: rgb(194,217,227) 1px solid; COLOR: rgb(255,255,255); font-size: 9pt; font-family: Verdana; height: 25; width: 85">&nbsp;&nbsp;&nbsp;
+<input type=reset name=1MKKey value="重置 Reset" style=" BACKGROUND-COLOR: rgb(105,130,150); BORDER-BOTTOM: rgb(23,24,79) 1px solid; BORDER-LEFT: rgb(139,141,218) 1px solid; BORDER-RIGHT: rgb(23,24,79) 1px solid; BORDER-TOP: rgb(194,217,227) 1px solid; COLOR: rgb(255,255,255); font-size: 9pt; font-family: Verdana; height: 25; width: 85"></td>
+<input type="hidden" name="v6ip" value="">
+</tr>
+<tr>
+<td height=28 width=350 colspan=2 bgcolor=#94A9BE>
+<p class=f1 align=center><a href=9.htm><font color=#FFFFFF>修改密码 Edit Pass</font></a></td>
+</tr>
+<tr>
+<td height=51 width=350 bgcolor=#D3DCE4 colspan=2>
+			<p align=center class=f2><font size=1><br>
+</font>&copy; 2003 <a target=_blank href=http://www.doctorcom.com>CITY HOTSPOT</a>. All Rights Reserved.&nbsp;</td></tr>
+</table></center></div></td></tr></table></center></form></body></html>

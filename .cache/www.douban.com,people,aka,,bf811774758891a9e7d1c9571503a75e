@@ -1,0 +1,1948 @@
+status: 200
+content-length: 75809
+content-location: http://www.douban.com/people/aka/
+set-cookie: bid="z4/YJ6B0zdo"; path=/; domain=.douban.com;
+	expires=Thu, 01-Jan-2012 00:00:00 GMT
+expires: Sun, 1 Jan 2006 01:00:00 GMT
+keep-alive: timeout=10
+server: nginx
+connection: keep-alive
+-content-encoding: gzip
+pragma: no-cache
+cache-control: must-revalidate, no-cache, private
+date: Tue, 01 Nov 2011 08:01:39 GMT
+p3p: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+content-type: text/html; charset=utf-8
+
+<!DOCTYPE html>
+<html lang="zh-CN" class="">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+    <title>
+胖胖的大头鱼
+</title>
+    <script> (function(d){var i=function(b,a,c){var e=new Date,f,a=a||30,c=c||"/";e.setTime(e.getTime()+a*864E5);a="; expires="+e.toGMTString();for(f in b)d.cookie=f+"="+b[f]+a+"; path="+c},j=function(b){b+="=";var a,c,e,f=d.cookie.split(";");for(c=0,e=f.length;c<e;c++)if(a=f[c].replace(/^\s+|\s+$/g,""),a.indexOf(b)==0)return a.substring(b.length,a.length).replace(/\"/g,"");return null},h=d.write,k={"douban.com":1,"douban.fm":1,"google.com":1,"googleapis.com":1,"gmaptiles.co.kr":1,"gstatic.com":1,"google-analytics.com":1, "googleadservices.com":1},l=function(b,a){var c=new Image;c.onload=function(){};c.src="http://www.douban.com/j/except_report?kind=ra022&reason="+encodeURIComponent(b)+"&environment="+encodeURIComponent(a)},g=function(b){try{h.call(d,b)}catch(a){h(b)}},m=/<script.*?src\=["']?([^"'\s>]+)/ig,n=/http:\/\/(.+?)\.([^\/]+).+/i;d.writeln=d.write=function(b){var a=m.exec(b),c;a?(c=n.exec(a[1]))?k[c[2]]?g(b):j("hj")!=="tqs"&&(l(a[1],location.href),i({hj:"tqs"},1),setTimeout(function(){location.replace(location.href)}, 50)):g(b):g(b)}})(document); </script>
+
+    
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+    
+    <link href="http://img3.douban.com/css/packed_douban6945416866.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript">var _head_start = new Date();</script>
+    <script type="text/javascript" src="http://img3.douban.com/js/packed_jquery.min9556435062.js"></script>
+    <link href="http://img3.douban.com/css/separation/packed__all9104510074.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="http://img3.douban.com/js/packed_do7035717041.js" data-cfg-autoload="false"></script>
+    <script type="text/javascript" src="http://img3.douban.com/js/packed_douban4131673062.js"></script>
+    <script type="text/javascript" src="http://img3.douban.com/js/separation/packed__all5322393881.js"></script>
+    
+
+
+<link rel="alternate" href="http://www.douban.com/feed/people/aka/interests" type="application/rss+xml" title="胖胖的大头鱼的收藏" />
+
+    <style type="text/css">
+.captcha-input {border-radius:3px;-webkit-border-radius:3px;-moz-border-radius:3px;border:1px solid #B9B9B9;font-size:14px;height:18px;padding:5px;width:95px;}
+.actfromfri img {padding-bottom:16px}
+.actfromfri .event_long {width:70%}
+#user_guide { background: #f8f8f8; color: #666666; padding: 8px 20px; margin: 0 0 40px 0 }
+#user_guide .guide { color: #424242; font-size: 14px }
+#user_guide ol { margin: 20px 30px 20px 50px; padding: 0 }
+#user_guide ol li { list-style-type: none; zoom:1 }
+#user_guide ol li.user-icon form { margin-bottom: 40px; overflow: hidden }
+#user_guide ol li h5 a { color: #006600; font-size: 14px }
+#user_guide ol li h5 a:hover { background: none; color: #005500 }
+#user_guide ol li h5 a:active { background: none; color: #005500 }
+#user_guide ol li.user-icon h5.todo { background: url(http://img3.douban.com/pics/guide_step_icon.gif) no-repeat left top }
+#user_guide ol li.user-icon h5.done { background: url(http://img3.douban.com/pics/guide_step_icon.gif) no-repeat left -22px }
+#user_guide ol li.user-intro h5.todo { background: url(http://img3.douban.com/pics/guide_step_icon.gif) no-repeat left -44px }
+#user_guide ol li.user-intro h5.done { background: url(http://img3.douban.com/pics/guide_step_icon.gif) no-repeat left -66px }
+#user_guide ol li h5 { color: #666666; font-size: 14px; line-height: 22px; padding-left: 30px; margin: 5px 0 ; zoom:1}
+#user_guide ol li h5 span { padding-right: 25px; background: url(http://img3.douban.com/pics/icon/icon-ok-g.gif) no-repeat right center }
+#user_guide ol li form { display: none;padding-left: 30px }
+#user_guide ol li textarea { width: 270px; height: 90px; border-radius: 3px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border: 1px solid #c0c0c0; margin: 15px 0 0 0}
+#user_guide #preview-icon-l { float: left; margin: 10px 10px 10px 0 }
+#user_guide #preview-icon {  margin: 10px 10px 10px 0; float: left }
+.bn-flat { display:-moz-inline-box;display:inline-block;border-width:1px;border-style:solid;border-color:#d9d9d9 #ccc #c9c9c9;*display:inline;*zoom:1;border-radius:4px;-moz-border-radius:4px;-webkit-border-radius:4px;overflow:hidden;vertical-align:middle; }
+.bn-flat:hover { border-color: #c9c9c9; }
+.bn-flat input { border:none;height:25px;padding:0 8px;color:#333;background:transparent url(http://img1.douban.com/pics/site/sp_all_4.png) repeat-x 0 -700px\9;outline:none;font-size:12px;*padding:3px 8px 0;margin:0 !important;cursor:pointer; border-radius:2px;-moz-border-radius:2px;-webkit-border-radius:2px; background-image: -moz-linear-gradient(-90deg, #ffffff 50%, #e9e8e8 100%); background-image: -webkit-gradient(linear,left top,left bottom, color-stop(0.5, #ffffff), color-stop(1, #e9e8e8)); }
+.bn-flat input:hover { color:#333 !important;background-color:transparent !important;background-position: 1px -706px\9; background-image: -moz-linear-gradient(-90deg, #f5f5f5 40%, #dedede 100%); background-image: -webkit-gradient(linear,left top,left bottom, color-stop(0.4, #f5f5f5), color-stop(1, #dedede)); }
+.bn-flat input:active { background:#ebebeb !important; }
+
+@media all and (min-width:0px) {
+    .bn-flat input { background:transparent url(http://img1.douban.com/pics/site/sp_all_4.png) repeat-x 0 -700px; }
+    .bn-flat input:hover { background-position: 1px 706px; }
+}
+p.error , span.error { color: #ff0000 }
+p.tips { margin: 0; padding: 5px 0 12px 0 }
+
+/* dialog: donate  */
+#dialog { padding:0; }
+.dlg-hd { position:relative;padding:10px;background:#EBF5EB; }
+.dlg-hd h3 { height:auto;color:#060;background:none; }
+.bn-dlg-close { position:absolute;right:20px;top:10px; }
+a.bn-dlg-close:link, a.bn-dlg-close:visited { color:#b4b4b4; }
+a.bn-dlg-close:hover, a.bn-dlg-close:active { color:#fab0b6;background-color:transparent; }
+
+/* shuo_widget */
+
+#shuo-widget { color:#505050; margin-bottom:35px; }
+
+#shuo-widget .body .state { padding:10px 0; text-align:center; }
+#shuo-widget .body .item { padding:5px 0; border-bottom:1px solid #f0f0f0; }
+#shuo-widget .body .item a.people { color:#505050 }
+#shuo-widget .body .item a.people:hover { color:white; background-color:#505050; }
+#shuo-widget .body .item .text,
+#shuo-widget .body .item .attachment,
+#shuo-widget .body .item .ft { font-size:12px; word-wrap:break-word; }
+#shuo-widget .body .item .ft { color:#999; }
+#shuo-widget .body .item .ft a { color:#bbb; }
+#shuo-widget .body .item .ft a:hover { color:white; background-color:#bbb; }
+
+
+</style>
+    <script type="text/javascript"> 
+
+
+    
+    Douban.init_usr_donate = function(o) {
+      var donateUrl = $(o).attr('href'), 
+      dlgWidth = 420, 
+      dlgContent = '<div class="dlg-hd"><h3>{TITLE}</h3><a href="#" class="bn-dlg-close">x</a></div><iframe id="ifm-donate" src="' + donateUrl + '" frameborder="0" width="' + dlgWidth + '" height="230" scrolling="no">', 
+      handleClick = function(e){
+        e.preventDefault();
+        show_dialog(dlgContent.replace('{TITLE}', '送小豆给' + this.getAttribute('data-user')), dlgWidth);
+        $('#dialog .bn-dlg-close').click(handleCloseClick);
+        return false;
+      },
+      handleCloseClick = function(e){
+        e.preventDefault();
+        close_dialog();
+      };
+      $(o).click(handleClick);
+    };
+
+ </script>
+
+    <link rel="shortcut icon" href="http://img3.douban.com/favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <script type="text/javascript">var _body_start = new Date();</script>
+    
+    
+
+<div class="top-nav">
+  <div class="bd">
+    
+
+
+
+
+
+<div class="top-nav-info">
+    <a href="http://www.douban.com/accounts/login" rel="nofollow">登录</a>
+    <a href="http://www.douban.com/accounts/register">注册</a>
+</div>
+
+
+    <div class="top-nav-items">
+        <ul>
+                
+                    
+                    <li class="on">
+                    <a href="http://www.douban.com/">豆瓣社区</a>
+                    </li>
+                
+                    
+                    <li>
+                    <a href="http://book.douban.com/">豆瓣读书</a>
+                    </li>
+                
+                    
+                    <li>
+                    <a href="http://movie.douban.com/">豆瓣电影</a>
+                    </li>
+                
+                    
+                    <li>
+                    <a href="http://music.douban.com/">豆瓣音乐</a>
+                    </li>
+                
+                    
+                    <li>
+                    <a href="http://www.douban.com/location/">豆瓣同城</a>
+                    </li>
+                
+                    
+                    <li>
+                    <a href="http://douban.fm/" target="_blank">豆瓣FM</a>
+                    </li>
+                
+                    <li class="top-nav-more">
+                        <div class="top-nav-more-items">
+                            <a href="#more" class="more">更多 <span class="arrow">&nbsp;</span>&nbsp;</a>
+                            <ul>
+                            
+                            <li><a href="http://9.douban.com" target="_blank">九点</a></li>
+                            
+                            <li><a href="http://alphatown.com" target="_blank">阿尔法城</a></li>
+                            </ul>
+                        </div>
+                    </li>
+        </ul>
+    </div>
+  </div>
+</div>
+<script>
+Do(function(){
+    var more = $('.top-nav-more a.more').click(function(e){
+      e.preventDefault();
+      var el = $(e.currentTarget), p = el.parent(); 
+      p.toggleClass('on');
+      return false;
+    });
+    $('body').click(function(){
+      more.parent().removeClass('on');
+    });
+});
+</script>
+
+
+    <div id="wrapper">
+        
+<div id="header">
+    
+
+
+<div id="db-nav-main" class="site-nav">
+    <div class="site-nav-logo">
+      <a href="http://www.douban.com">
+          <img src="http://img3.douban.com/pics/nav/lg_main_a7.png" alt="豆瓣">
+       <em>首页</em>
+      </a>
+    </div>
+
+
+    <div class="bd">
+    <div class="nav-srh">
+        <form name="ssform" method="get" action="http://www.douban.com/search">
+            <div class="inp">
+                <span><input name="search_text" type="text" title="成员、小组、音乐人、主办方" size="22" maxlength="60" value=""/></span>
+                <span><input class="bn-srh" type="submit" value="搜索"/></span>
+            </div>
+        </form>
+    </div>
+    <script type="text/javascript">
+        Do = (typeof Do === 'undefined')? $ : Do;
+        Do(function(){
+            $("form[name=ssform]").submit(function(){
+                if($("input[name=search_text]").val()==="成员、小组、音乐人、主办方"){
+                    return false;
+                }
+            })
+        })
+    </script>
+
+    <div class="site-nav-items">
+        <ul>
+             
+                     <li><a href="http://www.douban.com">首页</a></li>
+             
+             
+             
+             
+                     <li><a href="http://www.douban.com/explore/">浏览发现</a></li>
+        </ul>
+    </div>
+    </div>
+    <div class="ext"></div>
+</div>
+<script>
+setTimeout(function(){
+    $('#db-nav-main .nav-srh form').prettyField();
+    $('#db-nav-main .guide a.close').click(function(e) {
+        e.preventDefault();
+        $.post_withck('/j/accounts/hidetip',{kind: $(this).next().val()}, function(r){});
+        $(this).parent().fadeOut('normal');
+    });
+}, 0);
+</script>
+
+</div>
+
+        
+    <div id="content">
+    
+
+    <div class="grid-16-8 clearfix">
+        
+        <div class="article">
+
+
+
+
+<div id="db-usr-profile">
+<div class="pic">
+    <a href="http://www.douban.com/people/aka/">
+        <img src="http://img3.douban.com/icon/u1057620-40.jpg" alt="胖胖的大头鱼"/>
+    </a>
+</div>
+<div class="info">
+    <h1>
+        胖胖的大头鱼
+            
+    
+        <span id="display" class="pl">(￣ヘ￣)</span>
+
+    </h1>
+    
+    <ul>
+            <li><a href="http://www.douban.com/people/aka/notes">日记</a></li>
+            <li><a href="http://www.douban.com/people/aka/photos">相册</a></li>
+            <li><a href="http://www.douban.com/people/aka/recs">推荐</a></li>
+            <li><a href="http://www.douban.com/people/aka/likes">喜欢</a></li>
+            <li><a href="http://www.douban.com/people/aka/miniblogs">广播</a></li>
+            <li><a href="http://www.douban.com/people/aka/deals/">二手</a></li>
+            <li><a href="http://www.douban.com/people/aka/doulists">豆列</a></li>
+            <li><a href="http://www.douban.com/people/aka/board">留言板</a></li>
+    </ul>
+
+</div>
+</div>
+<div class="clear"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        <div class="" id="minisite">
+        
+
+
+
+
+
+
+
+        
+        
+    <h2>
+        胖胖的大头鱼喜欢的小站
+         &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+            <span class="pl">&nbsp;(
+                <a href="http://www.douban.com/people/aka/minisite">全部</a>
+            ) </span>
+    </h2>
+
+    <div style="width:590px">
+        <div class="photoin"><a href="http://site.douban.com/110159/" class="artist_photo nbg">
+                    <img src="http://img1.douban.com/view/site/median/public/e58046ea49f2784.jpg" alt="漫画手札" title="漫画手札" class="artist_s" width="100px" height="100px"/></a>
+                    <div class="ll" style="text-align:center;width:100px"><a href="http://site.douban.com/110159/">漫画手札</a></div></div>
+                    <div class="photoin"><a href="http://site.douban.com/124740/" class="artist_photo nbg">
+                    <img src="http://img3.douban.com/view/site/median/public/684a3c03afe7676.jpg" alt="anusman" title="anusman" class="artist_s" width="100px" height="100px"/></a>
+                    <div class="ll" style="text-align:center;width:100px"><a href="http://site.douban.com/124740/">anusman</a></div></div>
+                    <div class="photoin"><a href="http://site.douban.com/kulu/" class="artist_photo nbg">
+                    <img src="http://img3.douban.com/view/site/median/public/0c36ea788725dd8.jpg" alt="梁晓雪" title="梁晓雪" class="artist_s" width="100px" height="100px"/></a>
+                    <div class="ll" style="text-align:center;width:100px"><a href="http://site.douban.com/kulu/">梁晓雪</a></div></div>
+                    <div class="photoin"><a href="http://site.douban.com/113560/" class="artist_photo nbg">
+                    <img src="http://img3.douban.com/view/site/median/public/f1032d7f6888ce8.jpg" alt="日韩电影通讯社" title="日韩电影通讯社" class="artist_s" width="100px" height="100px"/></a>
+                    <div class="ll" style="text-align:center;width:100px"><a href="http://site.douban.com/113560/">日韩电影通讯社</a></div></div>
+                    <br clear="all"/>
+    
+    </div>
+
+        </div>
+
+        
+        <div class="" id="online">
+        
+
+
+
+
+
+    
+        
+    <h2>
+        胖胖的大头鱼的线上活动
+         &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+            <span class="pl">&nbsp;(
+                <a href="http://www.douban.com/people/aka/online">全部</a>
+            ) </span>
+    </h2>
+
+
+        <div class="citysmr online_event_index" style="width:570px"><ul style="width:600px">
+            
+
+
+<li class="cleanfix block" style="width:275px">
+<div class="title"> <a href="http://www.douban.com/online/10944732/">纪念乔布斯</a> </div>
+<a href="http://www.douban.com/online/10944732/">
+    <img class="actimgs" src="http://img3.douban.com/bpic/o539915.jpg"/></a>
+    <div class="evtdesc">
+        时间：2011年10月19日 周三 - 2011年11月8日 周二<br/>
+        标签：乔布斯 照片 祭奠 <br/>
+        发起人：<a href="http://www.douban.com/people/2153254/">[已注销]</a> <br/>
+        1006人参加 <br/>
+    </div>
+</li>
+
+
+            
+
+
+<li class="cleanfix block" style="width:275px">
+<div class="title"> <a href="http://www.douban.com/online/10938299/">秀一张最能代表你国庆假期的照片</a> </div>
+<a href="http://www.douban.com/online/10938299/">
+    <img class="actimgs" src="http://img3.douban.com/bpic/o533279.jpg"/></a>
+    <div class="evtdesc">
+        时间：2011年10月10日 周一 - 2011年11月9日 周三<br/>
+        标签：收假 照片 摄影 心情 <br/>
+        发起人：<a href="http://www.douban.com/people/aound/">澳兰朵</a> <br/>
+        79人参加 <br/>
+    </div>
+</li>
+
+
+                <div class="clear"></div>
+        </ul></div>
+
+
+
+
+
+
+
+        </div>
+
+        
+        <div class="" id="event">
+        
+
+
+
+
+
+
+    
+    <h2>
+        胖胖的大头鱼的同城活动
+         &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+            <span class="pl">&nbsp;(
+                <a href="http://www.douban.com/people/aka/event?g=a">41个参加</a>&nbsp;&middot;&nbsp;<a href="http://www.douban.com/people/aka/event?g=w">200个感兴趣</a>
+            ) </span>
+    </h2>
+
+        <div class="block1" style="margin-bottom:0"><div class="content">
+    <ul class="clearbox"><li class="block clearfix">
+    <div class="title">
+    <a href="http://www.douban.com/event/14327873/" onclick="moreurl(this, {from:''})">my little airport 2011中国六个城市巡演：北京(15/10)</a>
+    </div><a href="http://www.douban.com/event/14327873/" onclick="moreurl(this, {from:''})">
+    <img src="http://img3.douban.com/bpic/e495249.jpg" class="actimgs"/></a>
+    <div class="evtdesc">
+    2011年10月15日 周六 21:00 -  22:30<br/>北京 东城区 鼓楼东大街111号(...<br/>1000人关注<br/>
+    </div></li><li class="block clearfix">
+    <div class="title">
+    <a href="http://www.douban.com/event/13925044/" onclick="moreurl(this, {from:''})">意大利仙音民谣All My Faith Lost ...2011中国巡演</a>
+    </div><a href="http://www.douban.com/event/13925044/" onclick="moreurl(this, {from:''})">
+    <img src="http://img3.douban.com/bpic/e452388.jpg" class="actimgs"/></a>
+    <div class="evtdesc">
+    2011年8月5日 周五 - 2011年8月19日 周五<br/>北京 朝阳区 上海杭州武汉成都...<br/>2754人关注<br/>
+    </div></li><li class="clear"></li></ul></div></div>
+
+        </div>
+
+        
+        <div class="" id="photo">
+        
+
+
+
+
+
+    
+    <h2>
+        胖胖的大头鱼的相册
+         &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+            <span class="pl">&nbsp;(
+                <a href="http://www.douban.com/people/aka/photos">全部</a>
+            ) </span>
+    </h2>
+
+    <div style="width:590px;">
+        <div class="photoin"><a class="nbg" href="http://www.douban.com/photos/album/47007153/" title="豆瓣说上线" alt="豆瓣说上线"><img src="http://img3.douban.com/view/photo/albumicon/public/p955740181.jpg" class="album_s"/></a>
+        <div class="ll pl" style="padding-top:8px;width:138px"><a href="http://www.douban.com/photos/album/47007153/">豆瓣说上线</a><br/>2011-04-19更新</div></div>
+            <div class="photoin"><a class="nbg" href="http://www.douban.com/photos/album/11903437/" title="misc" alt="misc"><img src="http://img3.douban.com/view/photo/albumicon/public/p547426975.jpg" class="album_s"/></a>
+        <div class="ll pl" style="padding-top:8px;width:138px"><a href="http://www.douban.com/photos/album/11903437/">misc</a><br/>2011-02-26更新</div></div>
+            <div class="photoin"><a class="nbg" href="http://www.douban.com/photos/album/32234153/" title="小希2岁" alt="小希2岁"><img src="http://img3.douban.com/view/photo/albumicon/public/p596392181.jpg" class="album_s"/></a>
+        <div class="ll pl" style="padding-top:8px;width:138px"><a href="http://www.douban.com/photos/album/32234153/">小希2岁</a><br/>2010-08-25更新</div></div>
+            <div class="photoin"><a class="nbg" href="http://www.douban.com/photos/album/19968975/" title="小希手术" alt="小希手术"><img src="http://img3.douban.com/view/photo/albumicon/public/p336884480.jpg" class="album_s"/></a>
+        <div class="ll pl" style="padding-top:8px;width:138px"><a href="http://www.douban.com/photos/album/19968975/">小希手术</a><br/>2009-11-10更新</div></div>
+            <div class="clear"></div>
+    </div>
+
+        </div>
+
+        
+        <div class="" id="music">
+        
+
+
+
+
+
+
+
+
+
+
+
+    
+    <h2>
+        胖胖的大头鱼的音乐
+         &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+            <span class="pl">&nbsp;(
+                <a href="http://music.douban.com/people/aka/do">55张在听</a>&nbsp;&middot;&nbsp;<a href="http://music.douban.com/people/aka/wish">54张想听</a>&nbsp;&middot;&nbsp;<a href="http://music.douban.com/people/aka/collect">151张听过</a>
+            ) </span>
+    </h2>
+
+
+
+    
+    
+            <div class=obssin>
+                <div class="substatus">在听</div>
+                <ul><li class="aob"><a href="http://music.douban.com/subject/1394988/" title="Simple Plan - Still Not Getting Any..."><img src="http://img3.douban.com/spic/s2654933.jpg" class="climg" alt="Simple Plan - Still Not Getting Any..."/></a></li>
+            <li class="aob"><a href="http://music.douban.com/subject/3533452/" title="Green Day - 21st Century Breakdown"><img src="http://img3.douban.com/spic/s3727625.jpg" class="climg" alt="Green Day - 21st Century Breakdown"/></a></li>
+            <li class="aob"><a href="http://music.douban.com/subject/4140244/" title="James Horner - Avatar"><img src="http://img3.douban.com/spic/s4095885.jpg" class="climg" alt="James Horner - Avatar"/></a></li>
+            <li class="aob"><a href="http://music.douban.com/subject/4151636/" title="Susan Boyle - I Dreamed a Dream"><img src="http://img3.douban.com/spic/s4066355.jpg" class="climg" alt="Susan Boyle - I Dreamed a Dream"/></a></li>
+            <li class="aob"><a href="http://music.douban.com/subject/4138573/" title="My little airport - 介乎法國與旺角的詩意"><img src="http://img3.douban.com/spic/s4057285.jpg" class="climg" alt="My little airport - 介乎法國與旺角的詩意"/></a></li>
+            </ul>
+            <div class="clear"></div></div>
+        
+    
+            <div class=obssin>
+                <div class="substatus">想听</div>
+                <ul><li class="aob"><a href="http://music.douban.com/subject/6531603/" title="ensignculture - 古典历程"><img src="http://img3.douban.com/spic/s6609429.jpg" class="climg" alt="ensignculture - 古典历程"/></a></li>
+            <li class="aob"><a href="http://music.douban.com/subject/3023270/" title="顾嘉辉 Joseph Koo - 英雄本色"><img src="http://img3.douban.com/spic/s2985017.jpg" class="climg" alt="顾嘉辉 Joseph Koo - 英雄本色"/></a></li>
+            <li class="aob"><a href="http://music.douban.com/subject/6037894/" title="Erica Mou - E'"><img src="http://img3.douban.com/spic/s4676539.jpg" class="climg" alt="Erica Mou - E'"/></a></li>
+            <li class="aob"><a href="http://music.douban.com/subject/3396807/" title="Matt Berry - Opium"><img src="http://img3.douban.com/spic/s3517752.jpg" class="climg" alt="Matt Berry - Opium"/></a></li>
+            <li class="aob"><a href="http://music.douban.com/subject/4870431/" title="Hans Zimmer - Inception"><img src="http://img3.douban.com/spic/s4408166.jpg" class="climg" alt="Hans Zimmer - Inception"/></a></li>
+            </ul>
+            <div class="clear"></div></div>
+        
+    
+
+
+
+
+    <span class="pl">最近喜欢: </span>
+    
+        
+        <a href="http://music.douban.com/subject/1852091/" title="来自Broken Arrow">Hammerhead</a>&nbsp;
+            ,
+        
+        <a href="http://music.douban.com/subject/1764443/" title="来自喜剧之王电影原声大碟">Candy Kisses(国)</a>&nbsp;
+            ,
+        
+        <a href="http://music.douban.com/subject/1456542/" title="来自Pearl Harbor">There You'll Be</a>&nbsp;
+            ,
+        
+        <a href="http://music.douban.com/subject/4870431/" title="来自Inception">One Simple Idea</a>&nbsp;
+    <div class="ul"></div>
+
+        </div>
+
+        
+        <div class="" id="movie">
+        
+
+
+
+
+
+
+
+
+
+
+
+    
+    <h2>
+        胖胖的大头鱼的电影
+         &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+            <span class="pl">&nbsp;(
+                <a href="http://movie.douban.com/people/aka/do">9部在看</a>&nbsp;&middot;&nbsp;<a href="http://movie.douban.com/people/aka/wish">187部想看</a>&nbsp;&middot;&nbsp;<a href="http://movie.douban.com/people/aka/collect">811部看过</a>
+            ) </span>
+    </h2>
+
+
+
+    
+    
+            <div class=obssin>
+                <div class="substatus">想看</div>
+                <ul><li class="aob"><a href="http://movie.douban.com/subject/3401355/" title="大西洋帝国
+
+大西洋帝国 / 海滨帝国"><img src="http://img3.douban.com/spic/s4459755.jpg" class="climg" alt="大西洋帝国"/></a></li>
+            <li class="aob"><a href="http://movie.douban.com/subject/6307281/" title="生活原来是这样的
+
+"><img src="http://img3.douban.com/spic/s5655299.jpg" class="climg" alt="生活原来是这样的"/></a></li>
+            <li class="aob"><a href="http://movie.douban.com/subject/3725324/" title="哈勃望远镜 IMAX 3D
+
+哈勃望远镜 IMAX 3D / 哈勃 3D"><img src="http://img3.douban.com/spic/s4137956.jpg" class="climg" alt="哈勃望远镜 IMAX 3D"/></a></li>
+            <li class="aob"><a href="http://movie.douban.com/subject/6759556/" title="红领巾
+
+红领巾 / Red Scarf"><img src="http://img3.douban.com/spic/s6818445.jpg" class="climg" alt="红领巾"/></a></li>
+            <li class="aob"><a href="http://movie.douban.com/subject/4937405/" title="是，大臣 第一季
+
+是，大臣 第一季 / 遵命，部长 第一季"><img src="http://img3.douban.com/spic/s4479307.jpg" class="climg" alt="是，大臣 第一季"/></a></li>
+            </ul>
+            <div class="clear"></div></div>
+        
+    
+            <div class=obssin>
+                <div class="substatus">看过</div>
+                <ul><li class="aob"><a href="http://movie.douban.com/subject/3570688/" title="IT狂人 第二季
+
+IT狂人 第二季"><img src="http://img3.douban.com/spic/s3625981.jpg" class="climg" alt="IT狂人 第二季"/></a></li>
+            <li class="aob"><a href="http://movie.douban.com/subject/6758119/" title="哈利·波特系列的50个精彩瞬间
+
+哈利·波特系列的50个精彩瞬间 / 哈利·波特系列的50个最伟大瞬间"><img src="http://img3.douban.com/spic/s6831417.jpg" class="climg" alt="哈利·波特系列的50个精彩瞬间"/></a></li>
+            <li class="aob"><a href="http://movie.douban.com/subject/4876722/" title="钢的琴
+
+The Piano in a Factory"><img src="http://img3.douban.com/spic/s6565629.jpg" class="climg" alt="钢的琴"/></a></li>
+            <li class="aob"><a href="http://movie.douban.com/subject/5965670/" title="潜行狙击
+
+潜行狙击"><img src="http://img1.douban.com/spic/s6920024.jpg" class="climg" alt="潜行狙击"/></a></li>
+            <li class="aob"><a href="http://movie.douban.com/subject/3908423/" title="夏日大作战
+
+夏日大作战 / 夏日战争"><img src="http://img3.douban.com/spic/s4072630.jpg" class="climg" alt="夏日大作战"/></a></li>
+            </ul>
+            <div class="clear"></div></div>
+        
+
+
+
+        </div>
+
+        
+        <div class="" id="book">
+        
+
+
+
+
+
+
+
+
+
+
+
+    
+    <h2>
+        胖胖的大头鱼的书
+         &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+            <span class="pl">&nbsp;(
+                <a href="http://book.douban.com/people/aka/do">50本在读</a>&nbsp;&middot;&nbsp;<a href="http://book.douban.com/people/aka/wish">247本想读</a>&nbsp;&middot;&nbsp;<a href="http://book.douban.com/people/aka/collect">233本读过</a>
+            ) </span>
+    </h2>
+
+
+
+    
+    
+            <div class=obssin>
+                <div class="substatus">在读</div>
+                <ul><li class="aob"><a href="http://book.douban.com/subject/6512188/" title="Steve Jobs
+
+"><img src="http://img3.douban.com/spic/s6865108.jpg" class="climg" alt="Steve Jobs"/></a></li>
+            <li class="aob"><a href="http://book.douban.com/subject/6709783/" title="浪潮之巅
+
+"><img src="http://img3.douban.com/spic/s6807265.jpg" class="climg" alt="浪潮之巅"/></a></li>
+            <li class="aob"><a href="http://book.douban.com/subject/6723066/" title="乔布斯传
+
+"><img src="http://img3.douban.com/spic/s6783948.jpg" class="climg" alt="乔布斯传"/></a></li>
+            <li class="aob"><a href="http://book.douban.com/subject/3830729/" title="Country Driving
+
+"><img src="http://img3.douban.com/spic/s4033031.jpg" class="climg" alt="Country Driving"/></a></li>
+            <li class="aob"><a href="http://book.douban.com/subject/2983318/" title="A Clash of Kings (A Song of Ice and Fire, Book 2)
+
+"><img src="http://img3.douban.com/spic/s2959700.jpg" class="climg" alt="A Clash of Kings (A Song of Ice and Fire, Book 2)"/></a></li>
+            </ul>
+            <div class="clear"></div></div>
+        
+    
+            <div class=obssin>
+                <div class="substatus">想读</div>
+                <ul><li class="aob"><a href="http://book.douban.com/subject/6141788/" title="I, Woz
+
+"><img src="http://img1.douban.com/spic/s4843434.jpg" class="climg" alt="I, Woz"/></a></li>
+            <li class="aob"><a href="http://book.douban.com/subject/6860558/" title="一只iPhone的全球之旅
+
+"><img src="http://img3.douban.com/spic/s6968809.jpg" class="climg" alt="一只iPhone的全球之旅"/></a></li>
+            <li class="aob"><a href="http://book.douban.com/subject/3310077/" title="Asian Godfathers
+
+"><img src="http://img3.douban.com/spic/s4242468.jpg" class="climg" alt="Asian Godfathers"/></a></li>
+            <li class="aob"><a href="http://book.douban.com/subject/4852397/" title="视觉之旅
+
+"><img src="http://img3.douban.com/spic/s4380740.jpg" class="climg" alt="视觉之旅"/></a></li>
+            <li class="aob"><a href="http://book.douban.com/subject/1179865/" title="从拍摄到艺术
+
+"><img src="http://img3.douban.com/spic/s1220051.jpg" class="climg" alt="从拍摄到艺术"/></a></li>
+            </ul>
+            <div class="clear"></div></div>
+        
+    
+    
+        <p class="pl"><a href="http://book.douban.com/magazine/list/aka/">&gt; 浏览胖胖的大头鱼看的杂志(6)</a></p>
+
+
+        </div>
+
+        
+        <div class="" id="board">
+        
+
+
+
+
+
+
+        
+    <h2>
+        留言板
+         &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+            <span class="pl">&nbsp;(
+                <a href="http://www.douban.com/people/aka/board">全部</a>
+            ) </span>
+    </h2>
+
+
+    <ul class="mbt"><li class="mbtl"><a href="http://www.douban.com/people/Foodeology/"><img src="http://img3.douban.com/icon/u4587516-19.jpg" alt="为食主义"/></a></li>
+        <li class="mbtrdot"><a href="http://www.douban.com/people/Foodeology/">为食主义</a>: &nbsp; 胖胖大头鱼，我好像总是要来麻烦你。。不什么为什么最近9点不抓RSS了～ TvT &nbsp; &nbsp; <span class="pl">10-21 00:03</span>
+        </li><li class="mbtl"><a href="http://www.douban.com/people/dict/"><img src="http://img3.douban.com/icon/u1116767-19.jpg" alt="路桑"/></a></li>
+        <li class="mbtrdot"><a href="http://www.douban.com/people/dict/">路桑</a>: &nbsp; 我联通3G, 诺基亚E72手机自带浏览器和UC浏览器都是403，访问其他网站包括<a href="http://www.douban.com">www.douban.com</a> 都OK. &nbsp; &nbsp; <span class="pl">10-18 21:09</span>
+        </li><li class="mbtl"><a href="http://www.douban.com/people/withoutbe/"><img src="http://img3.douban.com/icon/user_normal.jpg" alt="withoutbe"/></a></li>
+        <li class="mbtrdot"><a href="http://www.douban.com/people/withoutbe/">withoutbe</a>: &nbsp; 因为我回了那个产品经理薪资的我说？我不是豆瓣内部人员...jojo当年那个风波里知道的~ &nbsp; &nbsp; <span class="pl">09-15 10:51</span>
+        </li><li class="mbtl"><a href="http://www.douban.com/people/sonneblume/"><img src="http://img3.douban.com/icon/u2404538-172.jpg" alt="苏不西"/></a></li>
+        <li class="mbtrdot"><a href="http://www.douban.com/people/sonneblume/">苏不西</a>: &nbsp; 你在测试啊？ &nbsp; &nbsp; <span class="pl">09-06 15:55</span>
+        </li><li class="mbtl"><a href="http://www.douban.com/people/joearde/"><img src="http://img3.douban.com/icon/u1015534-9.jpg" alt="阿德"/></a></li>
+        <li class="mbtrdot"><a href="http://www.douban.com/people/joearde/">阿德</a>: &nbsp; 新婚快乐，百年好合！ &nbsp; &nbsp; <span class="pl">06-13 12:09</span>
+        </li></ul>
+
+        </div>
+
+        
+        <div class="" id="like">
+        
+
+
+
+
+
+
+    
+    <h2>
+        <img src="http://img3.douban.com/pics/red-heart.gif" width="13" height="13">
+        胖胖的大头鱼喜欢
+         &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+            <span class="pl">&nbsp;(
+                <a href="http://www.douban.com/people/aka/favorites">全部</a>
+            ) </span>
+    </h2>
+
+    
+    <ul class="bs">
+       
+            <li>
+             <span class="time">3天前</span>
+             <a href="http://site.douban.com/widget/notes/4665673/note/179845136/">樱花</a>
+            </li>
+       
+            <li>
+             <span class="time">3天前</span>
+             <a href="http://site.douban.com/widget/notes/3527805/note/156641155/">迷幻列车</a>
+            </li>
+       
+            <li>
+             <span class="time">10天前</span>
+             <a href="http://www.douban.com/photos/photo/632521100/">青岛这座城</a>
+            </li>
+       
+            <li>
+             <span class="time">10天前</span>
+             <a href="http://www.douban.com/photos/photo/632497165/">青岛这座城</a>
+            </li>
+       
+            <li>
+             <span class="time">10天前</span>
+             <a href="http://www.douban.com/photos/photo/1219001756/">意难忘</a>
+            </li>
+    </ul>
+    <div class="clear"></div>
+
+        </div>
+
+        
+        <div class="" id="review">
+        
+
+
+
+
+
+
+
+    
+        
+    <h2>
+        胖胖的大头鱼的评论
+         &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+            <span class="pl">&nbsp;(
+                <a href="http://www.douban.com/people/aka/reviews">全部</a>
+            ) </span>
+    </h2>
+
+                    
+    <ul class="tlst">
+    <li class="pl2 clst"><a title="一本很经典的统计学小册子" href="http://book.douban.com/review/1078401/" class="" >一本很经典的统计学小册子</a></li><li class="ilst" style="clear:both;">
+        <a href="http://book.douban.com/subject/1100657/" title="统计陷阱"><img src="http://img3.douban.com/spic/s1084707.jpg" class="fil" alt="统计陷阱"/></a>
+        <li class="clst"><span class="pl ll obss"><span class="starb"> <a href="http://www.douban.com/people/aka/">胖胖的大头鱼</a>(￣ヘ￣) &nbsp;评论: <a href="http://book.douban.com/subject/1100657/">统计陷阱</a></span><span class="stars4 stars" title="推荐"></span></span><br/><div id='review_1078401_short' style="margin-top:8px;"><span class="pl">提示：评论里有关键情节透露</span><br/>
+        <br/>&gt; <a id="sau-1078401" href="http://book.douban.com/review/1078401/" />没关系，可以显示全文。</a></div><div id="review_1078401_full" style="display:none"></div>
+    </li>
+    </ul>
+    <div class="clear"></div>
+    
+                    
+    <ul class="tlst">
+    <li class="pl2 clst"><a title="Andrew同学扬名的老书" href="http://book.douban.com/review/1078317/" class="" >Andrew同学扬名的老书</a></li><li class="ilst" style="clear:both;">
+        <a href="http://book.douban.com/subject/1102097/" title="C陷阱与缺陷"><img src="http://img1.douban.com/spic/s1157174.jpg" class="fil" alt="C陷阱与缺陷"/></a>
+        <li class="clst"><span class="pl ll obss"><span class="starb"> <a href="http://www.douban.com/people/aka/">胖胖的大头鱼</a>(￣ヘ￣) &nbsp;评论: <a href="http://book.douban.com/subject/1102097/">C陷阱与缺陷</a></span><span class="stars5 stars" title="力荐"></span></span><br/><div id='review_1078317_short' style="margin-top:8px;">这个可是Andrew Koenig同志扬名已久的一本书.可真的是扬名太久了,这本书居然是出版在ANSI C制订以前,真是汗阿.以至于书中居然...... <a class="pl" href="http://book.douban.com/review/1078317/" >(5回应)</a></div><div id="review_1078317_full" style="display:none"></div>
+    </li>
+    </ul>
+    <div class="clear"></div>
+    
+
+        </div>
+
+        
+        <div class="" id="group">
+        
+
+
+
+
+
+
+        
+    <h2>
+        胖胖的大头鱼参加的小组(153)
+         &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+            <span class="pl">&nbsp;(
+                <a href="http://www.douban.com/people/aka/groups">全部</a>
+            ) </span>
+    </h2>
+
+    <dl class="ob"><dt><a  href="http://www.douban.com/group/sichuanren/"><img src="http://img3.douban.com/icon/g43610-1.jpg" class="m_sub_img" alt="四川人在北京"/></a></dt>
+        <dd><a  href="http://www.douban.com/group/sichuanren/">四川人在北京</a> <span>(347)</span>
+        </dd></dl><dl class="ob"><dt><a  href="http://www.douban.com/group/dbapi/"><img src="http://img3.douban.com/icon/g76728-1.jpg" class="m_sub_img" alt="豆瓣 API"/></a></dt>
+        <dd><a  href="http://www.douban.com/group/dbapi/">豆瓣 API</a> <span>(14866)</span>
+        </dd></dl><dl class="ob"><dt><a  href="http://www.douban.com/group/appleipad/"><img src="http://img3.douban.com/icon/g214983-2.jpg" class="m_sub_img" alt="iPad"/></a></dt>
+        <dd><a  href="http://www.douban.com/group/appleipad/">iPad</a> <span>(5292)</span>
+        </dd></dl><dl class="ob"><dt><a  href="http://www.douban.com/group/douban_mobile/"><img src="http://img3.douban.com/icon/g208313-3.jpg" class="m_sub_img" alt="豆瓣移动应用"/></a></dt>
+        <dd><a  href="http://www.douban.com/group/douban_mobile/">豆瓣移动应用</a> <span>(6170)</span>
+        </dd></dl><dl class="ob"><dt><a  href="http://www.douban.com/group/fans/"><img src="http://img3.douban.com/icon/g10001-1.jpg" class="m_sub_img" alt="豆瓣fans"/></a></dt>
+        <dd><a  href="http://www.douban.com/group/fans/">豆瓣fans</a> <span>(8492)</span>
+        </dd></dl><dl class="ob"><dt><a  href="http://www.douban.com/group/fangzi/"><img src="http://img3.douban.com/icon/g17261-1.jpg" class="m_sub_img" alt="豆瓣租房小组"/></a></dt>
+        <dd><a  href="http://www.douban.com/group/fangzi/">豆瓣租房小组</a> <span>(67840)</span>
+        </dd></dl><dl class="ob"><dt><a  href="http://www.douban.com/group/macintosh/"><img src="http://img3.douban.com/icon/g10004-1.jpg" class="m_sub_img" alt="苹果迷"/></a></dt>
+        <dd><a  href="http://www.douban.com/group/macintosh/">苹果迷</a> <span>(48812)</span>
+        </dd></dl><dl class="ob"><dt><a  href="http://www.douban.com/group/douban_radio/"><img src="http://img3.douban.com/icon/g189241-5.jpg" class="m_sub_img" alt="豆瓣电台"/></a></dt>
+        <dd><a  href="http://www.douban.com/group/douban_radio/">豆瓣电台</a> <span>(31847)</span>
+        </dd></dl><dl class="ob"><dt><a  href="http://www.douban.com/group/Pylons/"><img src="http://img3.douban.com/icon/g40593-1.jpg" class="m_sub_img" alt="Pylons"/></a></dt>
+        <dd><a  href="http://www.douban.com/group/Pylons/">Pylons</a> <span>(452)</span>
+        </dd></dl><dl class="ob"><dt><a  href="http://www.douban.com/group/db9d/"><img src="http://img3.douban.com/icon/g203104-9.jpg" class="m_sub_img" alt="豆瓣九点。"/></a></dt>
+        <dd><a  href="http://www.douban.com/group/db9d/">豆瓣九点。</a> <span>(1748)</span>
+        </dd></dl><dl class="ob"><dt><a  href="http://www.douban.com/group/grd/"><img src="http://img3.douban.com/icon/g22529-2.jpg" class="m_sub_img" alt="GRD Fans Club"/></a></dt>
+        <dd><a  href="http://www.douban.com/group/grd/">GRD Fans Club</a> <span>(3368)</span>
+        </dd></dl><dl class="ob"><dt><a  href="http://www.douban.com/group/aka/"><img src="http://img3.douban.com/icon/g51332-1.jpg" class="m_sub_img" alt="aka"/></a></dt>
+        <dd><a  href="http://www.douban.com/group/aka/">aka</a> <span>(1)</span>
+        </dd></dl><dl class="ob"><dt><a  href="http://www.douban.com/group/doubanUE/"><img src="http://img3.douban.com/icon/g236647-2.jpg" class="m_sub_img" alt="批评豆瓣的用户体验"/></a></dt>
+        <dd><a  href="http://www.douban.com/group/doubanUE/">批评豆瓣的用户体验</a> <span>(994)</span>
+        </dd></dl><dl class="ob"><dt><a  href="http://www.douban.com/group/emacs/"><img src="http://img3.douban.com/icon/g10133-1.jpg" class="m_sub_img" alt="Emacs"/></a></dt>
+        <dd><a  href="http://www.douban.com/group/emacs/">Emacs</a> <span>(2091)</span>
+        </dd></dl>
+    <div class="clear"></div>
+
+        </div>
+
+        
+        <div class="" id="host">
+        
+
+
+
+
+
+
+
+        </div>
+
+        
+        <div class="" id="blog">
+        
+
+
+
+
+
+
+
+        </div>
+
+
+
+
+
+
+
+</div>
+        <div class="aside">
+            
+
+
+    
+
+
+
+
+
+
+
+<div id="profile">
+
+
+<div class="infobox">
+    <div class="ex1"><span></span></div>
+    <div class="bd">
+    <img src="http://img3.douban.com/icon/ul1057620-40.jpg" class="userface" alt="" />
+
+<div class="user-info">
+
+常居:&nbsp;<a href="http://beijing.douban.com">北京</a><br />
+
+<div class="pl">aka <br/> 2005-12-01加入</div>
+
+    
+
+
+
+
+
+
+
+
+
+<div class="user-opt">
+   <a href="#" class="a-btn-add mr10 j a_show_login">关注此人</a>
+   <a class="a-btn mr5 j a_show_login" rel="nofollow" href="/accounts/register?reason=send-doumail">发豆邮</a>
+
+</div>
+
+
+
+
+</div>
+
+
+<div class="sep-line"></div>
+<div class="user-intro">
+
+    <span class="pl">所属部落: <a href="http://www.douban.com/tribe/10/">壹零</a></span><br/>
+
+
+
+
+
+
+
+    
+
+
+
+    
+    <div id="edit_intro"  class="j edtext pl">
+        <span id="intro_display" >blog地址：<a href="http://about.me/pengyu" target="_blank" rel="nofollow">http://about.me/pengyu</a><br />IT行业，喜好电影，文字白痴。<br /></span>
+        
+        <form style="display: none;" action="/j/people/aka/edit_intro"
+            name="edit_intro" mothod="post">
+            <textarea name="intro" >blog地址：http://about.me/pengyu
+IT行业，喜好电影，文字白痴。
+</textarea><br/>
+            <input id="intro_submit" class="submit" type="submit" value="保存" />
+            <input id="intro_cancel" class="cancel" type="button" value="取消" />
+        </form>
+
+        <span id="intro_error" class="attn" style="display: none;"></span>
+    </div>
+
+</div>
+
+</div>
+    <div class="ex2"><span></span></div>
+</div>
+
+
+</div>
+
+
+
+
+<script src="http://img3.douban.com/js/jquery_plugin/packed_jquery.elastic1813004923.js"></script>
+<script>
+
+
+$(function(){
+    var intro_form = $('form[name="edit_intro"]')[0];
+    var intro_error = $('#intro_error');
+    var intro_disp = $('#intro_display');
+    var intro_action = $('#intro_disp_act');
+    var intro_action_a = $('#intro_disp_act a');
+    var intro_textarea = $('textarea[name="intro"]');
+    var intro_submit = $('#intro_submit');
+    var intro_cancel = $('#intro_cancel');
+
+    var introShow = function(t){
+            if(t != undefined){
+                intro_disp.html(t);
+                if (intro_disp.text() === ''){
+                    intro_action_a.text('添加自我介绍');
+                }else{
+                    intro_action_a.text('编辑');
+                };
+            }
+            $(intro_form).hide();
+            intro_disp.show();
+            intro_action.show();
+            intro_error.css('display', 'none');
+        }
+
+    var myEnableForm = function(){
+        $(intro_form).attr('disabled', 0);
+        $(intro_form).children('input,textarea').attr('disabled', 0);
+        intro_textarea.focus();
+    }
+    
+    intro_textarea.elastic();
+    
+    $(intro_form).submit(function(e){
+        e.preventDefault();
+        remote_submit_json(intro_form, function(r){
+            if (r.r === '0') {
+                introShow( r.intro );
+                intro_error.css('display', 'none');
+                intro_disp.css('font-style', 'normal');
+            } else {
+                intro_error.text(r.error);
+                intro_error.css('display', 'inline');
+                myEnableForm();
+            }
+        });
+        return false;
+    });
+    
+    intro_cancel.click(function(e){
+        e.preventDefault();
+        $(intro_form).hide();
+        intro_disp.show();
+        intro_action.show();
+        intro_error.css('display', 'none');
+    });
+
+    intro_action_a.click(function(e){
+        e.preventDefault();
+        intro_disp.hide();
+        intro_action.hide();
+        $(intro_form).show();
+
+        myEnableForm();
+        intro_textarea.elastic();
+    });
+
+});
+
+
+</script>
+
+
+    
+
+
+
+
+
+
+
+
+    <div class="clear"></div>
+
+    
+
+    <h2>
+        胖胖的大头鱼的豆瓣说&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+        <span class="pl">&nbsp;(<a target="_blank" href="http://shuo.douban.com/#!/aka">全部</a>)</span>
+    </h2>
+    
+
+
+
+
+
+<script id="shuo-widget-item" type="text/template">
+    <li class="item">
+        <div class="text">
+            {{html shuoText}}
+        </div>
+    	<div class="attachment">
+            <a href="{{= attachmentShortURL}}" target="_blank" title="{{= attachmentURL}}">{{= attachmentTitle}}</a>
+    	</div>
+        <div class="ft">
+            <a href="{{= shuoURL}}" class="time-stamp" target="_blank">{{= shuoTimeStamp}}</a>
+            &middot;
+            <a href="{{= shuoURL}}" target="_blank">{{if commentsCount}}{{= commentsCount}}{{/if}}回复</a>
+        </div>
+    </li>
+</script>
+
+<div id="shuo-widget">
+	<div class="body">
+		<ul></ul>
+        <div class="state"></div>
+	</div>
+</div>
+
+<script id="tmpl-user-mentions" type="text/template">
+    <a href="http://shuo.douban.com/#!/{{= uid}}" target="_blank" title="{{= screen_name}} (@{{= uid}})">{{= screen_name}}</a>
+</script>
+<script id="tmpl-urls" type="text/template">
+    <a href="{{= url}}" title="{{= expanded_url}}" target="_blank">{{= expanded_url}}</a>
+</script>
+<script id="tmpl-topics" type="text/template">
+    <a href="http://shuo.douban.com/#!/topics/{{= encoded_text}}" target="_blank" >{{= text}}</a>
+</script>
+<script type="text/javascript">
+    Do.add('template',{path: 'http://img3.douban.com/js/lib/packed_jquery.tmpl2124361866.js', type: 'js'});
+    Do('template',function() {
+        var TMPL_TL_ITEM = $.template(null, $('#shuo-widget-item').html()),
+        shuoWidget = $('#shuo-widget');
+
+        shuoWidget.find('.state').text('加载中...');
+
+        //error handling
+        var cbSuccess = false;
+        setTimeout(function() {
+            if ( !cbSuccess ) {
+                shuoWidget.find('.state').text('加载超时啦，刷新重试一下');       
+            }
+        },6000);
+
+        $.ajax({
+            dataType: 'jsonp',
+            url: 'http://www.douban.com/shuo/!service/widgets/user_timeline/1057620?count=5&alt=xd&reshared=0',
+            jsonp: false, 
+            jsonpCallback: 'cb',
+            success: renderTimeline
+        });
+
+        function renderTimeline(data) {
+            cbSuccess = true;
+
+            var id = 'aka',
+                url = 'http://shuo.douban.com/#!/' + id,
+                name = '胖胖的大头鱼',
+                i = 0,
+                length = data.length,
+                shuoInfo = [],
+                item;
+
+            for ( i=0;i<length;i++ ) {
+                item = data[i];
+
+                if ( item.reshared_status !== undefined ) {
+                // 转发的不放进去
+                    continue;
+                } else {
+                    shuoInfo.push({
+                        //common parts
+                        profileURL: url,
+                        profileName: name,
+                        shuoText: extractText(item.text, item.entities) || '推荐',
+                        shuoURL: 'http://shuo.douban.com/#!/' + id + '/status/' + item.id,
+                        shuoTimeStamp: getTimestamp(item.created_at), 
+                        commentsCount: item.comments_count,
+
+                        //different parts
+                        // item.attachments[0] acts as guardian value, if there's no attachments, it will be left as empty
+                        attachmentShortURL: item.attachments[0] && ( item.attachments[0].href ||'http://shuo.douban.com/#!/' + id + '/status/' + item.id ),
+                        attachmentURL: item.attachments[0] && item.attachments[0].expanded_href,
+                        // if attachments[0].title is empty, this item must be a uploaded image
+                        attachmentTitle: item.attachments[0] && ( item.attachments[0].title || '查看图片')
+                    });
+                }
+            }
+            //end of for loop
+            $.tmpl(TMPL_TL_ITEM, shuoInfo).appendTo('#shuo-widget .body>ul');
+
+            shuoWidget.find('.state').remove();
+
+        }
+        
+        function getCurrentTime () {
+            var d = new Date(),
+                localTime = d.getTime(),
+                localOffset = d.getTimezoneOffset()*60000,
+                utc = localTime + localOffset,
+                offset = +8,
+                time = utc + (3600000*offset),
+                today = new Date(time),
+                year = today.getFullYear(), 
+                month = today.getMonth()+1, 
+                date = today.getDate(), 
+                hour = today.getHours(), 
+                minute = today.getMinutes(), 
+                second = today.getSeconds(); 
+            return year + "-" + month + "-" + date + " " + hour + ":" + minute + ":" + second;
+        }
+        function getTimestamp (date) {
+            var now = getCurrentTime(), 
+                d = date.split(" "),
+                n = now.split(" "),
+                dd = d[0].split("-"),
+                nn = n[0].split("-"),
+                diff,hs,ms,ss;
+
+            d = dd[1] + "/" + dd[2] + "/" + dd[0] + " " + d[1]; //转化为标准时间格式(月/日/年 时:分:秒)
+            n = nn[1] + "/" + nn[2] + "/" + nn[0] + " " + n[1]; //转化为标准时间格式(月/日/年 时:分:秒)
+            diff = Date.parse(n)-Date.parse(d);
+            ss = Math.ceil(diff / 3000);
+            ms = Math.floor(diff / 60000);
+            hs = Math.floor(diff / 3600000);
+
+            if (ss === 0 ) {
+                return '刚刚';
+            } else if (ss < 60){
+                return ss + '秒前';
+            } else if (ms < 60){
+                return ms + '分钟前';
+            } else if (hs < 24){
+                return hs + '小时前';
+            } else if (dd[0] === nn[0] ) {
+                d = date.split(' ')[1];
+                return dd[1].replace(/^0*/, "") + '月' + dd[2].replace(/^0*/, "") + '日 ' + d.substring(0,d.lastIndexOf(':'));
+            }
+            return dd[0] + '年' + dd[1].replace(/^0*/, "") + '月' + dd[2].replace(/^0*/, "") + '日';
+        }
+
+        function encodeURIStr(str){
+            var regexs = new Array(new RegExp('%', 'g'),
+                              new RegExp(',', 'g'),
+                              new RegExp('\/', 'g'),
+                              new RegExp('\\?', 'g'),
+                              new RegExp(':', 'g'),
+                              new RegExp('@', 'g'),
+                              new RegExp('&', 'g'),
+                              new RegExp('=', 'g'),
+                              new RegExp('\\+', 'g'),
+                              new RegExp('\\$', 'g'),
+                              new RegExp('#', 'g')
+              );  
+            var replaces = new Array('%25', '%2C','%2F','%3F','%3A','%40','%26','%3D','%2B','%24','%23');
+            for (var i = 0; i < regexs.length; i++){
+                str = str.replace(regexs[i], replaces[i]);
+            }   
+            return str;
+        }
+
+        function extractText(text,entities) {
+            var urls = entities.urls,
+                user_mentions = entities.user_mentions,
+                topics = entities.topics,
+                all_html = [], 
+                all = [], 
+                ret_text = '', s, e, begin, plaintext;
+
+            $('#tmpl-user-mentions').template('TMPL_UESR_MENTIONS');
+            $('#tmpl-urls').template('TMPL_URLS');
+            $('#tmpl-topics').template('TMPL_TOPICS');
+
+            all = urls.concat(user_mentions);
+            all = all.concat(topics);
+            all.sort(function(a,b){
+                return a['indices'][0] - b['indices'][0];
+            }); 
+
+            //if ( all.length === 0 ) return emoji(text);
+            if ( all.length === 0 ) return text.replace(/\ue335/g, '&#9733;'); 
+
+            for ( var k = 0; k < all.length; k++ ) { 
+                if ( all[k]['uid'] ) { 
+                    all_html[k] = $.tmpl('TMPL_UESR_MENTIONS',all[k]);
+                }   
+                else if ( all[k]['url'] ) { 
+                     all_html[k] = $.tmpl('TMPL_URLS',all[k]);
+                }   
+                else {
+                    all[k]['encoded_text'] = encodeURIStr(all[k]['text'])
+                    all_html[k] = $.tmpl('TMPL_TOPICS',all[k]);
+                }   
+
+
+                begin = k ? e : 0,
+                s = all[k]['indices'][0];
+                e = all[k]['indices'][1];
+                plaintext = text.substring(begin, s).replace(/\ue335/g, '&#9733;');
+                //plaintext = emoji(text.substring(begin, s));
+
+                ret_text = ret_text + plaintext + $('<div></div>').append(all_html[k].clone()).html();
+
+                if( k === all.length - 1) {
+                    ret_text = ret_text + text.substring(e).replace(/\ue335/g, '&#9733;');
+                    //ret_text = ret_text + emoji(text.substring(e));
+                }   
+            }   
+            return ret_text;
+        }
+    });
+</script>
+
+
+
+    
+
+
+
+
+
+
+
+
+<div id="friend">
+
+    <h2>
+        胖胖的大头鱼关注的人
+         &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+            <span class="pl">&nbsp;(
+                <a href="http://www.douban.com/people/aka/contacts">全部688</a>
+            ) </span>
+    </h2>
+
+<dl class="obu" ><dt><a href="http://www.douban.com/people/heybye/" class="nbg"><img src="http://img3.douban.com/icon/u3065569-36.jpg" class="m_sub_img" alt="h"/></a></dt>
+                    <dd><a href="http://www.douban.com/people/heybye/">h</a></dd></dl><dl class="obu" ><dt><a href="http://www.douban.com/people/whymelyu/" class="nbg"><img src="http://img3.douban.com/icon/u4556698-12.jpg" class="m_sub_img" alt="Whyme.Lyu"/></a></dt>
+                    <dd><a href="http://www.douban.com/people/whymelyu/">Whyme.Lyu</a></dd></dl><dl class="obu" ><dt><a href="http://www.douban.com/people/Tony.Lee/" class="nbg"><img src="http://img3.douban.com/icon/u1807702-24.jpg" class="m_sub_img" alt="一点别致"/></a></dt>
+                    <dd><a href="http://www.douban.com/people/Tony.Lee/">一点别致</a></dd></dl><dl class="obu" ><dt><a href="http://www.douban.com/people/cataic/" class="nbg"><img src="http://img3.douban.com/icon/u1109480-32.jpg" class="m_sub_img" alt="mIRAGE"/></a></dt>
+                    <dd><a href="http://www.douban.com/people/cataic/">mIRAGE</a></dd></dl><dl class="obu" ><dt><a href="http://www.douban.com/people/Tigerag/" class="nbg"><img src="http://img3.douban.com/icon/u3828662-6.jpg" class="m_sub_img" alt="空想特摄兔男郎"/></a></dt>
+                    <dd><a href="http://www.douban.com/people/Tigerag/">空想特摄兔男郎</a></dd></dl><dl class="obu" ><dt><a href="http://www.douban.com/people/45110848/" class="nbg"><img src="http://img3.douban.com/icon/u45110848-4.jpg" class="m_sub_img" alt="Emmanuel.Gao"/></a></dt>
+                    <dd><a href="http://www.douban.com/people/45110848/">Emmanuel.Gao</a></dd></dl><dl class="obu" ><dt><a href="http://www.douban.com/people/4677684/" class="nbg"><img src="http://img3.douban.com/icon/u4677684-24.jpg" class="m_sub_img" alt="后射"/></a></dt>
+                    <dd><a href="http://www.douban.com/people/4677684/">后射</a></dd></dl><dl class="obu" ><dt><a href="http://www.douban.com/people/46157850/" class="nbg"><img src="http://img3.douban.com/icon/u46157850-10.jpg" class="m_sub_img" alt="墨芝"/></a></dt>
+                    <dd><a href="http://www.douban.com/people/46157850/">墨芝</a></dd></dl><dl class="obu" ><dt><a href="http://www.douban.com/people/miss.k/" class="nbg"><img src="http://img3.douban.com/icon/u1772290-75.jpg" class="m_sub_img" alt="miss.k"/></a></dt>
+                    <dd><a href="http://www.douban.com/people/miss.k/">miss.k</a></dd></dl><dl class="obu" ><dt><a href="http://www.douban.com/people/MILKUNCLE/" class="nbg"><img src="http://img3.douban.com/icon/u3020712-12.jpg" class="m_sub_img" alt="MILK"/></a></dt>
+                    <dd><a href="http://www.douban.com/people/MILKUNCLE/">MILK</a></dd></dl><dl class="obu" ><dt><a href="http://www.douban.com/people/weichengluanma/" class="nbg"><img src="http://img3.douban.com/icon/u1367110-159.jpg" class="m_sub_img" alt="维城乱马"/></a></dt>
+                    <dd><a href="http://www.douban.com/people/weichengluanma/">维城乱马</a></dd></dl><dl class="obu" ><dt><a href="http://www.douban.com/people/gzi24/" class="nbg"><img src="http://img3.douban.com/icon/u1292323-8.jpg" class="m_sub_img" alt="歌無岸"/></a></dt>
+                    <dd><a href="http://www.douban.com/people/gzi24/">歌無岸</a></dd></dl><br clear="all"/>
+    
+
+
+<p>
+<a href="http://www.douban.com/people/aka/rev_contacts">&gt; 被1388人关注</a>
+</p>
+
+</div>
+
+
+    
+
+    
+
+
+
+
+        
+        <div class="" id="offer">
+        
+
+
+
+
+
+
+    
+    <h2>
+        胖胖的大头鱼的二手转让(1)
+         &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+            <span class="pl">&nbsp;(
+                <a href="http://www.douban.com/people/aka/offers">全部</a>
+            ) </span>
+    </h2>
+
+    <table class="olt" width="100%"><tr><td/><td/><td/><td/></tr>
+        
+        <tr><td class="pl" nowrap="nowrap"> 60.0元 </td><td class="pl"><a href="http://book.douban.com/subject/offer/1226078/">Harry Potter and the Order of the Phoenix</a> (较新)</td><td class="pl" nowrap="nowrap">2008-01-29</td></tr>
+    </table>
+
+        </div>
+
+        
+        <div class="" id="artist">
+        
+
+
+
+
+
+
+
+        </div>
+
+        
+        <div class="" id="doulist">
+        
+
+
+
+
+
+        
+    <h2>
+        胖胖的大头鱼的豆列(9)
+         &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+            <span class="pl">&nbsp;(
+                <a href="http://www.douban.com/people/aka/doulists">全部</a>
+            ) </span>
+    </h2>
+
+        <p><a href="http://book.douban.com/doulist/12711/">犇人们</a></p>
+        <p><a href="http://book.douban.com/doulist/12808/">开发工具</a></p>
+        <p><a href="http://book.douban.com/doulist/19106/">script好书</a></p>
+        <p><a href="http://movie.douban.com/doulist/19261/">freedom</a></p>
+        <p><a href="http://music.douban.com/doulist/51929/">naxos 30cd</a></p>
+    <div class="clear"></div>
+
+        </div>
+
+        
+        <div class="" id="recs">
+        
+
+
+
+
+
+
+    
+    <h2>
+        胖胖的大头鱼的推荐
+         &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+            <span class="pl">&nbsp;(
+                <a href="http://www.douban.com/people/aka/recs">全部</a>
+            ) </span>
+    </h2>
+
+    <ul class="bs"><li><span class="pl">推荐网址<a href="http://www.douban.com/link2?type=recurl&url=http%3A//xianguo.com/book"  target="_blank" title="鲜果读书 让阅读流行起来">鲜果读书 让阅读流行起来</a>&nbsp;&nbsp;<span class="pl">15:59</span>
+        </span><span class="recreply pl" ><a href="http://www.douban.com/people/aka/recs?rid=101963494#r101963494"  name="recreply-1057620-101963494-r-n-n" >回应</a>
+    </span></li><div class="clear"></div><li><span class="pl">推荐文章<a href="http://9.douban.com/site/entry/194303858/view"  target="_blank">高科技让生活丰富多彩，移动软件帮助你识别...</a> (九点上：<a href="http://9.douban.com/site/entry/194303858/"  target="_blank">6人推荐</a>)&nbsp;&nbsp;<span class="pl">15:44</span>
+        </span><span ><a href="http://www.douban.com/people/aka/recs?rid=101962100#r101962100"  name="recreply-1057620-101962100-r-n-n" >回应</a>
+    </span></li><div class="clear"></div><li><span class="pl">推荐<a href="http://www.douban.com/people/A.I./">肉腾腾</a>的<a href="http://www.douban.com/photos/photo/1280541715/" >照片</a>&nbsp;&nbsp;<span class="pl">13:15</span>
+        </span><span ><a href="http://www.douban.com/people/aka/recs?rid=101947634#r101947634"  name="recreply-1057620-101947634-r-n-n" >回应</a>
+    </span></li><div class="clear"></div><li><span class="pl">推荐豆列<a href="http://book.douban.com/doulist/995723/" >程序员最应该读的图书（原版）</a>&nbsp;&nbsp;<span class="pl">11:51</span>
+        </span><span ><a href="http://www.douban.com/people/aka/recs?rid=101939881#r101939881"  name="recreply-1057620-101939881-r-n-n" >1回应</a>
+    </span></li><div class="clear"></div><li><span class="pl">推荐<a href="http://site.douban.com/122508/">Yippee Arts.</a>的<a href="http://site.douban.com/widget/photos/5115019/photo/1279900571/" >照片</a>&nbsp;&nbsp;<span class="pl">10-31 23:37</span>
+        </span><span ><a href="http://www.douban.com/people/aka/recs?rid=101913289#r101913289"  name="recreply-1057620-101913289-r-n-n" >回应</a>
+    </span></li><div class="clear"></div></ul>
+    <div class="clear"></div>
+
+        </div>
+
+        
+        <div class="" id="note">
+        
+
+
+
+
+
+
+
+    
+    <h2>
+        胖胖的大头鱼的日记
+         &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+            <span class="pl">&nbsp;(
+                <a href="http://www.douban.com/people/aka/notes">全部</a>
+            ) </span>
+    </h2>
+
+    <div class="content">
+        <ul class="mbt"><li class="mbtr2"><div class="note-header pl2"><a title="curl 备忘" href="http://www.douban.com/note/82465095/" class="ll">curl 备忘</a>
+        </span><br/><div><span class="pl">2010-07-26 18:15:21</span></div></div><div class="clear"></div><div class="note" id="note_82465095_short">curl -F &quot;picfile=@xxx.jpg&quot;  www.domain.com  报错(417) Expectation Failed，是ligh...&nbsp; &nbsp; <a href="/note/82465095/#comments">(1回应)</a></div>
+    <div id="note_82465095_full" style="display:none;"><pre class="note"></pre></div>
+    <div id="note_82465095_footer" class="note-ft" style=" display:none;"><div class="note_upper_footer"><span class="pl gtleft"><a href="/note/82465095/#comments">1回应</a></span>
+             </div><div class="sns-bar"><div class="sns-bar-donate">
+
+
+
+        
+
+        <a href="http://dou.douban.com/transact_by_type?para=9E164C0BC193A0533146B570A2434CEEADB357A7698E85F80A93829E4282D9FE285B2F4856D0130BBB50DEC26A770E1F&url=http://www.douban.com/note/82465095/&title=curl 备忘" class="j a_show_login btn-donate">感谢</a>
+
+</div><div class="sns-bar-rec">
+
+
+
+
+
+
+
+
+<div class="rec-sec">
+    <span class="rec">
+
+<a href="/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+</div>
+
+        <div class="sns-bar-fav">
+
+
+
+            <a class="fav-add btn-fav j a_show_login" title="标为喜欢？" href="http://www.douban.com/accounts/register?reason=like" data-tid="82465095" data-tkind="1015">喜欢</a>
+        <script> 
+            !function(){
+                if (typeof hasInitFavBtn !== 'undefined') {
+                    return;
+                }
+                hasInitFavBtn = 1;
+
+                
+var api_userlist = 'http://www.douban.com/j/like',
+$win = $(window),
+updateFavNum = function(node, n) {
+  var p = node.parent(), favNum = p.find('.fav-num'), num;
+  $('#fav-userlist').hide();
+  if (favNum.length === 0) {
+    favNum = $(['<span class="fav-num" data-tkind="', node.data('tkind'),'" data-tid="', node.data('tid'),'"><a href="#">0人</a>喜欢</span>'].join(''));
+    p.prepend(favNum);
+  }
+
+  num = parseInt(favNum.find('a').text(),10) + n;
+  if (num === 0) {
+    favNum.remove();
+    return;
+  }
+  favNum.find('a').text(num + '人');
+},
+renderUserList = function(node, da) {
+  if (!$.isArray(da)) {
+    $('#fav-userlist').hide();
+    return;
+  }
+
+  var i = 0, o, pos, h, htmlstr = ['<ul>'];
+  if (da.length > 0){
+      for (; o = da[i++]; ) {
+        htmlstr.push([
+         '<li>',
+         '<a href="http://www.douban.com/people/', o.uid, '" target="_blank" class="pic"><img src="', o.icon_avatar,'" width="24" height="24"></a>', 
+         '<a href="http://www.douban.com/people/', o.uid, '" target="_blank">', o.screen_name,'</a>', 
+         '</li>'
+        ].join(''));
+      }
+      htmlstr.push('</ul>');
+  } else {
+      htmlstr = ['<span>啊哦…喜欢这个的人都不愿意露脸</span>'];
+  }
+  
+
+  node.removeClass('arrow-bottom').find('.bd').css({
+    height: i > 9 ? 220 : 'auto',
+    overflow: i > 9 ? 'auto' : 'hidden'
+  }).html(htmlstr.join(''));
+
+  pos = node.offset();
+  h = node.height();
+
+  if (pos.top - $win.scrollTop() + h > $win.height() - 40) {
+    node.addClass('arrow-bottom').css('top', pos.top - h - 55);
+  }
+};
+
+$('html').bind('click', function(e) {
+  var list = $('#fav-userlist');
+  if (list.length === 0 || 
+      list.css('display') === 'none' || 
+      e.target.tagName === 'A') {
+    return;
+  }
+  if (!$.contains(list[0], e.target)) {
+    list.hide();
+  }
+});
+
+$('html').delegate('.fav-num a', 'click', function(e) {
+  e.preventDefault();
+  var el = $(e.currentTarget), 
+  pos = el.offset(),
+  params = el.parent().data(),
+  dataId = [params.tkind, params.tid].join(''),
+  fav_user_list = $('#fav-userlist');
+
+  if (fav_user_list.length === 0) {
+    fav_user_list = $([
+    '<div id="fav-userlist" class="fav-userlist">',
+    '<div class="hd"><a href="" class="btn-close">X</a></div>',
+    '<div class="bd">',
+    '</div><i class="arrow"></i>',
+    '</div>'
+    ].join('')).appendTo('body');
+    fav_user_list.find('.btn-close').click(function(e){
+      e.preventDefault();
+      fav_user_list.hide();
+    });
+  }
+
+  fav_user_list.removeClass('arrow-bottom').
+      find('.bd').
+      css('height', 'auto').
+      html('加载中...');
+      
+  fav_user_list.css({
+    top: pos.top + 22,
+    'margin-left': (function(con){
+      return -1 * Math.floor(con.width()/2 - pos.left + con.offset().left) -10;
+    })($('#content')) 
+  }).show();
+
+  $.get(api_userlist, 
+  {
+      tkind: params.tkind,
+      tid: params.tid,
+      alt: 'xd'
+  },
+  function(e){
+    renderUserList(fav_user_list, e);
+  }, 'jsonp');
+});
+
+            }();
+        </script>
+
+
+</div> </div></div><div class="clear"></div></li><li class="mbtr2"><div class="note-header pl2"><a title="豆瓣电台点名游戏【大家都来玩啊】" href="http://www.douban.com/note/53151222/" class="ll">豆瓣电台点名游戏【大家都来玩啊】</a>
+        </span><br/><div><span class="pl">2009-12-11 13:57:33</span></div></div><div class="clear"></div><div class="note" id="note_53151222_short">被风铃子同学点名了，现在来回答。  怎么玩：  1.把你的豆瓣电台打开，让它一首一首正...&nbsp; &nbsp; <a href="/note/53151222/#comments">(7回应)</a></div>
+    <div id="note_53151222_full" style="display:none;"><pre class="note"></pre></div>
+    <div id="note_53151222_footer" class="note-ft" style=" display:none;"><div class="note_upper_footer"><span class="pl gtleft"><a href="/note/53151222/#comments">7回应</a></span>
+             </div><div class="sns-bar"><div class="sns-bar-donate">
+
+
+
+        
+
+        <a href="http://dou.douban.com/transact_by_type?para=9E164C0BC193A0533146B570A2434CEEADB357A7698E85F80A93829E4282D9FE285B2F4856D0130BBB50DEC26A770E1F&url=http://www.douban.com/note/53151222/&title=豆瓣电台点名游戏【大家都来玩啊】" class="j a_show_login btn-donate">感谢</a>
+
+</div><div class="sns-bar-rec">
+
+
+
+
+
+
+
+
+<div class="rec-sec">
+    <span class="rec">
+
+<a href="/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+<span class="rec-num">1人</span>
+</div>
+</div>
+
+        <div class="sns-bar-fav">
+
+
+
+            <a class="fav-add btn-fav j a_show_login" title="标为喜欢？" href="http://www.douban.com/accounts/register?reason=like" data-tid="53151222" data-tkind="1015">喜欢</a>
+        <script> 
+            !function(){
+                if (typeof hasInitFavBtn !== 'undefined') {
+                    return;
+                }
+                hasInitFavBtn = 1;
+
+                
+var api_userlist = 'http://www.douban.com/j/like',
+$win = $(window),
+updateFavNum = function(node, n) {
+  var p = node.parent(), favNum = p.find('.fav-num'), num;
+  $('#fav-userlist').hide();
+  if (favNum.length === 0) {
+    favNum = $(['<span class="fav-num" data-tkind="', node.data('tkind'),'" data-tid="', node.data('tid'),'"><a href="#">0人</a>喜欢</span>'].join(''));
+    p.prepend(favNum);
+  }
+
+  num = parseInt(favNum.find('a').text(),10) + n;
+  if (num === 0) {
+    favNum.remove();
+    return;
+  }
+  favNum.find('a').text(num + '人');
+},
+renderUserList = function(node, da) {
+  if (!$.isArray(da)) {
+    $('#fav-userlist').hide();
+    return;
+  }
+
+  var i = 0, o, pos, h, htmlstr = ['<ul>'];
+  if (da.length > 0){
+      for (; o = da[i++]; ) {
+        htmlstr.push([
+         '<li>',
+         '<a href="http://www.douban.com/people/', o.uid, '" target="_blank" class="pic"><img src="', o.icon_avatar,'" width="24" height="24"></a>', 
+         '<a href="http://www.douban.com/people/', o.uid, '" target="_blank">', o.screen_name,'</a>', 
+         '</li>'
+        ].join(''));
+      }
+      htmlstr.push('</ul>');
+  } else {
+      htmlstr = ['<span>啊哦…喜欢这个的人都不愿意露脸</span>'];
+  }
+  
+
+  node.removeClass('arrow-bottom').find('.bd').css({
+    height: i > 9 ? 220 : 'auto',
+    overflow: i > 9 ? 'auto' : 'hidden'
+  }).html(htmlstr.join(''));
+
+  pos = node.offset();
+  h = node.height();
+
+  if (pos.top - $win.scrollTop() + h > $win.height() - 40) {
+    node.addClass('arrow-bottom').css('top', pos.top - h - 55);
+  }
+};
+
+$('html').bind('click', function(e) {
+  var list = $('#fav-userlist');
+  if (list.length === 0 || 
+      list.css('display') === 'none' || 
+      e.target.tagName === 'A') {
+    return;
+  }
+  if (!$.contains(list[0], e.target)) {
+    list.hide();
+  }
+});
+
+$('html').delegate('.fav-num a', 'click', function(e) {
+  e.preventDefault();
+  var el = $(e.currentTarget), 
+  pos = el.offset(),
+  params = el.parent().data(),
+  dataId = [params.tkind, params.tid].join(''),
+  fav_user_list = $('#fav-userlist');
+
+  if (fav_user_list.length === 0) {
+    fav_user_list = $([
+    '<div id="fav-userlist" class="fav-userlist">',
+    '<div class="hd"><a href="" class="btn-close">X</a></div>',
+    '<div class="bd">',
+    '</div><i class="arrow"></i>',
+    '</div>'
+    ].join('')).appendTo('body');
+    fav_user_list.find('.btn-close').click(function(e){
+      e.preventDefault();
+      fav_user_list.hide();
+    });
+  }
+
+  fav_user_list.removeClass('arrow-bottom').
+      find('.bd').
+      css('height', 'auto').
+      html('加载中...');
+      
+  fav_user_list.css({
+    top: pos.top + 22,
+    'margin-left': (function(con){
+      return -1 * Math.floor(con.width()/2 - pos.left + con.offset().left) -10;
+    })($('#content')) 
+  }).show();
+
+  $.get(api_userlist, 
+  {
+      tkind: params.tkind,
+      tid: params.tid,
+      alt: 'xd'
+  },
+  function(e){
+    renderUserList(fav_user_list, e);
+  }, 'jsonp');
+});
+
+            }();
+        </script>
+
+
+</div> </div></div><div class="clear"></div></li></ul><div class="clear"></div>
+    </div>
+
+
+        </div>
+
+    
+
+
+
+
+
+
+        <p class="pl2">&gt; <a href="http://www.douban.com/people/aka/subjects">胖胖的大头鱼添加的条目</a></p>
+
+
+    <div class="clear"></div><p class="pl">本页永久链接: <a href="http://www.douban.com/people/aka/">http://www.douban.com/people/aka/</a></p>
+
+        
+<p class="pl">订阅胖胖的大头鱼的收藏: <br/><span class="feed">
+    <a href="http://www.douban.com/feed/people/aka/interests"> feed: rss 2.0</a></span></p>
+
+
+
+        </div>
+        <div class="extra">
+            
+
+        </div>
+    </div>
+    </div>
+
+        
+        <div id="footer">
+            
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2011 douban.com, all rights reserved
+</span>
+
+<span class="fright">
+    <a href="http://www.douban.com/about">关于豆瓣</a>
+    · <a href="http://www.douban.com/about?topic=teamup">在豆瓣工作</a>
+    · <a href="http://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="http://www.douban.com/about?policy=disclaimer">免责声明</a>
+    
+    · <a href="http://www.douban.com/help/">帮助中心</a>
+    · <a href="http://www.douban.com/service/">API</a>
+    · <a href="http://www.douban.com/mobile/">手机豆瓣</a>
+    · <a href="http://www.douban.com/partner/">品牌俱乐部</a>
+
+</span>
+
+
+        </div>
+
+    </div>
+    
+    
+    
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-7019765-1']);
+_gaq.push(['_addOrganic', 'baidu', 'word']);
+_gaq.push(['_addOrganic', 'soso', 'w']);
+_gaq.push(['_addOrganic', '3721', 'name']);
+_gaq.push(['_addOrganic', 'yodao', 'q']);
+_gaq.push(['_addOrganic', 'vnet', 'kw']);
+_gaq.push(['_addOrganic', 'sogou', 'query']);
+_gaq.push(['_addIgnoredOrganic', '豆瓣']);
+_gaq.push(['_addIgnoredOrganic', 'douban']);
+_gaq.push(['_addIgnoredOrganic', '豆瓣网']);
+_gaq.push(['_addIgnoredOrganic', 'www.douban.com']);
+_gaq.push(['_setDomainName', '.douban.com']);
+
+_gaq.push(['_trackPageview']);
+_gaq.push(['_trackPageLoadTime']);
+
+
+(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})();
+</script>
+
+
+
+
+
+
+
+    <!-- gardner7-->
+<script>var _check_hijack = function () {
+            var _sig = "z4/YJ6B0", _login = false, bid = get_cookie('bid');
+            if (location.protocol != "file:" && (typeof(bid) != "string" && _login || typeof(bid) == "string" && bid.substring(0,8) != _sig)) {
+                location.href+=(/\?/.test(location.href)?"&":"?") + "_r=" + Math.random().toString(16).substring(2);
+            }};
+            if (typeof(Do) != 'undefined') Do(_check_hijack);
+            else if (typeof(get_cookie) != 'undefined') _check_hijack();
+            </script></body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

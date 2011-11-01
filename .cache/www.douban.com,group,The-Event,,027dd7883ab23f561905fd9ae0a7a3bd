@@ -1,0 +1,514 @@
+status: 200
+content-length: 37100
+content-location: http://www.douban.com/group/The-Event/
+set-cookie: bid="XNF+CSdOnKk"; path=/; domain=.douban.com;
+	expires=Thu, 01-Jan-2012 00:00:00 GMT
+expires: Sun, 1 Jan 2006 01:00:00 GMT
+keep-alive: timeout=10
+server: nginx
+connection: keep-alive
+-content-encoding: gzip
+pragma: no-cache
+cache-control: must-revalidate, no-cache, private
+date: Tue, 01 Nov 2011 07:49:07 GMT
+p3p: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+content-type: text/html; charset=utf-8
+
+<!DOCTYPE html>
+    <html lang="zh-CN">
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+    <title>The Event小组</title>
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+    <script type="text/javascript">var _head_start=new Date();</script>
+    <link href="http://img3.douban.com/css/packed_douban6945416866.css" rel="stylesheet" type="text/css"><link href="http://img3.douban.com/css/separation/packed__all9104510074.css" rel="stylesheet" type="text/css"><link href="http://img3.douban.com/css/ui/packed_dialog7196832767.css" rel="stylesheet" type="text/css"><script src="http://img3.douban.com/js/packed_jquery.min9556435062.js"></script><script src="http://img3.douban.com/js/packed_douban4131673062.js"></script><script src="http://img3.douban.com/js/separation/packed__all5322393881.js"></script><script src="http://img3.douban.com/js/ui/packed_dialog2470549500.js"></script><script type="text/javascript">/*<![CDATA[*/
+    /*]]>*/</script><link rel="alternate" href="http://www.douban.com/feed/group/The-Event/discussion" type="application/rss+xml" title="RSS">
+        <link rel="shortcut icon" href="http://img3.douban.com/favicon.ico" type="image/x-icon">
+    </head>
+    <body>
+    <script type="text/javascript">var _body_start=new Date();</script>
+    
+
+<div class="top-nav">
+  <div class="bd">
+    
+
+
+
+
+
+<div class="top-nav-info">
+    <a href="http://www.douban.com/accounts/login" rel="nofollow">登录</a>
+    <a href="http://www.douban.com/accounts/register">注册</a>
+</div>
+
+
+    <div class="top-nav-items">
+        <ul>
+                
+                    
+                    <li class="on">
+                    <a href="http://www.douban.com/">豆瓣社区</a>
+                    </li>
+                
+                    
+                    <li>
+                    <a href="http://book.douban.com/">豆瓣读书</a>
+                    </li>
+                
+                    
+                    <li>
+                    <a href="http://movie.douban.com/">豆瓣电影</a>
+                    </li>
+                
+                    
+                    <li>
+                    <a href="http://music.douban.com/">豆瓣音乐</a>
+                    </li>
+                
+                    
+                    <li>
+                    <a href="http://www.douban.com/location/">豆瓣同城</a>
+                    </li>
+                
+                    
+                    <li>
+                    <a href="http://douban.fm/" target="_blank">豆瓣FM</a>
+                    </li>
+                
+                    <li class="top-nav-more">
+                        <div class="top-nav-more-items">
+                            <a href="#more" class="more">更多 <span class="arrow">&nbsp;</span>&nbsp;</a>
+                            <ul>
+                            
+                            <li><a href="http://9.douban.com" target="_blank">九点</a></li>
+                            
+                            <li><a href="http://alphatown.com" target="_blank">阿尔法城</a></li>
+                            </ul>
+                        </div>
+                    </li>
+        </ul>
+    </div>
+  </div>
+</div>
+<script>
+Do(function(){
+    var more = $('.top-nav-more a.more').click(function(e){
+      e.preventDefault();
+      var el = $(e.currentTarget), p = el.parent(); 
+      p.toggleClass('on');
+      return false;
+    });
+    $('body').click(function(){
+      more.parent().removeClass('on');
+    });
+});
+</script>
+
+    <div id="wrapper">
+    <div id="header">
+    
+
+
+<div id="db-nav-main" class="site-nav">
+    <div class="site-nav-logo">
+      <a href="http://www.douban.com">
+          <img src="http://img3.douban.com/pics/nav/lg_main_a7.png" alt="豆瓣">
+       <em>首页</em>
+      </a>
+    </div>
+
+
+    <div class="bd">
+    <div class="nav-srh">
+        <form name="ssform" method="get" action="http://www.douban.com/search">
+            <div class="inp">
+                <span><input name="search_text" type="text" title="成员、小组、音乐人、主办方" size="22" maxlength="60" value=""/></span>
+                <span><input class="bn-srh" type="submit" value="搜索"/></span>
+            </div>
+        </form>
+    </div>
+    <script type="text/javascript">
+        Do = (typeof Do === 'undefined')? $ : Do;
+        Do(function(){
+            $("form[name=ssform]").submit(function(){
+                if($("input[name=search_text]").val()==="成员、小组、音乐人、主办方"){
+                    return false;
+                }
+            })
+        })
+    </script>
+
+    <div class="site-nav-items">
+        <ul>
+             
+                     <li><a href="http://www.douban.com">首页</a></li>
+             
+             
+             
+             
+                     <li><a href="http://www.douban.com/explore/">浏览发现</a></li>
+        </ul>
+    </div>
+    </div>
+    <div class="ext"></div>
+</div>
+<script>
+setTimeout(function(){
+    $('#db-nav-main .nav-srh form').prettyField();
+    $('#db-nav-main .guide a.close').click(function(e) {
+        e.preventDefault();
+        $.post_withck('/j/accounts/hidetip',{kind: $(this).next().val()}, function(r){});
+        $(this).parent().fadeOut('normal');
+    });
+}, 0);
+</script>
+
+    </div>
+    <h1>The Event</h1>
+    <div id="content">
+        <div class="grid-16-8 clearfix">
+                <div class="article">
+        <div class="infobox">
+    <div class="ex1"><span></span></div>
+    <div class="bd"><img align="left" valign="top" class="pil groupicon" src="http://img3.douban.com/icon/g287358-2.jpg" alt="The Event"/>
+        <p>创建于2010-09-24 &nbsp; &nbsp; 组长：<a href="http://www.douban.com/people/JASO4N/">Dolan</a><br/></p><br/>2011年05月02日 第1季第19集 Us or Them <br/>2011年04月25日 第1季第18集 Strain<br/>2011年04月18日 第1季第17集 Cut Off the Head<br/>2011年04月04日 第1季第16集 You Bury Other Things Too <br/>2011年03月28日 第1季第15集 Face Off <br/>2011年03月21日 第1季第14集 A Message Back <br/>2011年03月14日 第1季第13集 Turnabout <br/>2011年03月07日 第1季第12集 Inostranka (2) <br/>2011年03月07日 第1季第11集 And Then There Were More<br/>2010年11月29日 第1季第10集 Everything Will Change <br/>2010年11月22日 第1季第09集 Your World to Take <br/>2010年11月15日 第1季第08集 For the Good of Our Country <br/>2010年11月08日 第1季第07集 I Know Who You Are <br/><br/>政治悬疑剧《惊世》（The Event）由创作过科幻悬疑剧《The 4400》的制片人NickWauters打造，来自《24》的制片人Evan Katz担任总监制。故事讲述普通人Sean Walker（JasonRitter扮演）在调查未婚妻Leila（SarahRoemer扮演）的神秘失踪事件时，卷入了一场巨大的政治阴谋，并揭开了美国历史上最大的秘密。Sean的一言一行、一举一动都将对一群看似毫无关联的人带来意想不到的影响，他们包括：刚刚当选美国总统的Martinez（Blair Underwood扮演）和第一夫人Christina（LisaVidal扮演）；关押在阿拉斯加州一所秘密监狱里的政治犯Sophia（LauraInnes扮演），她同时是一个神秘集团的领袖；Sean的岳父（ScottPatterson扮演），他是个背景极其复杂的人；中央情报局局长Blake Sterling（ZeljkoIvanek扮演）；与Sophia有关联的CIA特工Simon Lee（Ian Anthony Dale扮演）。<br/><br/>该剧传递了一种「一人之力足以撼动地球」的思想。Sean的个人问题演变成一场国家阴谋，而美国的秘密很快又演变成全球的秘密－－这个秘密可能会改变全人类的命运。<br/>该剧目前在Twitter热门新剧榜上排行第一，极有可能成为下一部《24》或者《迷失》。但有分析人士指出，该剧失败的风险也很高。<br/><br/>在首集里，SeanWalker带女友Leila外出度假并向她求婚，他们打算登上一艘超级游轮庆祝这一浪漫时刻。他们在游轮上结识了一些陌生人，并跟他们一起潜水嬉戏。晚上，SeanWalker回到房间后发现未婚妻已神秘失踪。游轮上的保安认为Sean有重大嫌疑，准备将他逮捕。在逃跑过程中，Sean发现一股神秘势力也在寻找他。与此同时，新任美国总统Martinez正考虑将「大事件」公诸于众，但中央情报局局长BlakeSterling力劝总统不要这么做。首集里并未透露「大事件」究竟是什么事。<br/><br/>该剧的「小把戏」和《迷失》一样多。例如，Sean在豪华游轮上的房间号「5134」和他乘坐的飞机的航班号「514」就非常相似，让人不能不怀疑这其中肯定有关联。<br/><br/>——天涯小筑 <br/><br/>2010年10月25日 06 Loyalty   <br/>2010年10月18日 05 Casualties of War   <br/>2010年10月11日 04 A Matter of Life and Death   <br/>2010年10月04日 03 Protect Them from the Truth   <br/>2010年09月27日 02 To Keep Us Safe   <br/>2010年09月20日 01 I Haven\'t Told You Everything  <br/><br/>豆瓣：<br/><a href="http://movie.douban.com/subject/4290389/">http://movie.douban.<wbr/>com/subject/4290389/<wbr/></a><br/><br/>IMDB:<br/><a href="http://www.imdb.com/title/tt1582459/" target="_blank" rel="nofollow">http://www.imdb.com/<wbr/>title/tt1582459/</a><br/><br/>Official Twitter:<br/><a href="http://twitter.com/nbctheevent" target="_blank" rel="nofollow">http://twitter.com/n<wbr/>bctheevent</a><br/><br/>NBS [us]:<br/><a href="http://www.nbc.com/the-event/" target="_blank" rel="nofollow">http://www.nbc.com/t<wbr/>he-event/</a><br/><br/>Official site:<br/><a href="http://www.theeventiscoming.com/" target="_blank" rel="nofollow">http://www.theeventi<wbr/>scoming.com/</a><br/><br/>Facebook：<br/><a href="http://www.facebook.com/NBCTheEvent" target="_blank" rel="nofollow">http://www.facebook.<wbr/>com/NBCTheEvent</a><br/><div style="margin-top: 10px" class="clearfix"><span class="plr">
+
+
+
+
+
+
+
+
+<div class="rec-sec">
+    <span class="rec">
+
+<a href="/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+</span><span class="fright mr5 color-gray"><a href="/register?reason=join-group" class="j a_show_login bn-std1" rel="nofollow"><span>加入小组</span></a></span></div></div>
+     <div class="ex2"><span></span></div>
+     </div><h2 style="margin-top:10px"><a href="/register?reason=join-group" class="rr j a_show_login bn-post"><span>发言</span></a>最近小组话题  · · · · · ·</h2><div class="indent">
+    
+    <table class="olt">
+    <tr><td>话题</td><td>作者</td><td nowrap="nowrap">回应</td><td align="right">最后回应</td></tr>
+    
+        <tr><td><span class="pl">
+        <img alt="[置顶]" src="http://img3.douban.com/pics/stick.gif"/></span>&nbsp;<a href="http://www.douban.com/group/topic/14305732/" title="[時間表]The Event第一季播出時間(已获整季预定)">[時間表]The Event第一季播出時間(已获整季预定)</a></td>
+         <td nowrap="nowrap"><a href="http://www.douban.com/people/JASO4N/">Dolan</a></td><td nowrap="nowrap">3</td><td nowrap="nowrap" class="time">2010-11-09</td></tr>
+        
+        <tr><td><span class="pl">
+        <img alt="[置顶]" src="http://img3.douban.com/pics/stick.gif"/></span>&nbsp;<a href="http://www.douban.com/group/topic/14467138/" title="重要角色的截圖">重要角色的截圖</a></td>
+         <td nowrap="nowrap"><a href="http://www.douban.com/people/JASO4N/">Dolan</a></td><td nowrap="nowrap"></td><td nowrap="nowrap" class="time">2010-10-01</td></tr>
+        
+        <tr><td><a href="http://www.douban.com/group/topic/20227123/" title="第二季真的不出了吗？？太可惜了吧">第二季真的不出了吗？？太可惜了吧</a></td>
+         <td nowrap="nowrap"><a href="http://www.douban.com/people/bootcat/">穿靴子的猫</a></td><td nowrap="nowrap">7</td><td nowrap="nowrap" class="time">07-28 12:52</td></tr>
+        
+        <tr><td><a href="http://www.douban.com/group/topic/15197393/" title="第六集把FBI描述的异常的弱">第六集把FBI描述的异常的弱</a></td>
+         <td nowrap="nowrap"><a href="http://www.douban.com/people/caogongchandang/">[已注销]</a></td><td nowrap="nowrap">4</td><td nowrap="nowrap" class="time">06-10 21:38</td></tr>
+        
+        <tr><td><a href="http://www.douban.com/group/topic/20260406/" title="NGC 253">NGC 253</a></td>
+         <td nowrap="nowrap"><a href="http://www.douban.com/people/2375792/">祥云莫测</a></td><td nowrap="nowrap">2</td><td nowrap="nowrap" class="time">06-10 21:37</td></tr>
+        
+        <tr><td><a href="http://www.douban.com/group/topic/19991342/" title="一边看《三体》一边看 《惊世》的感觉很奇妙">一边看《三体》一边看 《惊世》的感觉很奇妙</a></td>
+         <td nowrap="nowrap"><a href="http://www.douban.com/people/williamjen/">williamjen</a></td><td nowrap="nowrap">2</td><td nowrap="nowrap" class="time">06-10 21:24</td></tr>
+        
+        <tr><td><a href="http://www.douban.com/group/topic/20308957/" title="我觉得sophia很性感">我觉得sophia很性感</a></td>
+         <td nowrap="nowrap"><a href="http://www.douban.com/people/bootcat/">穿靴子的猫</a></td><td nowrap="nowrap">3</td><td nowrap="nowrap" class="time">06-08 16:38</td></tr>
+        
+        <tr><td><a href="http://www.douban.com/group/topic/18309518/" title="《惊世》(The Event) S01">《惊世》(The Event) S01</a></td>
+         <td nowrap="nowrap"><a href="http://www.douban.com/people/44461739/">淡、淡994</a></td><td nowrap="nowrap">38</td><td nowrap="nowrap" class="time">06-03 13:33</td></tr>
+        
+        <tr><td><a href="http://www.douban.com/group/topic/19887815/" title="更新到21集了">更新到21集了</a></td>
+         <td nowrap="nowrap"><a href="http://www.douban.com/people/51660783/">莎莉の花园</a></td><td nowrap="nowrap">5</td><td nowrap="nowrap" class="time">05-27 19:11</td></tr>
+        
+        <tr><td><a href="http://www.douban.com/group/topic/14426709/" title="惊世第二集惊现超级硬伤，太傻必了这剧，从此否定">惊世第二集惊现超级硬伤，太傻必了这剧，从此否定</a></td>
+         <td nowrap="nowrap"><a href="http://www.douban.com/people/46220626/">惊世渔夫</a></td><td nowrap="nowrap">10</td><td nowrap="nowrap" class="time">05-22 01:02</td></tr>
+        
+        <tr><td><a href="http://www.douban.com/group/topic/14898008/" title="为什么肖恩那么重要？">为什么肖恩那么重要？</a></td>
+         <td nowrap="nowrap"><a href="http://www.douban.com/people/lemuel/">lemuel | 樂謀</a></td><td nowrap="nowrap">12</td><td nowrap="nowrap" class="time">05-18 16:49</td></tr>
+        
+        <tr><td><a href="http://www.douban.com/group/topic/18715140/" title="西蒙好帅">西蒙好帅</a></td>
+         <td nowrap="nowrap"><a href="http://www.douban.com/people/41099578/">ry</a></td><td nowrap="nowrap">5</td><td nowrap="nowrap" class="time">05-17 19:50</td></tr>
+        
+        <tr><td><a href="http://www.douban.com/group/topic/19498999/" title="我就是无法忍受这么特别的一部剧居然没人捧场？！">我就是无法忍受这么特别的一部剧居然没人捧场？！</a></td>
+         <td nowrap="nowrap"><a href="http://www.douban.com/people/brocade/">断锦</a></td><td nowrap="nowrap">8</td><td nowrap="nowrap" class="time">05-12 12:50</td></tr>
+        
+        <tr><td><a href="http://www.douban.com/group/topic/16257016/" title="Capric，Walking Dead，Event……年度三雄？">Capric，Walking Dead，Event……年度三雄？</a></td>
+         <td nowrap="nowrap"><a href="http://www.douban.com/people/Pheovia/">Pheovia</a></td><td nowrap="nowrap">2</td><td nowrap="nowrap" class="time">03-31 22:39</td></tr>
+        
+        <tr><td><a href="http://www.douban.com/group/topic/16560704/" title="政府阴谋论">政府阴谋论</a></td>
+         <td nowrap="nowrap"><a href="http://www.douban.com/people/48277055/">phil.wang</a></td><td nowrap="nowrap">2</td><td nowrap="nowrap" class="time">03-31 13:09</td></tr>
+        
+        <tr><td><a href="http://www.douban.com/group/topic/18314437/" title="第13集，扯到核电站了，美剧牛啊">第13集，扯到核电站了，美剧牛啊</a></td>
+         <td nowrap="nowrap"><a href="http://www.douban.com/people/monkey119/">北极熊</a></td><td nowrap="nowrap">3</td><td nowrap="nowrap" class="time">03-17 21:59</td></tr>
+        
+        <tr><td><a href="http://www.douban.com/group/topic/17905566/" title="热烈庆祝the event本周归来">热烈庆祝the event本周归来</a></td>
+         <td nowrap="nowrap"><a href="http://www.douban.com/people/3421464/">奔猪</a></td><td nowrap="nowrap">1</td><td nowrap="nowrap" class="time">02-28 11:30</td></tr>
+        
+        <tr><td><a href="http://www.douban.com/group/topic/14851963/" title="那个安全局局长还演过什么戏？">那个安全局局长还演过什么戏？</a></td>
+         <td nowrap="nowrap"><a href="http://www.douban.com/people/4494938/">螢火蟲</a></td><td nowrap="nowrap">5</td><td nowrap="nowrap" class="time">2010-12-08</td></tr>
+        
+        <tr><td><a href="http://www.douban.com/group/topic/16231003/" title="明年2月28日,好难等那……">明年2月28日,好难等那……</a></td>
+         <td nowrap="nowrap"><a href="http://www.douban.com/people/44461739/">淡、淡994</a></td><td nowrap="nowrap">1</td><td nowrap="nowrap" class="time">2010-12-08</td></tr>
+        
+        <tr><td><a href="http://www.douban.com/group/topic/16117696/" title="来个找bug大赛好了">来个找bug大赛好了</a></td>
+         <td nowrap="nowrap"><a href="http://www.douban.com/people/caogongchandang/">[已注销]</a></td><td nowrap="nowrap">2</td><td nowrap="nowrap" class="time">2010-12-04</td></tr>
+        
+        <tr><td><a href="http://www.douban.com/group/topic/16061348/" title="110讨论（有剧透）">110讨论（有剧透）</a></td>
+         <td nowrap="nowrap"><a href="http://www.douban.com/people/pizza/">pizza</a></td><td nowrap="nowrap">3</td><td nowrap="nowrap" class="time">2010-12-02</td></tr>
+        
+        <tr><td><a href="http://www.douban.com/group/topic/15908007/" title="【剧透】S21 E09讨论－这帮人来自外星球">【剧透】S21 E09讨论－这帮人来自外星球</a></td>
+         <td nowrap="nowrap"><a href="http://www.douban.com/people/JASO4N/">Dolan</a></td><td nowrap="nowrap">2</td><td nowrap="nowrap" class="time">2010-11-30</td></tr>
+        
+        <tr><td><a href="http://www.douban.com/group/topic/15787846/" title="主角还是人类的阴谋论，外星人只是浮云">主角还是人类的阴谋论，外星人只是浮云</a></td>
+         <td nowrap="nowrap"><a href="http://www.douban.com/people/flative/">刹那</a></td><td nowrap="nowrap">3</td><td nowrap="nowrap" class="time">2010-11-30</td></tr>
+        
+        <tr><td><a href="http://www.douban.com/group/topic/14983613/" title="我怎么觉得总统夫人有点问题">我怎么觉得总统夫人有点问题</a></td>
+         <td nowrap="nowrap"><a href="http://www.douban.com/people/caogongchandang/">[已注销]</a></td><td nowrap="nowrap">3</td><td nowrap="nowrap" class="time">2010-11-30</td></tr>
+        
+        <tr><td><a href="http://www.douban.com/group/topic/15723567/" title="看完第八集之后的感觉">看完第八集之后的感觉</a></td>
+         <td nowrap="nowrap"><a href="http://www.douban.com/people/aaronroy/">立子</a></td><td nowrap="nowrap">2</td><td nowrap="nowrap" class="time">2010-11-26</td></tr>
+        
+        <tr><td><a href="http://www.douban.com/group/topic/15551059/" title="【剧透】S21 E07－第七集最后一幕，真是吓到！">【剧透】S21 E07－第七集最后一幕，真是吓到！</a></td>
+         <td nowrap="nowrap"><a href="http://www.douban.com/people/JASO4N/">Dolan</a></td><td nowrap="nowrap">3</td><td nowrap="nowrap" class="time">2010-11-22</td></tr>
+        
+        <tr><td><a href="http://www.douban.com/group/topic/15578866/" title="看完第七集的一点想法">看完第七集的一点想法</a></td>
+         <td nowrap="nowrap"><a href="http://www.douban.com/people/lemuel/">lemuel | 樂謀</a></td><td nowrap="nowrap">2</td><td nowrap="nowrap" class="time">2010-11-13</td></tr>
+        </table>
+    </div>
+    <div class="indent">
+        <div class="ll">
+        <form action="/group/topic_search" method="get">
+        <input type="text" value="" maxlength="60" size="22" title="搜索本组话题" name="q" class="j a_search_text greyinput"/>
+        &nbsp;
+        <input type="submit" value="搜索"/>
+        <input type="hidden" value="287358" name="group"/>
+        </form></div></div><div class="pl2 rr">&gt; <a href="http://www.douban.com/group/The-Event/discussion?start=25">更多小组讨论</a></div><div class="clear"></div><br/><h2  >小组收藏 &nbsp; &middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;
+        <span class="pl">( <a href="http://www.douban.com/group/The-Event/collection">全部</a> )</span></h2><div class="obss"><dl class="obs"><dt><a href="http://movie.douban.com/subject/4290389/" title="惊世
+
+惊世 / 惊世谎言"><img src="http://img3.douban.com/spic/s4479415.jpg" class="m_sub_img" alt="惊世"/></a></dt><dd><a title="惊世" href="http://movie.douban.com/subject/4290389/" >惊世</a></dd></dl></div><br clear="all"><p class="pl2" align="right">&gt; <a href="http://www.douban.com/group/The-Event/collection">全部小组收藏(1)</a></p>
+                </div>
+            <div class="aside">
+    <h2  >友情小组 &nbsp; &middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;
+        </h2><div class="obss"><dl class="ob"><dt><a  href="http://www.douban.com/group/yahooks/"><img src="http://img3.douban.com/icon/g135594-3.jpg" class="m_sub_img" alt="13号仓库（Warehouse 13）"/></a></dt>
+        <dd><a  href="http://www.douban.com/group/yahooks/">13号仓库（Warehouse 13）</a> <span>(335)</span>
+        </dd></dl><dl class="ob"><dt><a  href="http://www.douban.com/group/271432/"><img src="http://img3.douban.com/icon/g271432-3.jpg" class="m_sub_img" alt="尼基塔（Nikita）"/></a></dt>
+        <dd><a  href="http://www.douban.com/group/271432/">尼基塔（Nikita）</a> <span>(2318)</span>
+        </dd></dl><dl class="ob"><dt><a  href="http://www.douban.com/group/HawaiiFive0/"><img src="http://img3.douban.com/icon/g287359-1.jpg" class="m_sub_img" alt="Hawaii Five-0"/></a></dt>
+        <dd><a  href="http://www.douban.com/group/HawaiiFive0/">Hawaii Five-0</a> <span>(179)</span>
+        </dd></dl><dl class="ob"><dt><a  href="http://www.douban.com/group/RaisingHope/"><img src="http://img3.douban.com/icon/g287636-1.jpg" class="m_sub_img" alt="Raising Hope"/></a></dt>
+        <dd><a  href="http://www.douban.com/group/RaisingHope/">Raising Hope</a> <span>(167)</span>
+        </dd></dl></div><div class="clear"></div><h2  >最近加入 &nbsp; &middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;
+        </h2><dl class="obu" ><dt><a href="http://www.douban.com/people/beijingfeichai/" class="nbg"><img src="http://img3.douban.com/icon/u54922480-5.jpg" class="m_sub_img" alt="北京废柴"/></a></dt>
+                    <dd><a href="http://www.douban.com/people/beijingfeichai/">北京废柴</a><br/><span class="pl">(北京)</span></dd></dl><dl class="obu" ><dt><a href="http://www.douban.com/people/xiajiebao/" class="nbg"><img src="http://img3.douban.com/icon/u3753705-5.jpg" class="m_sub_img" alt="职业闹海程小程"/></a></dt>
+                    <dd><a href="http://www.douban.com/people/xiajiebao/">职业闹海程小程</a><br/><span class="pl">(合肥)</span></dd></dl><dl class="obu" ><dt><a href="http://www.douban.com/people/53436265/" class="nbg"><img src="http://img3.douban.com/icon/user_normal.jpg" class="m_sub_img" alt="黑客"/></a></dt>
+                    <dd><a href="http://www.douban.com/people/53436265/">黑客</a><br/><span class="pl">(长沙)</span></dd></dl><dl class="obu" ><dt><a href="http://www.douban.com/people/50292924/" class="nbg"><img src="http://img3.douban.com/icon/u50292924-2.jpg" class="m_sub_img" alt="happyalvin"/></a></dt>
+                    <dd><a href="http://www.douban.com/people/50292924/">happyalvin</a><br/><span class="pl">(北京)</span></dd></dl><dl class="obu" ><dt><a href="http://www.douban.com/people/27085331/" class="nbg"><img src="http://img3.douban.com/icon/u27085331-19.jpg" class="m_sub_img" alt="青山镇的小乌鸦"/></a></dt>
+                    <dd><a href="http://www.douban.com/people/27085331/">青山镇的小乌鸦</a><br/><span class="pl">(南京)</span></dd></dl><dl class="obu" ><dt><a href="http://www.douban.com/people/4819061/" class="nbg"><img src="http://img3.douban.com/icon/user_normal.jpg" class="m_sub_img" alt="牛逗"/></a></dt>
+                    <dd><a href="http://www.douban.com/people/4819061/">牛逗</a><br/><span class="pl">&nbsp;</span></dd></dl><dl class="obu" ><dt><a href="http://www.douban.com/people/tankdream/" class="nbg"><img src="http://img3.douban.com/icon/u4128805-14.jpg" class="m_sub_img" alt="tankdream~Luke"/></a></dt>
+                    <dd><a href="http://www.douban.com/people/tankdream/">tankdream~Luke</a><br/><span class="pl">(深圳)</span></dd></dl><dl class="obu" ><dt><a href="http://www.douban.com/people/2375792/" class="nbg"><img src="http://img3.douban.com/icon/u2375792-1.jpg" class="m_sub_img" alt="祥云莫测"/></a></dt>
+                    <dd><a href="http://www.douban.com/people/2375792/">祥云莫测</a><br/><span class="pl">(上海)</span></dd></dl><br clear="all"/>
+    <p class="pl2">&gt; <a href="http://www.douban.com/group/The-Event/members">浏览所有異星人 (177)</a></p>
+        <br/><div class="clear"></div><h2  >这个小组的異星人也喜欢去 &nbsp; &middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;
+        </h2><dl class="ob"><dt><a  href="http://www.douban.com/group/yahooks/"><img src="http://img3.douban.com/icon/g135594-3.jpg" class="m_sub_img" alt="13号仓库（Warehouse 13）"/></a></dt>
+        <dd><a  href="http://www.douban.com/group/yahooks/">13号仓库（Warehouse 13）</a> <span>(335)</span>
+        </dd></dl><dl class="ob"><dt><a  href="http://www.douban.com/group/jjabrams/"><img src="http://img3.douban.com/icon/g178345-1.jpg" class="m_sub_img" alt="J.J. Abrams"/></a></dt>
+        <dd><a  href="http://www.douban.com/group/jjabrams/">J.J. Abrams</a> <span>(110)</span>
+        </dd></dl><dl class="ob"><dt><a  href="http://www.douban.com/group/rubicon/"><img src="http://img3.douban.com/icon/g218710-3.jpg" class="m_sub_img" alt="散"/></a></dt>
+        <dd><a  href="http://www.douban.com/group/rubicon/">散</a> <span>(70)</span>
+        </dd></dl><dl class="ob"><dt><a  href="http://www.douban.com/group/outsourced/"><img src="http://img3.douban.com/icon/g295462-1.jpg" class="m_sub_img" alt="Outsourced 服务外包"/></a></dt>
+        <dd><a  href="http://www.douban.com/group/outsourced/">Outsourced 服务外包</a> <span>(226)</span>
+        </dd></dl><dl class="ob"><dt><a  href="http://www.douban.com/group/ITCrowd/"><img src="http://img3.douban.com/icon/g90376-1.jpg" class="m_sub_img" alt="IT狂人 没有第五季，来 看小组话题"/></a></dt>
+        <dd><a  href="http://www.douban.com/group/ITCrowd/">IT狂人 没有第五季，来 看...</a> <span>(5191)</span>
+        </dd></dl><dl class="ob"><dt><a  href="http://www.douban.com/group/bigbrother/"><img src="http://img3.douban.com/icon/g173139-2.jpg" class="m_sub_img" alt="老大哥 big brother"/></a></dt>
+        <dd><a  href="http://www.douban.com/group/bigbrother/">老大哥 big brother</a> <span>(131)</span>
+        </dd></dl><dl class="ob"><dt><a  href="http://www.douban.com/group/152266/"><img src="http://img3.douban.com/icon/g152266-5.jpg" class="m_sub_img" alt="Matthew James Thomas"/></a></dt>
+        <dd><a  href="http://www.douban.com/group/152266/">Matthew James Thomas</a> <span>(97)</span>
+        </dd></dl><dl class="ob"><dt><a  href="http://www.douban.com/group/192986/"><img src="http://img3.douban.com/icon/g192986-1.jpg" class="m_sub_img" alt="HBO新剧《Hung》"/></a></dt>
+        <dd><a  href="http://www.douban.com/group/192986/">HBO新剧《Hung》</a> <span>(91)</span>
+        </dd></dl><br/><div class="clear"></div><div id="google_ads_slot_group_home_middle_right"></div><br/><div class="clear"></div><div class="clear"></div><h2  >这个小组的異星人也关注的活动 &nbsp; &middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;
+        </h2><div class="evt_short"><ul><li class="actfromfri">
+        <div class="pl">
+        <a class="pl2" href="http://www.douban.com/event/14360958/">音乐制作公开课：报名专用活动</a><br/>
+        时间：8月4日 周四 20:00 － 07:00<br/>
+        1452人参加
+        &nbsp; 4028 人感兴趣</div><br class="clear" /></li><li class="actfromfri">
+        <div class="pl">
+        <a class="pl2" href="http://www.douban.com/event/14051154/">流行朋克天团SUM 41世界巡演中国上海站！！</a><br/>
+        时间：1月5日 周四 19:30 － 22:00<br/>
+        679人参加
+        &nbsp; 1563 人感兴趣</div><br class="clear" /></li><li class="actfromfri">
+        <div class="pl">
+        <a class="pl2" href="http://www.douban.com/event/14051073/">流行朋克天团SUM 41世界巡演中国北京站！！</a><br/>
+        时间：1月4日 周三 19:30 － 22:00<br/>
+        1036人参加
+        &nbsp; 2028 人感兴趣</div><br class="clear" /></li></ul></div><div class="clear"></div><br/><div class="clear"></div><p class="pl">本页永久链接: <a href="http://www.douban.com/group/The-Event/">http://www.douban.com/group/The-Event/</a></p>
+<p class="pl">订阅小组讨论: <br/><span class="feed">
+    <a href="http://www.douban.com/feed/group/The-Event/discussion"> feed: rss 2.0</a></span></p>
+<br/><div class="clear"></div>
+            </div>
+            <div class="extra">
+    
+            </div>
+        </div>
+    </div>
+    <!--- douban ad begin -->
+
+<script type="text/javascript"
+        src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+    GS_googleAddAdSenseService("ca-pub-6419643701131111");
+    GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+    GA_googleAddSlot("ca-pub-6419643701131111", "group_home_middle_right");
+</script>
+<script type="text/javascript">
+    GA_googleFetchAds();
+</script>
+
+
+
+
+
+
+        <div id="group_home_middle_right" style="display: none;">
+            <script type="text/javascript">
+                GA_googleFillSlot("group_home_middle_right");
+            </script>
+        </div>
+
+    <script type="text/javascript">
+        var get = function(id) {
+            return document.getElementById(id);
+        }
+
+        var move = function(slot) {
+            var adslot = get('google_ads_slot_' + slot), ifrm, ad_frame = get('google_ads_iframe_' + slot);
+            if (!adslot) {
+                return;
+            }
+            if (ad_frame) {
+                ifrm = document.createElement('iframe');
+                ifrm.setAttribute('id', 'google_ads_slot_iframe_' + slot);
+                ifrm.setAttribute('frameBorder', 0);
+                ifrm.setAttribute('scrolling', 'no');
+                ifrm.setAttribute('width', ad_frame.getAttribute('width'));
+                ifrm.setAttribute('height', ad_frame.getAttribute('height'));
+                adslot.appendChild(ifrm);
+                ifrm.contentWindow.document.open();
+                ifrm.contentWindow.document.write(ad_frame.contentWindow.document.documentElement.innerHTML);
+                ifrm.contentWindow.document.close();
+                if (slot !== "group_topic_new_top_right"){
+                    $('#google_ads_slot_iframe_' + slot).addClass('mb20');
+                }
+            } else {
+                var ad_div = get('google_ads_div_' + slot) || get('google_ads_div_' + slot + '_ad_container');
+                if (ad_div) {
+                    adslot.appendChild(ad_div);
+                    if (slot !== "group_topic_new_top_right"){
+                        ad_div.className += ' mb20';
+                    }
+                }
+            }
+        }
+        $(document).ready(function() {
+            setTimeout("move('group_home_middle_right')", 0);
+        });
+    </script>
+    
+<!--- douban ad end -->
+        <div id="footer">
+            <span id="icp" class="fleft gray-link">&copy; 2005－2011 douban.com, all rights reserved
+        
+            </span>
+            <span class="fright">
+                <a href="http://www.douban.com/about">关于豆瓣</a>
+                · <a href="http://www.douban.com/about?topic=teamup">在豆瓣工作</a>
+                · <a href="http://www.douban.com/about?topic=contactus">联系我们</a>
+                · <a href="http://www.douban.com/about?policy=disclaimer">免责声明</a>
+                · <a href="http://www.douban.com/help/">帮助中心</a>
+        
+                    · <a href="http://www.douban.com/service/">API</a>
+                    · <a href="http://www.douban.com/mobile/">手机豆瓣</a>
+                    · <a href="http://www.douban.com/partner/">品牌俱乐部</a>
+                </span>
+            </div>
+            </div>
+        <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-7019765-1']);
+        _gaq.push(['_addOrganic', 'baidu', 'word']);
+        _gaq.push(['_addOrganic', 'soso', 'w']);
+        _gaq.push(['_addOrganic', '3721', 'name']);
+        _gaq.push(['_addOrganic', 'yodao', 'q']);
+        _gaq.push(['_addOrganic', 'vnet', 'kw']);
+        _gaq.push(['_addOrganic', 'sogou', 'query']);
+        _gaq.push(['_addIgnoredOrganic', '豆瓣']);
+        _gaq.push(['_addIgnoredOrganic', 'douban']);
+        _gaq.push(['_addIgnoredOrganic', '豆瓣网']);
+        _gaq.push(['_addIgnoredOrganic', 'www.douban.com']);
+        _gaq.push(['_setDomainName', '.douban.com']);
+        _gaq.push(['_trackPageview', '']);
+        _gaq.push(['_trackPageLoadTime']);
+        
+        if (typeof(_letv) == "string") {
+            _gaq.push(['_trackEvent', 'LetvUrl', 'view', _letv, 1]);
+        }
+        if (typeof(_qiyi) == "string") {
+            _gaq.push(['_trackEvent', 'QiyiUrl', 'view', _qiyi, 1]);
+        }
+        if (typeof(_sohuhd) == "string") {
+            _gaq.push(['_trackEvent', 'SohuHdUrl', 'view', _sohuhd, 1]);
+        }
+        if (typeof(_youku) == "string") {
+            _gaq.push(['_trackEvent', 'YoukuUrl', 'view', _youku, 1]);
+        }
+        
+        (function() {
+            var ga = document.createElement('script');
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            ga.setAttribute('async', 'true');
+            document.documentElement.firstChild.appendChild(ga);
+        })();
+        </script>
+        
+            <script src="http://img3.douban.com/js/boomerang09.js" type="text/javascript"></script>
+            <script type="text/javascript">
+            BOOMR.init({
+                user_ip: "${request.ip}",
+                beacon_url: "/beacon.gif",
+                site_domain: ".douban.com",
+                BW: {
+                    enabled: false
+                }
+            });
+            BOOMR.subscribe('before_beacon', function(o) {
+                if(o.t_done && o.t_done > 0 && o.t_done < 30) {
+                    _gaq.push(['t1._trackEvent', 'Performance', 'done', '/group/-/', o.t_done]);
+                }
+            });
+            var _now = new Date();
+            if (typeof(_head_start)==typeof(_now)) {
+                var t_head = _now-_head_start;
+                var t_body = _now-_body_start;
+                if (t_head < 60*1000 && t_head > 0) {
+                  var _slow = t_head > 10*1000 ? 'slow ' : '';
+                  _gaq.push(['t1._trackEvent', 'Performance', _slow + 'head', '/group/-/', _now-_head_start]);
+                  _gaq.push(['t1._trackEvent', 'Performance', _slow + 'body', '/group/-/', _now-_body_start]);
+                }
+            }
+            </script>
+            <!-- gardner6 --><script>var _check_hijack = function () {
+            var _sig = "XNF+CSdO", _login = false, bid = get_cookie('bid');
+            if (location.protocol != "file:" && (typeof(bid) != "string" && _login || typeof(bid) == "string" && bid.substring(0,8) != _sig)) {
+                location.href+=(/\?/.test(location.href)?"&":"?") + "_r=" + Math.random().toString(16).substring(2);
+            }};
+            if (typeof(Do) != 'undefined') Do(_check_hijack);
+            else if (typeof(get_cookie) != 'undefined') _check_hijack();
+            </script></body></html>

@@ -278,3 +278,9 @@
 [LOG]	Tue Nov  1 09:47:02 2011:	 No User In Queue Now:(
 [LOG]	Tue Nov  1 09:47:32 2011:	 No User In Queue Now:(
 [LOG]	Tue Nov  1 09:48:02 2011:	 No User In Queue Now:(
+[LOG]	Tue Nov  1 16:14:20 2011:	 run cmd:python3.1 /home/sunus/apache/cgi-bin/do_2people with args:
+[LOG]	Tue Nov  1 16:14:20 2011:	 run cmd:python2.6 /home/sunus/apache/cgi-bin/sendstatus.py mst fa17cb87a477b174ee476296ed67145c sunus http://goo.gl/4glmT http://10.10.149.18/history/2p_sunus_3215295_1320135249.html
+[LOG]	Tue Nov  1 17:38:19 2011:	 run cmd:python3.1 /home/sunus/apache/cgi-bin/do_2people with args:
+[LOG]	Tue Nov  1 17:38:25 2011:	 run cmd:python2.6 /home/sunus/apache/cgi-bin/sendstatus.py mst f20c70e7ffe784b6d62552b7ffb68e22 kingsamchen http://goo.gl/ZB8vf http://10.10.149.18/history/2p_kingsamchen_sunus_1320140272.html
+[LOG]	Tue Nov  1 17:53:57 2011:	 run cmd:python3.1 /home/sunus/apache/cgi-bin/do_ci with args:
+[LOG]	Tue Nov  1 17:54:24 2011:	 run cmd:python2.6 /home/sunus/apache/cgi-bin/sendstatus.py msg 0ecf81273560c2772c6e8375a0224765 sunus http://goo.gl/s94ln http://10.10.149.18/history/group_sunus_python_1320141211.html

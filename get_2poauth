@@ -15,7 +15,7 @@ import time
 import argchk
 #import url3
 #       Be careful to import url3 instead of url2
-IS_LOCAL = False
+IS_LOCAL = True
 ROOTDIR = "/home/sunus/apache/" if IS_LOCAL == True else "/usr/local/apache2/"
 HOSTNAME = "http://10.10.149.18/"  if IS_LOCAL == True else "http://184.164.137.154/"
 
@@ -33,9 +33,9 @@ def main():
         print "</head>\n"
         print "<body>\n"
         form = cgi.FieldStorage()
-        user1 = form.getvalue("user1", None)
-        user2 = form.getvalue("user2", None)
-        exp_code = form.getvalue("exp_code", None)
+        user1 = form.getvalue("user1", 'sunus')
+        user2 = form.getvalue("user2", 'hongqn')
+        exp_code = form.getvalue("exp_code", 'c3V')
         anonymous = 0
         if argchk.arg_chk_repeat(user1) == True:
                 print "</body>"
@@ -60,6 +60,7 @@ def main():
         # usr suffix as a oauth login verifier,too
         #entry = you + '\t' + nickname + '\t' + group_url + '\t' + group_name + '\t' + location + '\t' + cat + '\t' + '0' + 
         #user_queue.add_user(entry)
+        sys.stdout.flush()
         clientp = service.DoubanService(api_key=API_KEY, secret = SECRET)
         clientp.client.login(Parent = clientp,entry=entry)
         print("</body>\n")
