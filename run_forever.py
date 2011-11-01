@@ -49,7 +49,6 @@ def main():
                         user_queue.remove_first_user()
                 else:
                         print('No User In Queue Now:(')
-                        flog.write('[LOG]\t{0}:\t No User In Queue Now:(\n'.format(time.ctime()))
                         flog.flush()
                         time.sleep(30)
 
