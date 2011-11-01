@@ -1,7 +1,7 @@
 #!/usr/bin/env python2.6
 # -*- coding: UTF-8 -*-
 
-def html_parse(file_path):
+def html_parse_g(file_path):
         f = open(file_path)
         rank = []
         for line in f.readlines():
@@ -15,6 +15,14 @@ def html_parse(file_path):
                                 rank.append((line_split[2], line_split[3]))
         f.close()
         return ((group_name, location, cat), rank)
+
+def html_parse_t(file_path):
+        f = open(file_path)
+        for line in f.readlines():
+                if '<!-- saying:nn' in line:
+                        line_split = line.split('\t')
+                        f.close()
+                        return line_split[1:6]
 
 def test():
         res = html_parse('./test_page.html')

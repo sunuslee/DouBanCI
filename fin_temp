@@ -28,12 +28,12 @@ def main():
                                 flog.flush()
                                 os.system(cmd)
                                 longurl = HOSTNAME + 'history/' + args[-3].split('/')[-1]
-                                cmd = ' '.join(('python2.6' , SEND_STATUS_PATH, 'm', args[-2], args[0], args[7], longurl))
+                                cmd = ' '.join(('python2.6' , SEND_STATUS_PATH, 'msg', args[-2], args[0], args[7], longurl))
                                                                         #opt, sid, send_to, content_url_short, content_url_long
                                 print('run',cmd, time.ctime())
                                 flog.write('[LOG]\t{0}:\t run cmd:{1}\n'.format(time.ctime(), cmd))
                                 flog.flush()
-                                #os.system(cmd)
+                                os.system(cmd)
                         else:
                                 cmd = ' '.join(('python3.1', DO_2P_PATH))
                                 print('run',cmd, time.ctime())
@@ -41,11 +41,11 @@ def main():
                                 flog.flush()
                                 os.system(cmd)
                                 longurl = HOSTNAME + 'history/' + args[-3].split('/')[-1]
-                                cmd = ' '.join(('python2.6' , SEND_STATUS_PATH, 'm', args[-2], args[0], args[5], longurl))
+                                cmd = ' '.join(('python2.6' , SEND_STATUS_PATH, 'mst', args[-2], args[0], args[5], longurl))
                                 print('run',cmd, time.ctime())
                                 flog.write('[LOG]\t{0}:\t run cmd:{1}\n'.format(time.ctime(), cmd))
                                 flog.flush()
-                                #os.system(cmd)
+                                os.system(cmd)
                         user_queue.remove_first_user()
                 else:
                         print('No User In Queue Now:(')

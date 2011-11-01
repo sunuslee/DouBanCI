@@ -192,7 +192,8 @@ def main():
                 rate.append(get_match_rate(0, 1, cat))
 
         fh_write_html.write('<h4>你和<a href="{0}">{1}</a>都喜欢:</h4>'.format('http://www.douban.com/people/' + user2, nickname2))
-        fh_write_html.write('<h4>{0} {1}，{2} {3}，{4} {5}。'.format(rate[0], '部电影', rate[1], "张音乐", rate[2], "本书籍"))
+        fh_write_html.write('<h4>{0} {1}，{2} {3}，{4} {5}。\n'.format(rate[0], '部电影', rate[1], "张音乐", rate[2], "本书籍"))
+        fh_write_html.write('<!-- saying:nn\t{0}\t{1}\t{2}\t{3}\t{4}\t -->\n'.format(user2, nickname2, *rate))
         fh_write_html.write('<h4>转发本页地址:{0}</h4>\n'.format(short_url))
         fh_write_html.write('</body>\n')
         fh_write_html.write('</html>\n')

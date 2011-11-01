@@ -8,7 +8,7 @@ import sys
 import pickle
 
 IS_LOCAL = False
-auth_callback_url = 'http://10.10.149.18/cgi-bin/show_queue.py' if IS_LOCAL == True else 'http://184.164.137.154/cgi-bin/show_queue.py'
+auth_callback_url = 'http://10.10.149.18/cgi-bin/show_queue' if IS_LOCAL == True else 'http://184.164.137.154/cgi-bin/show_queue'
 signature_method = oauth.OAuthSignatureMethod_HMAC_SHA1()
 
 API_HOST = 'http://api.douban.com'

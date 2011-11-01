@@ -1,5 +1,8 @@
 *** every vaildate lines should like this
+*** Do_ci format:
 *** username   user_nickname   group_address   group_name   location   category  anonymous_flag   short_url   html_path_path    sid(oauth)   wait_number
+*** DO_2people format:
+*** user1   user1_nickname   user2   user2_nickname     anonymous_flag   short_url   html_path_path    sid(oauth)   wait_number
 *** values are separated by a TAB('\t'), No TAB in the end of line, anonymous_flag only takes True(1),False(0) as vaildate value
 *** wait_number is a '7 chars width' int number
 *** wait_queue is in UTF-8 format
