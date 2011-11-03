@@ -284,3 +284,5 @@
 [LOG]	Tue Nov  1 17:38:25 2011:	 run cmd:python2.6 /home/sunus/apache/cgi-bin/sendstatus.py mst f20c70e7ffe784b6d62552b7ffb68e22 kingsamchen http://goo.gl/ZB8vf http://10.10.149.18/history/2p_kingsamchen_sunus_1320140272.html
 [LOG]	Tue Nov  1 17:53:57 2011:	 run cmd:python3.1 /home/sunus/apache/cgi-bin/do_ci with args:
 [LOG]	Tue Nov  1 17:54:24 2011:	 run cmd:python2.6 /home/sunus/apache/cgi-bin/sendstatus.py msg 0ecf81273560c2772c6e8375a0224765 sunus http://goo.gl/s94ln http://10.10.149.18/history/group_sunus_python_1320141211.html
+[LOG]	Thu Nov  3 11:10:04 2011:	 run cmd:python3.1 /home/sunus/apache/cgi-bin/do_ci with args:
+[LOG]	Thu Nov  3 11:10:10 2011:	 run cmd:python2.6 /home/sunus/apache/cgi-bin/sendstatus.py msg 2ba0baccfaba632682e23066f02f2972 sunus http://goo.gl/hWNr2 http://10.10.149.18/history/group_sunus_python_1320289788.html

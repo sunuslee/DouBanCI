@@ -8,7 +8,7 @@ import gdata
 import html_parse
 API_KEY = '053caab0d0224c680fb600127066e538'
 SECRET = 'f2bebed97e85be8a'
-IS_LOCAL = True
+IS_LOCAL = False
 PAGEDIR = "/home/sunus/apache/htdocs/history/" if IS_LOCAL == True else "/usr/local/apache2/htdocs/history/"
 
 def sendmail(client, send_to, subject, content):
@@ -91,7 +91,7 @@ def main():
                         content = '我和@{0}都有{1}部喜欢的电影，有{2}张喜欢的音乐，有{3}本喜欢的书'.format(uid, rate_mv, rate_mu, rate_bk)
                         content += '查看我们都喜欢什么请点击{0}'.format(content_url_short)
 
-                content += '豆瓣喜爱，你也来试试吧!\n'
+                content += '#豆瓣喜爱#，你也来试试吧!\n'
                 entry = '''<?xml version='1.0' encoding='UTF-8'?>
                 <entry xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:db="http://www.douban.com/xmlns/">
                 <content>{0}</content>

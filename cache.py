@@ -6,7 +6,7 @@ status_chs = {"wishmovie":"想看",       "watchingmovie":"在看",         "wat
               "wishmusic":"想听",       "listeningmusic":"在听",        "listenedmusic":"听过",
               "wishbook":"想读",        "readingbook":"在读",           "readbook":"读过"}
 
-IS_LOCAL = True
+IS_LOCAL = False
 ROOTDIR = "/home/sunus/apache/" if IS_LOCAL == True else "/usr/local/apache2/"
 def write_entry(fh, entry_type, entry):
         fh.write('\t<{0}>{1}</{0}>\n'.format(entry_type, entry))

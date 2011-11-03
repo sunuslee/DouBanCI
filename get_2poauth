@@ -15,7 +15,7 @@ import time
 import argchk
 #import url3
 #       Be careful to import url3 instead of url2
-IS_LOCAL = True
+IS_LOCAL = False
 ROOTDIR = "/home/sunus/apache/" if IS_LOCAL == True else "/usr/local/apache2/"
 HOSTNAME = "http://10.10.149.18/"  if IS_LOCAL == True else "http://184.164.137.154/"
 
@@ -33,19 +33,22 @@ def main():
         print "</head>\n"
         print "<body>\n"
         form = cgi.FieldStorage()
-        user1 = form.getvalue("user1", 'sunus')
-        user2 = form.getvalue("user2", 'hongqn')
-        exp_code = form.getvalue("exp_code", 'c3V')
+        user1 = form.getvalue("user1", None)
+        user2 = form.getvalue("user2", None)
+        exp_code = form.getvalue("exp_code", None)
         anonymous = 0
         if argchk.arg_chk_repeat(user1) == True:
+                print "<h2>请检查提交参数：）</h2>"
                 print "</body>"
                 print "</html>"
                 return
         if argchk.exp_check(user1, exp_code) == False:
+                print "<h2>请检查提交参数：）</h2>"
                 print "</body>"
                 print "</html>"
                 return
         if argchk.arg_chk2p(user1, user2) == False:
+                print "<h2>请检查提交参数：）</h2>"
                 print "</body>"
                 print "</html>"
                 return
