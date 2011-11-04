@@ -16,7 +16,7 @@ def exp_check(you, exp_code):
         else:
                 print "<h2>Sorry:(</h2>"
                 print "<h2>This page is now only for testing users only</h2>"
-                print "<h2>you:{0}<br>code:{1}".format(you, exp_code)
+                print "<h2>you:{0}<br>code:{1}".format(you[::-1], exp_code)
                 return False
 def arg_chk_repeat(uid):
         fq = open('wait_queue')

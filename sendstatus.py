@@ -59,7 +59,7 @@ def main():
                 rate_mu = parse_result[3]
                 rate_bk = parse_result[4]
         if 'm' in opt:
-                subject = '来自DBCI的结果!'
+                subject = '来自DBCI的结果!(豆瓣喜爱)'
                 if 'g' in opt:
                         content = '''您好，访问以下地址获取您在DBCI提交的豆友共同喜好的搜索结果:)
                         {0}
@@ -79,8 +79,8 @@ def main():
                         group_name = parse_result[0][0]
                         location   = parse_result[0][1]
                         cat        = parse_result[0][2]
-                        content = '缘分啊！我在 {0} 找到了在 {1} 喜欢 {2}的豆友，并且我们都有喜欢的{2}耶:'.format(group_name, location, cat)
-                        top_user_nr = 3 if len(parse_result[1]) >= 3 else len(parse_result[1])
+                        content = '我在{0}找到了在{1}喜欢{2}的豆友，并且我们都有喜欢的{2}耶:'.format(group_name, location, cat)
+                        top_user_nr = 2 if len(parse_result[1]) >= 2 else len(parse_result[1])
                         i = 0
                         while i < top_user_nr:
                                 if parse_result[1][i][1] != 0:
@@ -91,7 +91,7 @@ def main():
                         content = '我和@{0}都有{1}部喜欢的电影，有{2}张喜欢的音乐，有{3}本喜欢的书'.format(uid, rate_mv, rate_mu, rate_bk)
                         content += '查看我们都喜欢什么请点击{0}'.format(content_url_short)
 
-                content += '#豆瓣喜爱#，你也来试试吧!\n'
+                content += ' ， #豆瓣喜爱#，你也来试试吧!\n'
                 entry = '''<?xml version='1.0' encoding='UTF-8'?>
                 <entry xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:db="http://www.douban.com/xmlns/">
                 <content>{0}</content>

@@ -7,6 +7,8 @@ import urllib.request
 import urllib.error
 import queue
 import os
+import gzip
+import io
 LOCK_EX = fcntl.LOCK_EX
 LOCK_UN = fcntl.LOCK_UN
 LOCK_NB = fcntl.LOCK_NB
@@ -30,14 +32,21 @@ def download_t(uid, cat, start, queue, t_name):
                 os.lseek(fh.fileno(), -20, os.SEEK_END)
                 line = fh.read(19)
                 seconds = float(line.split()[1])
-        while float(time.time()) - seconds <= 3.0:
+        # just be careful! 
+        while float(time.time()) - seconds <= 1.8:
                 pass
         fh.write("[LOG] {0:<24} {1} {2}\n".format(time.ctime(), url[:-40], time.time().__repr__()[0:-4]))
         fcntl.flock(fh, LOCK_UN)
         fh.close()
         #print('start dl:{0} {1}'.format(t_name, time.ctime()))
         try:
-                data = urllib.request.urlopen(url).read().decode('utf8')
+                req = urllib.request.Request(url, headers= {'Accept-encoding':'gzip'})
+                rec = urllib.request.urlopen(req)
+                compressed_data = rec.read()
+                compressed_fh = io.BytesIO(compressed_data)
+                gzipper = gzip.GzipFile(fileobj = compressed_fh);
+                data = gzipper.read().decode('utf8')
+                #data = urllib.request.urlopen(url).read().decode('utf8')
         except (urllib.error.URLError, ValueError) as e:
                 if hasattr(e, 'reason'):
                         print("<h4>Cannot connected to the server</h4>")
