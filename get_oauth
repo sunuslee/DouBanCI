@@ -34,7 +34,7 @@ def main():
         print "<body>\n"
         form = cgi.FieldStorage()
         you = form.getvalue("you", None)
-        exp_code = form.getvalue("exp_code", None)
+        #exp_code = form.getvalue("exp_code", None)
         group_url = form.getvalue("group_url", None)
         location = form.getvalue("location", None)
         cat = form.getvalue("cat", None)
@@ -43,10 +43,10 @@ def main():
                 print "</body>"
                 print "</html>"
                 return
-        if argchk.exp_check(you, exp_code) == False:
-                print "</body>"
-                print "</html>"
-                return
+        #if argchk.exp_check(you, exp_code) == False:
+        #        print "</body>"
+        #        print "</html>"
+        #        return
         if argchk.arg_chk(you, group_url, location) == False:
                 print "</body>"
                 print "</html>"

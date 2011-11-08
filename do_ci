@@ -17,6 +17,8 @@ import os
 import cache
 import dl
 import pickle
+import gzip
+import io
 CSS = True
 IS_LOCAL = False
 ROOTDIR = "/home/sunus/apache/" if IS_LOCAL == True else "/usr/local/apache2/"
@@ -55,16 +57,25 @@ def get_user(group_uri, where, you):
         global people_nr
         start = 13577293
         uri = "{0}/member_search?search_text={1}&start={2}".format(group_uri, where, start)
-        fh = urllib.request.urlopen(uri)
-        data = fh.read().decode('utf8')
+        req = urllib.request.Request(uri, headers= {'Accept-encoding':'gzip'})
+        rec = urllib.request.urlopen(req)
+        compressed_data = rec.read()
+        compressed_fh = io.BytesIO(compressed_data)
+        gzipper = gzip.GzipFile(fileobj = compressed_fh);
+        data = gzipper.read().decode('utf8')
         max = 0
         for line in data.splitlines():
                 if str(13577294) in line:       # this num will SOMEHOW INCREASE 1
                         max = int(line.split('-')[1].split()[0])
         start = 0 if max == 0 else random.randint(0, int(max) - people_nr)
+        #start = 307
         uri = "{0}/member_search?search_text={1}&start={2}".format(group_uri, where, start)
-        fh = urllib.request.urlopen(uri)
-        contents = fh.read().decode("utf8")
+        req = urllib.request.Request(uri, headers= {'Accept-encoding':'gzip'})
+        rec = urllib.request.urlopen(req)
+        compressed_data = rec.read()
+        compressed_fh = io.BytesIO(compressed_data)
+        gzipper = gzip.GzipFile(fileobj = compressed_fh);
+        contents = gzipper.read().decode('utf8')
 #       line is like this pattern:
 #        <dd><a href="http://www.douban.com/people/__UID__/">__NICKNAME__</a><br/><span class="pl">(local)</span></dd></dl><dl class="obu" ><dt><a href="http://www.douban.com/people/__UID__/" class="nbg"><img src="http://img3.douban.com/icon/sdfs.jpg" class="m_sub_img" alt="__NIKENAME__"/></a></dt>
         for line in contents.splitlines():
@@ -77,6 +88,7 @@ def get_user(group_uri, where, you):
                 if '<dd><a href="http://www.douban.com/people/' in line:
                         if(len(people_list) == people_nr + 1 and max != 0):
                                 break
+                        next_user_icon = None
                         for l in line.split('"'):
                                 if l.endswith('.jpg'):
                                         next_user_icon = l
@@ -84,7 +96,8 @@ def get_user(group_uri, where, you):
                         a = line.strip()[0:idx].rpartition(r'">')
                         if a[0][13:-1].split('/')[-1] != you:
                                 people_list.append([a[0][13:-1].split('/')[-1], a[2], cur_user_icon])
-                                cur_user_icon = next_user_icon
+                                if next_user_icon != None:
+                                        cur_user_icon = next_user_icon
 #       people_list[0] is YOU!, if max == 0, that means all the users are in the first page, which can't show the number of max, so max == 0,got it from previous
 #       lines, so, we need to get all the users in the first pages,which the number could be (0~35).Insteading of just get the number of people_nr
         if max == 0:
@@ -105,11 +118,14 @@ def print_stars(n, maxstar, summary='', item_url=''):
                 summary = ''
         n_st = n;
         n_nst = maxstar - n
-        s1 = '<a href="{0}" title="{1}"><img src="{2}sg.png" /></a>'.format(item_url, summary, IMG_PATH)
-        s2 = '<a href="{0}" title="{1}"><img src="{2}sw.png" /></a>'.format(item_url, summary, IMG_PATH)
-        html_code = s1 * n + s2 * n_nst + '&nbsp'
+        left = '<a href="{0}" title="{1}">'.format(item_url, summary)
+        s1 = '<img src="{0}sg.png" />'.format(IMG_PATH)
+        s2 = '<img src="{0}sw.png" />'.format(IMG_PATH)
+        html_code = left + s1 * n + s2 * n_nst
         if summary != '':
-                html_code += '<a href="{0}" title="{1}"><img src="{2}info.png" /></a>'.format(item_url, summary, IMG_PATH)
+                html_code += '<img src="{0}info.png" /></a>'.format(IMG_PATH)
+        else:
+                html_code += '<img src="{0}info1.png" /></a>'.format(IMG_PATH)
         return html_code
 
 # This function returns the uid1-uid2's match rate
@@ -268,7 +284,7 @@ def main():
         fh_write_html.write("</body>\n")
         fh_write_html.write("</html>\n")
         fh_write_html.close()
-        print('New page:', short_url)
-        return 
+        print('Result: {0}\t{1}\t{2}\t{3}\t{4}'.format(cat_chs[cat], your_nickname, group_name, short_url, location))
+        return
 
 main()

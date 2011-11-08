@@ -81,12 +81,16 @@ def print_stars(n, maxstar, summary='', item_url=''):
                 summary = ''
         n_st = n;
         n_nst = maxstar - n
-        s1 = '<a href="{0}" title="{1}"><img src="{2}sg.png" /></a>'.format(item_url, summary, IMG_PATH)
-        s2 = '<a href="{0}" title="{1}"><img src="{2}sw.png" /></a>'.format(item_url, summary, IMG_PATH)
-        html_code = s1 * n + s2 * n_nst + '&nbsp'
+        left = '<a href="{0}" title="{1}">'.format(item_url, summary)
+        s1 = '<img src="{0}sg.png" />'.format(IMG_PATH)
+        s2 = '<img src="{0}sw.png" />'.format(IMG_PATH)
+        html_code = left + s1 * n + s2 * n_nst
         if summary != '':
-                html_code += '<a href="{0}" title="{1}"><img src="{2}info.png" /></a>'.format(item_url, summary, IMG_PATH)
+                html_code += '<img src="{0}info.png" /></a>'.format(IMG_PATH)
+        else:
+                html_code += '<img src="{0}info1.png" /></a>'.format(IMG_PATH)
         return html_code
+
 
 # This function returns the uid1-uid2's match rate
 # uid1 and uid2 has it's own index in table.

@@ -31,7 +31,7 @@ def cache_save(filename_path):
                         fr = open(filename_path, 'r', encoding = 'utf8')
                         content = fr.read()
                 except IOError as e:
-                        print('user:', user, cat, 'finish', 'total:', file_idx, time.ctime())
+                        print('user:{0:20} {1:8} finished total:{2:4} \t{3}'.format(user, cat, file_idx, time.ctime()))
                         break
                 in_entry = False
                 for line in content.splitlines():
