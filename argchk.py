@@ -3,7 +3,7 @@
 
 import base64
 import urllib2
-IS_LOCAL = False
+IS_LOCAL = True
 HOSTNAME = "http://10.10.149.18/"  if IS_LOCAL == True else "http://184.164.137.154/"
 def exp_check(you, exp_code):
         if you == None or exp_code == None:

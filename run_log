@@ -410,3 +410,7 @@
 [LOG]	Tue Nov  8 11:28:06 2011:	 run cmd:python3.1 /home/sunus/apache/cgi-bin/do_ci with args:
 [LOG]	Thu Nov 10 10:01:55 2011:	 run cmd:python3.1 /home/sunus/apache/cgi-bin/do_ci with args:
 [LOG]	Thu Nov 10 10:02:06 2011:	 run cmd:python2.6 /home/sunus/apache/cgi-bin/sendstatus.py msg 027e95ba86cb3fa7077bc12f9461bef5 sunus http://goo.gl/BkzPZ http://10.10.149.18/history/group_sunus_ilovesoftware_1320890510.html
+[LOG]	Tue Nov 15 16:58:17 2011:	 run cmd:python3.1 /home/sunus/apache/cgi-bin/do_ci with args:
+[LOG]	Tue Nov 15 16:58:35 2011:	 run cmd:python2.6 /home/sunus/apache/cgi-bin/sendstatus.py msg 187be4b0a3cace934973ae11eb606bb9 sunus http://goo.gl/twjh6 http://10.10.149.18/history/group_sunus_python_1321347470.html
+[LOG]	Tue Nov 15 17:02:46 2011:	 run cmd:python3.1 /home/sunus/apache/cgi-bin/do_ci with args:
+[LOG]	Tue Nov 15 17:03:06 2011:	 run cmd:python2.6 /home/sunus/apache/cgi-bin/sendstatus.py msg 77fc6da3d7b08cc267f548eb8711a646 sunus http://goo.gl/VeNV3 http://10.10.149.18/history/group_sunus_python_1321347726.html

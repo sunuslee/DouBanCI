@@ -20,7 +20,7 @@ import pickle
 import gzip
 import io
 CSS = True
-IS_LOCAL = False
+IS_LOCAL = True
 ROOTDIR = "/home/sunus/apache/" if IS_LOCAL == True else "/usr/local/apache2/"
 LINK_DB_PEOPLE = "http://www.douban.com/people/"
 people_nr = 5
@@ -96,14 +96,14 @@ def get_user(group_uri, where, you):
                         a = line.strip()[0:idx].rpartition(r'">')
                         if a[0][13:-1].split('/')[-1] != you:
                                 people_list.append([a[0][13:-1].split('/')[-1], a[2], cur_user_icon])
-                                if next_user_icon != None:
-                                        cur_user_icon = next_user_icon
+                        if next_user_icon != None:
+                                cur_user_icon = next_user_icon
 #       people_list[0] is YOU!, if max == 0, that means all the users are in the first page, which can't show the number of max, so max == 0,got it from previous
 #       lines, so, we need to get all the users in the first pages,which the number could be (0~35).Insteading of just get the number of people_nr
         if max == 0:
                 if len(people_list) - people_nr > 0:
                         start = random.randint(0, len(people_list) - people_nr)
-                        people_list = people_list[0:1] + people_list[start : start + people_nr]
+                        people_list = people_list[0:1] + people_list[start + 1 : start + 1 + people_nr]
 #       here, continue with the max == 0 case, get the random 'start' right,then cut the size of people_list to 1 + people_list
         fh_write_html.write("<h4>你的幸运数字是 *{0}*</h4>\n".format(start))
 

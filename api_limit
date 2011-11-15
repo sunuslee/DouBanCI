@@ -5760,3 +5760,10 @@
 [LOG] Tue Nov  8 11:29:07 2011 http://api.douban.com/people/1529353/collection?cat=movie&tag=&status=&start-index=101&max-results=50&alt=atom 1320722947.47
 [LOG] Tue Nov  8 11:29:09 2011 http://api.douban.com/people/1529353/collection?cat=movie&tag=&status=&start-index=151&max-results=50&alt=atom 1320722949.27
 [LOG] Tue Nov  8 11:29:11 2011 http://api.douban.com/people/1529353/collection?cat=movie&tag=&status=&start-index=201&max-results=50&alt=atom 1320722951.07
+[LOG] Tue Nov 15 16:58:18 2011 http://api.douban.com/people/junstrix/collection?cat=movie&tag=&status=&start-index=1&max-results=50&alt=atom 1321347498.31
+[LOG] Tue Nov 15 16:58:20 2011 http://api.douban.com/people/47983715/collection?cat=movie&tag=&status=&start-index=1&max-results=50&alt=atom 1321347500.11
+[LOG] Tue Nov 15 16:58:25 2011 http://api.douban.com/people/ldhandzn/collection?cat=movie&tag=&status=&start-index=1&max-results=50&alt=atom 1321347505.17
+[LOG] Tue Nov 15 16:58:26 2011 http://api.douban.com/people/sev7/collection?cat=movie&tag=&status=&start-index=1&max-results=50&alt=atom 1321347506.97
+[LOG] Tue Nov 15 16:58:28 2011 http://api.douban.com/people/sev7/collection?cat=movie&tag=&status=&start-index=51&max-results=50&alt=atom 1321347508.77
+[LOG] Tue Nov 15 16:58:30 2011 http://api.douban.com/people/sev7/collection?cat=movie&tag=&status=&start-index=101&max-results=50&alt=atom 1321347510.57
+[LOG] Tue Nov 15 17:21:59 2011 http://api.douban.com/people/s/collection?cat=movie&tag=&status=&start-index=1&max-results=50&alt=atom 1321348919.50
