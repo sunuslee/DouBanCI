@@ -179,6 +179,10 @@ def main():
         fh_write_html.write("<title>Result</title>\n")
         if CSS == True:
                 fh_write_html.write('<link href="styles.css" rel="stylesheet" type="text/css" />\n')
+        fh_write_html.write('<!--[if gte IE 6.]>\n')
+        fh_write_html.write('<script defer type="text/javascript" src="pngfix.js"></script>\n')
+        fh_write_html.write('<![endif]-->\n')
+
         fh_write_html.write("</head>\n")
         fh_write_html.write("<body>\n")
         

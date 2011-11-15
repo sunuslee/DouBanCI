@@ -47,6 +47,7 @@ def main():
                                 flog.flush()
                                 os.system(cmd)
                         user_queue.remove_first_user()
+                        time.sleep(10)
                 else:
                         print('No User In Queue Now:(')
                         flog.flush()

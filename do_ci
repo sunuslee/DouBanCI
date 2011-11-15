@@ -10,7 +10,7 @@ import threading
 import queue
 import sys
 import urllib.parse
-import httplib2
+#import httplib2
 import time
 import random
 import os
@@ -217,6 +217,9 @@ def main():
         fh_write_html.write("<title>Result</title>\n")
         if CSS == True:
                 fh_write_html.write('<link href="styles.css" rel="stylesheet" type="text/css" />\n')
+        fh_write_html.write('<!--[if gte IE 6.]>\n')
+        fh_write_html.write('<script defer type="text/javascript" src="pngfix.js"></script>\n')
+        fh_write_html.write('<![endif]-->\n')
         fh_write_html.write("</head>\n")
         fh_write_html.write("<body>\n")
         you_icon = get_user_icon(you)
@@ -284,7 +287,7 @@ def main():
         fh_write_html.write("</body>\n")
         fh_write_html.write("</html>\n")
         fh_write_html.close()
-        print('Result: {0}\t{1}\t{2}\t{3}\t{4}'.format(cat_chs[cat], your_nickname, group_name, short_url, location))
+        print('Result: {0}\t{1}\t{2}\t{3}'.format(cat, you, group_url, short_url))
         return
 
 main()
